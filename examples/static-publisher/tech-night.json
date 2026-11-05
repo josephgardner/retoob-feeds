@@ -2,11 +2,29 @@
   "baseUrl": "https://algoplay.com/retoob-feeds",
   "listId": "tech-night",
   "publicationEpoch": "tech-night-20261104",
-  "title": "Tech Night — independent feed demo",
+  "title": "Tech Night \u2014 independent feed demo",
   "description": "A small hand-curated YouTube collection, generated offline by an independent Python connector. Labels and notes describe this interoperability demonstration; no provider metadata is fetched.",
   "entries": [
-    {"id": "save-web", "videoId": "jNQXAC9IVRw", "title": "YouTube's first upload", "savedAt": "2026-11-04T12:00:00Z", "note": "A short video for testing the external YouTube handoff."},
-    {"id": "save-web-offset", "videoId": "jNQXAC9IVRw", "title": "YouTube's first upload", "savedAt": "2026-11-04T12:01:00Z", "startSeconds": 3, "note": "A second save of the same video demonstrates one card with two recommendations."},
-    {"id": "save-demo", "videoId": "aqz-KE-bpKQ", "title": "Big Buck Bunny — playback demo", "savedAt": "2026-11-04T11:00:00Z", "note": "A longer video for testing play, Back, and return to the selected card."}
+    {
+      "id": "save-web",
+      "videoId": "jNQXAC9IVRw",
+      "title": "YouTube's first upload",
+      "savedAt": "2026-11-04T12:00:00Z",
+      "note": "A short video for testing the external YouTube handoff."
+    },
+    {
+      "id": "save-demo",
+      "videoId": "aqz-KE-bpKQ",
+      "title": "Big Buck Bunny \u2014 playback demo",
+      "savedAt": "2026-11-04T11:00:00Z",
+      "note": "A longer video for testing play, Back, and return to the selected card."
+    },
+    {
+      "id": "save-bunny-refresh",
+      "videoId": "aqz-KE-bpKQ",
+      "title": "Big Buck Bunny \u2014 playback demo",
+      "savedAt": "2026-11-04T20:56:00Z",
+      "note": "A new save demonstrates live feed refresh and recency ordering."
+    }
   ]
 }

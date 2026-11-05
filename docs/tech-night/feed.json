@@ -3,7 +3,7 @@
     "itemCount": 2,
     "listId": "tech-night",
     "publicationEpoch": "tech-night-20261104",
-    "revision": 1,
+    "revision": 2,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,48 +12,6 @@
   "feed_url": "https://algoplay.com/retoob-feeds/tech-night/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/tech-night/",
   "items": [
-    {
-      "_retoob": {
-        "contentKey": "youtube:jNQXAC9IVRw",
-        "dateBasis": "recommendation",
-        "itemId": "jNQXAC9IVRw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 3,
-          "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
-        },
-        "recommendations": [
-          {
-            "createdAt": "2026-11-04T12:01:00Z",
-            "id": "save-web-offset",
-            "kind": "manual",
-            "note": "A second save of the same video demonstrates one card with two recommendations.",
-            "recommendationBasis": "explicit",
-            "recommendedAt": "2026-11-04T12:01:00Z",
-            "startSeconds": 3
-          },
-          {
-            "createdAt": "2026-11-04T12:00:00Z",
-            "id": "save-web",
-            "kind": "manual",
-            "note": "A short video for testing the external YouTube handoff.",
-            "recommendationBasis": "explicit",
-            "recommendedAt": "2026-11-04T12:00:00Z",
-            "startSeconds": 0
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-04T12:01:00Z",
-        "version": 1
-      },
-      "content_text": "Curator note: A second save of the same video demonstrates one card with two recommendations.\n\nCurator note: A short video for testing the external YouTube handoff.",
-      "date_published": "2026-11-04T12:01:00Z",
-      "external_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
-      "id": "https://algoplay.com/retoob-feeds/tech-night/items/jNQXAC9IVRw/",
-      "title": "YouTube's first upload",
-      "url": "https://algoplay.com/retoob-feeds/tech-night/items/jNQXAC9IVRw/"
-    },
     {
       "_retoob": {
         "contentKey": "youtube:aqz-KE-bpKQ",
@@ -67,6 +25,15 @@
         },
         "recommendations": [
           {
+            "createdAt": "2026-11-04T20:56:00Z",
+            "id": "save-bunny-refresh",
+            "kind": "manual",
+            "note": "A new save demonstrates live feed refresh and recency ordering.",
+            "recommendationBasis": "explicit",
+            "recommendedAt": "2026-11-04T20:56:00Z",
+            "startSeconds": 0
+          },
+          {
             "createdAt": "2026-11-04T11:00:00Z",
             "id": "save-demo",
             "kind": "manual",
@@ -76,16 +43,49 @@
             "startSeconds": 0
           }
         ],
-        "revision": 1,
-        "sortAt": "2026-11-04T11:00:00Z",
+        "revision": 2,
+        "sortAt": "2026-11-04T20:56:00Z",
         "version": 1
       },
-      "content_text": "Curator note: A longer video for testing play, Back, and return to the selected card.",
-      "date_published": "2026-11-04T11:00:00Z",
+      "content_text": "Curator note: A new save demonstrates live feed refresh and recency ordering.\n\nCurator note: A longer video for testing play, Back, and return to the selected card.",
+      "date_published": "2026-11-04T20:56:00Z",
       "external_url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
       "id": "https://algoplay.com/retoob-feeds/tech-night/items/aqz-KE-bpKQ/",
       "title": "Big Buck Bunny — playback demo",
       "url": "https://algoplay.com/retoob-feeds/tech-night/items/aqz-KE-bpKQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:jNQXAC9IVRw",
+        "dateBasis": "recommendation",
+        "itemId": "jNQXAC9IVRw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
+        },
+        "recommendations": [
+          {
+            "createdAt": "2026-11-04T12:00:00Z",
+            "id": "save-web",
+            "kind": "manual",
+            "note": "A short video for testing the external YouTube handoff.",
+            "recommendationBasis": "explicit",
+            "recommendedAt": "2026-11-04T12:00:00Z",
+            "startSeconds": 0
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-04T12:00:00Z",
+        "version": 1
+      },
+      "content_text": "Curator note: A short video for testing the external YouTube handoff.",
+      "date_published": "2026-11-04T12:00:00Z",
+      "external_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "id": "https://algoplay.com/retoob-feeds/tech-night/items/jNQXAC9IVRw/",
+      "title": "YouTube's first upload",
+      "url": "https://algoplay.com/retoob-feeds/tech-night/items/jNQXAC9IVRw/"
     }
   ],
   "title": "Tech Night — independent feed demo",
