@@ -86,6 +86,7 @@ def generate(source, state=None):
         permalink = f"{home}items/{video}/"
         watch = f"https://www.youtube.com/watch?v={video}"
         item = {"id": permalink, "url": permalink, "external_url": watch, "title": text(selected["title"]), "content_text": "\n\n".join("Curator note: " + r["note"] for _, r in entries if "note" in r), "date_published": selected["savedAt"], "_retoob": {"version": 1, "itemId": video, "contentKey": f"youtube:{video}", "sortAt": selected["savedAt"], "dateBasis": "recommendation", "playback": {"mode": "external", "provider": "youtube", "url": watch, "startSeconds": selected.get("startSeconds", 0)}, "recommendations": [r for _, r in entries]}}
+        item["image"] = f"https://i.ytimg.com/vi/{video}/hqdefault.jpg"
         card_hash = digest(item)
         old = ledger["cards"].get(video, {"revision": 0})
         revision = old["revision"] if old.get("hash") == card_hash else increment(old["revision"])
