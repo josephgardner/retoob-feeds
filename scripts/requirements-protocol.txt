@@ -1,0 +1,2 @@
+# Development-only schema verification. No Python runtime in the service image.
+jsonschema==4.26.0

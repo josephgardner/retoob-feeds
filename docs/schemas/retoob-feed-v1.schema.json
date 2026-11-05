@@ -1,0 +1,441 @@
+{
+  "$defs": {
+    "date": {
+      "oneOf": [
+        {
+          "properties": {
+            "precision": {
+              "const": "exact"
+            },
+            "value": {
+              "$ref": "#/$defs/instant"
+            }
+          }
+        },
+        {
+          "properties": {
+            "precision": {
+              "const": "day"
+            },
+            "value": {
+              "format": "date",
+              "type": "string"
+            }
+          }
+        },
+        {
+          "properties": {
+            "precision": {
+              "const": "month"
+            },
+            "value": {
+              "pattern": "^[0-9]{4}-(0[1-9]|1[0-2])$",
+              "type": "string"
+            }
+          }
+        },
+        {
+          "properties": {
+            "precision": {
+              "const": "year"
+            },
+            "value": {
+              "pattern": "^[0-9]{4}$",
+              "type": "string"
+            }
+          }
+        }
+      ],
+      "required": [
+        "value",
+        "precision"
+      ],
+      "type": "object"
+    },
+    "feedProfile": {
+      "properties": {
+        "itemCount": {
+          "maximum": 1000,
+          "minimum": 0,
+          "type": "integer"
+        },
+        "listId": {
+          "$ref": "#/$defs/id"
+        },
+        "publicationEpoch": {
+          "$ref": "#/$defs/id"
+        },
+        "revision": {
+          "$ref": "#/$defs/revision"
+        },
+        "schema": {
+          "$ref": "#/$defs/httpsURL"
+        },
+        "semantics": {
+          "const": "snapshot"
+        },
+        "version": {
+          "const": 1
+        }
+      },
+      "required": [
+        "version",
+        "listId",
+        "revision",
+        "publicationEpoch",
+        "semantics",
+        "itemCount"
+      ],
+      "type": "object"
+    },
+    "httpsURL": {
+      "format": "uri",
+      "pattern": "^https://[^/@?#\\s]+(?:[/?#]|$)",
+      "type": "string"
+    },
+    "id": {
+      "maxLength": 256,
+      "minLength": 1,
+      "type": "string"
+    },
+    "instant": {
+      "format": "date-time",
+      "pattern": "Z$",
+      "type": "string"
+    },
+    "item": {
+      "properties": {
+        "_retoob": {
+          "$ref": "#/$defs/itemProfile"
+        },
+        "content_text": {
+          "type": "string"
+        },
+        "date_modified": {
+          "$ref": "#/$defs/instant"
+        },
+        "date_published": {
+          "$ref": "#/$defs/instant"
+        },
+        "external_url": {
+          "$ref": "#/$defs/httpsURL"
+        },
+        "id": {
+          "$ref": "#/$defs/httpsURL"
+        },
+        "image": {
+          "$ref": "#/$defs/httpsURL"
+        },
+        "title": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "url": {
+          "$ref": "#/$defs/httpsURL"
+        }
+      },
+      "required": [
+        "id",
+        "url",
+        "external_url",
+        "title",
+        "content_text",
+        "_retoob"
+      ],
+      "type": "object"
+    },
+    "itemProfile": {
+      "properties": {
+        "contentKey": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "creator": {
+          "$ref": "#/$defs/person"
+        },
+        "dateBasis": {
+          "enum": [
+            "recommendation",
+            "publication",
+            "import",
+            "unknown"
+          ]
+        },
+        "durationSeconds": {
+          "$ref": "#/$defs/seconds"
+        },
+        "itemId": {
+          "$ref": "#/$defs/id"
+        },
+        "mediaPublishedAt": {
+          "$ref": "#/$defs/instant"
+        },
+        "playback": {
+          "$ref": "#/$defs/playback"
+        },
+        "recommendations": {
+          "items": {
+            "$ref": "#/$defs/recommendation"
+          },
+          "minItems": 1,
+          "type": "array"
+        },
+        "revision": {
+          "$ref": "#/$defs/revision"
+        },
+        "sortAt": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/instant"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "version": {
+          "const": 1
+        }
+      },
+      "required": [
+        "version",
+        "itemId",
+        "revision",
+        "contentKey",
+        "sortAt",
+        "dateBasis",
+        "playback",
+        "recommendations"
+      ],
+      "type": "object"
+    },
+    "nonempty": {
+      "minLength": 1,
+      "type": "string"
+    },
+    "person": {
+      "properties": {
+        "name": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "url": {
+          "$ref": "#/$defs/httpsURL"
+        }
+      },
+      "required": [
+        "name"
+      ],
+      "type": "object"
+    },
+    "playback": {
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "mode": {
+                "const": "external"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "provider",
+              "url"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "mode": {
+                "const": "direct"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "url",
+              "mimeType"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "mode": {
+                "const": "web"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "url"
+            ]
+          }
+        },
+        {
+          "if": {
+            "properties": {
+              "mode": {
+                "const": "unavailable"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "reason"
+            ]
+          }
+        }
+      ],
+      "properties": {
+        "durationSeconds": {
+          "$ref": "#/$defs/seconds"
+        },
+        "expiresAt": {
+          "$ref": "#/$defs/instant"
+        },
+        "mimeType": {
+          "pattern": "^[a-zA-Z0-9!#$&^_.+-]+/[a-zA-Z0-9!#$&^_.+-]+$",
+          "type": "string"
+        },
+        "mode": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "provider": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "reason": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "startSeconds": {
+          "$ref": "#/$defs/seconds"
+        },
+        "url": {
+          "$ref": "#/$defs/httpsURL"
+        }
+      },
+      "required": [
+        "mode"
+      ],
+      "type": "object"
+    },
+    "recommendation": {
+      "properties": {
+        "createdAt": {
+          "$ref": "#/$defs/instant"
+        },
+        "dateUntrusted": {
+          "type": "boolean"
+        },
+        "discussionUrl": {
+          "$ref": "#/$defs/httpsURL"
+        },
+        "id": {
+          "$ref": "#/$defs/id"
+        },
+        "kind": {
+          "enum": [
+            "manual",
+            "feed",
+            "playlist",
+            "community",
+            "catalogue"
+          ]
+        },
+        "note": {
+          "type": "string"
+        },
+        "publisher": {
+          "$ref": "#/$defs/person"
+        },
+        "recommendationBasis": {
+          "enum": [
+            "explicit",
+            "mention",
+            "inferred",
+            "unknown"
+          ]
+        },
+        "recommendedAt": {
+          "$ref": "#/$defs/instant"
+        },
+        "sourceUrl": {
+          "$ref": "#/$defs/httpsURL"
+        },
+        "startSeconds": {
+          "$ref": "#/$defs/seconds"
+        },
+        "upstreamItemId": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "upstreamPublishedAt": {
+          "$ref": "#/$defs/date"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "recommendationBasis"
+      ],
+      "type": "object"
+    },
+    "revision": {
+      "maximum": 9007199254740991,
+      "minimum": 1,
+      "type": "integer"
+    },
+    "seconds": {
+      "maximum": 2147483647,
+      "minimum": 0,
+      "type": "integer"
+    }
+  },
+  "$id": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "A complete snapshot or one page of it. Readers also validate cross-page identity, ordering, counts, URL destinations and payload budgets. Unknown additive fields and playback modes are forward-compatible.",
+  "properties": {
+    "_retoob": {
+      "$ref": "#/$defs/feedProfile"
+    },
+    "authors": {
+      "items": {
+        "$ref": "#/$defs/person"
+      },
+      "type": "array"
+    },
+    "description": {
+      "type": "string"
+    },
+    "feed_url": {
+      "$ref": "#/$defs/httpsURL"
+    },
+    "home_page_url": {
+      "$ref": "#/$defs/httpsURL"
+    },
+    "items": {
+      "items": {
+        "$ref": "#/$defs/item"
+      },
+      "maxItems": 1000,
+      "type": "array"
+    },
+    "next_url": {
+      "$ref": "#/$defs/httpsURL"
+    },
+    "title": {
+      "$ref": "#/$defs/nonempty"
+    },
+    "version": {
+      "const": "https://jsonfeed.org/version/1.1"
+    }
+  },
+  "required": [
+    "version",
+    "title",
+    "home_page_url",
+    "feed_url",
+    "_retoob",
+    "items"
+  ],
+  "title": "Retoob generated-feed profile 1 (JSON Feed 1.1)",
+  "type": "object"
+}
