@@ -38,3 +38,5 @@ jobs:
           path: ${{ runner.temp }}/retoob-pages
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify served feed JSON after deployment
+        run: python scripts/verify-public-feeds.py docs
