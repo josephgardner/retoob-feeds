@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 19,
+    "itemCount": 18,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 2,
+    "revision": 3,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -767,48 +767,6 @@
       "image": "https://i.ytimg.com/vi/esfLRBvJUzg/hqdefault.jpg",
       "title": "How Sphere Hid a Minicomputer Inside Their Micro – Ben Zotto [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/esfLRBvJUzg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:5D7QPOIZ7gY",
-        "dateBasis": "publication",
-        "itemId": "5D7QPOIZ7gY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50381648",
-            "id": "hn-50381648",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50381648",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-05T17:13:51Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-05T17:13:51Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50381648. Not a verified endorsement.",
-      "date_published": "2026-11-05T17:13:51Z",
-      "external_url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5D7QPOIZ7gY/",
-      "image": "https://i.ytimg.com/vi/5D7QPOIZ7gY/hqdefault.jpg",
-      "title": "Code Matters: Reflections on Rust in the LLM Age – Bryan Cantrill – Rust NYC [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5D7QPOIZ7gY/"
     }
   ],
   "title": "Hacker News — newest-story videos",
