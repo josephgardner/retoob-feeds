@@ -171,6 +171,13 @@
       "revision": 1
     },
     {
+      "title": "r/videos \u2014 video links",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/feed.json",
+      "home": "https://algoplay.com/retoob-feeds/reddit-videos/",
+      "itemCount": 163,
+      "revision": 1
+    },
+    {
       "title": "r/youtubehaiku \u2014 video links",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
@@ -202,27 +209,27 @@
       "scheduledIntervalHours": 6
     },
     "reddit": {
-      "checkedAt": "2026-11-06T04:36:50Z",
+      "checkedAt": "2026-11-06T05:02:52Z",
       "configuredCommunities": 8,
       "provider": "https://arctic-shift.photon-reddit.com",
       "providerPauseUntil": null,
       "publicationEnabled": true,
-      "requestsThisRun": 0,
+      "requestsThisRun": 3,
       "scheduledIntervalHours": 6,
       "sources": [
         {
-          "attemptedThisRun": false,
+          "attemptedThisRun": true,
           "backfillComplete": false,
-          "error": "http_422",
-          "initialized": false,
-          "lastSuccessAt": null,
-          "newestRetainedSubmissionAt": null,
-          "nextDueAt": 1793940801,
-          "requestsThisRun": 0,
-          "retainedMedia": 0,
-          "retainedPosts": 0,
+          "error": null,
+          "initialized": true,
+          "lastSuccessAt": 1793941372,
+          "newestRetainedSubmissionAt": 1793940108,
+          "nextDueAt": 1793944972,
+          "requestsThisRun": 3,
+          "retainedMedia": 163,
+          "retainedPosts": 175,
           "subreddit": "videos",
-          "supportedMedia": 0,
+          "supportedMedia": 163,
           "unavailableMedia": 0
         },
         {
@@ -331,9 +338,8 @@
           "unavailableMedia": 0
         }
       ],
-      "successfulSourcesThisRun": 0,
-      "lastSuccessfulRefreshAt": "2026-11-06T04:32:06Z",
-      "lastAttemptAt": "2026-11-06T04:36:52Z"
+      "successfulSourcesThisRun": 1,
+      "lastSuccessfulRefreshAt": "2026-11-06T05:03:00Z"
     }
   }
 }
