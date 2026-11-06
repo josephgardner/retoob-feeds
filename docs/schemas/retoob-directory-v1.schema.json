@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://algoplay.com/retoob-feeds/schemas/retoob-directory-v1.schema.json",
+  "title": "Retoob feed collection v1",
+  "type": "object",
+  "required": ["version", "feeds"],
+  "properties": {
+    "version": {"const": 1},
+    "title": {"type": "string", "maxLength": 512},
+    "feeds": {
+      "type": "array", "maxItems": 200,
+      "items": {"oneOf": [
+        {"$ref": "#/$defs/url"},
+        {"type": "object", "required": ["url"], "properties": {
+          "url": {"$ref": "#/$defs/url"}, "title": {"type": "string", "maxLength": 512}
+        }}
+      ]}
+    }
+  },
+  "$defs": {"url": {"type": "string", "format": "uri", "pattern": "^https://", "maxLength": 2048}}
+}

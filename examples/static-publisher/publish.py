@@ -126,23 +126,26 @@ def page(title, body, feed_url=None):
     return f'<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>{html.escape(title)}</title>{discovery}<main><h1>{html.escape(title)}</h1>{body}</main></html>\n'
 
 
+def write_viewer(output):
+    import shutil
+    for name, target in [('viewer.html', 'index.html'), ('viewer.js', 'viewer.js'), ('viewer.css', 'viewer.css')]:
+        shutil.copyfile(pathlib.Path(__file__).with_name(name), output / target)
+
+
 def write_site(output, feed, schema):
     output.mkdir(parents=True, exist_ok=True)
     home = output / feed["_retoob"]["listId"]
     home.mkdir(exist_ok=True)
     (home / "feed.json").write_bytes(encoded(feed))
-    links = []
-    for item in feed["items"]:
-        card = home / "items" / item["_retoob"]["itemId"]
-        card.mkdir(parents=True, exist_ok=True)
-        body = f'<p>{html.escape(item["content_text"])}</p><p><a href="{html.escape(item["external_url"], quote=True)}">Watch on YouTube</a></p>'
-        (card / "index.html").write_text(page(item["title"], body))
-        links.append(f'<li><a href="{html.escape(item["url"], quote=True)}">{html.escape(item["title"])}</a></li>')
-    body = f'<p>{html.escape(feed["description"])}</p><p><a href="feed.json">Subscribe to this video feed</a></p><ul>{"".join(links)}</ul>'
-    (home / "index.html").write_text(page(feed["title"], body, feed["feed_url"]))
-    (output / "index.html").write_text(page("Algoplay video feeds", f'<p><a href="{html.escape(feed["home_page_url"], quote=True)}">{html.escape(feed["title"])}</a></p>'))
+    write_viewer(output)
+    directory = output / 'feeds.json'
+    entries = json.loads(directory.read_text())['feeds'] if directory.exists() else []
+    entries = [entry for entry in entries if entry['url'] != feed['feed_url']]
+    entries.append({'title': feed['title'], 'url': feed['feed_url']})
+    directory.write_bytes(encoded({'version': 1, 'title': 'Algoplay video feeds', 'feeds': entries}))
     (output / "schemas").mkdir(exist_ok=True)
     (output / "schemas/retoob-feed-v1.schema.json").write_bytes(encoded(schema))
+    (output / "schemas/retoob-directory-v1.schema.json").write_bytes((pathlib.Path(__file__).resolve().parents[2] / "docs/schemas/retoob-directory-v1.schema.json").read_bytes())
     (output / ".nojekyll").write_text("")
 
 

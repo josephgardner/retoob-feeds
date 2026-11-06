@@ -30,9 +30,11 @@ jobs:
         run: |
           python -m pip install -r scripts/requirements-protocol.txt
           python scripts/check-protocol.py docs/*/feed.json
+      - name: Build legacy HTML routes outside the Git tree
+        run: python scripts/prepare-pages.py --source docs --output "$RUNNER_TEMP/retoob-pages"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: docs
+          path: ${{ runner.temp }}/retoob-pages
       - id: deployment
         uses: actions/deploy-pages@v4
