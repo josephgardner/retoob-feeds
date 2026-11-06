@@ -202,12 +202,12 @@
       "scheduledIntervalHours": 6
     },
     "reddit": {
-      "checkedAt": "2026-11-06T04:31:46Z",
+      "checkedAt": "2026-11-06T04:36:50Z",
       "configuredCommunities": 8,
       "provider": "https://arctic-shift.photon-reddit.com",
       "providerPauseUntil": null,
       "publicationEnabled": true,
-      "requestsThisRun": 13,
+      "requestsThisRun": 0,
       "scheduledIntervalHours": 6,
       "sources": [
         {
@@ -226,14 +226,14 @@
           "unavailableMedia": 0
         },
         {
-          "attemptedThisRun": true,
+          "attemptedThisRun": false,
           "backfillComplete": false,
           "error": "http_422",
           "initialized": true,
           "lastSuccessAt": 1793933601,
           "newestRetainedSubmissionAt": 1793903237,
           "nextDueAt": 1793946706,
-          "requestsThisRun": 1,
+          "requestsThisRun": 0,
           "retainedMedia": 73,
           "retainedPosts": 85,
           "subreddit": "documentaries",
@@ -241,14 +241,14 @@
           "unavailableMedia": 0
         },
         {
-          "attemptedThisRun": true,
+          "attemptedThisRun": false,
           "backfillComplete": false,
           "error": null,
           "initialized": true,
           "lastSuccessAt": 1793939506,
           "newestRetainedSubmissionAt": 1793879998,
           "nextDueAt": 1793943106,
-          "requestsThisRun": 2,
+          "requestsThisRun": 0,
           "retainedMedia": 205,
           "retainedPosts": 232,
           "subreddit": "artisanvideos",
@@ -256,14 +256,14 @@
           "unavailableMedia": 0
         },
         {
-          "attemptedThisRun": true,
+          "attemptedThisRun": false,
           "backfillComplete": false,
           "error": null,
           "initialized": true,
           "lastSuccessAt": 1793939506,
           "newestRetainedSubmissionAt": 1791800882,
           "nextDueAt": 1793943106,
-          "requestsThisRun": 2,
+          "requestsThisRun": 0,
           "retainedMedia": 132,
           "retainedPosts": 138,
           "subreddit": "lectures",
@@ -271,14 +271,14 @@
           "unavailableMedia": 0
         },
         {
-          "attemptedThisRun": true,
+          "attemptedThisRun": false,
           "backfillComplete": false,
           "error": null,
           "initialized": true,
           "lastSuccessAt": 1793939506,
           "newestRetainedSubmissionAt": 1793934961,
           "nextDueAt": 1793943106,
-          "requestsThisRun": 2,
+          "requestsThisRun": 0,
           "retainedMedia": 212,
           "retainedPosts": 219,
           "subreddit": "deepintoyoutube",
@@ -286,14 +286,14 @@
           "unavailableMedia": 0
         },
         {
-          "attemptedThisRun": true,
+          "attemptedThisRun": false,
           "backfillComplete": false,
           "error": null,
           "initialized": true,
           "lastSuccessAt": 1793939506,
           "newestRetainedSubmissionAt": 1793917289,
           "nextDueAt": 1793943106,
-          "requestsThisRun": 2,
+          "requestsThisRun": 0,
           "retainedMedia": 165,
           "retainedPosts": 183,
           "subreddit": "obscuremedia",
@@ -301,14 +301,14 @@
           "unavailableMedia": 0
         },
         {
-          "attemptedThisRun": true,
+          "attemptedThisRun": false,
           "backfillComplete": false,
           "error": null,
           "initialized": true,
           "lastSuccessAt": 1793939506,
           "newestRetainedSubmissionAt": 1793930673,
           "nextDueAt": 1793943106,
-          "requestsThisRun": 2,
+          "requestsThisRun": 0,
           "retainedMedia": 253,
           "retainedPosts": 257,
           "subreddit": "musicvideos",
@@ -316,14 +316,14 @@
           "unavailableMedia": 0
         },
         {
-          "attemptedThisRun": true,
+          "attemptedThisRun": false,
           "backfillComplete": false,
           "error": null,
           "initialized": true,
           "lastSuccessAt": 1793939506,
           "newestRetainedSubmissionAt": 1793920726,
           "nextDueAt": 1793943106,
-          "requestsThisRun": 2,
+          "requestsThisRun": 0,
           "retainedMedia": 222,
           "retainedPosts": 226,
           "subreddit": "youtubehaiku",
@@ -331,8 +331,9 @@
           "unavailableMedia": 0
         }
       ],
-      "successfulSourcesThisRun": 6,
-      "lastSuccessfulRefreshAt": "2026-11-06T04:32:06Z"
+      "successfulSourcesThisRun": 0,
+      "lastSuccessfulRefreshAt": "2026-11-06T04:32:06Z",
+      "lastAttemptAt": "2026-11-06T04:36:52Z"
     }
   }
 }
