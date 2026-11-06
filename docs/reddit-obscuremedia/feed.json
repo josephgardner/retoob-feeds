@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 220,
+    "itemCount": 288,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 2,
+    "revision": 3,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,186 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:EjD-bb2JpCg",
+        "dateBasis": "publication",
+        "itemId": "EjD-bb2JpCg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=EjD-bb2JpCg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xppgc0/",
+            "id": "reddit-obscuremedia-1xppgc0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xppgc0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T21:59:47Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-11-06T21:59:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xppgc0/",
+      "date_published": "2026-11-06T21:59:47Z",
+      "external_url": "https://www.youtube.com/watch?v=EjD-bb2JpCg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/EjD-bb2JpCg/",
+      "image": "https://i.ytimg.com/vi/EjD-bb2JpCg/hqdefault.jpg",
+      "title": "The Tube Season 1 Episode 1 - Nov 5 (1982) The Jam, Heaven 17, Toy Dolls performances Ch.4 UK",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/EjD-bb2JpCg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:G715Kt218HE",
+        "dateBasis": "publication",
+        "itemId": "G715Kt218HE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=G715Kt218HE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xpoww2/",
+            "id": "reddit-obscuremedia-1xpoww2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xpoww2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T21:36:42Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xpos9e/",
+            "id": "reddit-obscuremedia-1xpos9e",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xpos9e",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T21:31:34Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-11-06T21:36:42Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xpoww2/\nhttps://www.reddit.com/r/obscuremedia/comments/1xpos9e/",
+      "date_published": "2026-11-06T21:36:42Z",
+      "external_url": "https://www.youtube.com/watch?v=G715Kt218HE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/G715Kt218HE/",
+      "image": "https://i.ytimg.com/vi/G715Kt218HE/hqdefault.jpg",
+      "title": "Passions - \"I Ain't Sorry\" - Tribute to the musical, \"Chicago\" (2003)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/G715Kt218HE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:pBpH9dssAZw",
+        "dateBasis": "publication",
+        "itemId": "pBpH9dssAZw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pBpH9dssAZw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xpo2ai/",
+            "id": "reddit-obscuremedia-1xpo2ai",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xpo2ai",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T21:01:27Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-11-06T21:01:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xpo2ai/",
+      "date_published": "2026-11-06T21:01:27Z",
+      "external_url": "https://www.youtube.com/watch?v=pBpH9dssAZw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/pBpH9dssAZw/",
+      "image": "https://i.ytimg.com/vi/pBpH9dssAZw/hqdefault.jpg",
+      "title": "The Cautious Twins (1960)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/pBpH9dssAZw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:kvAJOn3A0ps",
+        "dateBasis": "publication",
+        "itemId": "kvAJOn3A0ps",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=kvAJOn3A0ps"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xpg6dn/",
+            "id": "reddit-obscuremedia-1xpg6dn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xpg6dn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T15:51:13Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-11-06T15:51:13Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xpg6dn/",
+      "date_published": "2026-11-06T15:51:13Z",
+      "external_url": "https://www.youtube.com/watch?v=kvAJOn3A0ps",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/kvAJOn3A0ps/",
+      "image": "https://i.ytimg.com/vi/kvAJOn3A0ps/hqdefault.jpg",
+      "title": "Lost Kitties Obscure Greek Ad from (2018) that's lesser known",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/kvAJOn3A0ps/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:cOj90iT6eEU",
@@ -9367,6 +9547,2678 @@
       "image": "https://i.ytimg.com/vi/ZgIW4omV1P8/hqdefault.jpg",
       "title": "Manglers toy commercial (1984)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/ZgIW4omV1P8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:IGxmQ-T54E0",
+        "dateBasis": "publication",
+        "itemId": "IGxmQ-T54E0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IGxmQ-T54E0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wsoqw5/",
+            "id": "reddit-obscuremedia-1wsoqw5",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wsoqw5",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-28T19:45:39Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-28T19:45:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wsoqw5/",
+      "date_published": "2026-09-28T19:45:39Z",
+      "external_url": "https://www.youtube.com/watch?v=IGxmQ-T54E0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IGxmQ-T54E0/",
+      "image": "https://i.ytimg.com/vi/IGxmQ-T54E0/hqdefault.jpg",
+      "title": "Razia's Shadow: A puppet Rock Opera (2011) (2019)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IGxmQ-T54E0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-FD9nm5oL-s",
+        "dateBasis": "publication",
+        "itemId": "-FD9nm5oL-s",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-FD9nm5oL-s"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wsge08/",
+            "id": "reddit-obscuremedia-1wsge08",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wsge08",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-28T14:38:37Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-28T14:38:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wsge08/",
+      "date_published": "2026-09-28T14:38:37Z",
+      "external_url": "https://www.youtube.com/watch?v=-FD9nm5oL-s",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/-FD9nm5oL-s/",
+      "image": "https://i.ytimg.com/vi/-FD9nm5oL-s/hqdefault.jpg",
+      "title": "Fable II - E3 Trailer (2006)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/-FD9nm5oL-s/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:gdcXlc-T3O4",
+        "dateBasis": "publication",
+        "itemId": "gdcXlc-T3O4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gdcXlc-T3O4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wsd3t1/",
+            "id": "reddit-obscuremedia-1wsd3t1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wsd3t1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-28T12:21:25Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-28T12:21:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wsd3t1/",
+      "date_published": "2026-09-28T12:21:25Z",
+      "external_url": "https://www.youtube.com/watch?v=gdcXlc-T3O4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/gdcXlc-T3O4/",
+      "image": "https://i.ytimg.com/vi/gdcXlc-T3O4/hqdefault.jpg",
+      "title": "Music-in-May Concert — Dr. Thaddeus F. Reszel Junior High School Bands & Orchestra (Lost Media) (1960)s",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/gdcXlc-T3O4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Ns2dyze1yu8",
+        "dateBasis": "publication",
+        "itemId": "Ns2dyze1yu8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Ns2dyze1yu8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wsaxz1/",
+            "id": "reddit-obscuremedia-1wsaxz1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wsaxz1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-28T10:27:16Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-28T10:27:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wsaxz1/",
+      "date_published": "2026-09-28T10:27:16Z",
+      "external_url": "https://www.youtube.com/watch?v=Ns2dyze1yu8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Ns2dyze1yu8/",
+      "image": "https://i.ytimg.com/vi/Ns2dyze1yu8/hqdefault.jpg",
+      "title": "Tobacco - Human Om (2016)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Ns2dyze1yu8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:OqJXbM939wg",
+        "dateBasis": "publication",
+        "itemId": "OqJXbM939wg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OqJXbM939wg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wsawqb/",
+            "id": "reddit-obscuremedia-1wsawqb",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wsawqb",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-28T10:25:07Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-28T10:25:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wsawqb/",
+      "date_published": "2026-09-28T10:25:07Z",
+      "external_url": "https://www.youtube.com/watch?v=OqJXbM939wg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/OqJXbM939wg/",
+      "image": "https://i.ytimg.com/vi/OqJXbM939wg/hqdefault.jpg",
+      "title": "Tobacco - The Black Album (2022)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/OqJXbM939wg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-yjPwW_zUTo",
+        "dateBasis": "publication",
+        "itemId": "-yjPwW_zUTo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-yjPwW_zUTo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wsa0kt/",
+            "id": "reddit-obscuremedia-1wsa0kt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wsa0kt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-28T09:31:35Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-28T09:31:35Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wsa0kt/",
+      "date_published": "2026-09-28T09:31:35Z",
+      "external_url": "https://www.youtube.com/watch?v=-yjPwW_zUTo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/-yjPwW_zUTo/",
+      "image": "https://i.ytimg.com/vi/-yjPwW_zUTo/hqdefault.jpg",
+      "title": "Entertainment Tonight Full Show From April 30, 1999 (1999)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/-yjPwW_zUTo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:2nQb3mdEa9M",
+        "dateBasis": "publication",
+        "itemId": "2nQb3mdEa9M",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2nQb3mdEa9M"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1ws148x/",
+            "id": "reddit-obscuremedia-1ws148x",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1ws148x",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-28T01:11:22Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-28T01:11:22Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1ws148x/",
+      "date_published": "2026-09-28T01:11:22Z",
+      "external_url": "https://www.youtube.com/watch?v=2nQb3mdEa9M",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/2nQb3mdEa9M/",
+      "image": "https://i.ytimg.com/vi/2nQb3mdEa9M/hqdefault.jpg",
+      "title": "\"El Capitan\" - groundbreaking rock climbing film (Fred Padula) (4k Restored) (1978)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/2nQb3mdEa9M/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:KMZm4ImnW7o",
+        "dateBasis": "publication",
+        "itemId": "KMZm4ImnW7o",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KMZm4ImnW7o"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wry5x5/",
+            "id": "reddit-obscuremedia-1wry5x5",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wry5x5",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-27T22:52:25Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-27T22:52:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wry5x5/",
+      "date_published": "2026-09-27T22:52:25Z",
+      "external_url": "https://www.youtube.com/watch?v=KMZm4ImnW7o",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KMZm4ImnW7o/",
+      "image": "https://i.ytimg.com/vi/KMZm4ImnW7o/hqdefault.jpg",
+      "title": "Sperry Computer Commercial (1978)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KMZm4ImnW7o/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:AXKi9G8iOc4",
+        "dateBasis": "publication",
+        "itemId": "AXKi9G8iOc4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=AXKi9G8iOc4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wrukq2/",
+            "id": "reddit-obscuremedia-1wrukq2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wrukq2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-27T20:22:52Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-27T20:22:52Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wrukq2/",
+      "date_published": "2026-09-27T20:22:52Z",
+      "external_url": "https://www.youtube.com/watch?v=AXKi9G8iOc4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/AXKi9G8iOc4/",
+      "image": "https://i.ytimg.com/vi/AXKi9G8iOc4/hqdefault.jpg",
+      "title": "Leonard Nimoy and a beeping rock talk about a big chungus of a Laserdisc player (1981)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/AXKi9G8iOc4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Tp3ISsgi8-8",
+        "dateBasis": "publication",
+        "itemId": "Tp3ISsgi8-8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Tp3ISsgi8-8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wrrnte/",
+            "id": "reddit-obscuremedia-1wrrnte",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wrrnte",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-27T18:29:16Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-27T18:29:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wrrnte/",
+      "date_published": "2026-09-27T18:29:16Z",
+      "external_url": "https://www.youtube.com/watch?v=Tp3ISsgi8-8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Tp3ISsgi8-8/",
+      "image": "https://i.ytimg.com/vi/Tp3ISsgi8-8/hqdefault.jpg",
+      "title": "\"Youth\" (2000) - Motorola's vision of the near-future",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Tp3ISsgi8-8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:gpDiYto0jOA",
+        "dateBasis": "publication",
+        "itemId": "gpDiYto0jOA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gpDiYto0jOA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wrpxjw/",
+            "id": "reddit-obscuremedia-1wrpxjw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wrpxjw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-27T17:21:01Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-27T17:21:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wrpxjw/",
+      "date_published": "2026-09-27T17:21:01Z",
+      "external_url": "https://www.youtube.com/watch?v=gpDiYto0jOA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/gpDiYto0jOA/",
+      "image": "https://i.ytimg.com/vi/gpDiYto0jOA/hqdefault.jpg",
+      "title": "Evergreen (1964) Ray Manzarek UCLA student film",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/gpDiYto0jOA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:KQA2NiMKPJo",
+        "dateBasis": "publication",
+        "itemId": "KQA2NiMKPJo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KQA2NiMKPJo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wrpa4o/",
+            "id": "reddit-obscuremedia-1wrpa4o",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wrpa4o",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-27T16:55:10Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-27T16:55:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wrpa4o/",
+      "date_published": "2026-09-27T16:55:10Z",
+      "external_url": "https://www.youtube.com/watch?v=KQA2NiMKPJo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KQA2NiMKPJo/",
+      "image": "https://i.ytimg.com/vi/KQA2NiMKPJo/hqdefault.jpg",
+      "title": "Crappy CGI commercial for a Chinese medicine brand (2003)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KQA2NiMKPJo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:60TNpwOwRWg",
+        "dateBasis": "publication",
+        "itemId": "60TNpwOwRWg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=60TNpwOwRWg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wr4oc4/",
+            "id": "reddit-obscuremedia-1wr4oc4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wr4oc4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-26T23:23:15Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-26T23:23:15Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wr4oc4/",
+      "date_published": "2026-09-26T23:23:15Z",
+      "external_url": "https://www.youtube.com/watch?v=60TNpwOwRWg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/60TNpwOwRWg/",
+      "image": "https://i.ytimg.com/vi/60TNpwOwRWg/hqdefault.jpg",
+      "title": "The Corpse Can't Play (1968): one of only two surviving episodes of early British TV horror anthology that was canceled after six episodes due to viewer complaints and then wiped with much early BBC material",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/60TNpwOwRWg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:KdKuAEGiwxg",
+        "dateBasis": "publication",
+        "itemId": "KdKuAEGiwxg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KdKuAEGiwxg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wr493u/",
+            "id": "reddit-obscuremedia-1wr493u",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wr493u",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-26T23:03:23Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-26T23:03:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wr493u/",
+      "date_published": "2026-09-26T23:03:23Z",
+      "external_url": "https://www.youtube.com/watch?v=KdKuAEGiwxg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KdKuAEGiwxg/",
+      "image": "https://i.ytimg.com/vi/KdKuAEGiwxg/hqdefault.jpg",
+      "title": "Pocket Ninjas (1997)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KdKuAEGiwxg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:VuKycjEfEe4",
+        "dateBasis": "publication",
+        "itemId": "VuKycjEfEe4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VuKycjEfEe4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wr1oip/",
+            "id": "reddit-obscuremedia-1wr1oip",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wr1oip",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-26T21:08:07Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-26T21:08:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wr1oip/",
+      "date_published": "2026-09-26T21:08:07Z",
+      "external_url": "https://www.youtube.com/watch?v=VuKycjEfEe4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VuKycjEfEe4/",
+      "image": "https://i.ytimg.com/vi/VuKycjEfEe4/hqdefault.jpg",
+      "title": "Juggaknots - Trouble Man (1996)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VuKycjEfEe4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:8-C8OT1_kmE",
+        "dateBasis": "publication",
+        "itemId": "8-C8OT1_kmE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8-C8OT1_kmE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wqs01m/",
+            "id": "reddit-obscuremedia-1wqs01m",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wqs01m",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-26T14:31:37Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-26T14:31:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wqs01m/",
+      "date_published": "2026-09-26T14:31:37Z",
+      "external_url": "https://www.youtube.com/watch?v=8-C8OT1_kmE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/8-C8OT1_kmE/",
+      "image": "https://i.ytimg.com/vi/8-C8OT1_kmE/hqdefault.jpg",
+      "title": "Lord Lift Me Up - Faith Healer R.W. Schambach (1984) (P & C Power Productions)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/8-C8OT1_kmE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:oZgutI0Qv3M",
+        "dateBasis": "publication",
+        "itemId": "oZgutI0Qv3M",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=oZgutI0Qv3M"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wqg9rv/",
+            "id": "reddit-obscuremedia-1wqg9rv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wqg9rv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-26T03:39:49Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-26T03:39:49Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wqg9rv/",
+      "date_published": "2026-09-26T03:39:49Z",
+      "external_url": "https://www.youtube.com/watch?v=oZgutI0Qv3M",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/oZgutI0Qv3M/",
+      "image": "https://i.ytimg.com/vi/oZgutI0Qv3M/hqdefault.jpg",
+      "title": "James Burke at a Computer Terminal (1997)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/oZgutI0Qv3M/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:qF_4_Wirx4I",
+        "dateBasis": "publication",
+        "itemId": "qF_4_Wirx4I",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qF_4_Wirx4I"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wqcqmp/",
+            "id": "reddit-obscuremedia-1wqcqmp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wqcqmp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-26T00:39:32Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-26T00:39:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wqcqmp/",
+      "date_published": "2026-09-26T00:39:32Z",
+      "external_url": "https://www.youtube.com/watch?v=qF_4_Wirx4I",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/qF_4_Wirx4I/",
+      "image": "https://i.ytimg.com/vi/qF_4_Wirx4I/hqdefault.jpg",
+      "title": "Belgrado (1922) - A look at Belgrade.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/qF_4_Wirx4I/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Lj5OM7i_EDs",
+        "dateBasis": "publication",
+        "itemId": "Lj5OM7i_EDs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Lj5OM7i_EDs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wqbcm0/",
+            "id": "reddit-obscuremedia-1wqbcm0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wqbcm0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-25T23:34:32Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-25T23:34:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wqbcm0/",
+      "date_published": "2026-09-25T23:34:32Z",
+      "external_url": "https://www.youtube.com/watch?v=Lj5OM7i_EDs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Lj5OM7i_EDs/",
+      "image": "https://i.ytimg.com/vi/Lj5OM7i_EDs/hqdefault.jpg",
+      "title": "Snoop Dogg - Demo Tape (1989)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Lj5OM7i_EDs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:i-cNZ5u7wpE",
+        "dateBasis": "publication",
+        "itemId": "i-cNZ5u7wpE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=i-cNZ5u7wpE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wqa5k4/",
+            "id": "reddit-obscuremedia-1wqa5k4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wqa5k4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-25T22:40:57Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-25T22:40:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wqa5k4/",
+      "date_published": "2026-09-25T22:40:57Z",
+      "external_url": "https://www.youtube.com/watch?v=i-cNZ5u7wpE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/i-cNZ5u7wpE/",
+      "image": "https://i.ytimg.com/vi/i-cNZ5u7wpE/hqdefault.jpg",
+      "title": "Homoti (1987) - Bizarre Turkish gay ET knockoff",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/i-cNZ5u7wpE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:mBcDersUJZg",
+        "dateBasis": "publication",
+        "itemId": "mBcDersUJZg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=mBcDersUJZg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wq2iwn/",
+            "id": "reddit-obscuremedia-1wq2iwn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wq2iwn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-25T17:32:02Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-25T17:32:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wq2iwn/",
+      "date_published": "2026-09-25T17:32:02Z",
+      "external_url": "https://www.youtube.com/watch?v=mBcDersUJZg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/mBcDersUJZg/",
+      "image": "https://i.ytimg.com/vi/mBcDersUJZg/hqdefault.jpg",
+      "title": "UCLA student film: Induction (1965) Ray Manzarek",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/mBcDersUJZg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:PZdhpf-Yrxw",
+        "dateBasis": "publication",
+        "itemId": "PZdhpf-Yrxw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PZdhpf-Yrxw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wpzhn0/",
+            "id": "reddit-obscuremedia-1wpzhn0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wpzhn0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-25T15:34:36Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-25T15:34:36Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wpzhn0/",
+      "date_published": "2026-09-25T15:34:36Z",
+      "external_url": "https://www.youtube.com/watch?v=PZdhpf-Yrxw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/PZdhpf-Yrxw/",
+      "image": "https://i.ytimg.com/vi/PZdhpf-Yrxw/hqdefault.jpg",
+      "title": "A Pre-Release Promotional U-Matic Tape of Aerobicise (1981)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/PZdhpf-Yrxw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Q_O766yND78",
+        "dateBasis": "publication",
+        "itemId": "Q_O766yND78",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Q_O766yND78"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wpm3ds/",
+            "id": "reddit-obscuremedia-1wpm3ds",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wpm3ds",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-25T03:43:10Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-25T03:43:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wpm3ds/",
+      "date_published": "2026-09-25T03:43:10Z",
+      "external_url": "https://www.youtube.com/watch?v=Q_O766yND78",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Q_O766yND78/",
+      "image": "https://i.ytimg.com/vi/Q_O766yND78/hqdefault.jpg",
+      "title": "Long lost Marshalls commercial featuring John Krasinski and Margot Martindale (2002)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Q_O766yND78/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:cSLdpgG4Jjs",
+        "dateBasis": "publication",
+        "itemId": "cSLdpgG4Jjs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cSLdpgG4Jjs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wplmbp/",
+            "id": "reddit-obscuremedia-1wplmbp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wplmbp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-25T03:18:59Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-25T03:18:59Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wplmbp/",
+      "date_published": "2026-09-25T03:18:59Z",
+      "external_url": "https://www.youtube.com/watch?v=cSLdpgG4Jjs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cSLdpgG4Jjs/",
+      "image": "https://i.ytimg.com/vi/cSLdpgG4Jjs/hqdefault.jpg",
+      "title": "I Lost It at the Movies (1967) UCLA student film",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cSLdpgG4Jjs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:bn4d33YIH7Y",
+        "dateBasis": "publication",
+        "itemId": "bn4d33YIH7Y",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bn4d33YIH7Y"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wpkg1l/",
+            "id": "reddit-obscuremedia-1wpkg1l",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wpkg1l",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-25T02:18:47Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-25T02:18:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wpkg1l/",
+      "date_published": "2026-09-25T02:18:47Z",
+      "external_url": "https://www.youtube.com/watch?v=bn4d33YIH7Y",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bn4d33YIH7Y/",
+      "image": "https://i.ytimg.com/vi/bn4d33YIH7Y/hqdefault.jpg",
+      "title": "Winds of Fortune, a mahjong game from Malaysia. Hosted by Peter Tomarken(1997)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bn4d33YIH7Y/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:VDLOYQ9rfIg",
+        "dateBasis": "publication",
+        "itemId": "VDLOYQ9rfIg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VDLOYQ9rfIg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1womrru/",
+            "id": "reddit-obscuremedia-1womrru",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1womrru",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-24T00:16:10Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-24T00:16:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1womrru/",
+      "date_published": "2026-09-24T00:16:10Z",
+      "external_url": "https://www.youtube.com/watch?v=VDLOYQ9rfIg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VDLOYQ9rfIg/",
+      "image": "https://i.ytimg.com/vi/VDLOYQ9rfIg/hqdefault.jpg",
+      "title": "Star Trek: The Animated Series - Spock Says NO to Drug Abuse PSA (1973)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VDLOYQ9rfIg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:UpwcrOGRjC8",
+        "dateBasis": "publication",
+        "itemId": "UpwcrOGRjC8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UpwcrOGRjC8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wogauy/",
+            "id": "reddit-obscuremedia-1wogauy",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wogauy",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-23T19:51:11Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-23T19:51:11Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wogauy/",
+      "date_published": "2026-09-23T19:51:11Z",
+      "external_url": "https://www.youtube.com/watch?v=UpwcrOGRjC8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UpwcrOGRjC8/",
+      "image": "https://i.ytimg.com/vi/UpwcrOGRjC8/hqdefault.jpg",
+      "title": "The Pop Group on Génération 80 (1980) Belgian TV",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UpwcrOGRjC8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:_XDQLmkegEc",
+        "dateBasis": "publication",
+        "itemId": "_XDQLmkegEc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=_XDQLmkegEc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wofabf/",
+            "id": "reddit-obscuremedia-1wofabf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wofabf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-23T19:13:03Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-23T19:13:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wofabf/",
+      "date_published": "2026-09-23T19:13:03Z",
+      "external_url": "https://www.youtube.com/watch?v=_XDQLmkegEc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/_XDQLmkegEc/",
+      "image": "https://i.ytimg.com/vi/_XDQLmkegEc/hqdefault.jpg",
+      "title": "New York hardcore -(1986) on the Regis Philbin Morning show ABC",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/_XDQLmkegEc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:bS4MDVHqxH4",
+        "dateBasis": "publication",
+        "itemId": "bS4MDVHqxH4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bS4MDVHqxH4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wof7nu/",
+            "id": "reddit-obscuremedia-1wof7nu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wof7nu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-23T19:10:25Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-23T19:10:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wof7nu/",
+      "date_published": "2026-09-23T19:10:25Z",
+      "external_url": "https://www.youtube.com/watch?v=bS4MDVHqxH4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bS4MDVHqxH4/",
+      "image": "https://i.ytimg.com/vi/bS4MDVHqxH4/hqdefault.jpg",
+      "title": "Pepsi (1977) Tribute to Lynyrd Skynyrd",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bS4MDVHqxH4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ReSlfsw5iJY",
+        "dateBasis": "publication",
+        "itemId": "ReSlfsw5iJY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ReSlfsw5iJY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1woahfe/",
+            "id": "reddit-obscuremedia-1woahfe",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1woahfe",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-23T16:17:32Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-23T16:17:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1woahfe/",
+      "date_published": "2026-09-23T16:17:32Z",
+      "external_url": "https://www.youtube.com/watch?v=ReSlfsw5iJY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/ReSlfsw5iJY/",
+      "image": "https://i.ytimg.com/vi/ReSlfsw5iJY/hqdefault.jpg",
+      "title": "“I Want To Sing In Opera” (1989) — Patricia Routledge sings this comedic song about the opera on the British talk show Wogan.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/ReSlfsw5iJY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:4nl-YdTHimw",
+        "dateBasis": "publication",
+        "itemId": "4nl-YdTHimw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4nl-YdTHimw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wo4yz2/",
+            "id": "reddit-obscuremedia-1wo4yz2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wo4yz2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-23T12:44:03Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-23T12:44:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wo4yz2/",
+      "date_published": "2026-09-23T12:44:03Z",
+      "external_url": "https://www.youtube.com/watch?v=4nl-YdTHimw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/4nl-YdTHimw/",
+      "image": "https://i.ytimg.com/vi/4nl-YdTHimw/hqdefault.jpg",
+      "title": "Early Nirvana covering \"Immigrant Song\" by Led Zeppelin in Krist's mother's house (1988)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/4nl-YdTHimw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:AkUylrpM9zU",
+        "dateBasis": "publication",
+        "itemId": "AkUylrpM9zU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=AkUylrpM9zU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wnnyd6/",
+            "id": "reddit-obscuremedia-1wnnyd6",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wnnyd6",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-22T22:22:34Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-22T22:22:34Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wnnyd6/",
+      "date_published": "2026-09-22T22:22:34Z",
+      "external_url": "https://www.youtube.com/watch?v=AkUylrpM9zU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/AkUylrpM9zU/",
+      "image": "https://i.ytimg.com/vi/AkUylrpM9zU/hqdefault.jpg",
+      "title": "Bellport High School Rock Ensemble - I'm a Man / Free (1972)(roughly)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/AkUylrpM9zU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zHVzHz3jNxk",
+        "dateBasis": "publication",
+        "itemId": "zHVzHz3jNxk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zHVzHz3jNxk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wnc7bw/",
+            "id": "reddit-obscuremedia-1wnc7bw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wnc7bw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-22T15:12:13Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-22T15:12:13Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wnc7bw/",
+      "date_published": "2026-09-22T15:12:13Z",
+      "external_url": "https://www.youtube.com/watch?v=zHVzHz3jNxk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/zHVzHz3jNxk/",
+      "image": "https://i.ytimg.com/vi/zHVzHz3jNxk/hqdefault.jpg",
+      "title": "Natas - Doubelievengod (1995)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/zHVzHz3jNxk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:J0-AianzdBs",
+        "dateBasis": "publication",
+        "itemId": "J0-AianzdBs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=J0-AianzdBs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wn8i78/",
+            "id": "reddit-obscuremedia-1wn8i78",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wn8i78",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-22T12:45:18Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-22T12:45:18Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wn8i78/",
+      "date_published": "2026-09-22T12:45:18Z",
+      "external_url": "https://www.youtube.com/watch?v=J0-AianzdBs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/J0-AianzdBs/",
+      "image": "https://i.ytimg.com/vi/J0-AianzdBs/hqdefault.jpg",
+      "title": "The Bell (1982)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/J0-AianzdBs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:efmhbokugLE",
+        "dateBasis": "publication",
+        "itemId": "efmhbokugLE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=efmhbokugLE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wn5yle/",
+            "id": "reddit-obscuremedia-1wn5yle",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wn5yle",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-22T10:40:20Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-22T10:40:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wn5yle/",
+      "date_published": "2026-09-22T10:40:20Z",
+      "external_url": "https://www.youtube.com/watch?v=efmhbokugLE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/efmhbokugLE/",
+      "image": "https://i.ytimg.com/vi/efmhbokugLE/hqdefault.jpg",
+      "title": "(2006) Haunted house 2D animation, There Once Was A Home - by Zandoid",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/efmhbokugLE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:yLRBzT7VbXc",
+        "dateBasis": "publication",
+        "itemId": "yLRBzT7VbXc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yLRBzT7VbXc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wmvjps/",
+            "id": "reddit-obscuremedia-1wmvjps",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wmvjps",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-22T01:18:30Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-22T01:18:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wmvjps/",
+      "date_published": "2026-09-22T01:18:30Z",
+      "external_url": "https://www.youtube.com/watch?v=yLRBzT7VbXc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/yLRBzT7VbXc/",
+      "image": "https://i.ytimg.com/vi/yLRBzT7VbXc/hqdefault.jpg",
+      "title": "The Legend of John Henry (1974) animated short",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/yLRBzT7VbXc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:dXuAWjsrGd4",
+        "dateBasis": "publication",
+        "itemId": "dXuAWjsrGd4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=dXuAWjsrGd4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wmpgo8/",
+            "id": "reddit-obscuremedia-1wmpgo8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wmpgo8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T21:06:21Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wmpe1f/",
+            "id": "reddit-obscuremedia-1wmpe1f",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wmpe1f",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T21:03:32Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-21T21:06:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wmpgo8/\nhttps://www.reddit.com/r/obscuremedia/comments/1wmpe1f/",
+      "date_published": "2026-09-21T21:06:21Z",
+      "external_url": "https://www.youtube.com/watch?v=dXuAWjsrGd4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/dXuAWjsrGd4/",
+      "image": "https://i.ytimg.com/vi/dXuAWjsrGd4/hqdefault.jpg",
+      "title": "[1971] Over the years, people have been trying to track down the musical tracks from \"The Peroia Plague\" radio broadcast from 1972. This is the first. The others are from \"American Gold\" by Henry Jerome.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/dXuAWjsrGd4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:euNWYIIKWOQ",
+        "dateBasis": "publication",
+        "itemId": "euNWYIIKWOQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=euNWYIIKWOQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wmp3zx/",
+            "id": "reddit-obscuremedia-1wmp3zx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wmp3zx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T20:53:19Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-21T20:53:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wmp3zx/",
+      "date_published": "2026-09-21T20:53:19Z",
+      "external_url": "https://www.youtube.com/watch?v=euNWYIIKWOQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/euNWYIIKWOQ/",
+      "image": "https://i.ytimg.com/vi/euNWYIIKWOQ/hqdefault.jpg",
+      "title": "Investiture of the gods (1990) episode 3",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/euNWYIIKWOQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:4uJtBxeznF4",
+        "dateBasis": "publication",
+        "itemId": "4uJtBxeznF4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4uJtBxeznF4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wmmv1q/",
+            "id": "reddit-obscuremedia-1wmmv1q",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wmmv1q",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T19:31:58Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-21T19:31:58Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wmmv1q/",
+      "date_published": "2026-09-21T19:31:58Z",
+      "external_url": "https://www.youtube.com/watch?v=4uJtBxeznF4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/4uJtBxeznF4/",
+      "image": "https://i.ytimg.com/vi/4uJtBxeznF4/hqdefault.jpg",
+      "title": "Strawberry Machine - Melon Soda (2007)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/4uJtBxeznF4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:C94MsiemChY",
+        "dateBasis": "publication",
+        "itemId": "C94MsiemChY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=C94MsiemChY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wmcvki/",
+            "id": "reddit-obscuremedia-1wmcvki",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wmcvki",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T13:30:43Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-21T13:30:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wmcvki/",
+      "date_published": "2026-09-21T13:30:43Z",
+      "external_url": "https://www.youtube.com/watch?v=C94MsiemChY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/C94MsiemChY/",
+      "image": "https://i.ytimg.com/vi/C94MsiemChY/hqdefault.jpg",
+      "title": "\"Songs of New Nations\" — The De Paur Chorus (Roulette Records, SR-9001, (1972)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/C94MsiemChY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:jXua5ZH7-Dg",
+        "dateBasis": "publication",
+        "itemId": "jXua5ZH7-Dg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jXua5ZH7-Dg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wmacwg/",
+            "id": "reddit-obscuremedia-1wmacwg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wmacwg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T11:41:13Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-21T11:41:13Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wmacwg/",
+      "date_published": "2026-09-21T11:41:13Z",
+      "external_url": "https://www.youtube.com/watch?v=jXua5ZH7-Dg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/jXua5ZH7-Dg/",
+      "image": "https://i.ytimg.com/vi/jXua5ZH7-Dg/hqdefault.jpg",
+      "title": "Early screen test for Shari Lewis with Lambchop (1958)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/jXua5ZH7-Dg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:W6NasFxMyOE",
+        "dateBasis": "publication",
+        "itemId": "W6NasFxMyOE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=W6NasFxMyOE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wm1mce/",
+            "id": "reddit-obscuremedia-1wm1mce",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wm1mce",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T03:35:15Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-21T03:35:15Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wm1mce/",
+      "date_published": "2026-09-21T03:35:15Z",
+      "external_url": "https://www.youtube.com/watch?v=W6NasFxMyOE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/W6NasFxMyOE/",
+      "image": "https://i.ytimg.com/vi/W6NasFxMyOE/hqdefault.jpg",
+      "title": "Sweet Temptation (1996) CBS World Premiere Movie Opening l Jenny Lewis, Rob Estes, Beverly D'Angelo",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/W6NasFxMyOE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:vM2GGGcxD9E",
+        "dateBasis": "publication",
+        "itemId": "vM2GGGcxD9E",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vM2GGGcxD9E"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wm0jea/",
+            "id": "reddit-obscuremedia-1wm0jea",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wm0jea",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T02:42:17Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-21T02:42:17Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wm0jea/",
+      "date_published": "2026-09-21T02:42:17Z",
+      "external_url": "https://www.youtube.com/watch?v=vM2GGGcxD9E",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/vM2GGGcxD9E/",
+      "image": "https://i.ytimg.com/vi/vM2GGGcxD9E/hqdefault.jpg",
+      "title": "Mike Love and Terry Melcher - Kokomo (1993, Caribbean Tourism Advertisement)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/vM2GGGcxD9E/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-gtLLD-ZbpI",
+        "dateBasis": "publication",
+        "itemId": "-gtLLD-ZbpI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-gtLLD-ZbpI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wly1b4/",
+            "id": "reddit-obscuremedia-1wly1b4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wly1b4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-21T00:44:05Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-21T00:44:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wly1b4/",
+      "date_published": "2026-09-21T00:44:05Z",
+      "external_url": "https://www.youtube.com/watch?v=-gtLLD-ZbpI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/-gtLLD-ZbpI/",
+      "image": "https://i.ytimg.com/vi/-gtLLD-ZbpI/hqdefault.jpg",
+      "title": "You Can't Do That On Television S1 E1 (Jan 2, 1982)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/-gtLLD-ZbpI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:d9N1EX_4slw",
+        "dateBasis": "publication",
+        "itemId": "d9N1EX_4slw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=d9N1EX_4slw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wlvpfi/",
+            "id": "reddit-obscuremedia-1wlvpfi",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wlvpfi",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-20T23:01:12Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-20T23:01:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wlvpfi/",
+      "date_published": "2026-09-20T23:01:12Z",
+      "external_url": "https://www.youtube.com/watch?v=d9N1EX_4slw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/d9N1EX_4slw/",
+      "image": "https://i.ytimg.com/vi/d9N1EX_4slw/hqdefault.jpg",
+      "title": "Pipkins - Hartley Hare teaches you how to be.. naughty with a glove puppet. (1976)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/d9N1EX_4slw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:cEIfqa85osk",
+        "dateBasis": "publication",
+        "itemId": "cEIfqa85osk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cEIfqa85osk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wltrq7/",
+            "id": "reddit-obscuremedia-1wltrq7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wltrq7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-20T21:39:22Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-20T21:39:22Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wltrq7/",
+      "date_published": "2026-09-20T21:39:22Z",
+      "external_url": "https://www.youtube.com/watch?v=cEIfqa85osk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cEIfqa85osk/",
+      "image": "https://i.ytimg.com/vi/cEIfqa85osk/hqdefault.jpg",
+      "title": "The Making of Blood Circus (1985) From the huckster who brought you Santo Gold",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cEIfqa85osk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:bTPC4W1VkeU",
+        "dateBasis": "publication",
+        "itemId": "bTPC4W1VkeU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bTPC4W1VkeU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wlomiz/",
+            "id": "reddit-obscuremedia-1wlomiz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wlomiz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-20T18:24:10Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-20T18:24:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wlomiz/",
+      "date_published": "2026-09-20T18:24:10Z",
+      "external_url": "https://www.youtube.com/watch?v=bTPC4W1VkeU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bTPC4W1VkeU/",
+      "image": "https://i.ytimg.com/vi/bTPC4W1VkeU/hqdefault.jpg",
+      "title": "(2001) commercial for a planned outdoor dance series at the World Trade Center, taking place from September 10th to the 16th.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bTPC4W1VkeU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:s1cu2IdwsHs",
+        "dateBasis": "publication",
+        "itemId": "s1cu2IdwsHs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=s1cu2IdwsHs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wl5zfh/",
+            "id": "reddit-obscuremedia-1wl5zfh",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wl5zfh",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-20T03:32:32Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-20T03:32:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wl5zfh/",
+      "date_published": "2026-09-20T03:32:32Z",
+      "external_url": "https://www.youtube.com/watch?v=s1cu2IdwsHs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/s1cu2IdwsHs/",
+      "image": "https://i.ytimg.com/vi/s1cu2IdwsHs/hqdefault.jpg",
+      "title": "''The Lurch'' Shindig 65 - (1965)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/s1cu2IdwsHs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:5S0ePlwsQO4",
+        "dateBasis": "publication",
+        "itemId": "5S0ePlwsQO4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5S0ePlwsQO4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wl5p53/",
+            "id": "reddit-obscuremedia-1wl5p53",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wl5p53",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-20T03:17:43Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-20T03:17:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wl5p53/",
+      "date_published": "2026-09-20T03:17:43Z",
+      "external_url": "https://www.youtube.com/watch?v=5S0ePlwsQO4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/5S0ePlwsQO4/",
+      "image": "https://i.ytimg.com/vi/5S0ePlwsQO4/hqdefault.jpg",
+      "title": "Living and Working in Space: The Countdown Has Begun (1993)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/5S0ePlwsQO4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:iPiPiT02hhM",
+        "dateBasis": "publication",
+        "itemId": "iPiPiT02hhM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=iPiPiT02hhM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wl2ea0/",
+            "id": "reddit-obscuremedia-1wl2ea0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wl2ea0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-20T00:35:39Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-20T00:35:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wl2ea0/",
+      "date_published": "2026-09-20T00:35:39Z",
+      "external_url": "https://www.youtube.com/watch?v=iPiPiT02hhM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/iPiPiT02hhM/",
+      "image": "https://i.ytimg.com/vi/iPiPiT02hhM/hqdefault.jpg",
+      "title": "Molson Export commercial (2001)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/iPiPiT02hhM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:gLDzYeghsyo",
+        "dateBasis": "publication",
+        "itemId": "gLDzYeghsyo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gLDzYeghsyo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wl1u2n/",
+            "id": "reddit-obscuremedia-1wl1u2n",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wl1u2n",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-20T00:09:08Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-20T00:09:08Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wl1u2n/",
+      "date_published": "2026-09-20T00:09:08Z",
+      "external_url": "https://www.youtube.com/watch?v=gLDzYeghsyo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/gLDzYeghsyo/",
+      "image": "https://i.ytimg.com/vi/gLDzYeghsyo/hqdefault.jpg",
+      "title": "Big shorts mouse pilot by former spumco animator Gabe Swarr (2003)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/gLDzYeghsyo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:KqH6nRrtm28",
+        "dateBasis": "publication",
+        "itemId": "KqH6nRrtm28",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KqH6nRrtm28"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wkxtkn/",
+            "id": "reddit-obscuremedia-1wkxtkn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wkxtkn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-19T21:14:12Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-19T21:14:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wkxtkn/",
+      "date_published": "2026-09-19T21:14:12Z",
+      "external_url": "https://www.youtube.com/watch?v=KqH6nRrtm28",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KqH6nRrtm28/",
+      "image": "https://i.ytimg.com/vi/KqH6nRrtm28/hqdefault.jpg",
+      "title": "Anti Smoking PSA feat. Rob McElhenney (1999)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KqH6nRrtm28/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ouwptzyfIe4",
+        "dateBasis": "publication",
+        "itemId": "ouwptzyfIe4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ouwptzyfIe4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wkwrww/",
+            "id": "reddit-obscuremedia-1wkwrww",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wkwrww",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-19T20:31:40Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-19T20:31:40Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wkwrww/",
+      "date_published": "2026-09-19T20:31:40Z",
+      "external_url": "https://www.youtube.com/watch?v=ouwptzyfIe4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/ouwptzyfIe4/",
+      "image": "https://i.ytimg.com/vi/ouwptzyfIe4/hqdefault.jpg",
+      "title": "The Nivens (Norwich) - Shake it from the Top (1989) Directed by Vince Rodgers",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/ouwptzyfIe4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:P0EWKZkgRwc",
+        "dateBasis": "publication",
+        "itemId": "P0EWKZkgRwc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=P0EWKZkgRwc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wkwg9m/",
+            "id": "reddit-obscuremedia-1wkwg9m",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wkwg9m",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-19T20:18:38Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-19T20:18:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wkwg9m/",
+      "date_published": "2026-09-19T20:18:38Z",
+      "external_url": "https://www.youtube.com/watch?v=P0EWKZkgRwc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/P0EWKZkgRwc/",
+      "image": "https://i.ytimg.com/vi/P0EWKZkgRwc/hqdefault.jpg",
+      "title": "The Nivens (Northumberland) - I Love Me (1990) From the BBC North program \"Out of our Heads\"",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/P0EWKZkgRwc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:EAX43Y9wRTg",
+        "dateBasis": "publication",
+        "itemId": "EAX43Y9wRTg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=EAX43Y9wRTg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wkvo7q/",
+            "id": "reddit-obscuremedia-1wkvo7q",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wkvo7q",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-19T19:47:55Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-19T19:47:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wkvo7q/",
+      "date_published": "2026-09-19T19:47:55Z",
+      "external_url": "https://www.youtube.com/watch?v=EAX43Y9wRTg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/EAX43Y9wRTg/",
+      "image": "https://i.ytimg.com/vi/EAX43Y9wRTg/hqdefault.jpg",
+      "title": "I Tawt I Taw A Puddy Tat Sketch (1979) — This is a live action sketch from a Christmas special of The Morecambe & Wise Show that follows the song “I Tawt I Taw A Puddy Tat“ recorded by Mel Blanc a few decades prior.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/EAX43Y9wRTg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:cO3rKlCRrc8",
+        "dateBasis": "publication",
+        "itemId": "cO3rKlCRrc8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cO3rKlCRrc8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wkrqtn/",
+            "id": "reddit-obscuremedia-1wkrqtn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wkrqtn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-19T17:12:53Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-19T17:12:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wkrqtn/",
+      "date_published": "2026-09-19T17:12:53Z",
+      "external_url": "https://www.youtube.com/watch?v=cO3rKlCRrc8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cO3rKlCRrc8/",
+      "image": "https://i.ytimg.com/vi/cO3rKlCRrc8/hqdefault.jpg",
+      "title": "Erotikon (1920)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cO3rKlCRrc8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:CVexewVb2B4",
+        "dateBasis": "publication",
+        "itemId": "CVexewVb2B4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=CVexewVb2B4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wkresj/",
+            "id": "reddit-obscuremedia-1wkresj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wkresj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-19T17:00:01Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-19T17:00:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wkresj/",
+      "date_published": "2026-09-19T17:00:01Z",
+      "external_url": "https://www.youtube.com/watch?v=CVexewVb2B4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/CVexewVb2B4/",
+      "image": "https://i.ytimg.com/vi/CVexewVb2B4/hqdefault.jpg",
+      "title": "Dance Craze (1981) 2-Tone concert movie",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/CVexewVb2B4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:wZW59Y6M_6g",
+        "dateBasis": "publication",
+        "itemId": "wZW59Y6M_6g",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=wZW59Y6M_6g"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wk6fih/",
+            "id": "reddit-obscuremedia-1wk6fih",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wk6fih",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T23:50:52Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-18T23:50:52Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wk6fih/",
+      "date_published": "2026-09-18T23:50:52Z",
+      "external_url": "https://www.youtube.com/watch?v=wZW59Y6M_6g",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/wZW59Y6M_6g/",
+      "image": "https://i.ytimg.com/vi/wZW59Y6M_6g/hqdefault.jpg",
+      "title": "Check a and b - Directed by Amy Sturkey (Bisexuality Documentary; Made in Charlotte, NC) (2000)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/wZW59Y6M_6g/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:QhFZtIxjhYs",
+        "dateBasis": "publication",
+        "itemId": "QhFZtIxjhYs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QhFZtIxjhYs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wjxwtv/",
+            "id": "reddit-obscuremedia-1wjxwtv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wjxwtv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T18:16:00Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-18T18:16:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wjxwtv/",
+      "date_published": "2026-09-18T18:16:00Z",
+      "external_url": "https://www.youtube.com/watch?v=QhFZtIxjhYs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/QhFZtIxjhYs/",
+      "image": "https://i.ytimg.com/vi/QhFZtIxjhYs/hqdefault.jpg",
+      "title": "Two Nice Girls - Let's Go Bonding (1991)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/QhFZtIxjhYs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:PIzw-rCZtNo",
+        "dateBasis": "publication",
+        "itemId": "PIzw-rCZtNo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PIzw-rCZtNo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wjuw9p/",
+            "id": "reddit-obscuremedia-1wjuw9p",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wjuw9p",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T16:25:36Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wjuf3o/",
+            "id": "reddit-obscuremedia-1wjuf3o",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wjuf3o",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T16:08:03Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wju90q/",
+            "id": "reddit-obscuremedia-1wju90q",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wju90q",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T16:01:52Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-18T16:25:36Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wjuw9p/\nhttps://www.reddit.com/r/obscuremedia/comments/1wjuf3o/\nhttps://www.reddit.com/r/obscuremedia/comments/1wju90q/",
+      "date_published": "2026-09-18T16:25:36Z",
+      "external_url": "https://www.youtube.com/watch?v=PIzw-rCZtNo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/PIzw-rCZtNo/",
+      "image": "https://i.ytimg.com/vi/PIzw-rCZtNo/hqdefault.jpg",
+      "title": "Finally i discover best ever Auld Lang Syne song version they clip upload youtube at 3 june (2006) of a found I’ve been searching for over 10++ years",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/PIzw-rCZtNo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:IyiLDL_EK-g",
+        "dateBasis": "publication",
+        "itemId": "IyiLDL_EK-g",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IyiLDL_EK-g"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wjunhy/",
+            "id": "reddit-obscuremedia-1wjunhy",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wjunhy",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T16:16:37Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-18T16:16:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wjunhy/",
+      "date_published": "2026-09-18T16:16:37Z",
+      "external_url": "https://www.youtube.com/watch?v=IyiLDL_EK-g",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IyiLDL_EK-g/",
+      "image": "https://i.ytimg.com/vi/IyiLDL_EK-g/hqdefault.jpg",
+      "title": "Suburban Lawns - \"Unable\" Live @ Deaf Club (1979)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IyiLDL_EK-g/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:moc0hTHrh50",
+        "dateBasis": "publication",
+        "itemId": "moc0hTHrh50",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=moc0hTHrh50"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wjqrgy/",
+            "id": "reddit-obscuremedia-1wjqrgy",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wjqrgy",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T13:49:54Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-18T13:49:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wjqrgy/",
+      "date_published": "2026-09-18T13:49:54Z",
+      "external_url": "https://www.youtube.com/watch?v=moc0hTHrh50",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/moc0hTHrh50/",
+      "image": "https://i.ytimg.com/vi/moc0hTHrh50/hqdefault.jpg",
+      "title": "The Amazing Video Collection: Incredible Rescues (1996) Produced by Langley Productions, the same company that created COPS",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/moc0hTHrh50/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:jbWWFu_kaRQ",
+        "dateBasis": "publication",
+        "itemId": "jbWWFu_kaRQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jbWWFu_kaRQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wjdu0h/",
+            "id": "reddit-obscuremedia-1wjdu0h",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wjdu0h",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T02:31:59Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-18T02:31:59Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wjdu0h/",
+      "date_published": "2026-09-18T02:31:59Z",
+      "external_url": "https://www.youtube.com/watch?v=jbWWFu_kaRQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/jbWWFu_kaRQ/",
+      "image": "https://i.ytimg.com/vi/jbWWFu_kaRQ/hqdefault.jpg",
+      "title": "remember the palace chat?",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/jbWWFu_kaRQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:hXt0GEave-s",
+        "dateBasis": "publication",
+        "itemId": "hXt0GEave-s",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=hXt0GEave-s"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1wjd0a0/",
+            "id": "reddit-obscuremedia-1wjd0a0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1wjd0a0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-18T01:53:21Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-09-18T01:53:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1wjd0a0/",
+      "date_published": "2026-09-18T01:53:21Z",
+      "external_url": "https://www.youtube.com/watch?v=hXt0GEave-s",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/hXt0GEave-s/",
+      "image": "https://i.ytimg.com/vi/hXt0GEave-s/hqdefault.jpg",
+      "title": "So.. that 1972 or so Audiodrama radio broadcast about \"The Peroria Plague\", like a war of the worlds broadcast. Need help identifying the \"Scarborough Fair\" song 3 mins in.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/hXt0GEave-s/"
     }
   ],
   "title": "r/obscuremedia — video links",
