@@ -1,4 +1,4 @@
-# Git collection → playable video feed
+# Public video feeds
 
 This is an independent, offline Python connector for a Git-tracked manual collection.
 It publishes a complete JSON Feed 1.1 / Retoob profile-1 snapshot. It needs no
@@ -79,3 +79,32 @@ identities, and never fetches a feed-supplied schema URL. Older profile-1 feeds
 without `_retoob.schema` remain valid. Unknown schema identifiers need explicit
 review; a reader may ignore additive discovery fields. It is not a network/SSRF,
 provider-permission, or cross-page conformance audit.
+
+## Hacker News feeds
+
+- Top-story window: https://algoplay.com/retoob-feeds/hn-top-videos/feed.json
+- Newest-story window: https://algoplay.com/retoob-feeds/hn-new-videos/feed.json
+- Last successful refresh: https://algoplay.com/retoob-feeds/hn-status.json
+
+These are YouTube links among the official API's current top/new story windows,
+ordered by submission date. They are not a complete historical archive. HN
+mentions retain discussion provenance and are not verified endorsements. No
+YouTube account, Retoob backend, database, browser scraper, or Cloud Run deploy is
+needed. See `examples/hn-publisher/README.md` for bounds and failure behavior.
+
+The GitHub Actions workflow refreshes every six hours or on manual dispatch, then
+validates and publishes the whole Pages site, preserving the manual Tech Night
+feed. `.hn-publisher-state.json` retains only hashes/revisions and must never be
+reset. An unsuccessful source fetch or validation prevents publishing. Scheduled
+GitHub jobs can be delayed, and public-repository schedules may be disabled after
+60 days of repository inactivity. Check the public freshness timestamp and the
+Actions page if updates stop. Pages must use the GitHub Actions publishing mode.
+
+The manual update instructions above predate multiple producers: regenerate the
+manual feed in a staging directory and replace only `docs/tech-night`, retaining
+the two HN directories, then run `scripts/update-hn-site.py` on a fresh HN staging
+site to rebuild the combined index. Do not replace the entire `docs` directory
+with manual-only output.
+
+No Reddit feed is configured. Third-party API access and public redistribution
+requirements remain to be verified before enabling one.

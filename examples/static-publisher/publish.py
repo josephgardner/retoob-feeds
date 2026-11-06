@@ -76,6 +76,18 @@ def generate(source, state=None):
         if type(offset) is not int or not 0 <= offset <= 2147483647:
             raise ValueError("Invalid startSeconds")
         recommendation = {"id": entry_id, "kind": "manual", "recommendationBasis": "explicit", "createdAt": entry["savedAt"], "recommendedAt": entry["savedAt"], "startSeconds": offset}
+        if "communitySource" in entry:
+            community = entry["communitySource"]
+            def public_url(value):
+                parsed = urlsplit(value)
+                if parsed.scheme != "https" or not parsed.hostname or parsed.username or parsed.password:
+                    raise ValueError("Community provenance URLs must use HTTPS without credentials")
+                return value
+            recommendation = {"id": entry_id, "kind": "community", "recommendationBasis": "mention",
+                              "publisher": {"name": text(community["name"]), "url": public_url(community["url"])},
+                              "sourceUrl": public_url(community["url"]), "upstreamItemId": text(community["itemId"]),
+                              "discussionUrl": public_url(community["discussionUrl"]),
+                              "upstreamPublishedAt": {"value": entry["savedAt"], "precision": "exact"}, "startSeconds": offset}
         if "note" in entry:
             recommendation["note"] = text(entry["note"])
         groups.setdefault(video, []).append((entry, recommendation))
@@ -86,6 +98,11 @@ def generate(source, state=None):
         permalink = f"{home}items/{video}/"
         watch = f"https://www.youtube.com/watch?v={video}"
         item = {"id": permalink, "url": permalink, "external_url": watch, "title": text(selected["title"]), "content_text": "\n\n".join("Curator note: " + r["note"] for _, r in entries if "note" in r), "date_published": selected["savedAt"], "_retoob": {"version": 1, "itemId": video, "contentKey": f"youtube:{video}", "sortAt": selected["savedAt"], "dateBasis": "recommendation", "playback": {"mode": "external", "provider": "youtube", "url": watch, "startSeconds": selected.get("startSeconds", 0)}, "recommendations": [r for _, r in entries]}}
+        if "communitySource" in selected:
+            item["_retoob"]["dateBasis"] = "publication"
+            item["content_text"] = "\n\n".join(
+                f'Imported {r["publisher"]["name"]} mention: {r["discussionUrl"]}. Not a verified endorsement.'
+                for _, r in entries)
         item["image"] = f"https://i.ytimg.com/vi/{video}/hqdefault.jpg"
         card_hash = digest(item)
         old = ledger["cards"].get(video, {"revision": 0})
