@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 18,
+    "itemCount": 19,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 3,
+    "revision": 4,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:U2DDKdUvq6k",
+        "dateBasis": "publication",
+        "itemId": "U2DDKdUvq6k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=U2DDKdUvq6k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50387940",
+            "id": "hn-50387940",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50387940",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T03:53:21Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-06T03:53:21Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50387940. Not a verified endorsement.",
+      "date_published": "2026-11-06T03:53:21Z",
+      "external_url": "https://www.youtube.com/watch?v=U2DDKdUvq6k",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/U2DDKdUvq6k/",
+      "image": "https://i.ytimg.com/vi/U2DDKdUvq6k/hqdefault.jpg",
+      "title": "Are We Cooked? CMU Faculty on AI, Careers and Learning [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/U2DDKdUvq6k/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:B2482h_TNwg",
@@ -378,7 +420,7 @@
             }
           }
         ],
-        "revision": 1,
+        "revision": 2,
         "sortAt": "2026-11-05T23:03:58Z",
         "version": 1
       },
@@ -387,7 +429,7 @@
       "external_url": "https://www.youtube.com/watch?v=5Y7lTEUA2hk",
       "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5Y7lTEUA2hk/",
       "image": "https://i.ytimg.com/vi/5Y7lTEUA2hk/hqdefault.jpg",
-      "title": "Mid-Air Encounter: F-16 Rams Plane Near Mar-a-Lago [video]",
+      "title": "Mid-Air Encounter: F-16 Rams Plane Near Mar-a-Lago [video] (2025)",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5Y7lTEUA2hk/"
     },
     {

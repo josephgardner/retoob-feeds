@@ -118,15 +118,15 @@
       "title": "Hacker News \u2014 newest-story videos",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/hn-new-videos/",
-      "itemCount": 18,
-      "revision": 3
+      "itemCount": 19,
+      "revision": 4
     },
     {
       "title": "Hacker News \u2014 top-story videos",
       "url": "https://algoplay.com/retoob-feeds/hn-top-videos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/hn-top-videos/",
       "itemCount": 7,
-      "revision": 2
+      "revision": 3
     },
     {
       "title": "Tech Night \u2014 independent feed demo",
@@ -138,7 +138,7 @@
   ],
   "connectors": {
     "hn": {
-      "lastSuccessfulRefreshAt": "2026-11-06T03:18:41Z",
+      "lastSuccessfulRefreshAt": "2026-11-06T04:28:18Z",
       "scheduledIntervalHours": 6
     },
     "hackertube": {
