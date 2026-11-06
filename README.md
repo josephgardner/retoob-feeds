@@ -37,11 +37,11 @@ python3 examples/static-publisher/publish.py examples/static-publisher/tech-nigh
 python3 scripts/check-protocol.py /tmp/retoob-next-site/tech-night/feed.json
 ```
 
-Review the output. Replace the **entire `docs/` directory** with this generated
-site, including deletion of old card pages, and commit it together with the
-collection and `.publisher-state.json`. Push `main` to publish via GitHub Pages
-(branch `main`, directory `/docs`). Do not overlay an old site: that can preserve
-removed notes in old HTML pages. Git history is public; never put sensitive or
+Review the output. Replace the entire **owned `docs/tech-night/` directory**,
+including deletion of old card pages, and commit it together with the collection
+and `.publisher-state.json`. Preserve every other feed and the schema. Push
+`main` to validate and deploy `docs/` through GitHub Pages Actions. Do not overlay
+old card pages: that can preserve removed notes in old HTML pages. Git history is public; never put sensitive or
 revocable private content into this repository. Remove prohibited content from
 history/caches separately when required.
 
@@ -70,9 +70,8 @@ keep the canonical URI available even if the test publisher moves.
 GitHub Pages controls MIME types and caching: `.json` is `application/json`, which
 the existing TV reader accepts. The current protocol specifies
 `application/feed+json`, so this demonstrates reader interoperability with a
-**documented hosting deviation**, not full HTTP conformance. There is no arbitrary
-upstream Git crawler, webhook ingestion, scheduled source refresh, or multi-feed
-aggregation service in this first connector.
+**documented hosting deviation**, not full HTTP conformance. The original manual connector does not crawl arbitrary Git repositories.
+The separate HN and HackerTube source refreshes are described below.
 
 The offline validator uses a pinned local schema, checks complete counts and unique
 identities, and never fetches a feed-supplied schema URL. Older profile-1 feeds
@@ -92,19 +91,47 @@ mentions retain discussion provenance and are not verified endorsements. No
 YouTube account, Retoob backend, database, browser scraper, or Cloud Run deploy is
 needed. See `examples/hn-publisher/README.md` for bounds and failure behavior.
 
-The GitHub Actions workflow refreshes every six hours or on manual dispatch, then
-validates and publishes the whole Pages site, preserving the manual Tech Night
-feed. `.hn-publisher-state.json` retains only hashes/revisions and must never be
-reset. An unsuccessful source fetch or validation prevents publishing. Scheduled
-GitHub jobs can be delayed, and public-repository schedules may be disabled after
-60 days of repository inactivity. Check the public freshness timestamp and the
-Actions page if updates stop. Pages must use the GitHub Actions publishing mode.
+Collection runs in a private GitHub Actions pipeline every six hours. Its private
+Git state branch retains revision continuity and HackerTube source versions;
+`.hn-publisher-state.json` here is the historical migration ledger, not the active
+state store. This repository's workflow validates committed feeds and deploys
+Pages on pushes; it does not poll sources. Source failures preserve last good
+output. Scheduled GitHub jobs can be delayed. Check the public status timestamps
+if updates stop. No Google Cloud service is needed for this pipeline.
 
-The manual update instructions above predate multiple producers: regenerate the
-manual feed in a staging directory and replace only `docs/tech-night`, retaining
-the two HN directories, then run `scripts/update-hn-site.py` on a fresh HN staging
-site to rebuild the combined index. Do not replace the entire `docs` directory
-with manual-only output.
+## HackerTube historical catalogue
+
+Browse all feeds: https://algoplay.com/retoob-feeds/
+
+Machine-readable directory: https://algoplay.com/retoob-feeds/feeds.json
+
+Catalogue status: https://algoplay.com/retoob-feeds/hackertube-status.json
+
+Sixteen broad-area feeds use `hackertube-<area>/feed.json`, for example:
+
+- Software: https://algoplay.com/retoob-feeds/hackertube-software/feed.json
+- AI and data: https://algoplay.com/retoob-feeds/hackertube-ai-data/feed.json
+- Mathematics: https://algoplay.com/retoob-feeds/hackertube-math-theory/feed.json
+
+These are historical catalogue imports, distinct from live HN top/new windows.
+The pipeline checks the official export manifest every six hours; a new release
+is imported completely before publication. This does not promise that HackerTube
+releases new data every six hours. Each area selects up to 500 videos by catalogue
+score. Exact dates are unknown, so profile-1 cards use unknown dates and stable
+ID ordering, rather than fabricated timestamps or a claim of chronological rank.
+No comments, quotes, usernames, embeddings or related graph are republished.
+Omission in a new export is not treated as an authoritative withdrawal; explicit
+exclusions remain excluded across imports.
+
+Catalogue credit: [HackerTube](https://hackertube.org) and
+[open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news),
+under [ODC-By 1.0](https://opendatacommons.org/licenses/by/1-0/).
+Summaries/categories are machine-generated. Catalogue mentions are not verified
+endorsements. Titles and channel names belong to their creators.
+
+Manual updates must preserve all other producer directories and the schema.
+Never replace `docs/` with a manual-only generated site. The private publication
+pipeline rebuilds the combined directory from committed feed files.
 
 No Reddit feed is configured. Third-party API access and public redistribution
 requirements remain to be verified before enabling one.

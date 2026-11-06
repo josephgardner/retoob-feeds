@@ -1,56 +1,35 @@
-name: Refresh and publish video feeds
+name: Deploy validated video feeds
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
-  schedule:
-    - cron: '23 */6 * * *'
 
 concurrency:
   group: feed-publication
   cancel-in-progress: false
 
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Install pinned validator
-        run: python -m pip install -r scripts/requirements-protocol.txt
-      - name: Connector checks
-        run: python scripts/test-hn-publisher.py
-      - name: Fetch bounded HN windows and generate snapshots
+      - name: Validate every committed public feed
         run: |
-          python examples/hn-publisher/publish.py \
-            --state .hn-publisher-state.json --output "$RUNNER_TEMP/hn-site" \
-            --schema docs/schemas/retoob-feed-v1.schema.json
-          python scripts/check-protocol.py "$RUNNER_TEMP/hn-site/hn-top-videos/feed.json" "$RUNNER_TEMP/hn-site/hn-new-videos/feed.json"
-          python scripts/update-hn-site.py "$RUNNER_TEMP/hn-site"
+          python -m pip install -r scripts/requirements-protocol.txt
           python scripts/check-protocol.py docs/*/feed.json
-      - name: Retain publication revisions and public snapshots
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .hn-publisher-state.json docs
-          if ! git diff --cached --quiet; then
-            git commit -m 'Refresh HN video feeds [skip ci]'
-            git push origin HEAD:main
-          fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
