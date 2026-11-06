@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 6,
+    "itemCount": 7,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 1,
+    "revision": 2,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-top-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-top-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:l7oERDXGxxo",
+        "dateBasis": "publication",
+        "itemId": "l7oERDXGxxo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=l7oERDXGxxo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50386824",
+            "id": "hn-50386824",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50386824",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T00:58:54Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-06T00:58:54Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50386824. Not a verified endorsement.",
+      "date_published": "2026-11-06T00:58:54Z",
+      "external_url": "https://www.youtube.com/watch?v=l7oERDXGxxo",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/l7oERDXGxxo/",
+      "image": "https://i.ytimg.com/vi/l7oERDXGxxo/hqdefault.jpg",
+      "title": "Now this is how you pelican on a bike [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/l7oERDXGxxo/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:esfLRBvJUzg",
