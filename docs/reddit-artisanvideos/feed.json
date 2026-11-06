@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 205,
+    "itemCount": 271,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 1,
+    "revision": 2,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:V_6UUmp09us",
+        "dateBasis": "publication",
+        "itemId": "V_6UUmp09us",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=V_6UUmp09us"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1xp9ou3/",
+            "id": "reddit-artisanvideos-1xp9ou3",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1xp9ou3",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T10:37:33Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-06T10:37:33Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1xp9ou3/",
+      "date_published": "2026-11-06T10:37:33Z",
+      "external_url": "https://www.youtube.com/watch?v=V_6UUmp09us",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/V_6UUmp09us/",
+      "image": "https://i.ytimg.com/vi/V_6UUmp09us/hqdefault.jpg",
+      "title": "An artisan cheese documentary following a cheesemaker entering the Artisan Cheese Awards for the first time [21:33]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/V_6UUmp09us/"
+    },
     {
       "_retoob": {
         "contentKey": "reddit:avg5wplowx0g1",
@@ -8778,13 +8819,45 @@
               "precision": "exact",
               "value": "2025-11-20T21:55:31Z"
             }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ovwske/",
+            "id": "reddit-artisanvideos-1ovwske",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ovwske",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-13T09:32:37Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ovwrel/",
+            "id": "reddit-artisanvideos-1ovwrel",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ovwrel",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-13T09:30:32Z"
+            }
           }
         ],
-        "revision": 1,
+        "revision": 2,
         "sortAt": "2025-11-20T21:55:31Z",
         "version": 1
       },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1p2ge93/",
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1p2ge93/\nhttps://www.reddit.com/r/artisanvideos/comments/1ovwske/\nhttps://www.reddit.com/r/artisanvideos/comments/1ovwrel/",
       "date_published": "2025-11-20T21:55:31Z",
       "external_url": "https://www.youtube.com/watch?v=xcd3OXXglBA",
       "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/xcd3OXXglBA/",
@@ -8832,6 +8905,2791 @@
       "image": "https://i.ytimg.com/vi/4nCjPPjDsrI/hqdefault.jpg",
       "title": "How A Corroded & Dented French Horn Gets Professionally Restored [31:30]",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/4nCjPPjDsrI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:hv5ygxt6k72g1",
+        "dateBasis": "publication",
+        "itemId": "reddit-hv5ygxt6k72g1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/hv5ygxt6k72g1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1p1eojq/",
+            "id": "reddit-artisanvideos-1p1eojq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1p1eojq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-19T17:56:49Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-19T17:56:49Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1p1eojq/",
+      "date_published": "2025-11-19T17:56:49Z",
+      "external_url": "https://v.redd.it/hv5ygxt6k72g1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-hv5ygxt6k72g1/",
+      "title": "Handcrafted with care at Flint's Woodshop, this urn is designed to honor and preserve the memory of your loved one. Each piece reflects timeless elegance and masterful craftsmanship, offering a dignified and lasting tribute.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-hv5ygxt6k72g1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:EamN3d-QDz4",
+        "dateBasis": "publication",
+        "itemId": "EamN3d-QDz4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=EamN3d-QDz4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1p1a9gd/",
+            "id": "reddit-artisanvideos-1p1a9gd",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1p1a9gd",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-19T15:13:37Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-19T15:13:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1p1a9gd/",
+      "date_published": "2025-11-19T15:13:37Z",
+      "external_url": "https://www.youtube.com/watch?v=EamN3d-QDz4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/EamN3d-QDz4/",
+      "image": "https://i.ytimg.com/vi/EamN3d-QDz4/hqdefault.jpg",
+      "title": "O plot twist do século 🤣🔥",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/EamN3d-QDz4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:5BroV5H2lFg",
+        "dateBasis": "publication",
+        "itemId": "5BroV5H2lFg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5BroV5H2lFg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1p17hob/",
+            "id": "reddit-artisanvideos-1p17hob",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1p17hob",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-19T13:19:58Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-19T13:19:58Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1p17hob/",
+      "date_published": "2025-11-19T13:19:58Z",
+      "external_url": "https://www.youtube.com/watch?v=5BroV5H2lFg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/5BroV5H2lFg/",
+      "image": "https://i.ytimg.com/vi/5BroV5H2lFg/hqdefault.jpg",
+      "title": "Liebherr Bulldozers Production [17:39]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/5BroV5H2lFg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:j0qmo8jdvs1g1",
+        "dateBasis": "publication",
+        "itemId": "reddit-j0qmo8jdvs1g1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/j0qmo8jdvs1g1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ozdk72/",
+            "id": "reddit-artisanvideos-1ozdk72",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ozdk72",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-17T11:11:16Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-17T11:11:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1ozdk72/",
+      "date_published": "2025-11-17T11:11:16Z",
+      "external_url": "https://v.redd.it/j0qmo8jdvs1g1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-j0qmo8jdvs1g1/",
+      "title": "8” custom Chef Commission",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-j0qmo8jdvs1g1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:9JzPtG7774k",
+        "dateBasis": "publication",
+        "itemId": "9JzPtG7774k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9JzPtG7774k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1oyxuu3/",
+            "id": "reddit-artisanvideos-1oyxuu3",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1oyxuu3",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-16T21:33:31Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-16T21:33:31Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1oyxuu3/",
+      "date_published": "2025-11-16T21:33:31Z",
+      "external_url": "https://www.youtube.com/watch?v=9JzPtG7774k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/9JzPtG7774k/",
+      "image": "https://i.ytimg.com/vi/9JzPtG7774k/hqdefault.jpg",
+      "title": "Fixing a vintage wrist watch (52:43)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/9JzPtG7774k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:KaDpQL1xr5c",
+        "dateBasis": "publication",
+        "itemId": "KaDpQL1xr5c",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KaDpQL1xr5c"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1oyso72/",
+            "id": "reddit-artisanvideos-1oyso72",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1oyso72",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-16T18:10:12Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1oyrf1m/",
+            "id": "reddit-artisanvideos-1oyrf1m",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1oyrf1m",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-16T17:21:30Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-16T18:10:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1oyso72/\nhttps://www.reddit.com/r/artisanvideos/comments/1oyrf1m/",
+      "date_published": "2025-11-16T18:10:12Z",
+      "external_url": "https://www.youtube.com/watch?v=KaDpQL1xr5c",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/KaDpQL1xr5c/",
+      "image": "https://i.ytimg.com/vi/KaDpQL1xr5c/hqdefault.jpg",
+      "title": "Making an Apple Galette [06:28]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/KaDpQL1xr5c/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:PasrD1id2r4",
+        "dateBasis": "publication",
+        "itemId": "PasrD1id2r4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PasrD1id2r4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1oxsttp/",
+            "id": "reddit-artisanvideos-1oxsttp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1oxsttp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-15T14:17:51Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o82jri/",
+            "id": "reddit-artisanvideos-1o82jri",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o82jri",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-16T10:28:39Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-15T14:17:51Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1oxsttp/\nhttps://www.reddit.com/r/artisanvideos/comments/1o82jri/",
+      "date_published": "2025-11-15T14:17:51Z",
+      "external_url": "https://www.youtube.com/watch?v=PasrD1id2r4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/PasrD1id2r4/",
+      "image": "https://i.ytimg.com/vi/PasrD1id2r4/hqdefault.jpg",
+      "title": "Differential Restoration - Datsun 240Z Back On Wheels (Part 8) [36:11]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/PasrD1id2r4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:RnIuHaTMl9k",
+        "dateBasis": "publication",
+        "itemId": "RnIuHaTMl9k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=RnIuHaTMl9k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1otf6fe/",
+            "id": "reddit-artisanvideos-1otf6fe",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1otf6fe",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-10T14:27:14Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-10T14:27:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1otf6fe/",
+      "date_published": "2025-11-10T14:27:14Z",
+      "external_url": "https://www.youtube.com/watch?v=RnIuHaTMl9k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/RnIuHaTMl9k/",
+      "image": "https://i.ytimg.com/vi/RnIuHaTMl9k/hqdefault.jpg",
+      "title": "Tearing Down Ayrton Senna’s Last Honda V10 F1 Engine [14:40]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/RnIuHaTMl9k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ff9je4kf10zf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ff9je4kf10zf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ff9je4kf10zf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1on61i2/",
+            "id": "reddit-artisanvideos-1on61i2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1on61i2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-03T08:03:07Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-03T08:03:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1on61i2/",
+      "date_published": "2025-11-03T08:03:07Z",
+      "external_url": "https://v.redd.it/ff9je4kf10zf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-ff9je4kf10zf1/",
+      "image": "https://external-preview.redd.it/bjl2NTQ2a2YxMHpmMVkLJEy1XDWtXTeIgqac_yT7m1oeFe-h6293Cdrrakdg.png?width=140&height=140&format=jpg&auto=webp&s=806a5dc69e72eb0a0b1aa6a0adc7083307540758",
+      "title": "Cup cup",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-ff9je4kf10zf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ib9F52iXVw4",
+        "dateBasis": "publication",
+        "itemId": "ib9F52iXVw4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ib9F52iXVw4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1omk1j9/",
+            "id": "reddit-artisanvideos-1omk1j9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1omk1j9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-11-02T15:22:17Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-11-02T15:22:17Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1omk1j9/",
+      "date_published": "2025-11-02T15:22:17Z",
+      "external_url": "https://www.youtube.com/watch?v=ib9F52iXVw4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ib9F52iXVw4/",
+      "image": "https://i.ytimg.com/vi/ib9F52iXVw4/hqdefault.jpg",
+      "title": "Making French Silk Pie [09:04]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ib9F52iXVw4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:dfmQumWuTHU",
+        "dateBasis": "publication",
+        "itemId": "dfmQumWuTHU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=dfmQumWuTHU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1oidji7/",
+            "id": "reddit-artisanvideos-1oidji7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1oidji7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-28T16:09:00Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-28T16:09:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1oidji7/",
+      "date_published": "2025-10-28T16:09:00Z",
+      "external_url": "https://www.youtube.com/watch?v=dfmQumWuTHU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/dfmQumWuTHU/",
+      "image": "https://i.ytimg.com/vi/dfmQumWuTHU/hqdefault.jpg",
+      "title": "[00:20:56] Sculpting a Ceramic Flowerbrick Vase",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/dfmQumWuTHU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:W6Awps2HRpI",
+        "dateBasis": "publication",
+        "itemId": "W6Awps2HRpI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=W6Awps2HRpI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1odbukz/",
+            "id": "reddit-artisanvideos-1odbukz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1odbukz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-22T15:44:08Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-22T15:44:08Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1odbukz/",
+      "date_published": "2025-10-22T15:44:08Z",
+      "external_url": "https://www.youtube.com/watch?v=W6Awps2HRpI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/W6Awps2HRpI/",
+      "image": "https://i.ytimg.com/vi/W6Awps2HRpI/hqdefault.jpg",
+      "title": "Making 15 Handmade Wallets [1:06:35]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/W6Awps2HRpI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:dSbqV3W_UYU",
+        "dateBasis": "publication",
+        "itemId": "dSbqV3W_UYU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=dSbqV3W_UYU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1oanvl2/",
+            "id": "reddit-artisanvideos-1oanvl2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1oanvl2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-19T12:02:01Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1oanrd4/",
+            "id": "reddit-artisanvideos-1oanrd4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1oanrd4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-19T11:56:03Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-19T12:02:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1oanvl2/\nhttps://www.reddit.com/r/artisanvideos/comments/1oanrd4/",
+      "date_published": "2025-10-19T12:02:01Z",
+      "external_url": "https://www.youtube.com/watch?v=dSbqV3W_UYU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/dSbqV3W_UYU/",
+      "image": "https://i.ytimg.com/vi/dSbqV3W_UYU/hqdefault.jpg",
+      "title": "Top Foundry Expert Reveals BEST Sand Casting Techniques",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/dSbqV3W_UYU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:y5WpCKtNR3g",
+        "dateBasis": "publication",
+        "itemId": "y5WpCKtNR3g",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=y5WpCKtNR3g"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o87i2n/",
+            "id": "reddit-artisanvideos-1o87i2n",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o87i2n",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-16T14:22:49Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-16T14:22:49Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o87i2n/",
+      "date_published": "2025-10-16T14:22:49Z",
+      "external_url": "https://www.youtube.com/watch?v=y5WpCKtNR3g",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/y5WpCKtNR3g/",
+      "image": "https://i.ytimg.com/vi/y5WpCKtNR3g/hqdefault.jpg",
+      "title": "Cutting a Huge Natural Tanzanite Crystal into a Faceted Gem [1:21:28]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/y5WpCKtNR3g/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:nlqittdpa3vf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-nlqittdpa3vf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/nlqittdpa3vf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o6hg9q/",
+            "id": "reddit-artisanvideos-1o6hg9q",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o6hg9q",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-14T14:44:38Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-14T14:44:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o6hg9q/",
+      "date_published": "2025-10-14T14:44:38Z",
+      "external_url": "https://v.redd.it/nlqittdpa3vf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-nlqittdpa3vf1/",
+      "image": "https://external-preview.redd.it/Mm43NjJmMXBhM3ZmMTfAt3iZk-kCdDDAQz_DhnKVGC1eMai2P6CO--ul4Q-e.png?width=140&height=140&format=jpg&auto=webp&s=567894fffc59b7dc0dd0a7067845348b76d31e40",
+      "title": "Is it worth doing this videos? I am changing my career as I am an Ilustrador and Animator and AI is winning the race. [00:00:34]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-nlqittdpa3vf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:oAGx9HqGh3s",
+        "dateBasis": "publication",
+        "itemId": "oAGx9HqGh3s",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=oAGx9HqGh3s"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o5wif6/",
+            "id": "reddit-artisanvideos-1o5wif6",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o5wif6",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-13T21:15:36Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-13T21:15:36Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o5wif6/",
+      "date_published": "2025-10-13T21:15:36Z",
+      "external_url": "https://www.youtube.com/watch?v=oAGx9HqGh3s",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/oAGx9HqGh3s/",
+      "image": "https://i.ytimg.com/vi/oAGx9HqGh3s/hqdefault.jpg",
+      "title": "How The World's Most Expensive Colors Are Made [1:37:41]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/oAGx9HqGh3s/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:QwUOxiXJT_c",
+        "dateBasis": "publication",
+        "itemId": "QwUOxiXJT_c",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QwUOxiXJT_c"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o5nd0l/",
+            "id": "reddit-artisanvideos-1o5nd0l",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o5nd0l",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-13T15:46:39Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-13T15:46:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o5nd0l/",
+      "date_published": "2025-10-13T15:46:39Z",
+      "external_url": "https://www.youtube.com/watch?v=QwUOxiXJT_c",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/QwUOxiXJT_c/",
+      "image": "https://i.ytimg.com/vi/QwUOxiXJT_c/hqdefault.jpg",
+      "title": "Carving The Gods | Wood carvers in Tamil Nadu India and how they craft statues of Hindu deities [10:33]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/QwUOxiXJT_c/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1zo2nY_jfck",
+        "dateBasis": "publication",
+        "itemId": "1zo2nY_jfck",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1zo2nY_jfck"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o5k4z7/",
+            "id": "reddit-artisanvideos-1o5k4z7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o5k4z7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-13T13:45:43Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-13T13:45:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o5k4z7/",
+      "date_published": "2025-10-13T13:45:43Z",
+      "external_url": "https://www.youtube.com/watch?v=1zo2nY_jfck",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/1zo2nY_jfck/",
+      "image": "https://i.ytimg.com/vi/1zo2nY_jfck/hqdefault.jpg",
+      "title": "Anchor Chain Forging Process at 68-Year-Old Factory [24:14]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/1zo2nY_jfck/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:hesy0qk7dquf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-hesy0qk7dquf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/hesy0qk7dquf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o4y08q/",
+            "id": "reddit-artisanvideos-1o4y08q",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o4y08q",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-12T19:18:51Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-12T19:18:51Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o4y08q/",
+      "date_published": "2025-10-12T19:18:51Z",
+      "external_url": "https://v.redd.it/hesy0qk7dquf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-hesy0qk7dquf1/",
+      "title": "OOXONIXX DESIGNS™️©️",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-hesy0qk7dquf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:BMFDTCkXJgI",
+        "dateBasis": "publication",
+        "itemId": "BMFDTCkXJgI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BMFDTCkXJgI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o3i62b/",
+            "id": "reddit-artisanvideos-1o3i62b",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o3i62b",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-11T00:50:56Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-11T00:50:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o3i62b/",
+      "date_published": "2025-10-11T00:50:56Z",
+      "external_url": "https://www.youtube.com/watch?v=BMFDTCkXJgI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/BMFDTCkXJgI/",
+      "image": "https://i.ytimg.com/vi/BMFDTCkXJgI/hqdefault.jpg",
+      "title": "Hand Raising and chasing a large copper vessel [10:57]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/BMFDTCkXJgI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:J-GavFKQX9E",
+        "dateBasis": "publication",
+        "itemId": "J-GavFKQX9E",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=J-GavFKQX9E"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o1hm0n/",
+            "id": "reddit-artisanvideos-1o1hm0n",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o1hm0n",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-08T17:51:29Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-08T17:51:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o1hm0n/",
+      "date_published": "2025-10-08T17:51:29Z",
+      "external_url": "https://www.youtube.com/watch?v=J-GavFKQX9E",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/J-GavFKQX9E/",
+      "image": "https://i.ytimg.com/vi/J-GavFKQX9E/hqdefault.jpg",
+      "title": "Making a humidor [14:08]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/J-GavFKQX9E/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Uh4WlVfQL3E",
+        "dateBasis": "publication",
+        "itemId": "Uh4WlVfQL3E",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Uh4WlVfQL3E"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1o05usn/",
+            "id": "reddit-artisanvideos-1o05usn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1o05usn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-07T05:06:20Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-07T05:06:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1o05usn/",
+      "date_published": "2025-10-07T05:06:20Z",
+      "external_url": "https://www.youtube.com/watch?v=Uh4WlVfQL3E",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/Uh4WlVfQL3E/",
+      "image": "https://i.ytimg.com/vi/Uh4WlVfQL3E/hqdefault.jpg",
+      "title": "Check my video fully and I’ll return the favor!https://www.youtube.com/watch?v=Uh4WlVfQL3E",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/Uh4WlVfQL3E/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:oB1md56wRBQ",
+        "dateBasis": "publication",
+        "itemId": "oB1md56wRBQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=oB1md56wRBQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nzoe1z/",
+            "id": "reddit-artisanvideos-1nzoe1z",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nzoe1z",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-06T16:47:09Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-06T16:47:09Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nzoe1z/",
+      "date_published": "2025-10-06T16:47:09Z",
+      "external_url": "https://www.youtube.com/watch?v=oB1md56wRBQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/oB1md56wRBQ/",
+      "image": "https://i.ytimg.com/vi/oB1md56wRBQ/hqdefault.jpg",
+      "title": "I Build Racing Lawn Mower Chopper–It Still Cuts Grass",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/oB1md56wRBQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:LolBuzO8RWw",
+        "dateBasis": "publication",
+        "itemId": "LolBuzO8RWw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=LolBuzO8RWw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nyet0x/",
+            "id": "reddit-artisanvideos-1nyet0x",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nyet0x",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-05T04:30:34Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-05T04:30:34Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nyet0x/",
+      "date_published": "2025-10-05T04:30:34Z",
+      "external_url": "https://www.youtube.com/watch?v=LolBuzO8RWw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/LolBuzO8RWw/",
+      "image": "https://i.ytimg.com/vi/LolBuzO8RWw/hqdefault.jpg",
+      "title": "Datsun 240Z Restoration - Rear Axle (Part 7) [41:42]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/LolBuzO8RWw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:FcZC_HkcI_M",
+        "dateBasis": "publication",
+        "itemId": "FcZC_HkcI_M",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=FcZC_HkcI_M"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nw4hww/",
+            "id": "reddit-artisanvideos-1nw4hww",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nw4hww",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-02T13:56:37Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nw4ffn/",
+            "id": "reddit-artisanvideos-1nw4ffn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nw4ffn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-10-02T13:53:51Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-10-02T13:56:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nw4hww/\nhttps://www.reddit.com/r/artisanvideos/comments/1nw4ffn/",
+      "date_published": "2025-10-02T13:56:37Z",
+      "external_url": "https://www.youtube.com/watch?v=FcZC_HkcI_M",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/FcZC_HkcI_M/",
+      "image": "https://i.ytimg.com/vi/FcZC_HkcI_M/hqdefault.jpg",
+      "title": "Making of a custom handpan - F2 La Sirena 15",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/FcZC_HkcI_M/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:r8o0mxrogrrf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-r8o0mxrogrrf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/r8o0mxrogrrf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ns4dvt/",
+            "id": "reddit-artisanvideos-1ns4dvt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ns4dvt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-27T19:44:20Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-27T19:44:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1ns4dvt/",
+      "date_published": "2025-09-27T19:44:20Z",
+      "external_url": "https://v.redd.it/r8o0mxrogrrf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-r8o0mxrogrrf1/",
+      "image": "https://external-preview.redd.it/ZnVuZzd4cm9ncnJmMZ-MNY53d-qq2ZgBUOzlEatjC42UsKkYda7pXREU1Rac.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=93e701a73ba1c5e880aa32a701580d7d0802bb2f",
+      "title": "Handcrafting a prehistoric obsidian battle axe[12:43]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-r8o0mxrogrrf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:c628ax856yqf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-c628ax856yqf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/c628ax856yqf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nopx8e/",
+            "id": "reddit-artisanvideos-1nopx8e",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nopx8e",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-23T18:52:28Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-23T18:52:28Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nopx8e/",
+      "date_published": "2025-09-23T18:52:28Z",
+      "external_url": "https://v.redd.it/c628ax856yqf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-c628ax856yqf1/",
+      "title": "Metal Barrel Crafting [Not OC] [X-Post]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-c628ax856yqf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ntuy51qflsqf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ntuy51qflsqf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ntuy51qflsqf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1no0qrq/",
+            "id": "reddit-artisanvideos-1no0qrq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1no0qrq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-22T22:34:29Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-22T22:34:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1no0qrq/",
+      "date_published": "2025-09-22T22:34:29Z",
+      "external_url": "https://v.redd.it/ntuy51qflsqf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-ntuy51qflsqf1/",
+      "title": "I crocheted an ice cream cone with a secret body!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-ntuy51qflsqf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ZAlNJLtHRcg",
+        "dateBasis": "publication",
+        "itemId": "ZAlNJLtHRcg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZAlNJLtHRcg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nmeqvy/",
+            "id": "reddit-artisanvideos-1nmeqvy",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nmeqvy",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-21T01:02:56Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-21T01:02:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nmeqvy/",
+      "date_published": "2025-09-21T01:02:56Z",
+      "external_url": "https://www.youtube.com/watch?v=ZAlNJLtHRcg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ZAlNJLtHRcg/",
+      "image": "https://i.ytimg.com/vi/ZAlNJLtHRcg/hqdefault.jpg",
+      "title": "half Wood, half PLA statue I made – very easy to make",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ZAlNJLtHRcg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:dznl85z5xopf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-dznl85z5xopf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/dznl85z5xopf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nj84a7/",
+            "id": "reddit-artisanvideos-1nj84a7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nj84a7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-17T09:09:14Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-17T09:09:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nj84a7/",
+      "date_published": "2025-09-17T09:09:14Z",
+      "external_url": "https://v.redd.it/dznl85z5xopf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-dznl85z5xopf1/",
+      "image": "https://external-preview.redd.it/emp1eHZzeTV4b3BmMbg3yVn4rZQczZQhMBYJOPum0eKt3dqJ9pvN1aPVeOiy.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=3c1341b4e726b9cca4df6186b480ff7bf546ea56",
+      "title": "DIY｜🐚 Pearl Shell Candle Holder｜Candlelight from the Sea 🕯️",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-dznl85z5xopf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:W_3eu_--_K8",
+        "dateBasis": "publication",
+        "itemId": "W_3eu_--_K8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=W_3eu_--_K8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nh3uch/",
+            "id": "reddit-artisanvideos-1nh3uch",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nh3uch",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-14T21:43:52Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ngumuy/",
+            "id": "reddit-artisanvideos-1ngumuy",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ngumuy",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-14T15:45:42Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-14T21:43:52Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nh3uch/\nhttps://www.reddit.com/r/artisanvideos/comments/1ngumuy/",
+      "date_published": "2025-09-14T21:43:52Z",
+      "external_url": "https://www.youtube.com/watch?v=W_3eu_--_K8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/W_3eu_--_K8/",
+      "image": "https://i.ytimg.com/vi/W_3eu_--_K8/hqdefault.jpg",
+      "title": "Check it out! Leaked Audition Tapes for 007 😳",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/W_3eu_--_K8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:z96KDUHciko",
+        "dateBasis": "publication",
+        "itemId": "z96KDUHciko",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=z96KDUHciko"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ncr08o/",
+            "id": "reddit-artisanvideos-1ncr08o",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ncr08o",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-09T18:33:54Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ncqxe3/",
+            "id": "reddit-artisanvideos-1ncqxe3",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ncqxe3",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-09T18:30:55Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ncqfyi/",
+            "id": "reddit-artisanvideos-1ncqfyi",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ncqfyi",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-09T18:13:08Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-09T18:33:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1ncr08o/\nhttps://www.reddit.com/r/artisanvideos/comments/1ncqxe3/\nhttps://www.reddit.com/r/artisanvideos/comments/1ncqfyi/",
+      "date_published": "2025-09-09T18:33:54Z",
+      "external_url": "https://www.youtube.com/watch?v=z96KDUHciko",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/z96KDUHciko/",
+      "image": "https://i.ytimg.com/vi/z96KDUHciko/hqdefault.jpg",
+      "title": "Porsche 911 Production [18:08]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/z96KDUHciko/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:1hrrkmc4i6of1",
+        "dateBasis": "publication",
+        "itemId": "reddit-1hrrkmc4i6of1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/1hrrkmc4i6of1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1ncq7cv/",
+            "id": "reddit-artisanvideos-1ncq7cv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1ncq7cv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-09T18:04:24Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-09T18:04:24Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1ncq7cv/",
+      "date_published": "2025-09-09T18:04:24Z",
+      "external_url": "https://v.redd.it/1hrrkmc4i6of1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-1hrrkmc4i6of1/",
+      "image": "https://external-preview.redd.it/M3hmZnVtYzRpNm9mMd0mZGb55txDNP6wvQ_3GRbDM3anw7Owu5c3y6JjwrsE.png?width=140&height=78&crop=140:78,smart&format=jpg&v=enabled&lthumb=true&s=8df8eb658b243753443b806f82f69b458606397c",
+      "title": "Bamaqsad channel",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-1hrrkmc4i6of1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:xy8QZqgUlVU",
+        "dateBasis": "publication",
+        "itemId": "xy8QZqgUlVU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xy8QZqgUlVU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nbfhfo/",
+            "id": "reddit-artisanvideos-1nbfhfo",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nbfhfo",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-08T05:36:34Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-08T05:36:34Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nbfhfo/",
+      "date_published": "2025-09-08T05:36:34Z",
+      "external_url": "https://www.youtube.com/watch?v=xy8QZqgUlVU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/xy8QZqgUlVU/",
+      "image": "https://i.ytimg.com/vi/xy8QZqgUlVU/hqdefault.jpg",
+      "title": "Five Years of Somokjang in Korea",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/xy8QZqgUlVU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:764OMrmpEx8",
+        "dateBasis": "publication",
+        "itemId": "764OMrmpEx8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=764OMrmpEx8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1nari3l/",
+            "id": "reddit-artisanvideos-1nari3l",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1nari3l",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-07T12:08:10Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-07T12:08:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1nari3l/",
+      "date_published": "2025-09-07T12:08:10Z",
+      "external_url": "https://www.youtube.com/watch?v=764OMrmpEx8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/764OMrmpEx8/",
+      "image": "https://i.ytimg.com/vi/764OMrmpEx8/hqdefault.jpg",
+      "title": "Vintwatches repairing a heavily used 1970s Rolex Sea Deweller [38:42]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/764OMrmpEx8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ncib9utmm7nf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ncib9utmm7nf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ncib9utmm7nf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n8lqis/",
+            "id": "reddit-artisanvideos-1n8lqis",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n8lqis",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-04T20:47:30Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-04T20:47:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1n8lqis/",
+      "date_published": "2025-09-04T20:47:30Z",
+      "external_url": "https://v.redd.it/ncib9utmm7nf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-ncib9utmm7nf1/",
+      "title": "#ResinArt #HandmadeArt #CreativeEdge",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-ncib9utmm7nf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-1dUOWhCi1k",
+        "dateBasis": "publication",
+        "itemId": "-1dUOWhCi1k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-1dUOWhCi1k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n83khx/",
+            "id": "reddit-artisanvideos-1n83khx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n83khx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-04T07:23:01Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-04T07:23:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1n83khx/",
+      "date_published": "2025-09-04T07:23:01Z",
+      "external_url": "https://www.youtube.com/watch?v=-1dUOWhCi1k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/-1dUOWhCi1k/",
+      "image": "https://i.ytimg.com/vi/-1dUOWhCi1k/hqdefault.jpg",
+      "title": "Shades of Color \"Mandala art\" Puducherry, 2025",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/-1dUOWhCi1k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:lo1ugklvqemf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-lo1ugklvqemf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/lo1ugklvqemf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n5vkvx/",
+            "id": "reddit-artisanvideos-1n5vkvx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n5vkvx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-01T17:49:45Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-01T17:49:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1n5vkvx/",
+      "date_published": "2025-09-01T17:49:45Z",
+      "external_url": "https://v.redd.it/lo1ugklvqemf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-lo1ugklvqemf1/",
+      "title": "Wedding Dress Restoration",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-lo1ugklvqemf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:z2naiv0oqjmf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-z2naiv0oqjmf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/z2naiv0oqjmf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n5nhs4/",
+            "id": "reddit-artisanvideos-1n5nhs4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n5nhs4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-09-01T12:34:53Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-09-01T12:34:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1n5nhs4/",
+      "date_published": "2025-09-01T12:34:53Z",
+      "external_url": "https://v.redd.it/z2naiv0oqjmf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-z2naiv0oqjmf1/",
+      "image": "https://external-preview.redd.it/cXJ4OGN4MG9xam1mMeHFCouxyOBrfuKt4BRrQTk-UDl8QPyyYaEMHQheV9K4.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=add9aac82a58028c2e4646862e46879dd79f75a8",
+      "title": "What would you like to do with this cup?",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-z2naiv0oqjmf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:iInYDeiBVUY",
+        "dateBasis": "publication",
+        "itemId": "iInYDeiBVUY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=iInYDeiBVUY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n51wxe/",
+            "id": "reddit-artisanvideos-1n51wxe",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n51wxe",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-31T18:18:18Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-31T18:18:18Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1n51wxe/",
+      "date_published": "2025-08-31T18:18:18Z",
+      "external_url": "https://www.youtube.com/watch?v=iInYDeiBVUY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/iInYDeiBVUY/",
+      "image": "https://i.ytimg.com/vi/iInYDeiBVUY/hqdefault.jpg",
+      "title": "I just finished my very first dining table build – a round ash table for my fiancée",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/iInYDeiBVUY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:l-EMoy2OTYo",
+        "dateBasis": "publication",
+        "itemId": "l-EMoy2OTYo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=l-EMoy2OTYo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n42ov7/",
+            "id": "reddit-artisanvideos-1n42ov7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n42ov7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-30T14:14:57Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n42npk/",
+            "id": "reddit-artisanvideos-1n42npk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n42npk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-30T14:13:32Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-30T14:14:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1n42ov7/\nhttps://www.reddit.com/r/artisanvideos/comments/1n42npk/",
+      "date_published": "2025-08-30T14:14:57Z",
+      "external_url": "https://www.youtube.com/watch?v=l-EMoy2OTYo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/l-EMoy2OTYo/",
+      "image": "https://i.ytimg.com/vi/l-EMoy2OTYo/hqdefault.jpg",
+      "title": "Restoring a 19th-century organ [50:48]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/l-EMoy2OTYo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:55dnafljf2mf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-55dnafljf2mf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/55dnafljf2mf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n3q26a/",
+            "id": "reddit-artisanvideos-1n3q26a",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n3q26a",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-30T02:16:37Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-30T02:16:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1n3q26a/",
+      "date_published": "2025-08-30T02:16:37Z",
+      "external_url": "https://v.redd.it/55dnafljf2mf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-55dnafljf2mf1/",
+      "image": "https://external-preview.redd.it/ajZ3N2tibGpmMm1mMRjlKYoPT6_zuoECG_6hMZ6zi7EMGFbk2VbD3ZsKQQi4.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=5c30ee42edc49fa5ed570c3edf24e97a23765613",
+      "title": "Chinese intangible cultural heritage art Floating lacquer craft.2025",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-55dnafljf2mf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:bi855y75vllf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-bi855y75vllf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/bi855y75vllf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1n1yprk/",
+            "id": "reddit-artisanvideos-1n1yprk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1n1yprk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-28T01:03:44Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-28T01:03:44Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1n1yprk/",
+      "date_published": "2025-08-28T01:03:44Z",
+      "external_url": "https://v.redd.it/bi855y75vllf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-bi855y75vllf1/",
+      "image": "https://external-preview.redd.it/iG3NRkJKrEylURtLoEyAZAMDz5BvnkYTRpqsOmC8ZHw.png?width=140&height=73&crop=140:73,smart&auto=webp&s=106e161123426df3b0a020b6e9361f6cdaf5ad34",
+      "title": "Super Unique Damascus Steel Knife Design 🤯",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-bi855y75vllf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:I8M3GjGxRNA",
+        "dateBasis": "publication",
+        "itemId": "I8M3GjGxRNA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=I8M3GjGxRNA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mzdn8l/",
+            "id": "reddit-artisanvideos-1mzdn8l",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mzdn8l",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-25T01:34:38Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-25T01:34:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mzdn8l/",
+      "date_published": "2025-08-25T01:34:38Z",
+      "external_url": "https://www.youtube.com/watch?v=I8M3GjGxRNA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/I8M3GjGxRNA/",
+      "image": "https://i.ytimg.com/vi/I8M3GjGxRNA/hqdefault.jpg",
+      "title": "Korean Juice Stand - Making Fruit Juice [11:43]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/I8M3GjGxRNA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:NzuZrb81oRc",
+        "dateBasis": "publication",
+        "itemId": "NzuZrb81oRc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=NzuZrb81oRc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1my1yl1/",
+            "id": "reddit-artisanvideos-1my1yl1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1my1yl1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-23T13:49:02Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-23T13:49:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1my1yl1/",
+      "date_published": "2025-08-23T13:49:02Z",
+      "external_url": "https://www.youtube.com/watch?v=NzuZrb81oRc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/NzuZrb81oRc/",
+      "image": "https://i.ytimg.com/vi/NzuZrb81oRc/hqdefault.jpg",
+      "title": "What an insane animal",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/NzuZrb81oRc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:aW6yWVuvx9g",
+        "dateBasis": "publication",
+        "itemId": "aW6yWVuvx9g",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=aW6yWVuvx9g"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mxiuru/",
+            "id": "reddit-artisanvideos-1mxiuru",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mxiuru",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-22T21:22:07Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-22T21:22:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mxiuru/",
+      "date_published": "2025-08-22T21:22:07Z",
+      "external_url": "https://www.youtube.com/watch?v=aW6yWVuvx9g",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/aW6yWVuvx9g/",
+      "image": "https://i.ytimg.com/vi/aW6yWVuvx9g/hqdefault.jpg",
+      "title": "Forging the Uruk-Hai Armour from Lord of the Rings [18:12]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/aW6yWVuvx9g/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:MiYM0SJ3EU8",
+        "dateBasis": "publication",
+        "itemId": "MiYM0SJ3EU8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MiYM0SJ3EU8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mubpqm/",
+            "id": "reddit-artisanvideos-1mubpqm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mubpqm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-19T07:27:30Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-19T07:27:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mubpqm/",
+      "date_published": "2025-08-19T07:27:30Z",
+      "external_url": "https://www.youtube.com/watch?v=MiYM0SJ3EU8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/MiYM0SJ3EU8/",
+      "image": "https://i.ytimg.com/vi/MiYM0SJ3EU8/hqdefault.jpg",
+      "title": "Restauration of a painting A Sight For Sore Eyes - Baumgartner Restoration [42:08]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/MiYM0SJ3EU8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:400kxj03oujf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-400kxj03oujf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/400kxj03oujf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mtzx7c/",
+            "id": "reddit-artisanvideos-1mtzx7c",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mtzx7c",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-18T21:58:05Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-18T21:58:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mtzx7c/",
+      "date_published": "2025-08-18T21:58:05Z",
+      "external_url": "https://v.redd.it/400kxj03oujf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-400kxj03oujf1/",
+      "image": "https://external-preview.redd.it/aGp3YmZqMDNvdWpmMS6eaD-Ok54nJIpsLgXBddMU9fXEQdRTF3oOFYaYr6MF.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=a86e21e803eba317787e1268ce4609db22d4a53e",
+      "title": "Making a chef knife [2:57]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-400kxj03oujf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:CBbifZ90AtQ",
+        "dateBasis": "publication",
+        "itemId": "CBbifZ90AtQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=CBbifZ90AtQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1msbrgs/",
+            "id": "reddit-artisanvideos-1msbrgs",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1msbrgs",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-16T23:45:01Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-16T23:45:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1msbrgs/",
+      "date_published": "2025-08-16T23:45:01Z",
+      "external_url": "https://www.youtube.com/watch?v=CBbifZ90AtQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/CBbifZ90AtQ/",
+      "image": "https://i.ytimg.com/vi/CBbifZ90AtQ/hqdefault.jpg",
+      "title": "Completely restoring an antique Victorian chest of drawers (with Thomas Johnson) [37:49]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/CBbifZ90AtQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:WN0057zmXTU",
+        "dateBasis": "publication",
+        "itemId": "WN0057zmXTU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=WN0057zmXTU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mqtwzm/",
+            "id": "reddit-artisanvideos-1mqtwzm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mqtwzm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-15T10:30:51Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-15T10:30:51Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mqtwzm/",
+      "date_published": "2025-08-15T10:30:51Z",
+      "external_url": "https://www.youtube.com/watch?v=WN0057zmXTU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/WN0057zmXTU/",
+      "image": "https://i.ytimg.com/vi/WN0057zmXTU/hqdefault.jpg",
+      "title": "\"Papillon en métallerie - Collaboration avec l'IA",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/WN0057zmXTU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:vqybmz4m75jf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-vqybmz4m75jf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/vqybmz4m75jf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mqrn6y/",
+            "id": "reddit-artisanvideos-1mqrn6y",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mqrn6y",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-15T08:22:39Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-15T08:22:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mqrn6y/",
+      "date_published": "2025-08-15T08:22:39Z",
+      "external_url": "https://v.redd.it/vqybmz4m75jf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-vqybmz4m75jf1/",
+      "image": "https://external-preview.redd.it/MnRvaGNpNW03NWpmMccdw9Agk3VxdP-yqWIU0ky8h7V2JZpHSmItBX4ov9r1.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=6333a68f8e9a943e6b9236645bb2d8d6c5278077",
+      "title": "My Opinion means nothing ...",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-vqybmz4m75jf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:a6audnv9m4jf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-a6audnv9m4jf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/a6audnv9m4jf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mqpidr/",
+            "id": "reddit-artisanvideos-1mqpidr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mqpidr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-15T06:20:55Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-15T06:20:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mqpidr/",
+      "date_published": "2025-08-15T06:20:55Z",
+      "external_url": "https://v.redd.it/a6audnv9m4jf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-a6audnv9m4jf1/",
+      "image": "https://external-preview.redd.it/ZHNqc3JoMWFtNGpmMVwOgjy6gxqgwAmIUOoWIGPj2_RcZX4wm-ldH2ZS1GhE.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=b7d205695c5325f83fdefc282fedcfa96846a5c3",
+      "title": "Gingko design",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-a6audnv9m4jf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:7zxq139mt1jf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-7zxq139mt1jf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/7zxq139mt1jf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mqczst/",
+            "id": "reddit-artisanvideos-1mqczst",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mqczst",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-14T20:56:47Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-14T20:56:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mqczst/",
+      "date_published": "2025-08-14T20:56:47Z",
+      "external_url": "https://v.redd.it/7zxq139mt1jf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-7zxq139mt1jf1/",
+      "image": "https://external-preview.redd.it/dmM4NHM2Y210MWpmMdddY6gLVYjWfI_O-y6v8TEzECx8lCtAy-4HtVOHIUZZ.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=5d4989eabf730abeb8d6dc5c1b3c51649a03744d",
+      "title": "Gingko design",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-7zxq139mt1jf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zcXNISfBN3k",
+        "dateBasis": "publication",
+        "itemId": "zcXNISfBN3k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zcXNISfBN3k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mq3rmm/",
+            "id": "reddit-artisanvideos-1mq3rmm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mq3rmm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-14T15:25:10Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-14T15:25:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mq3rmm/",
+      "date_published": "2025-08-14T15:25:10Z",
+      "external_url": "https://www.youtube.com/watch?v=zcXNISfBN3k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/zcXNISfBN3k/",
+      "image": "https://i.ytimg.com/vi/zcXNISfBN3k/hqdefault.jpg",
+      "title": "🔧 Métallerie Swiatek en vacances ? On en profite pour tester un broyeur ...",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/zcXNISfBN3k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:oyzetgsu1iif1",
+        "dateBasis": "publication",
+        "itemId": "reddit-oyzetgsu1iif1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/oyzetgsu1iif1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1moj9da/",
+            "id": "reddit-artisanvideos-1moj9da",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1moj9da",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-12T20:00:57Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-12T20:00:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1moj9da/",
+      "date_published": "2025-08-12T20:00:57Z",
+      "external_url": "https://v.redd.it/oyzetgsu1iif1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-oyzetgsu1iif1/",
+      "title": "Making a wooden barrel",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-oyzetgsu1iif1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:4qN130ySBqE",
+        "dateBasis": "publication",
+        "itemId": "4qN130ySBqE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4qN130ySBqE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mmi19f/",
+            "id": "reddit-artisanvideos-1mmi19f",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mmi19f",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-10T13:03:34Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-10T13:03:34Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mmi19f/",
+      "date_published": "2025-08-10T13:03:34Z",
+      "external_url": "https://www.youtube.com/watch?v=4qN130ySBqE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/4qN130ySBqE/",
+      "image": "https://i.ytimg.com/vi/4qN130ySBqE/hqdefault.jpg",
+      "title": "Building my dream copper water-cooled PC [1:06:17]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/4qN130ySBqE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:vft5g62x9zhf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-vft5g62x9zhf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/vft5g62x9zhf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mln2ru/",
+            "id": "reddit-artisanvideos-1mln2ru",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mln2ru",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-09T11:24:01Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-09T11:24:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mln2ru/",
+      "date_published": "2025-08-09T11:24:01Z",
+      "external_url": "https://v.redd.it/vft5g62x9zhf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-vft5g62x9zhf1/",
+      "image": "https://external-preview.redd.it/dG4zNTA0Mng5emhmMdKugF_JsurOHvd11ZBw1B8fl4tppCQ70bscEvYJ1syn.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=7d49fe4aa4461e8600e921972b8aa971a1a0b15d",
+      "title": "a little insight into the drawing process and a reminder not to give up before it gets good. [00:29]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-vft5g62x9zhf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:sCDcfBHTmsA",
+        "dateBasis": "publication",
+        "itemId": "sCDcfBHTmsA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=sCDcfBHTmsA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mknhk1/",
+            "id": "reddit-artisanvideos-1mknhk1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mknhk1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-08T06:07:52Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-08T06:07:52Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mknhk1/",
+      "date_published": "2025-08-08T06:07:52Z",
+      "external_url": "https://www.youtube.com/watch?v=sCDcfBHTmsA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/sCDcfBHTmsA/",
+      "image": "https://i.ytimg.com/vi/sCDcfBHTmsA/hqdefault.jpg",
+      "title": "Poster Color Painting  🎨 : Show off my artistic talent !!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/sCDcfBHTmsA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ZspDqxx2MFY",
+        "dateBasis": "publication",
+        "itemId": "ZspDqxx2MFY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZspDqxx2MFY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mgjybv/",
+            "id": "reddit-artisanvideos-1mgjybv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mgjybv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-03T13:59:18Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-03T13:59:18Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mgjybv/",
+      "date_published": "2025-08-03T13:59:18Z",
+      "external_url": "https://www.youtube.com/watch?v=ZspDqxx2MFY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ZspDqxx2MFY/",
+      "image": "https://i.ytimg.com/vi/ZspDqxx2MFY/hqdefault.jpg",
+      "title": "[20:52] Hand tool rescue wrench",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ZspDqxx2MFY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:4thp0hdfjpgf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-4thp0hdfjpgf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/4thp0hdfjpgf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mg6vsi/",
+            "id": "reddit-artisanvideos-1mg6vsi",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mg6vsi",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-03T01:30:30Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-03T01:30:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mg6vsi/",
+      "date_published": "2025-08-03T01:30:30Z",
+      "external_url": "https://v.redd.it/4thp0hdfjpgf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-4thp0hdfjpgf1/",
+      "image": "https://external-preview.redd.it/N3Y4NnV1b2lqcGdmMZGDGj6nzeXp4_lxYghVP4rpE86Wl79pvZobHr31PVG8.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=481902d28d91372583ff92f8f377b98848022b73",
+      "title": "The Art Of Zisha Teapot Making [02:16]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-4thp0hdfjpgf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ajvu9ivmgkgf1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ajvu9ivmgkgf1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ajvu9ivmgkgf1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mflhqp/",
+            "id": "reddit-artisanvideos-1mflhqp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mflhqp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-02T08:29:19Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-02T08:29:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mflhqp/",
+      "date_published": "2025-08-02T08:29:19Z",
+      "external_url": "https://v.redd.it/ajvu9ivmgkgf1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-ajvu9ivmgkgf1/",
+      "image": "https://external-preview.redd.it/cXhkeTA1dG1na2dmMbJRRCHqHuv_d_6rE9AIsVYH8j5BSeQliEbI5gP679Nm.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=20576dc3d136bbf0fcb2075d6ac6fcfa21822f56",
+      "title": "Tried something different — handmade metal chess set! Would love your thoughts 🫣♟️",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-ajvu9ivmgkgf1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:9uaDnw_zZmI",
+        "dateBasis": "publication",
+        "itemId": "9uaDnw_zZmI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9uaDnw_zZmI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mf2rvl/",
+            "id": "reddit-artisanvideos-1mf2rvl",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mf2rvl",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-01T17:31:51Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-01T17:31:51Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mf2rvl/",
+      "date_published": "2025-08-01T17:31:51Z",
+      "external_url": "https://www.youtube.com/watch?v=9uaDnw_zZmI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/9uaDnw_zZmI/",
+      "image": "https://i.ytimg.com/vi/9uaDnw_zZmI/hqdefault.jpg",
+      "title": "Unbelievable Master Craftsmanship, 210 days in the making.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/9uaDnw_zZmI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:URdWZKpiIdA",
+        "dateBasis": "publication",
+        "itemId": "URdWZKpiIdA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=URdWZKpiIdA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1meubej/",
+            "id": "reddit-artisanvideos-1meubej",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1meubej",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-08-01T11:47:40Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-08-01T11:47:40Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1meubej/",
+      "date_published": "2025-08-01T11:47:40Z",
+      "external_url": "https://www.youtube.com/watch?v=URdWZKpiIdA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/URdWZKpiIdA/",
+      "image": "https://i.ytimg.com/vi/URdWZKpiIdA/hqdefault.jpg",
+      "title": "Minimalist style knife block",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/URdWZKpiIdA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:imLEkzcHfOE",
+        "dateBasis": "publication",
+        "itemId": "imLEkzcHfOE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=imLEkzcHfOE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mdh5wx/",
+            "id": "reddit-artisanvideos-1mdh5wx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mdh5wx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-07-30T20:13:38Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-07-30T20:13:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mdh5wx/",
+      "date_published": "2025-07-30T20:13:38Z",
+      "external_url": "https://www.youtube.com/watch?v=imLEkzcHfOE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/imLEkzcHfOE/",
+      "image": "https://i.ytimg.com/vi/imLEkzcHfOE/hqdefault.jpg",
+      "title": "Game Boy Color Restoration [36:21]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/imLEkzcHfOE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:pRTAG-cEIHo",
+        "dateBasis": "publication",
+        "itemId": "pRTAG-cEIHo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pRTAG-cEIHo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1mcegtz/",
+            "id": "reddit-artisanvideos-1mcegtz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1mcegtz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2025-07-29T15:27:48Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2025-07-29T15:27:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1mcegtz/",
+      "date_published": "2025-07-29T15:27:48Z",
+      "external_url": "https://www.youtube.com/watch?v=pRTAG-cEIHo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/pRTAG-cEIHo/",
+      "image": "https://i.ytimg.com/vi/pRTAG-cEIHo/hqdefault.jpg",
+      "title": "Watch me craft a flying cart from scratch!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/pRTAG-cEIHo/"
     }
   ],
   "title": "r/artisanvideos — video links",

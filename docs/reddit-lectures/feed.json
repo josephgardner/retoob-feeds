@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 132,
+    "itemCount": 187,
     "listId": "reddit-lectures",
     "publicationEpoch": "reddit-public-20261106-lectures",
-    "revision": 1,
+    "revision": 2,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-lectures/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-lectures/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:WJVvZNi0Fi8",
+        "dateBasis": "publication",
+        "itemId": "WJVvZNi0Fi8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=WJVvZNi0Fi8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/1xpdolz/",
+            "id": "reddit-lectures-1xpdolz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "1xpdolz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T14:07:56Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-06T14:07:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/1xpdolz/",
+      "date_published": "2026-11-06T14:07:56Z",
+      "external_url": "https://www.youtube.com/watch?v=WJVvZNi0Fi8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/WJVvZNi0Fi8/",
+      "image": "https://i.ytimg.com/vi/WJVvZNi0Fi8/hqdefault.jpg",
+      "title": "A New Argument from Consciousness [13:08]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/WJVvZNi0Fi8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:zP6wjn8DlE8",
@@ -5516,6 +5557,2234 @@
       "image": "https://i.ytimg.com/vi/C9xhjmIvVsM/hqdefault.jpg",
       "title": "All Roads Lead To Rome",
       "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/C9xhjmIvVsM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:dtbVFH32CXQ",
+        "dateBasis": "publication",
+        "itemId": "dtbVFH32CXQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=dtbVFH32CXQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/16bvme2/",
+            "id": "reddit-lectures-16bvme2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "16bvme2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-09-06T20:49:19Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-09-06T20:49:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/16bvme2/",
+      "date_published": "2023-09-06T20:49:19Z",
+      "external_url": "https://www.youtube.com/watch?v=dtbVFH32CXQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/dtbVFH32CXQ/",
+      "image": "https://i.ytimg.com/vi/dtbVFH32CXQ/hqdefault.jpg",
+      "title": "My Message To People.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/dtbVFH32CXQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:e3b7y5ip43jb1",
+        "dateBasis": "publication",
+        "itemId": "reddit-e3b7y5ip43jb1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/e3b7y5ip43jb1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/15vj60c/",
+            "id": "reddit-lectures-15vj60c",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "15vj60c",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-08-19T15:27:10Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/15vj5r4/",
+            "id": "reddit-lectures-15vj5r4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "15vj5r4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-08-19T15:26:52Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-08-19T15:27:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/15vj60c/\nhttps://www.reddit.com/r/lectures/comments/15vj5r4/",
+      "date_published": "2023-08-19T15:27:10Z",
+      "external_url": "https://v.redd.it/e3b7y5ip43jb1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/reddit-e3b7y5ip43jb1/",
+      "image": "https://external-preview.redd.it/YmhhZTJ0YXA0M2piMV6KOV4HuuppIK9jXYon4a8TZBy_vRW56QvCgKKDOSSo.png?width=140&height=140&crop=140:140,smart&format=jpg&v=enabled&lthumb=true&s=df0a3b1a90d881f17148f30afd8166840ab322fe",
+      "title": "How do you measure the half-life of radionuclides that billions of years long?",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/reddit-e3b7y5ip43jb1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zgy7LecFlVA",
+        "dateBasis": "publication",
+        "itemId": "zgy7LecFlVA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zgy7LecFlVA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/15h5lik/",
+            "id": "reddit-lectures-15h5lik",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "15h5lik",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-08-03T14:21:05Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-08-03T14:21:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/15h5lik/",
+      "date_published": "2023-08-03T14:21:05Z",
+      "external_url": "https://www.youtube.com/watch?v=zgy7LecFlVA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/zgy7LecFlVA/",
+      "image": "https://i.ytimg.com/vi/zgy7LecFlVA/hqdefault.jpg",
+      "title": "Energize Your Day Like A Queen - With An Simple Stretch And Warm Up",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/zgy7LecFlVA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:5YYkPiB4_mc",
+        "dateBasis": "publication",
+        "itemId": "5YYkPiB4_mc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5YYkPiB4_mc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/15guozn/",
+            "id": "reddit-lectures-15guozn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "15guozn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-08-03T05:08:55Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-08-03T05:08:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/15guozn/",
+      "date_published": "2023-08-03T05:08:55Z",
+      "external_url": "https://www.youtube.com/watch?v=5YYkPiB4_mc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/5YYkPiB4_mc/",
+      "image": "https://i.ytimg.com/vi/5YYkPiB4_mc/hqdefault.jpg",
+      "title": "Software Development Tips and Tricks from industry veterans (Compilation)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/5YYkPiB4_mc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:DrAC5b71Nh8",
+        "dateBasis": "publication",
+        "itemId": "DrAC5b71Nh8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=DrAC5b71Nh8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/15br29x/",
+            "id": "reddit-lectures-15br29x",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "15br29x",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-07-28T08:04:00Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-07-28T08:04:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/15br29x/",
+      "date_published": "2023-07-28T08:04:00Z",
+      "external_url": "https://www.youtube.com/watch?v=DrAC5b71Nh8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/DrAC5b71Nh8/",
+      "image": "https://i.ytimg.com/vi/DrAC5b71Nh8/hqdefault.jpg",
+      "title": "A basic approach to Cardiac MRI",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/DrAC5b71Nh8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ft7tWw470sY",
+        "dateBasis": "publication",
+        "itemId": "ft7tWw470sY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ft7tWw470sY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/156fwrp/",
+            "id": "reddit-lectures-156fwrp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "156fwrp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-07-22T09:55:13Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-07-22T09:55:13Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/156fwrp/",
+      "date_published": "2023-07-22T09:55:13Z",
+      "external_url": "https://www.youtube.com/watch?v=ft7tWw470sY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/ft7tWw470sY/",
+      "image": "https://i.ytimg.com/vi/ft7tWw470sY/hqdefault.jpg",
+      "title": "Doug Tallamy: The little things matter the most",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/ft7tWw470sY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:BZ5Xj4LjkY4",
+        "dateBasis": "publication",
+        "itemId": "BZ5Xj4LjkY4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BZ5Xj4LjkY4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/14yyb9p/",
+            "id": "reddit-lectures-14yyb9p",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "14yyb9p",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-07-13T22:18:51Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-07-13T22:18:51Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/14yyb9p/",
+      "date_published": "2023-07-13T22:18:51Z",
+      "external_url": "https://www.youtube.com/watch?v=BZ5Xj4LjkY4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/BZ5Xj4LjkY4/",
+      "image": "https://i.ytimg.com/vi/BZ5Xj4LjkY4/hqdefault.jpg",
+      "title": "Slavery in Ancient Greece",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/BZ5Xj4LjkY4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:p2b4ob429z9b1",
+        "dateBasis": "publication",
+        "itemId": "reddit-p2b4ob429z9b1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/p2b4ob429z9b1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/14qow1u/",
+            "id": "reddit-lectures-14qow1u",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "14qow1u",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-07-04T19:43:20Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-07-04T19:43:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/14qow1u/",
+      "date_published": "2023-07-04T19:43:20Z",
+      "external_url": "https://v.redd.it/p2b4ob429z9b1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/reddit-p2b4ob429z9b1/",
+      "title": "Happy 4th of July",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/reddit-p2b4ob429z9b1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-Bx9K2exqRQ",
+        "dateBasis": "publication",
+        "itemId": "-Bx9K2exqRQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-Bx9K2exqRQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/14dpuid/",
+            "id": "reddit-lectures-14dpuid",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "14dpuid",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-06-19T20:34:13Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-06-19T20:34:13Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/14dpuid/",
+      "date_published": "2023-06-19T20:34:13Z",
+      "external_url": "https://www.youtube.com/watch?v=-Bx9K2exqRQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/-Bx9K2exqRQ/",
+      "image": "https://i.ytimg.com/vi/-Bx9K2exqRQ/hqdefault.jpg",
+      "title": "UK Study: Breast Cancer Mortality Rate Down 66%",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/-Bx9K2exqRQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:torWMNMvAqI",
+        "dateBasis": "publication",
+        "itemId": "torWMNMvAqI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=torWMNMvAqI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/14apb3l/",
+            "id": "reddit-lectures-14apb3l",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "14apb3l",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-06-16T06:38:01Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-06-16T06:38:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/14apb3l/",
+      "date_published": "2023-06-16T06:38:01Z",
+      "external_url": "https://www.youtube.com/watch?v=torWMNMvAqI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/torWMNMvAqI/",
+      "image": "https://i.ytimg.com/vi/torWMNMvAqI/hqdefault.jpg",
+      "title": "What You Should Know about EV Charging and Batteries",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/torWMNMvAqI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:vEOtoaiCzsU",
+        "dateBasis": "publication",
+        "itemId": "vEOtoaiCzsU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vEOtoaiCzsU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/146zvoo/",
+            "id": "reddit-lectures-146zvoo",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "146zvoo",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-06-11T17:33:04Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-06-11T17:33:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/146zvoo/",
+      "date_published": "2023-06-11T17:33:04Z",
+      "external_url": "https://www.youtube.com/watch?v=vEOtoaiCzsU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/vEOtoaiCzsU/",
+      "image": "https://i.ytimg.com/vi/vEOtoaiCzsU/hqdefault.jpg",
+      "title": "RESTORATION - spraying a laptop in the world's brightest glow in the dark pigments thunder",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/vEOtoaiCzsU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Jp1evttH3eE",
+        "dateBasis": "publication",
+        "itemId": "Jp1evttH3eE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Jp1evttH3eE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/144wiqc/",
+            "id": "reddit-lectures-144wiqc",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "144wiqc",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-06-09T05:40:14Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-06-09T05:40:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/144wiqc/",
+      "date_published": "2023-06-09T05:40:14Z",
+      "external_url": "https://www.youtube.com/watch?v=Jp1evttH3eE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/Jp1evttH3eE/",
+      "image": "https://i.ytimg.com/vi/Jp1evttH3eE/hqdefault.jpg",
+      "title": "Patriarchy: where did it all begin?",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/Jp1evttH3eE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:EHnjc1gde8c",
+        "dateBasis": "publication",
+        "itemId": "EHnjc1gde8c",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=EHnjc1gde8c"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/142em57/",
+            "id": "reddit-lectures-142em57",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "142em57",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-06-06T12:33:07Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-06-06T12:33:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/142em57/",
+      "date_published": "2023-06-06T12:33:07Z",
+      "external_url": "https://www.youtube.com/watch?v=EHnjc1gde8c",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/EHnjc1gde8c/",
+      "image": "https://i.ytimg.com/vi/EHnjc1gde8c/hqdefault.jpg",
+      "title": "Empire of Illusion: The End of Literacy and the Triumph of Spectacle - Chris Hedges",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/EHnjc1gde8c/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:2UQ8teAebcg",
+        "dateBasis": "publication",
+        "itemId": "2UQ8teAebcg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2UQ8teAebcg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/13zkhik/",
+            "id": "reddit-lectures-13zkhik",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "13zkhik",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-06-03T18:03:04Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-06-03T18:03:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/13zkhik/",
+      "date_published": "2023-06-03T18:03:04Z",
+      "external_url": "https://www.youtube.com/watch?v=2UQ8teAebcg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/2UQ8teAebcg/",
+      "image": "https://i.ytimg.com/vi/2UQ8teAebcg/hqdefault.jpg",
+      "title": "Edward Witten: On the Shoulders of Giants (2015)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/2UQ8teAebcg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:7oLmwLvroxU",
+        "dateBasis": "publication",
+        "itemId": "7oLmwLvroxU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=7oLmwLvroxU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/13y7cb3/",
+            "id": "reddit-lectures-13y7cb3",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "13y7cb3",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-06-02T08:56:10Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-06-02T08:56:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/13y7cb3/",
+      "date_published": "2023-06-02T08:56:10Z",
+      "external_url": "https://www.youtube.com/watch?v=7oLmwLvroxU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/7oLmwLvroxU/",
+      "image": "https://i.ytimg.com/vi/7oLmwLvroxU/hqdefault.jpg",
+      "title": "Art and Decoration in Ancient Egypt, with Emily Teeter",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/7oLmwLvroxU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:7r2si5pz6j3b1",
+        "dateBasis": "publication",
+        "itemId": "reddit-7r2si5pz6j3b1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/7r2si5pz6j3b1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/13y33ff/",
+            "id": "reddit-lectures-13y33ff",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "13y33ff",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-06-02T04:36:57Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-06-02T04:36:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/13y33ff/",
+      "date_published": "2023-06-02T04:36:57Z",
+      "external_url": "https://v.redd.it/7r2si5pz6j3b1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/reddit-7r2si5pz6j3b1/",
+      "title": "“Augmented Lecturing”",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/reddit-7r2si5pz6j3b1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ahKYwVGjbqE",
+        "dateBasis": "publication",
+        "itemId": "ahKYwVGjbqE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ahKYwVGjbqE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/13o9pbc/",
+            "id": "reddit-lectures-13o9pbc",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "13o9pbc",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-05-21T23:23:02Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-05-21T23:23:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/13o9pbc/",
+      "date_published": "2023-05-21T23:23:02Z",
+      "external_url": "https://www.youtube.com/watch?v=ahKYwVGjbqE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/ahKYwVGjbqE/",
+      "image": "https://i.ytimg.com/vi/ahKYwVGjbqE/hqdefault.jpg",
+      "title": "Wild West Photographs of Native Americans (Digital Lecture)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/ahKYwVGjbqE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:9_0E9IzXT34",
+        "dateBasis": "publication",
+        "itemId": "9_0E9IzXT34",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9_0E9IzXT34"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/13iywqg/",
+            "id": "reddit-lectures-13iywqg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "13iywqg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-05-16T08:14:41Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-05-16T08:14:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/13iywqg/",
+      "date_published": "2023-05-16T08:14:41Z",
+      "external_url": "https://www.youtube.com/watch?v=9_0E9IzXT34",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/9_0E9IzXT34/",
+      "image": "https://i.ytimg.com/vi/9_0E9IzXT34/hqdefault.jpg",
+      "title": "Inside Russia with Ekaterina Schulmann",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/9_0E9IzXT34/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:NydsE_F_aUs",
+        "dateBasis": "publication",
+        "itemId": "NydsE_F_aUs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=NydsE_F_aUs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/13iqdso/",
+            "id": "reddit-lectures-13iqdso",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "13iqdso",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-05-16T00:58:18Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-05-16T00:58:18Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/13iqdso/",
+      "date_published": "2023-05-16T00:58:18Z",
+      "external_url": "https://www.youtube.com/watch?v=NydsE_F_aUs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/NydsE_F_aUs/",
+      "image": "https://i.ytimg.com/vi/NydsE_F_aUs/hqdefault.jpg",
+      "title": "Skateboarding was a Crime: An Urban History of Skate Bans and Skate Stoppers [14:42]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/NydsE_F_aUs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:wtQ6VUglnDA",
+        "dateBasis": "publication",
+        "itemId": "wtQ6VUglnDA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=wtQ6VUglnDA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/13iqdct/",
+            "id": "reddit-lectures-13iqdct",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "13iqdct",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-05-16T00:57:38Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-05-16T00:57:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/13iqdct/",
+      "date_published": "2023-05-16T00:57:38Z",
+      "external_url": "https://www.youtube.com/watch?v=wtQ6VUglnDA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/wtQ6VUglnDA/",
+      "image": "https://i.ytimg.com/vi/wtQ6VUglnDA/hqdefault.jpg",
+      "title": "Japan in the Cold War Space Race: Osaka Expo ‘70 [24:42]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/wtQ6VUglnDA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:xP8CzlFhc14",
+        "dateBasis": "publication",
+        "itemId": "xP8CzlFhc14",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xP8CzlFhc14"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/135198n/",
+            "id": "reddit-lectures-135198n",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "135198n",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-05-01T21:05:21Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-05-01T21:05:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/135198n/",
+      "date_published": "2023-05-01T21:05:21Z",
+      "external_url": "https://www.youtube.com/watch?v=xP8CzlFhc14",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/xP8CzlFhc14/",
+      "image": "https://i.ytimg.com/vi/xP8CzlFhc14/hqdefault.jpg",
+      "title": "Yellow Parenti",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/xP8CzlFhc14/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:yKOyCznHcDE",
+        "dateBasis": "publication",
+        "itemId": "yKOyCznHcDE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yKOyCznHcDE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/1303hxt/",
+            "id": "reddit-lectures-1303hxt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "1303hxt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-04-26T23:41:05Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-04-26T23:41:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/1303hxt/",
+      "date_published": "2023-04-26T23:41:05Z",
+      "external_url": "https://www.youtube.com/watch?v=yKOyCznHcDE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/yKOyCznHcDE/",
+      "image": "https://i.ytimg.com/vi/yKOyCznHcDE/hqdefault.jpg",
+      "title": "The Role of Artificial Intelligence in Education: A Game-Changing Approach for Enhanced Learning",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/yKOyCznHcDE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:xoVJKj8lcNQ",
+        "dateBasis": "publication",
+        "itemId": "xoVJKj8lcNQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xoVJKj8lcNQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/12v5a2y/",
+            "id": "reddit-lectures-12v5a2y",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "12v5a2y",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-04-22T13:01:07Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-04-22T13:01:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/12v5a2y/",
+      "date_published": "2023-04-22T13:01:07Z",
+      "external_url": "https://www.youtube.com/watch?v=xoVJKj8lcNQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/xoVJKj8lcNQ/",
+      "image": "https://i.ytimg.com/vi/xoVJKj8lcNQ/hqdefault.jpg",
+      "title": "The A.I. Dilemma",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/xoVJKj8lcNQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Ygi7KuSazn4",
+        "dateBasis": "publication",
+        "itemId": "Ygi7KuSazn4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Ygi7KuSazn4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/12pvat9/",
+            "id": "reddit-lectures-12pvat9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "12pvat9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-04-17T20:20:03Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-04-17T20:20:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/12pvat9/",
+      "date_published": "2023-04-17T20:20:03Z",
+      "external_url": "https://www.youtube.com/watch?v=Ygi7KuSazn4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/Ygi7KuSazn4/",
+      "image": "https://i.ytimg.com/vi/Ygi7KuSazn4/hqdefault.jpg",
+      "title": "Khalid ibn Walid, a Profile of a Warrior (Dr. Roy Casgranda) [01:24:50]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/Ygi7KuSazn4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:n_k6gtKi_k0",
+        "dateBasis": "publication",
+        "itemId": "n_k6gtKi_k0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=n_k6gtKi_k0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/12ooae2/",
+            "id": "reddit-lectures-12ooae2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "12ooae2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-04-16T20:44:33Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-04-16T20:44:33Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/12ooae2/",
+      "date_published": "2023-04-16T20:44:33Z",
+      "external_url": "https://www.youtube.com/watch?v=n_k6gtKi_k0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/n_k6gtKi_k0/",
+      "image": "https://i.ytimg.com/vi/n_k6gtKi_k0/hqdefault.jpg",
+      "title": "Graphic Design For Beginners Free Course",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/n_k6gtKi_k0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:glxVzpPfF4A",
+        "dateBasis": "publication",
+        "itemId": "glxVzpPfF4A",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=glxVzpPfF4A"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/12fmpz2/",
+            "id": "reddit-lectures-12fmpz2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "12fmpz2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-04-08T13:51:03Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-04-08T13:51:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/12fmpz2/",
+      "date_published": "2023-04-08T13:51:03Z",
+      "external_url": "https://www.youtube.com/watch?v=glxVzpPfF4A",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/glxVzpPfF4A/",
+      "image": "https://i.ytimg.com/vi/glxVzpPfF4A/hqdefault.jpg",
+      "title": "Blood Viscosity:A Major Contributor to Diseases of Aging - Dr Pushpa Larsen [2012]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/glxVzpPfF4A/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:d_2y2LgTvoI",
+        "dateBasis": "publication",
+        "itemId": "d_2y2LgTvoI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=d_2y2LgTvoI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/128pdiw/",
+            "id": "reddit-lectures-128pdiw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "128pdiw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-04-01T15:19:01Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-04-01T15:19:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/128pdiw/",
+      "date_published": "2023-04-01T15:19:01Z",
+      "external_url": "https://www.youtube.com/watch?v=d_2y2LgTvoI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/d_2y2LgTvoI/",
+      "image": "https://i.ytimg.com/vi/d_2y2LgTvoI/hqdefault.jpg",
+      "title": "2022 Elie Wiesel Memorial Lecture with Timothy Snyder on Genocide in Ukraine",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/d_2y2LgTvoI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:782P0YcOOOQ",
+        "dateBasis": "publication",
+        "itemId": "782P0YcOOOQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=782P0YcOOOQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/1247rwu/",
+            "id": "reddit-lectures-1247rwu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "1247rwu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-03-28T01:12:52Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-03-28T01:12:52Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/1247rwu/",
+      "date_published": "2023-03-28T01:12:52Z",
+      "external_url": "https://www.youtube.com/watch?v=782P0YcOOOQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/782P0YcOOOQ/",
+      "image": "https://i.ytimg.com/vi/782P0YcOOOQ/hqdefault.jpg",
+      "title": "The 1848 Revolutions - Christopher Clark",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/782P0YcOOOQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:riJCyV8bJYY",
+        "dateBasis": "publication",
+        "itemId": "riJCyV8bJYY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=riJCyV8bJYY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/11zwfaf/",
+            "id": "reddit-lectures-11zwfaf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "11zwfaf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-03-23T20:33:14Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-03-23T20:33:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/11zwfaf/",
+      "date_published": "2023-03-23T20:33:14Z",
+      "external_url": "https://www.youtube.com/watch?v=riJCyV8bJYY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/riJCyV8bJYY/",
+      "image": "https://i.ytimg.com/vi/riJCyV8bJYY/hqdefault.jpg",
+      "title": "What do you think of the EU? Is it able to compete as one with the United States and China? How do you view the EU's current actions? Feel free to discuss 🤨🤔😎",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/riJCyV8bJYY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:D9jyPf71cUQ",
+        "dateBasis": "publication",
+        "itemId": "D9jyPf71cUQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=D9jyPf71cUQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/11q7qnr/",
+            "id": "reddit-lectures-11q7qnr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "11q7qnr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-03-13T12:01:03Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-03-13T12:01:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/11q7qnr/",
+      "date_published": "2023-03-13T12:01:03Z",
+      "external_url": "https://www.youtube.com/watch?v=D9jyPf71cUQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/D9jyPf71cUQ/",
+      "image": "https://i.ytimg.com/vi/D9jyPf71cUQ/hqdefault.jpg",
+      "title": "try this to avoid procrastination",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/D9jyPf71cUQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:z7iQQjZWbKM",
+        "dateBasis": "publication",
+        "itemId": "z7iQQjZWbKM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=z7iQQjZWbKM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/11phraz/",
+            "id": "reddit-lectures-11phraz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "11phraz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-03-12T15:50:41Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-03-12T15:50:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/11phraz/",
+      "date_published": "2023-03-12T15:50:41Z",
+      "external_url": "https://www.youtube.com/watch?v=z7iQQjZWbKM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/z7iQQjZWbKM/",
+      "image": "https://i.ytimg.com/vi/z7iQQjZWbKM/hqdefault.jpg",
+      "title": "Pseudo The Beatguy - Reminisce Ave (ft Roto)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/z7iQQjZWbKM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:7cgj8OlLZAI",
+        "dateBasis": "publication",
+        "itemId": "7cgj8OlLZAI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=7cgj8OlLZAI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/11lakm9/",
+            "id": "reddit-lectures-11lakm9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "11lakm9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-03-07T20:37:56Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-03-07T20:37:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/11lakm9/",
+      "date_published": "2023-03-07T20:37:56Z",
+      "external_url": "https://www.youtube.com/watch?v=7cgj8OlLZAI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/7cgj8OlLZAI/",
+      "image": "https://i.ytimg.com/vi/7cgj8OlLZAI/hqdefault.jpg",
+      "title": "Peter Godfrey-Smith - The Evolution of Experience",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/7cgj8OlLZAI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:NVFFoGfC4Uk",
+        "dateBasis": "publication",
+        "itemId": "NVFFoGfC4Uk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=NVFFoGfC4Uk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/11l81wj/",
+            "id": "reddit-lectures-11l81wj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "11l81wj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-03-07T19:04:31Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-03-07T19:04:31Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/11l81wj/",
+      "date_published": "2023-03-07T19:04:31Z",
+      "external_url": "https://www.youtube.com/watch?v=NVFFoGfC4Uk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/NVFFoGfC4Uk/",
+      "image": "https://i.ytimg.com/vi/NVFFoGfC4Uk/hqdefault.jpg",
+      "title": "Feedback, lineages and cancer, John Lowengrub (University of California at Irvine) PASC14",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/NVFFoGfC4Uk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:PpohGUa1OYw",
+        "dateBasis": "publication",
+        "itemId": "PpohGUa1OYw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PpohGUa1OYw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/11d194g/",
+            "id": "reddit-lectures-11d194g",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "11d194g",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-02-27T03:17:09Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-02-27T03:17:09Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/11d194g/",
+      "date_published": "2023-02-27T03:17:09Z",
+      "external_url": "https://www.youtube.com/watch?v=PpohGUa1OYw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/PpohGUa1OYw/",
+      "image": "https://i.ytimg.com/vi/PpohGUa1OYw/hqdefault.jpg",
+      "title": "Pierre Charbonnier: \"An environmental history of political ideas\" on the unmaking and remaking of social democracies, institutions and conceptual grounds through the experience of the climate crisis.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/PpohGUa1OYw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:p8W0TB6aJGY",
+        "dateBasis": "publication",
+        "itemId": "p8W0TB6aJGY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=p8W0TB6aJGY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/1191s9f/",
+            "id": "reddit-lectures-1191s9f",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "1191s9f",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-02-22T14:56:34Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-02-22T14:56:34Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/1191s9f/",
+      "date_published": "2023-02-22T14:56:34Z",
+      "external_url": "https://www.youtube.com/watch?v=p8W0TB6aJGY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/p8W0TB6aJGY/",
+      "image": "https://i.ytimg.com/vi/p8W0TB6aJGY/hqdefault.jpg",
+      "title": "Johnny Boombox - Lil Grim (Lyric Video)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/p8W0TB6aJGY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:OnNkG3mvHSY",
+        "dateBasis": "publication",
+        "itemId": "OnNkG3mvHSY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OnNkG3mvHSY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/118wmqf/",
+            "id": "reddit-lectures-118wmqf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "118wmqf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-02-22T12:14:11Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-02-22T12:14:11Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/118wmqf/",
+      "date_published": "2023-02-22T12:14:11Z",
+      "external_url": "https://www.youtube.com/watch?v=OnNkG3mvHSY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/OnNkG3mvHSY/",
+      "image": "https://i.ytimg.com/vi/OnNkG3mvHSY/hqdefault.jpg",
+      "title": "A lecture I gave about the medieval Icelandic sagas and what they can teach us about Tommy Wiseau's The Room - and vice versa",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/OnNkG3mvHSY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:0-s20YekRTA",
+        "dateBasis": "publication",
+        "itemId": "0-s20YekRTA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=0-s20YekRTA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/116dwki/",
+            "id": "reddit-lectures-116dwki",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "116dwki",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-02-19T15:13:51Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-02-19T15:13:51Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/116dwki/",
+      "date_published": "2023-02-19T15:13:51Z",
+      "external_url": "https://www.youtube.com/watch?v=0-s20YekRTA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/0-s20YekRTA/",
+      "image": "https://i.ytimg.com/vi/0-s20YekRTA/hqdefault.jpg",
+      "title": "IMS Public Lecture : Waking Up from Leibniz' Dream: On the Unmechanizability of Truth",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/0-s20YekRTA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:32u12zjgJww",
+        "dateBasis": "publication",
+        "itemId": "32u12zjgJww",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=32u12zjgJww"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/11576m3/",
+            "id": "reddit-lectures-11576m3",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "11576m3",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-02-18T04:51:25Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-02-18T04:51:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/11576m3/",
+      "date_published": "2023-02-18T04:51:25Z",
+      "external_url": "https://www.youtube.com/watch?v=32u12zjgJww",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/32u12zjgJww/",
+      "image": "https://i.ytimg.com/vi/32u12zjgJww/hqdefault.jpg",
+      "title": "\"How, When, and Why Can We Trust Our Brains?\" lecture by Daniel Dennett of Tufts University",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/32u12zjgJww/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:N4m7quSW1pg",
+        "dateBasis": "publication",
+        "itemId": "N4m7quSW1pg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=N4m7quSW1pg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/113vgta/",
+            "id": "reddit-lectures-113vgta",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "113vgta",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-02-16T17:05:34Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-02-16T17:05:34Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/113vgta/",
+      "date_published": "2023-02-16T17:05:34Z",
+      "external_url": "https://www.youtube.com/watch?v=N4m7quSW1pg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/N4m7quSW1pg/",
+      "image": "https://i.ytimg.com/vi/N4m7quSW1pg/hqdefault.jpg",
+      "title": "Johnny Boombox - Marco Polo (lyric video)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/N4m7quSW1pg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:T3yIiDALfwg",
+        "dateBasis": "publication",
+        "itemId": "T3yIiDALfwg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=T3yIiDALfwg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/110kz8t/",
+            "id": "reddit-lectures-110kz8t",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "110kz8t",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-02-12T17:22:16Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-02-12T17:22:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/110kz8t/",
+      "date_published": "2023-02-12T17:22:16Z",
+      "external_url": "https://www.youtube.com/watch?v=T3yIiDALfwg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/T3yIiDALfwg/",
+      "image": "https://i.ytimg.com/vi/T3yIiDALfwg/hqdefault.jpg",
+      "title": "What Makes Great Marketing And How To Leverage It For Growing Your App UserBase",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/T3yIiDALfwg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:f0H2nD7o3MY",
+        "dateBasis": "publication",
+        "itemId": "f0H2nD7o3MY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=f0H2nD7o3MY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/10tpibu/",
+            "id": "reddit-lectures-10tpibu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "10tpibu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-02-04T19:52:54Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-02-04T19:52:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/10tpibu/",
+      "date_published": "2023-02-04T19:52:54Z",
+      "external_url": "https://www.youtube.com/watch?v=f0H2nD7o3MY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/f0H2nD7o3MY/",
+      "image": "https://i.ytimg.com/vi/f0H2nD7o3MY/hqdefault.jpg",
+      "title": "Sir David King presents Human Ingenuity and the New Demand for Collective Action (2014)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/f0H2nD7o3MY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:JKWm_eDtXSU",
+        "dateBasis": "publication",
+        "itemId": "JKWm_eDtXSU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JKWm_eDtXSU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/10okzp1/",
+            "id": "reddit-lectures-10okzp1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "10okzp1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-01-29T22:40:33Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-01-29T22:40:33Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/10okzp1/",
+      "date_published": "2023-01-29T22:40:33Z",
+      "external_url": "https://www.youtube.com/watch?v=JKWm_eDtXSU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/JKWm_eDtXSU/",
+      "image": "https://i.ytimg.com/vi/JKWm_eDtXSU/hqdefault.jpg",
+      "title": "Joanna Moncrieff - The Myth of the Chemical Cure. A lecture about the nature of psychiatric drugs.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/JKWm_eDtXSU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:j3mhkYbznBk",
+        "dateBasis": "publication",
+        "itemId": "j3mhkYbznBk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=j3mhkYbznBk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/10f2g8u/",
+            "id": "reddit-lectures-10f2g8u",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "10f2g8u",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-01-18T08:42:24Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-01-18T08:42:24Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/10f2g8u/",
+      "date_published": "2023-01-18T08:42:24Z",
+      "external_url": "https://www.youtube.com/watch?v=j3mhkYbznBk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/j3mhkYbznBk/",
+      "image": "https://i.ytimg.com/vi/j3mhkYbznBk/hqdefault.jpg",
+      "title": "Richard Feynman - The.Character of Physical Law",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/j3mhkYbznBk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1qCYYOHcUVo",
+        "dateBasis": "publication",
+        "itemId": "1qCYYOHcUVo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1qCYYOHcUVo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/10cpqhq/",
+            "id": "reddit-lectures-10cpqhq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "10cpqhq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-01-15T17:40:46Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-01-15T17:40:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/10cpqhq/",
+      "date_published": "2023-01-15T17:40:46Z",
+      "external_url": "https://www.youtube.com/watch?v=1qCYYOHcUVo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/1qCYYOHcUVo/",
+      "image": "https://i.ytimg.com/vi/1qCYYOHcUVo/hqdefault.jpg",
+      "title": "New History Content Combined with Psychology Youtube - Prophecies",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/1qCYYOHcUVo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:UA-jOLF2T4c",
+        "dateBasis": "publication",
+        "itemId": "UA-jOLF2T4c",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UA-jOLF2T4c"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/108z3xu/",
+            "id": "reddit-lectures-108z3xu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "108z3xu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-01-11T07:49:57Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-01-11T07:49:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/108z3xu/",
+      "date_published": "2023-01-11T07:49:57Z",
+      "external_url": "https://www.youtube.com/watch?v=UA-jOLF2T4c",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/UA-jOLF2T4c/",
+      "image": "https://i.ytimg.com/vi/UA-jOLF2T4c/hqdefault.jpg",
+      "title": "Energy at the End of the World – Peter Zeihan - 2022",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/UA-jOLF2T4c/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:CiD-qZDl9jQ",
+        "dateBasis": "publication",
+        "itemId": "CiD-qZDl9jQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=CiD-qZDl9jQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/108dzq9/",
+            "id": "reddit-lectures-108dzq9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "108dzq9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2023-01-10T16:28:43Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2023-01-10T16:28:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/108dzq9/",
+      "date_published": "2023-01-10T16:28:43Z",
+      "external_url": "https://www.youtube.com/watch?v=CiD-qZDl9jQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/CiD-qZDl9jQ/",
+      "image": "https://i.ytimg.com/vi/CiD-qZDl9jQ/hqdefault.jpg",
+      "title": "The History of Dogs: evolution, archaeology, and mythology | Full lecture (University of Wyoming)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/CiD-qZDl9jQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:QNQfmd18FaI",
+        "dateBasis": "publication",
+        "itemId": "QNQfmd18FaI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QNQfmd18FaI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/zvh7sn/",
+            "id": "reddit-lectures-zvh7sn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "zvh7sn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2022-12-26T06:48:04Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2022-12-26T06:48:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/zvh7sn/",
+      "date_published": "2022-12-26T06:48:04Z",
+      "external_url": "https://www.youtube.com/watch?v=QNQfmd18FaI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/QNQfmd18FaI/",
+      "image": "https://i.ytimg.com/vi/QNQfmd18FaI/hqdefault.jpg",
+      "title": "The First Heavyweight Champion To Have Two Trilogies",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/QNQfmd18FaI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:UIqqXJigq7I",
+        "dateBasis": "publication",
+        "itemId": "UIqqXJigq7I",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UIqqXJigq7I"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/zsm0rz/",
+            "id": "reddit-lectures-zsm0rz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "zsm0rz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2022-12-22T13:24:43Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2022-12-22T13:24:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/zsm0rz/",
+      "date_published": "2022-12-22T13:24:43Z",
+      "external_url": "https://www.youtube.com/watch?v=UIqqXJigq7I",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/UIqqXJigq7I/",
+      "image": "https://i.ytimg.com/vi/UIqqXJigq7I/hqdefault.jpg",
+      "title": "Deadly Boxing Knockouts of November 2022",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/UIqqXJigq7I/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:9yyO2inrWHM",
+        "dateBasis": "publication",
+        "itemId": "9yyO2inrWHM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9yyO2inrWHM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/zrlthf/",
+            "id": "reddit-lectures-zrlthf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "zrlthf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2022-12-21T13:23:50Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2022-12-21T13:23:50Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/zrlthf/",
+      "date_published": "2022-12-21T13:23:50Z",
+      "external_url": "https://www.youtube.com/watch?v=9yyO2inrWHM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/9yyO2inrWHM/",
+      "image": "https://i.ytimg.com/vi/9yyO2inrWHM/hqdefault.jpg",
+      "title": "Deadly Boxing Knockouts of September 2022",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/9yyO2inrWHM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-JDDZJAIBDQ",
+        "dateBasis": "publication",
+        "itemId": "-JDDZJAIBDQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-JDDZJAIBDQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/zqbsyf/",
+            "id": "reddit-lectures-zqbsyf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "zqbsyf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2022-12-20T02:35:45Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2022-12-20T02:35:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/zqbsyf/",
+      "date_published": "2022-12-20T02:35:45Z",
+      "external_url": "https://www.youtube.com/watch?v=-JDDZJAIBDQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/-JDDZJAIBDQ/",
+      "image": "https://i.ytimg.com/vi/-JDDZJAIBDQ/hqdefault.jpg",
+      "title": "Deadly Boxing knockouts of June 2022",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/-JDDZJAIBDQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:j1wooqU8t2w",
+        "dateBasis": "publication",
+        "itemId": "j1wooqU8t2w",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=j1wooqU8t2w"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/zntcet/",
+            "id": "reddit-lectures-zntcet",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "zntcet",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2022-12-17T00:15:49Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2022-12-17T00:15:49Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/zntcet/",
+      "date_published": "2022-12-17T00:15:49Z",
+      "external_url": "https://www.youtube.com/watch?v=j1wooqU8t2w",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/j1wooqU8t2w/",
+      "image": "https://i.ytimg.com/vi/j1wooqU8t2w/hqdefault.jpg",
+      "title": "Wilder vs Helenius career and fight highlight",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/j1wooqU8t2w/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:xRAxUhrw7Rs",
+        "dateBasis": "publication",
+        "itemId": "xRAxUhrw7Rs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xRAxUhrw7Rs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/zn9tas/",
+            "id": "reddit-lectures-zn9tas",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "zn9tas",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2022-12-16T08:25:30Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2022-12-16T08:25:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/zn9tas/",
+      "date_published": "2022-12-16T08:25:30Z",
+      "external_url": "https://www.youtube.com/watch?v=xRAxUhrw7Rs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/xRAxUhrw7Rs/",
+      "image": "https://i.ytimg.com/vi/xRAxUhrw7Rs/hqdefault.jpg",
+      "title": "Why Magritte Matters - Sarah Whitfield",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/xRAxUhrw7Rs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:XJ8yVTk3iiY",
+        "dateBasis": "publication",
+        "itemId": "XJ8yVTk3iiY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=XJ8yVTk3iiY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/zkknvk/",
+            "id": "reddit-lectures-zkknvk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "zkknvk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2022-12-13T03:13:04Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2022-12-13T03:13:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/zkknvk/",
+      "date_published": "2022-12-13T03:13:04Z",
+      "external_url": "https://www.youtube.com/watch?v=XJ8yVTk3iiY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/XJ8yVTk3iiY/",
+      "image": "https://i.ytimg.com/vi/XJ8yVTk3iiY/hqdefault.jpg",
+      "title": "Deadly Boxing Knockouts of October 2022",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/XJ8yVTk3iiY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:GvZF7I8SzeE",
+        "dateBasis": "publication",
+        "itemId": "GvZF7I8SzeE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=GvZF7I8SzeE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/zgpnwi/",
+            "id": "reddit-lectures-zgpnwi",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "zgpnwi",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2022-12-09T06:58:15Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2022-12-09T06:58:15Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/zgpnwi/",
+      "date_published": "2022-12-09T06:58:15Z",
+      "external_url": "https://www.youtube.com/watch?v=GvZF7I8SzeE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/GvZF7I8SzeE/",
+      "image": "https://i.ytimg.com/vi/GvZF7I8SzeE/hqdefault.jpg",
+      "title": "Film Studies: Camera Movement in Taxi Driver (1976)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/GvZF7I8SzeE/"
     }
   ],
   "title": "r/lectures — video links",
