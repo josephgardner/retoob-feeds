@@ -133,5 +133,19 @@ Manual updates must preserve all other producer directories and the schema.
 Never replace `docs/` with a manual-only generated site. The private publication
 pipeline rebuilds the combined directory from committed feed files.
 
-No Reddit feed is configured. Third-party API access and public redistribution
-requirements remain to be verified before enabling one.
+The initial Reddit cohort uses the same private collection/public output pipeline.
+Native clips use DASH playback in current Retoob builds; older readers may show
+them as unsupported.
+
+## Shared HTML viewer
+
+The Git tree stores one HTML viewer with JS/CSS, plus the JSON feeds and schemas.
+Browse a list using `index.html?feed=hackertube-software`, or append an `item` ID
+for a card. Per-card and per-feed HTML redirects are generated only in the Pages
+build artifact, preserving existing browser URLs without thousands of folders
+in this repository. Feed URLs and JSON Feed item identities stay unchanged.
+
+GitHub Pages cannot negotiate HTML/JSON with the HTTP Accept header; this is the
+static-host alternative. Retoob accepts the root `feeds.json` as a refreshable
+collection and includes the Algoplay collection on new installs. Counts remain
+JSON metadata and do not appear as a viewing target in the app.
