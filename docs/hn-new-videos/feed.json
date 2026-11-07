@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 12,
+    "itemCount": 16,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 6,
+    "revision": 7,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,359 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:ln0zZcQXv38",
+        "dateBasis": "publication",
+        "itemId": "ln0zZcQXv38",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ln0zZcQXv38"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50402172",
+            "id": "hn-50402172",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50402172",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T06:29:43Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T06:29:43Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50402172. Not a verified endorsement.",
+      "date_published": "2026-11-07T06:29:43Z",
+      "external_url": "https://www.youtube.com/watch?v=ln0zZcQXv38",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ln0zZcQXv38/",
+      "image": "https://i.ytimg.com/vi/ln0zZcQXv38/hqdefault.jpg",
+      "title": "Creating Logic Using Waves: Photonic Gates [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ln0zZcQXv38/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:QpZTYUkYs3w",
+        "dateBasis": "publication",
+        "itemId": "QpZTYUkYs3w",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QpZTYUkYs3w"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50402132",
+            "id": "hn-50402132",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50402132",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T06:18:59Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T06:18:59Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50402132. Not a verified endorsement.",
+      "date_published": "2026-11-07T06:18:59Z",
+      "external_url": "https://www.youtube.com/watch?v=QpZTYUkYs3w",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/QpZTYUkYs3w/",
+      "image": "https://i.ytimg.com/vi/QpZTYUkYs3w/hqdefault.jpg",
+      "title": "Unix Won over the World [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/QpZTYUkYs3w/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-1uQKFblyUU",
+        "dateBasis": "publication",
+        "itemId": "-1uQKFblyUU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-1uQKFblyUU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50401907",
+            "id": "hn-50401907",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50401907",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T05:26:46Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T05:26:46Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50401907. Not a verified endorsement.",
+      "date_published": "2026-11-07T05:26:46Z",
+      "external_url": "https://www.youtube.com/watch?v=-1uQKFblyUU",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/-1uQKFblyUU/",
+      "image": "https://i.ytimg.com/vi/-1uQKFblyUU/hqdefault.jpg",
+      "title": "Tetris Theme Remix (video, 2018)",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/-1uQKFblyUU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:yAj5EnyuakI",
+        "dateBasis": "publication",
+        "itemId": "yAj5EnyuakI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yAj5EnyuakI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50401793",
+            "id": "hn-50401793",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50401793",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T05:06:16Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T05:06:16Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50401793. Not a verified endorsement.",
+      "date_published": "2026-11-07T05:06:16Z",
+      "external_url": "https://www.youtube.com/watch?v=yAj5EnyuakI",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/yAj5EnyuakI/",
+      "image": "https://i.ytimg.com/vi/yAj5EnyuakI/hqdefault.jpg",
+      "title": "Naval Ravikant: The Beginning of Infinity [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/yAj5EnyuakI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:5D7QPOIZ7gY",
+        "dateBasis": "publication",
+        "itemId": "5D7QPOIZ7gY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50401738",
+            "id": "hn-50401738",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50401738",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T04:54:11Z"
+            }
+          },
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50396050",
+            "id": "hn-50396050",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50396050",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T18:12:41Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-11-07T04:54:11Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50401738. Not a verified endorsement.\n\nImported Hacker News mention: https://news.ycombinator.com/item?id=50396050. Not a verified endorsement.",
+      "date_published": "2026-11-07T04:54:11Z",
+      "external_url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5D7QPOIZ7gY/",
+      "image": "https://i.ytimg.com/vi/5D7QPOIZ7gY/hqdefault.jpg",
+      "title": "Code Matters: Reflections on Rust in the LLM Age – Bryan Cantrill – Rust NYC [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5D7QPOIZ7gY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:S1umCJfbJ0w",
+        "dateBasis": "publication",
+        "itemId": "S1umCJfbJ0w",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=S1umCJfbJ0w"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50401539",
+            "id": "hn-50401539",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50401539",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T04:13:17Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T04:13:17Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50401539. Not a verified endorsement.",
+      "date_published": "2026-11-07T04:13:17Z",
+      "external_url": "https://www.youtube.com/watch?v=S1umCJfbJ0w",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/S1umCJfbJ0w/",
+      "image": "https://i.ytimg.com/vi/S1umCJfbJ0w/hqdefault.jpg",
+      "title": "SpaceX's $2T Bet Has a Physics Problem [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/S1umCJfbJ0w/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:yDwJPzPx8So",
+        "dateBasis": "publication",
+        "itemId": "yDwJPzPx8So",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yDwJPzPx8So"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50399981",
+            "id": "hn-50399981",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50399981",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T23:35:46Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-06T23:35:46Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50399981. Not a verified endorsement.",
+      "date_published": "2026-11-06T23:35:46Z",
+      "external_url": "https://www.youtube.com/watch?v=yDwJPzPx8So",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/yDwJPzPx8So/",
+      "image": "https://i.ytimg.com/vi/yDwJPzPx8So/hqdefault.jpg",
+      "title": "San Francisco IGN Review (parody) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/yDwJPzPx8So/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:fQ_9-Qx5Hz4",
+        "dateBasis": "publication",
+        "itemId": "fQ_9-Qx5Hz4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fQ_9-Qx5Hz4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50399966",
+            "id": "hn-50399966",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50399966",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-06T23:34:01Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-06T23:34:01Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50399966. Not a verified endorsement.",
+      "date_published": "2026-11-06T23:34:01Z",
+      "external_url": "https://www.youtube.com/watch?v=fQ_9-Qx5Hz4",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/fQ_9-Qx5Hz4/",
+      "image": "https://i.ytimg.com/vi/fQ_9-Qx5Hz4/hqdefault.jpg",
+      "title": "Susan Blackmore: Memes and \"Temes\" (2008) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/fQ_9-Qx5Hz4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:aenpTk8blIs",
@@ -266,48 +619,6 @@
     },
     {
       "_retoob": {
-        "contentKey": "youtube:5D7QPOIZ7gY",
-        "dateBasis": "publication",
-        "itemId": "5D7QPOIZ7gY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50396050",
-            "id": "hn-50396050",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50396050",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T18:12:41Z"
-            }
-          }
-        ],
-        "revision": 2,
-        "sortAt": "2026-11-06T18:12:41Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50396050. Not a verified endorsement.",
-      "date_published": "2026-11-06T18:12:41Z",
-      "external_url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5D7QPOIZ7gY/",
-      "image": "https://i.ytimg.com/vi/5D7QPOIZ7gY/hqdefault.jpg",
-      "title": "Code Matters: Reflections on Rust in the LLM Age [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5D7QPOIZ7gY/"
-    },
-    {
-      "_retoob": {
         "contentKey": "youtube:RjtxpvXT5cA",
         "dateBasis": "publication",
         "itemId": "RjtxpvXT5cA",
@@ -389,132 +700,6 @@
       "image": "https://i.ytimg.com/vi/b-jQmw79PFo/hqdefault.jpg",
       "title": "Space shuttles sonic booms compilation [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/b-jQmw79PFo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:UN1LIF01uHQ",
-        "dateBasis": "publication",
-        "itemId": "UN1LIF01uHQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=UN1LIF01uHQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50394904",
-            "id": "hn-50394904",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50394904",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T16:54:21Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T16:54:21Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50394904. Not a verified endorsement.",
-      "date_published": "2026-11-06T16:54:21Z",
-      "external_url": "https://www.youtube.com/watch?v=UN1LIF01uHQ",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/UN1LIF01uHQ/",
-      "image": "https://i.ytimg.com/vi/UN1LIF01uHQ/hqdefault.jpg",
-      "title": "Show HN: Jev vs. OpenAI Decision vs. Small Financial World Models: FinBench [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/UN1LIF01uHQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:dBNrlOeaxIY",
-        "dateBasis": "publication",
-        "itemId": "dBNrlOeaxIY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=dBNrlOeaxIY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50394445",
-            "id": "hn-50394445",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50394445",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T16:23:56Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T16:23:56Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50394445. Not a verified endorsement.",
-      "date_published": "2026-11-06T16:23:56Z",
-      "external_url": "https://www.youtube.com/watch?v=dBNrlOeaxIY",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/dBNrlOeaxIY/",
-      "image": "https://i.ytimg.com/vi/dBNrlOeaxIY/hqdefault.jpg",
-      "title": "Let's Chat with Lee Felsenstein – Sol-20/Osborne 1/Homebrew Computer Club [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/dBNrlOeaxIY/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:F2TkzDaa8A4",
-        "dateBasis": "publication",
-        "itemId": "F2TkzDaa8A4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=F2TkzDaa8A4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50393972",
-            "id": "hn-50393972",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50393972",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T15:56:51Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T15:56:51Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50393972. Not a verified endorsement.",
-      "date_published": "2026-11-06T15:56:51Z",
-      "external_url": "https://www.youtube.com/watch?v=F2TkzDaa8A4",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/F2TkzDaa8A4/",
-      "image": "https://i.ytimg.com/vi/F2TkzDaa8A4/hqdefault.jpg",
-      "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/F2TkzDaa8A4/"
     }
   ],
   "title": "Hacker News — newest-story videos",
