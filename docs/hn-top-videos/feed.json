@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 3,
+    "itemCount": 2,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 6,
+    "revision": 7,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -53,48 +53,6 @@
       "image": "https://i.ytimg.com/vi/aenpTk8blIs/hqdefault.jpg",
       "title": "Title: I struggled to understand RAG, so I built a tutorial from scratch [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/aenpTk8blIs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:bn82CJfeYko",
-        "dateBasis": "publication",
-        "itemId": "bn82CJfeYko",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=bn82CJfeYko"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50391948",
-            "id": "hn-50391948",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50391948",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T13:16:14Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T13:16:14Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50391948. Not a verified endorsement.",
-      "date_published": "2026-11-06T13:16:14Z",
-      "external_url": "https://www.youtube.com/watch?v=bn82CJfeYko",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/bn82CJfeYko/",
-      "image": "https://i.ytimg.com/vi/bn82CJfeYko/hqdefault.jpg",
-      "title": "Everything I Wish I Knew About AI Inference Engineering [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/bn82CJfeYko/"
     },
     {
       "_retoob": {

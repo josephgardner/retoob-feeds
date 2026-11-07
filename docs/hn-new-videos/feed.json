@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 16,
+    "itemCount": 13,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 7,
+    "revision": 8,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:gIvVjepvdMg",
+        "dateBasis": "publication",
+        "itemId": "gIvVjepvdMg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gIvVjepvdMg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50404279",
+            "id": "hn-50404279",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50404279",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T13:11:50Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T13:11:50Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50404279. Not a verified endorsement.",
+      "date_published": "2026-11-07T13:11:50Z",
+      "external_url": "https://www.youtube.com/watch?v=gIvVjepvdMg",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/gIvVjepvdMg/",
+      "image": "https://i.ytimg.com/vi/gIvVjepvdMg/hqdefault.jpg",
+      "title": "The Joy of Coding Is Gone: My Honest Take on AI",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/gIvVjepvdMg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:i_mLxyIXpSY",
+        "dateBasis": "publication",
+        "itemId": "i_mLxyIXpSY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=i_mLxyIXpSY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50403567",
+            "id": "hn-50403567",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50403567",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T11:23:21Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T11:23:21Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50403567. Not a verified endorsement.",
+      "date_published": "2026-11-07T11:23:21Z",
+      "external_url": "https://www.youtube.com/watch?v=i_mLxyIXpSY",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i_mLxyIXpSY/",
+      "image": "https://i.ytimg.com/vi/i_mLxyIXpSY/hqdefault.jpg",
+      "title": "Lessons from a Can Opener (Technology Connections) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i_mLxyIXpSY/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:ln0zZcQXv38",
@@ -208,30 +292,13 @@
               "precision": "exact",
               "value": "2026-11-07T04:54:11Z"
             }
-          },
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50396050",
-            "id": "hn-50396050",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50396050",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T18:12:41Z"
-            }
           }
         ],
-        "revision": 3,
+        "revision": 4,
         "sortAt": "2026-11-07T04:54:11Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50401738. Not a verified endorsement.\n\nImported Hacker News mention: https://news.ycombinator.com/item?id=50396050. Not a verified endorsement.",
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50401738. Not a verified endorsement.",
       "date_published": "2026-11-07T04:54:11Z",
       "external_url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
       "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5D7QPOIZ7gY/",
@@ -490,216 +557,6 @@
       "image": "https://i.ytimg.com/vi/WLYW6BPkkIk/hqdefault.jpg",
       "title": "Will AI Kill Mathematics?",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/WLYW6BPkkIk/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:77GAfNCG12g",
-        "dateBasis": "publication",
-        "itemId": "77GAfNCG12g",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=77GAfNCG12g"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50397007",
-            "id": "hn-50397007",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50397007",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T19:19:08Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T19:19:08Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50397007. Not a verified endorsement.",
-      "date_published": "2026-11-06T19:19:08Z",
-      "external_url": "https://www.youtube.com/watch?v=77GAfNCG12g",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/77GAfNCG12g/",
-      "image": "https://i.ytimg.com/vi/77GAfNCG12g/hqdefault.jpg",
-      "title": "Why America Abandoned Route 66 [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/77GAfNCG12g/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:r-SbJ5Kyrg8",
-        "dateBasis": "publication",
-        "itemId": "r-SbJ5Kyrg8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=r-SbJ5Kyrg8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50396888",
-            "id": "hn-50396888",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50396888",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T19:10:31Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T19:10:31Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50396888. Not a verified endorsement.",
-      "date_published": "2026-11-06T19:10:31Z",
-      "external_url": "https://www.youtube.com/watch?v=r-SbJ5Kyrg8",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/r-SbJ5Kyrg8/",
-      "image": "https://i.ytimg.com/vi/r-SbJ5Kyrg8/hqdefault.jpg",
-      "title": "$11.4M shipment of Nvidia cargo stolen from Oakland [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/r-SbJ5Kyrg8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:2FOZ_nyiGfc",
-        "dateBasis": "publication",
-        "itemId": "2FOZ_nyiGfc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=2FOZ_nyiGfc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50396309",
-            "id": "hn-50396309",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50396309",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T18:30:27Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T18:30:27Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50396309. Not a verified endorsement.",
-      "date_published": "2026-11-06T18:30:27Z",
-      "external_url": "https://www.youtube.com/watch?v=2FOZ_nyiGfc",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/2FOZ_nyiGfc/",
-      "image": "https://i.ytimg.com/vi/2FOZ_nyiGfc/hqdefault.jpg",
-      "title": "Answer iPhone calls on speaker in one gesture?",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/2FOZ_nyiGfc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:RjtxpvXT5cA",
-        "dateBasis": "publication",
-        "itemId": "RjtxpvXT5cA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=RjtxpvXT5cA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50395477",
-            "id": "hn-50395477",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50395477",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T17:32:22Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T17:32:22Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50395477. Not a verified endorsement.",
-      "date_published": "2026-11-06T17:32:22Z",
-      "external_url": "https://www.youtube.com/watch?v=RjtxpvXT5cA",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/RjtxpvXT5cA/",
-      "image": "https://i.ytimg.com/vi/RjtxpvXT5cA/hqdefault.jpg",
-      "title": "VCF West Presentation: Is That Unix? – Sean Haas [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/RjtxpvXT5cA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:b-jQmw79PFo",
-        "dateBasis": "publication",
-        "itemId": "b-jQmw79PFo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=b-jQmw79PFo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50395076",
-            "id": "hn-50395076",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50395076",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-06T17:05:55Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-06T17:05:55Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50395076. Not a verified endorsement.",
-      "date_published": "2026-11-06T17:05:55Z",
-      "external_url": "https://www.youtube.com/watch?v=b-jQmw79PFo",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/b-jQmw79PFo/",
-      "image": "https://i.ytimg.com/vi/b-jQmw79PFo/hqdefault.jpg",
-      "title": "Space shuttles sonic booms compilation [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/b-jQmw79PFo/"
     }
   ],
   "title": "Hacker News — newest-story videos",
