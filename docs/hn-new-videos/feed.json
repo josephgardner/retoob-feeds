@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 20,
+    "itemCount": 18,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 13,
+    "revision": 14,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,132 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:8kd67EQaieU",
+        "dateBasis": "publication",
+        "itemId": "8kd67EQaieU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8kd67EQaieU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50417227",
+            "id": "hn-50417227",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50417227",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T21:03:25Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-08T21:03:25Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50417227. Not a verified endorsement.",
+      "date_published": "2026-11-08T21:03:25Z",
+      "external_url": "https://www.youtube.com/watch?v=8kd67EQaieU",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/8kd67EQaieU/",
+      "image": "https://i.ytimg.com/vi/8kd67EQaieU/hqdefault.jpg",
+      "title": "Mstein – Ich klau den RAM",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/8kd67EQaieU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:nv5_PH2uPVI",
+        "dateBasis": "publication",
+        "itemId": "nv5_PH2uPVI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=nv5_PH2uPVI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50416454",
+            "id": "hn-50416454",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50416454",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T19:48:30Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-08T19:48:30Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50416454. Not a verified endorsement.",
+      "date_published": "2026-11-08T19:48:30Z",
+      "external_url": "https://www.youtube.com/watch?v=nv5_PH2uPVI",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/nv5_PH2uPVI/",
+      "image": "https://i.ytimg.com/vi/nv5_PH2uPVI/hqdefault.jpg",
+      "title": "Stanford Paper Could Make Nvidia's Memory Chips Unnecessary [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/nv5_PH2uPVI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zrlLUUdqDJI",
+        "dateBasis": "publication",
+        "itemId": "zrlLUUdqDJI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50416103",
+            "id": "hn-50416103",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50416103",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T19:14:41Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-08T19:14:41Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50416103. Not a verified endorsement.",
+      "date_published": "2026-11-08T19:14:41Z",
+      "external_url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/zrlLUUdqDJI/",
+      "image": "https://i.ytimg.com/vi/zrlLUUdqDJI/hqdefault.jpg",
+      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/zrlLUUdqDJI/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:I6IQ_FOCE6I",
@@ -641,216 +767,6 @@
       "image": "https://i.ytimg.com/vi/zIxTKc67tHU/hqdefault.jpg",
       "title": "Why Is Everyone Leaving New Zealand? [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/zIxTKc67tHU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:dMBBOawFy_4",
-        "dateBasis": "publication",
-        "itemId": "dMBBOawFy_4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=dMBBOawFy_4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50410806",
-            "id": "hn-50410806",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50410806",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T06:01:25Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T06:01:25Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50410806. Not a verified endorsement.",
-      "date_published": "2026-11-08T06:01:25Z",
-      "external_url": "https://www.youtube.com/watch?v=dMBBOawFy_4",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/dMBBOawFy_4/",
-      "image": "https://i.ytimg.com/vi/dMBBOawFy_4/hqdefault.jpg",
-      "title": "Joe Rogan Experience #2578 – Calley Means [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/dMBBOawFy_4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:ln0zZcQXv38",
-        "dateBasis": "publication",
-        "itemId": "ln0zZcQXv38",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ln0zZcQXv38"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50410561",
-            "id": "hn-50410561",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50410561",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T05:09:40Z"
-            }
-          }
-        ],
-        "revision": 4,
-        "sortAt": "2026-11-08T05:09:40Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50410561. Not a verified endorsement.",
-      "date_published": "2026-11-08T05:09:40Z",
-      "external_url": "https://www.youtube.com/watch?v=ln0zZcQXv38",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ln0zZcQXv38/",
-      "image": "https://i.ytimg.com/vi/ln0zZcQXv38/hqdefault.jpg",
-      "title": "How do photonic logic gates work?",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ln0zZcQXv38/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:pBJxz8FlSfE",
-        "dateBasis": "publication",
-        "itemId": "pBJxz8FlSfE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=pBJxz8FlSfE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50409943",
-            "id": "hn-50409943",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50409943",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T02:26:43Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T02:26:43Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50409943. Not a verified endorsement.",
-      "date_published": "2026-11-08T02:26:43Z",
-      "external_url": "https://www.youtube.com/watch?v=pBJxz8FlSfE",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pBJxz8FlSfE/",
-      "image": "https://i.ytimg.com/vi/pBJxz8FlSfE/hqdefault.jpg",
-      "title": "Super Mario 64 on the Atari Jaguar [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pBJxz8FlSfE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:JIPXsvWPcGI",
-        "dateBasis": "publication",
-        "itemId": "JIPXsvWPcGI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=JIPXsvWPcGI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50409833",
-            "id": "hn-50409833",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50409833",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T01:57:19Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T01:57:19Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50409833. Not a verified endorsement.",
-      "date_published": "2026-11-08T01:57:19Z",
-      "external_url": "https://www.youtube.com/watch?v=JIPXsvWPcGI",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JIPXsvWPcGI/",
-      "image": "https://i.ytimg.com/vi/JIPXsvWPcGI/hqdefault.jpg",
-      "title": "My $2k Chinese Electric Truck: 5 Years Later [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JIPXsvWPcGI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:v4uwaw_5Q3I",
-        "dateBasis": "publication",
-        "itemId": "v4uwaw_5Q3I",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=v4uwaw_5Q3I"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50409078",
-            "id": "hn-50409078",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50409078",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T23:36:17Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-07T23:36:17Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50409078. Not a verified endorsement.",
-      "date_published": "2026-11-07T23:36:17Z",
-      "external_url": "https://www.youtube.com/watch?v=v4uwaw_5Q3I",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/v4uwaw_5Q3I/",
-      "image": "https://i.ytimg.com/vi/v4uwaw_5Q3I/hqdefault.jpg",
-      "title": "Peter Watts: Conscious Ants and Human Hives (2018) [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/v4uwaw_5Q3I/"
     }
   ],
   "title": "Hacker News — newest-story videos",
