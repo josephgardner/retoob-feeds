@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 331,
+    "itemCount": 349,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 8,
+    "revision": 9,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,186 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:5QtsJqrvqb4",
+        "dateBasis": "publication",
+        "itemId": "5QtsJqrvqb4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5QtsJqrvqb4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xr2qin/",
+            "id": "reddit-documentaries-1xr2qin",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xr2qin",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T16:42:48Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xdf5kx/",
+            "id": "reddit-documentaries-1xdf5kx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xdf5kx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-23T14:11:09Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-11-08T16:42:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xr2qin/\nhttps://www.reddit.com/r/documentaries/comments/1xdf5kx/",
+      "date_published": "2026-11-08T16:42:48Z",
+      "external_url": "https://www.youtube.com/watch?v=5QtsJqrvqb4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/5QtsJqrvqb4/",
+      "image": "https://i.ytimg.com/vi/5QtsJqrvqb4/hqdefault.jpg",
+      "title": "Tobacco War Explained (Master Settlement Aggrement) (2026) [0:17:20]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/5QtsJqrvqb4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:u4BpEVKjGBc",
+        "dateBasis": "publication",
+        "itemId": "u4BpEVKjGBc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=u4BpEVKjGBc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xr1t2r/",
+            "id": "reddit-documentaries-1xr1t2r",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xr1t2r",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T16:03:38Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-11-08T16:03:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xr1t2r/",
+      "date_published": "2026-11-08T16:03:38Z",
+      "external_url": "https://www.youtube.com/watch?v=u4BpEVKjGBc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/u4BpEVKjGBc/",
+      "image": "https://i.ytimg.com/vi/u4BpEVKjGBc/hqdefault.jpg",
+      "title": "The Weirdest Cyberattack of 2026 (2026) [00:07:50]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/u4BpEVKjGBc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:KL7U8TgXE40",
+        "dateBasis": "publication",
+        "itemId": "KL7U8TgXE40",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KL7U8TgXE40"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xr1ebn/",
+            "id": "reddit-documentaries-1xr1ebn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xr1ebn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T15:46:10Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-11-08T15:46:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xr1ebn/",
+      "date_published": "2026-11-08T15:46:10Z",
+      "external_url": "https://www.youtube.com/watch?v=KL7U8TgXE40",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/KL7U8TgXE40/",
+      "image": "https://i.ytimg.com/vi/KL7U8TgXE40/hqdefault.jpg",
+      "title": "The American Revolution | Battle of Groton Heights Massacre | America 250 (2025) [0:07:49]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/KL7U8TgXE40/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:0njiLxFmlrQ",
+        "dateBasis": "publication",
+        "itemId": "0njiLxFmlrQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=0njiLxFmlrQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xr0suu/",
+            "id": "reddit-documentaries-1xr0suu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xr0suu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T15:19:22Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-11-08T15:19:22Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xr0suu/",
+      "date_published": "2026-11-08T15:19:22Z",
+      "external_url": "https://www.youtube.com/watch?v=0njiLxFmlrQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/0njiLxFmlrQ/",
+      "image": "https://i.ytimg.com/vi/0njiLxFmlrQ/hqdefault.jpg",
+      "title": "The Bank That Took Down Paraguay's President (2026) - How a digital bank froze 3 million accounts and toppled a government in four days [00:07:14]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/0njiLxFmlrQ/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:TbWbJaSjzUA",
@@ -3039,47 +3219,6 @@
       "image": "https://i.ytimg.com/vi/PPYj0r88Pdo/hqdefault.jpg",
       "title": "The Deepest Nightmares: What Lies Beneath (2026) - Deep-sea predators and life in the ocean depths (CC) [00:06:03]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/PPYj0r88Pdo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:5QtsJqrvqb4",
-        "dateBasis": "publication",
-        "itemId": "5QtsJqrvqb4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=5QtsJqrvqb4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xdf5kx/",
-            "id": "reddit-documentaries-1xdf5kx",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1xdf5kx",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-23T14:11:09Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-23T14:11:09Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xdf5kx/",
-      "date_published": "2026-10-23T14:11:09Z",
-      "external_url": "https://www.youtube.com/watch?v=5QtsJqrvqb4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/5QtsJqrvqb4/",
-      "image": "https://i.ytimg.com/vi/5QtsJqrvqb4/hqdefault.jpg",
-      "title": "“Tobacco Master Settlement Aggrement” (2026) [0:17:20]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/5QtsJqrvqb4/"
     },
     {
       "_retoob": {
@@ -14414,6 +14553,653 @@
       "image": "https://i.ytimg.com/vi/bc9qxyf_suI/hqdefault.jpg",
       "title": "The Last Lighthouse (1973) - Life on the last manned British lighthouse [00:42:08]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/bc9qxyf_suI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:HnZSaKYmP2s",
+        "dateBasis": "publication",
+        "itemId": "HnZSaKYmP2s",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HnZSaKYmP2s"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w9afxz/",
+            "id": "reddit-documentaries-1w9afxz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w9afxz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T22:35:09Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-06T22:35:09Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w9afxz/",
+      "date_published": "2026-09-06T22:35:09Z",
+      "external_url": "https://www.youtube.com/watch?v=HnZSaKYmP2s",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/HnZSaKYmP2s/",
+      "image": "https://i.ytimg.com/vi/HnZSaKYmP2s/hqdefault.jpg",
+      "title": "Gaza Fights for Freedom (2019) - Abby Martin documents Gaza and the Great March of Return [01:23:57]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/HnZSaKYmP2s/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:85eAvkSK7uU",
+        "dateBasis": "publication",
+        "itemId": "85eAvkSK7uU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=85eAvkSK7uU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w97n8k/",
+            "id": "reddit-documentaries-1w97n8k",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w97n8k",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T20:42:54Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-06T20:42:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w97n8k/",
+      "date_published": "2026-09-06T20:42:54Z",
+      "external_url": "https://www.youtube.com/watch?v=85eAvkSK7uU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/85eAvkSK7uU/",
+      "image": "https://i.ytimg.com/vi/85eAvkSK7uU/hqdefault.jpg",
+      "title": "Labor Day's Bloody History: The Story of the Pullman Strike. (2026) [00:42:32]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/85eAvkSK7uU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:fA5rWh-V6Wg",
+        "dateBasis": "publication",
+        "itemId": "fA5rWh-V6Wg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fA5rWh-V6Wg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w909ve/",
+            "id": "reddit-documentaries-1w909ve",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w909ve",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T16:10:38Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-06T16:10:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w909ve/",
+      "date_published": "2026-09-06T16:10:38Z",
+      "external_url": "https://www.youtube.com/watch?v=fA5rWh-V6Wg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/fA5rWh-V6Wg/",
+      "image": "https://i.ytimg.com/vi/fA5rWh-V6Wg/hqdefault.jpg",
+      "title": "When Dinosaurs Roamed America (2001) [1:31:10] | Narrated by John Goodman",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/fA5rWh-V6Wg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:dEbnNFA6ZBQ",
+        "dateBasis": "publication",
+        "itemId": "dEbnNFA6ZBQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=dEbnNFA6ZBQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8zjyf/",
+            "id": "reddit-documentaries-1w8zjyf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8zjyf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T15:43:05Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-06T15:43:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w8zjyf/",
+      "date_published": "2026-09-06T15:43:05Z",
+      "external_url": "https://www.youtube.com/watch?v=dEbnNFA6ZBQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/dEbnNFA6ZBQ/",
+      "image": "https://i.ytimg.com/vi/dEbnNFA6ZBQ/hqdefault.jpg",
+      "title": "The JonBenét Ramsey Case (1996) - The unsolved murder of a 6-year-old and the DNA that still doesn't match anyone [00:08:22]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/dEbnNFA6ZBQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:mA-rNH4-7CM",
+        "dateBasis": "publication",
+        "itemId": "mA-rNH4-7CM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=mA-rNH4-7CM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8yy9u/",
+            "id": "reddit-documentaries-1w8yy9u",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8yy9u",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T15:19:36Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8xldx/",
+            "id": "reddit-documentaries-1w8xldx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8xldx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T14:25:04Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-06T15:19:36Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w8yy9u/\nhttps://www.reddit.com/r/documentaries/comments/1w8xldx/",
+      "date_published": "2026-09-06T15:19:36Z",
+      "external_url": "https://www.youtube.com/watch?v=mA-rNH4-7CM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/mA-rNH4-7CM/",
+      "image": "https://i.ytimg.com/vi/mA-rNH4-7CM/hqdefault.jpg",
+      "title": "Crisi del 2008 (2008) [9:30:00]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/mA-rNH4-7CM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:pgzYWi12lz4",
+        "dateBasis": "publication",
+        "itemId": "pgzYWi12lz4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pgzYWi12lz4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8vguk/",
+            "id": "reddit-documentaries-1w8vguk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8vguk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T12:55:30Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-06T12:55:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w8vguk/",
+      "date_published": "2026-09-06T12:55:30Z",
+      "external_url": "https://www.youtube.com/watch?v=pgzYWi12lz4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/pgzYWi12lz4/",
+      "image": "https://i.ytimg.com/vi/pgzYWi12lz4/hqdefault.jpg",
+      "title": "She Thought Her Staged Crime Was Perfect Until Interrogation (2026) [0:48:15]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/pgzYWi12lz4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:eMqgO6MfvOI",
+        "dateBasis": "publication",
+        "itemId": "eMqgO6MfvOI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=eMqgO6MfvOI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8r5k8/",
+            "id": "reddit-documentaries-1w8r5k8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8r5k8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T09:09:20Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8qyac/",
+            "id": "reddit-documentaries-1w8qyac",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8qyac",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T08:58:20Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-06T09:09:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w8r5k8/\nhttps://www.reddit.com/r/documentaries/comments/1w8qyac/",
+      "date_published": "2026-09-06T09:09:20Z",
+      "external_url": "https://www.youtube.com/watch?v=eMqgO6MfvOI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/eMqgO6MfvOI/",
+      "image": "https://i.ytimg.com/vi/eMqgO6MfvOI/hqdefault.jpg",
+      "title": "I ragazzi più intelligenti che fregatene Wall Street (2001) - documentario dell'assurdo caso Enron (CC) [8:49:00]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/eMqgO6MfvOI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zVhvfjxyqxY",
+        "dateBasis": "publication",
+        "itemId": "zVhvfjxyqxY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zVhvfjxyqxY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8mxyx/",
+            "id": "reddit-documentaries-1w8mxyx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8mxyx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T05:12:33Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-06T05:12:33Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w8mxyx/",
+      "date_published": "2026-09-06T05:12:33Z",
+      "external_url": "https://www.youtube.com/watch?v=zVhvfjxyqxY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/zVhvfjxyqxY/",
+      "image": "https://i.ytimg.com/vi/zVhvfjxyqxY/hqdefault.jpg",
+      "title": "The Patients We Fear: Life in a Forensic Psychiatric Hospital - After the Psychosis (2014) [1:26:30]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/zVhvfjxyqxY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:M0DEVjwUAZE",
+        "dateBasis": "publication",
+        "itemId": "M0DEVjwUAZE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=M0DEVjwUAZE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8co2n/",
+            "id": "reddit-documentaries-1w8co2n",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8co2n",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-05T21:10:50Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-05T21:10:50Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w8co2n/",
+      "date_published": "2026-09-05T21:10:50Z",
+      "external_url": "https://www.youtube.com/watch?v=M0DEVjwUAZE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/M0DEVjwUAZE/",
+      "image": "https://i.ytimg.com/vi/M0DEVjwUAZE/hqdefault.jpg",
+      "title": "The People Who Paint Pylons (1997) - BBC doc following four painters who paint pylons for a living [00:28:47]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/M0DEVjwUAZE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:S048WHjColk",
+        "dateBasis": "publication",
+        "itemId": "S048WHjColk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=S048WHjColk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w8b9n1/",
+            "id": "reddit-documentaries-1w8b9n1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w8b9n1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-05T20:15:14Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-05T20:15:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w8b9n1/",
+      "date_published": "2026-09-05T20:15:14Z",
+      "external_url": "https://www.youtube.com/watch?v=S048WHjColk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/S048WHjColk/",
+      "image": "https://i.ytimg.com/vi/S048WHjColk/hqdefault.jpg",
+      "title": "Ghana's Galamsey Situation Is Crazy (2026) [00:09:27]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/S048WHjColk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:V3KaDgFfRNw",
+        "dateBasis": "publication",
+        "itemId": "V3KaDgFfRNw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=V3KaDgFfRNw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w88hpk/",
+            "id": "reddit-documentaries-1w88hpk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w88hpk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-05T18:29:23Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-05T18:29:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w88hpk/",
+      "date_published": "2026-09-05T18:29:23Z",
+      "external_url": "https://www.youtube.com/watch?v=V3KaDgFfRNw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/V3KaDgFfRNw/",
+      "image": "https://i.ytimg.com/vi/V3KaDgFfRNw/hqdefault.jpg",
+      "title": "Jenin, Jenin (2002) - Mohammad Bakri's documentary on the aftermath of the Battle of Jenin [00:53:55]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/V3KaDgFfRNw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:DfDAQvHXPIE",
+        "dateBasis": "publication",
+        "itemId": "DfDAQvHXPIE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=DfDAQvHXPIE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w7u2lb/",
+            "id": "reddit-documentaries-1w7u2lb",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w7u2lb",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-05T07:35:38Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-05T07:35:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w7u2lb/",
+      "date_published": "2026-09-05T07:35:38Z",
+      "external_url": "https://www.youtube.com/watch?v=DfDAQvHXPIE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/DfDAQvHXPIE/",
+      "image": "https://i.ytimg.com/vi/DfDAQvHXPIE/hqdefault.jpg",
+      "title": "Goal Dreams (2006) - documentary following the Palestinian national football team during its 2006 World Cup qualifying campaign [01:25:51]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/DfDAQvHXPIE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1pCigAw2-0g",
+        "dateBasis": "publication",
+        "itemId": "1pCigAw2-0g",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1pCigAw2-0g"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w7c6sj/",
+            "id": "reddit-documentaries-1w7c6sj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w7c6sj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-04T18:14:31Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-04T18:14:31Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w7c6sj/",
+      "date_published": "2026-09-04T18:14:31Z",
+      "external_url": "https://www.youtube.com/watch?v=1pCigAw2-0g",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/1pCigAw2-0g/",
+      "image": "https://i.ytimg.com/vi/1pCigAw2-0g/hqdefault.jpg",
+      "title": "Human Resources: Social Engineering In The 20th Century (2010) - A documentary about the exploitation of human beings. [01:59:23]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/1pCigAw2-0g/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-lqwW2zUUz0",
+        "dateBasis": "publication",
+        "itemId": "-lqwW2zUUz0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-lqwW2zUUz0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w772ee/",
+            "id": "reddit-documentaries-1w772ee",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w772ee",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-04T15:09:44Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-04T15:09:44Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w772ee/",
+      "date_published": "2026-09-04T15:09:44Z",
+      "external_url": "https://www.youtube.com/watch?v=-lqwW2zUUz0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/-lqwW2zUUz0/",
+      "image": "https://i.ytimg.com/vi/-lqwW2zUUz0/hqdefault.jpg",
+      "title": "The Dark Reality Hidden Inside the Hoover Dam (2026)[00:05:03] - A deep dive into the brutal working conditions, declassified cover-ups, and the tragic human cost behind America's modern marvel",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/-lqwW2zUUz0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:lx8QrkyfteU",
+        "dateBasis": "publication",
+        "itemId": "lx8QrkyfteU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=lx8QrkyfteU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w6xca0/",
+            "id": "reddit-documentaries-1w6xca0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1w6xca0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-04T07:22:06Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-09-04T07:22:06Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w6xca0/",
+      "date_published": "2026-09-04T07:22:06Z",
+      "external_url": "https://www.youtube.com/watch?v=lx8QrkyfteU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/lx8QrkyfteU/",
+      "image": "https://i.ytimg.com/vi/lx8QrkyfteU/hqdefault.jpg",
+      "title": "Soraida, a Woman of Palestine (2004) [01:59:11] - An intimate portrait of everyday Palestinian life in Ramallah",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/lx8QrkyfteU/"
     }
   ],
   "title": "r/documentaries — video links",

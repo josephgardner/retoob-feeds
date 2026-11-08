@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 7,
+    "revision": 8,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:qdVn-62kGos",
+        "dateBasis": "publication",
+        "itemId": "qdVn-62kGos",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qdVn-62kGos"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xquaps/",
+            "id": "reddit-obscuremedia-1xquaps",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xquaps",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T09:13:47Z"
+            }
+          }
+        ],
+        "revision": 8,
+        "sortAt": "2026-11-08T09:13:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xquaps/",
+      "date_published": "2026-11-08T09:13:47Z",
+      "external_url": "https://www.youtube.com/watch?v=qdVn-62kGos",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/qdVn-62kGos/",
+      "image": "https://i.ytimg.com/vi/qdVn-62kGos/hqdefault.jpg",
+      "title": "Lulu - Shaft (1973)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/qdVn-62kGos/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:FCW63jDcFgA",
@@ -21142,47 +21183,6 @@
       "image": "https://i.ytimg.com/vi/9WL-PzcPmTU/hqdefault.jpg",
       "title": "UPN Primetime TV On September 10, 2001 (2001)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/9WL-PzcPmTU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:KxnfZywidLc",
-        "dateBasis": "publication",
-        "itemId": "KxnfZywidLc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=KxnfZywidLc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vo9dtw/",
-            "id": "reddit-obscuremedia-1vo9dtw",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vo9dtw",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-14T14:50:23Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-14T14:50:23Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vo9dtw/",
-      "date_published": "2026-08-14T14:50:23Z",
-      "external_url": "https://www.youtube.com/watch?v=KxnfZywidLc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KxnfZywidLc/",
-      "image": "https://i.ytimg.com/vi/KxnfZywidLc/hqdefault.jpg",
-      "title": "ABC Network Promo Closed Circuit Feed to affiliates (1985)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KxnfZywidLc/"
     }
   ],
   "title": "r/obscuremedia — video links",

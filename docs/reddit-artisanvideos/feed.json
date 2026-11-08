@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 6,
+    "revision": 7,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,46 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:khxb4j2pme0i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-khxb4j2pme0i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/khxb4j2pme0i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1xr0kl2/",
+            "id": "reddit-artisanvideos-1xr0kl2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1xr0kl2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T15:09:04Z"
+            }
+          }
+        ],
+        "revision": 7,
+        "sortAt": "2026-11-08T15:09:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1xr0kl2/",
+      "date_published": "2026-11-08T15:09:04Z",
+      "external_url": "https://v.redd.it/khxb4j2pme0i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-khxb4j2pme0i1/",
+      "title": "An interesting technique on how to finish a painting",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-khxb4j2pme0i1/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:ix4Mz7M1rdg",
@@ -21737,63 +21777,6 @@
       "image": "https://i.ytimg.com/vi/53_cuLhObr8/hqdefault.jpg",
       "title": "This guy talks a lot about his process, but he makes some truly beautiful blades [39:41]",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/53_cuLhObr8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:9toAw6oUhhc",
-        "dateBasis": "publication",
-        "itemId": "9toAw6oUhhc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=9toAw6oUhhc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1gruz87/",
-            "id": "reddit-artisanvideos-1gruz87",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1gruz87",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-15T12:12:30Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1gr4b5d/",
-            "id": "reddit-artisanvideos-1gr4b5d",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1gr4b5d",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-14T13:04:39Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2024-11-15T12:12:30Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1gruz87/\nhttps://www.reddit.com/r/artisanvideos/comments/1gr4b5d/",
-      "date_published": "2024-11-15T12:12:30Z",
-      "external_url": "https://www.youtube.com/watch?v=9toAw6oUhhc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/9toAw6oUhhc/",
-      "image": "https://i.ytimg.com/vi/9toAw6oUhhc/hqdefault.jpg",
-      "title": "the Lost Elephant,   storytime from leafeys wood a short animation film",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/9toAw6oUhhc/"
     }
   ],
   "title": "r/artisanvideos — video links",
