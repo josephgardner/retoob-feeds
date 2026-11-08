@@ -3,7 +3,7 @@
     "itemCount": 17,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 9,
+    "revision": 10,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,233 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:dMBBOawFy_4",
+        "dateBasis": "publication",
+        "itemId": "dMBBOawFy_4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=dMBBOawFy_4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50410806",
+            "id": "hn-50410806",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50410806",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T06:01:25Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-08T06:01:25Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50410806. Not a verified endorsement.",
+      "date_published": "2026-11-08T06:01:25Z",
+      "external_url": "https://www.youtube.com/watch?v=dMBBOawFy_4",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/dMBBOawFy_4/",
+      "image": "https://i.ytimg.com/vi/dMBBOawFy_4/hqdefault.jpg",
+      "title": "Joe Rogan Experience #2578 – Calley Means [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/dMBBOawFy_4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ln0zZcQXv38",
+        "dateBasis": "publication",
+        "itemId": "ln0zZcQXv38",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ln0zZcQXv38"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50410561",
+            "id": "hn-50410561",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50410561",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T05:09:40Z"
+            }
+          },
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50405481",
+            "id": "hn-50405481",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50405481",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T15:43:30Z"
+            }
+          }
+        ],
+        "revision": 3,
+        "sortAt": "2026-11-08T05:09:40Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50410561. Not a verified endorsement.\n\nImported Hacker News mention: https://news.ycombinator.com/item?id=50405481. Not a verified endorsement.",
+      "date_published": "2026-11-08T05:09:40Z",
+      "external_url": "https://www.youtube.com/watch?v=ln0zZcQXv38",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ln0zZcQXv38/",
+      "image": "https://i.ytimg.com/vi/ln0zZcQXv38/hqdefault.jpg",
+      "title": "How do photonic logic gates work?",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ln0zZcQXv38/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:pBJxz8FlSfE",
+        "dateBasis": "publication",
+        "itemId": "pBJxz8FlSfE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pBJxz8FlSfE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50409943",
+            "id": "hn-50409943",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50409943",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T02:26:43Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-08T02:26:43Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50409943. Not a verified endorsement.",
+      "date_published": "2026-11-08T02:26:43Z",
+      "external_url": "https://www.youtube.com/watch?v=pBJxz8FlSfE",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pBJxz8FlSfE/",
+      "image": "https://i.ytimg.com/vi/pBJxz8FlSfE/hqdefault.jpg",
+      "title": "Super Mario 64 on the Atari Jaguar [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pBJxz8FlSfE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:JIPXsvWPcGI",
+        "dateBasis": "publication",
+        "itemId": "JIPXsvWPcGI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JIPXsvWPcGI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50409833",
+            "id": "hn-50409833",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50409833",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T01:57:19Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-08T01:57:19Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50409833. Not a verified endorsement.",
+      "date_published": "2026-11-08T01:57:19Z",
+      "external_url": "https://www.youtube.com/watch?v=JIPXsvWPcGI",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JIPXsvWPcGI/",
+      "image": "https://i.ytimg.com/vi/JIPXsvWPcGI/hqdefault.jpg",
+      "title": "My $2k Chinese Electric Truck: 5 Years Later [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JIPXsvWPcGI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:v4uwaw_5Q3I",
+        "dateBasis": "publication",
+        "itemId": "v4uwaw_5Q3I",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=v4uwaw_5Q3I"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50409078",
+            "id": "hn-50409078",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50409078",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T23:36:17Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T23:36:17Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50409078. Not a verified endorsement.",
+      "date_published": "2026-11-07T23:36:17Z",
+      "external_url": "https://www.youtube.com/watch?v=v4uwaw_5Q3I",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/v4uwaw_5Q3I/",
+      "image": "https://i.ytimg.com/vi/v4uwaw_5Q3I/hqdefault.jpg",
+      "title": "Peter Watts: Conscious Ants and Human Hives (2018) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/v4uwaw_5Q3I/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:kBdfcR-8hEY",
@@ -434,48 +661,6 @@
     },
     {
       "_retoob": {
-        "contentKey": "youtube:ln0zZcQXv38",
-        "dateBasis": "publication",
-        "itemId": "ln0zZcQXv38",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ln0zZcQXv38"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50405481",
-            "id": "hn-50405481",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50405481",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T15:43:30Z"
-            }
-          }
-        ],
-        "revision": 2,
-        "sortAt": "2026-11-07T15:43:30Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50405481. Not a verified endorsement.",
-      "date_published": "2026-11-07T15:43:30Z",
-      "external_url": "https://www.youtube.com/watch?v=ln0zZcQXv38",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ln0zZcQXv38/",
-      "image": "https://i.ytimg.com/vi/ln0zZcQXv38/hqdefault.jpg",
-      "title": "Creating Logic Using Waves: Photonic Gates [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ln0zZcQXv38/"
-    },
-    {
-      "_retoob": {
         "contentKey": "youtube:g9YK6sftDi0",
         "dateBasis": "publication",
         "itemId": "g9YK6sftDi0",
@@ -557,174 +742,6 @@
       "image": "https://i.ytimg.com/vi/75kjtoOpFlo/hqdefault.jpg",
       "title": "Alex Stamos thinks we're entering a cybersecurity dark age – Decoder",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/75kjtoOpFlo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:aoJ-7ozu8h0",
-        "dateBasis": "publication",
-        "itemId": "aoJ-7ozu8h0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=aoJ-7ozu8h0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50405130",
-            "id": "hn-50405130",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50405130",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T15:00:20Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-07T15:00:20Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50405130. Not a verified endorsement.",
-      "date_published": "2026-11-07T15:00:20Z",
-      "external_url": "https://www.youtube.com/watch?v=aoJ-7ozu8h0",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/aoJ-7ozu8h0/",
-      "image": "https://i.ytimg.com/vi/aoJ-7ozu8h0/hqdefault.jpg",
-      "title": "The Developer's Design Advantage: Why UX and UI Matter with Kathryn Grayson Nanz [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/aoJ-7ozu8h0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:FRoXKvD19Po",
-        "dateBasis": "publication",
-        "itemId": "FRoXKvD19Po",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=FRoXKvD19Po"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50404812",
-            "id": "hn-50404812",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50404812",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T14:25:23Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-07T14:25:23Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50404812. Not a verified endorsement.",
-      "date_published": "2026-11-07T14:25:23Z",
-      "external_url": "https://www.youtube.com/watch?v=FRoXKvD19Po",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/FRoXKvD19Po/",
-      "image": "https://i.ytimg.com/vi/FRoXKvD19Po/hqdefault.jpg",
-      "title": "MIDI Vanilli? Argentina's bass playing fake [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/FRoXKvD19Po/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:gIvVjepvdMg",
-        "dateBasis": "publication",
-        "itemId": "gIvVjepvdMg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=gIvVjepvdMg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50404279",
-            "id": "hn-50404279",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50404279",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T13:11:50Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-07T13:11:50Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50404279. Not a verified endorsement.",
-      "date_published": "2026-11-07T13:11:50Z",
-      "external_url": "https://www.youtube.com/watch?v=gIvVjepvdMg",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/gIvVjepvdMg/",
-      "image": "https://i.ytimg.com/vi/gIvVjepvdMg/hqdefault.jpg",
-      "title": "The Joy of Coding Is Gone: My Honest Take on AI",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/gIvVjepvdMg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:i_mLxyIXpSY",
-        "dateBasis": "publication",
-        "itemId": "i_mLxyIXpSY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=i_mLxyIXpSY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50403567",
-            "id": "hn-50403567",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50403567",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T11:23:21Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-07T11:23:21Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50403567. Not a verified endorsement.",
-      "date_published": "2026-11-07T11:23:21Z",
-      "external_url": "https://www.youtube.com/watch?v=i_mLxyIXpSY",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i_mLxyIXpSY/",
-      "image": "https://i.ytimg.com/vi/i_mLxyIXpSY/hqdefault.jpg",
-      "title": "Lessons from a Can Opener (Technology Connections) [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i_mLxyIXpSY/"
     }
   ],
   "title": "Hacker News — newest-story videos",
