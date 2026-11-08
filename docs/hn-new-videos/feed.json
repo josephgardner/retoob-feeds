@@ -3,7 +3,7 @@
     "itemCount": 20,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 12,
+    "revision": 13,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:I6IQ_FOCE6I",
+        "dateBasis": "publication",
+        "itemId": "I6IQ_FOCE6I",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=I6IQ_FOCE6I"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50415091",
+            "id": "hn-50415091",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50415091",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T17:11:32Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-08T17:11:32Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50415091. Not a verified endorsement.",
+      "date_published": "2026-11-08T17:11:32Z",
+      "external_url": "https://www.youtube.com/watch?v=I6IQ_FOCE6I",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/I6IQ_FOCE6I/",
+      "image": "https://i.ytimg.com/vi/I6IQ_FOCE6I/hqdefault.jpg",
+      "title": "Here Comes Another Bubble v1.1 – The Richter Scales [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/I6IQ_FOCE6I/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:MWR7unDDJhA",
@@ -809,48 +851,6 @@
       "image": "https://i.ytimg.com/vi/v4uwaw_5Q3I/hqdefault.jpg",
       "title": "Peter Watts: Conscious Ants and Human Hives (2018) [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/v4uwaw_5Q3I/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:kBdfcR-8hEY",
-        "dateBasis": "publication",
-        "itemId": "kBdfcR-8hEY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=kBdfcR-8hEY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50408484",
-            "id": "hn-50408484",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50408484",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T22:04:44Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-07T22:04:44Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50408484. Not a verified endorsement.",
-      "date_published": "2026-11-07T22:04:44Z",
-      "external_url": "https://www.youtube.com/watch?v=kBdfcR-8hEY",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/kBdfcR-8hEY/",
-      "image": "https://i.ytimg.com/vi/kBdfcR-8hEY/hqdefault.jpg",
-      "title": "Justice: What's the right thing to do? [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/kBdfcR-8hEY/"
     }
   ],
   "title": "Hacker News — newest-story videos",
