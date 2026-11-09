@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 18,
+    "itemCount": 14,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 14,
+    "revision": 15,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,216 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:qvcwnwoQbWI",
+        "dateBasis": "publication",
+        "itemId": "qvcwnwoQbWI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qvcwnwoQbWI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50421620",
+            "id": "hn-50421620",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50421620",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T06:03:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T06:03:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50421620. Not a verified endorsement.",
+      "date_published": "2026-11-09T06:03:00Z",
+      "external_url": "https://www.youtube.com/watch?v=qvcwnwoQbWI",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/qvcwnwoQbWI/",
+      "image": "https://i.ytimg.com/vi/qvcwnwoQbWI/hqdefault.jpg",
+      "title": "Oriental Men's operating system [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/qvcwnwoQbWI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:wDU27f84hAs",
+        "dateBasis": "publication",
+        "itemId": "wDU27f84hAs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=wDU27f84hAs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50421231",
+            "id": "hn-50421231",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50421231",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T04:56:22Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-09T04:56:22Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50421231. Not a verified endorsement.",
+      "date_published": "2026-11-09T04:56:22Z",
+      "external_url": "https://www.youtube.com/watch?v=wDU27f84hAs",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/wDU27f84hAs/",
+      "image": "https://i.ytimg.com/vi/wDU27f84hAs/hqdefault.jpg",
+      "title": "Humans' Origin Story Is Being Revised [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/wDU27f84hAs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:vxB-jh96kVY",
+        "dateBasis": "publication",
+        "itemId": "vxB-jh96kVY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vxB-jh96kVY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50420862",
+            "id": "hn-50420862",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50420862",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T03:51:24Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T03:51:24Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50420862. Not a verified endorsement.",
+      "date_published": "2026-11-09T03:51:24Z",
+      "external_url": "https://www.youtube.com/watch?v=vxB-jh96kVY",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/vxB-jh96kVY/",
+      "image": "https://i.ytimg.com/vi/vxB-jh96kVY/hqdefault.jpg",
+      "title": "Praxia [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/vxB-jh96kVY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:4NExTWq_wvk",
+        "dateBasis": "publication",
+        "itemId": "4NExTWq_wvk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4NExTWq_wvk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50419487",
+            "id": "hn-50419487",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50419487",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T00:43:39Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T00:43:39Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50419487. Not a verified endorsement.",
+      "date_published": "2026-11-09T00:43:39Z",
+      "external_url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/4NExTWq_wvk/",
+      "image": "https://i.ytimg.com/vi/4NExTWq_wvk/hqdefault.jpg",
+      "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/4NExTWq_wvk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Q78dJ0vkWe8",
+        "dateBasis": "publication",
+        "itemId": "Q78dJ0vkWe8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50418814",
+            "id": "hn-50418814",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50418814",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-08T23:27:51Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-08T23:27:51Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50418814. Not a verified endorsement.",
+      "date_published": "2026-11-08T23:27:51Z",
+      "external_url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Q78dJ0vkWe8/",
+      "image": "https://i.ytimg.com/vi/Q78dJ0vkWe8/hqdefault.jpg",
+      "title": "How to Build the Future: Paul Graham and Amjad Masad [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Q78dJ0vkWe8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:8kd67EQaieU",
@@ -389,384 +599,6 @@
       "image": "https://i.ytimg.com/vi/BT1Mo-fD-g0/hqdefault.jpg",
       "title": "The Missing Undo Button for Coding Agents [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/BT1Mo-fD-g0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:oFuoPEtIqWg",
-        "dateBasis": "publication",
-        "itemId": "oFuoPEtIqWg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=oFuoPEtIqWg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50413425",
-            "id": "hn-50413425",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50413425",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T13:57:22Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T13:57:22Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50413425. Not a verified endorsement.",
-      "date_published": "2026-11-08T13:57:22Z",
-      "external_url": "https://www.youtube.com/watch?v=oFuoPEtIqWg",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/oFuoPEtIqWg/",
-      "image": "https://i.ytimg.com/vi/oFuoPEtIqWg/hqdefault.jpg",
-      "title": "Anthropic Let an Outsider Check Its AI Progress. Here's What We Can't See",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/oFuoPEtIqWg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:7bVaT1GohMU",
-        "dateBasis": "publication",
-        "itemId": "7bVaT1GohMU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=7bVaT1GohMU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50413087",
-            "id": "hn-50413087",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50413087",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T13:22:57Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T13:22:57Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50413087. Not a verified endorsement.",
-      "date_published": "2026-11-08T13:22:57Z",
-      "external_url": "https://www.youtube.com/watch?v=7bVaT1GohMU",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/7bVaT1GohMU/",
-      "image": "https://i.ytimg.com/vi/7bVaT1GohMU/hqdefault.jpg",
-      "title": "Why forcing Ukraine into a peace deal won't work [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/7bVaT1GohMU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:TnicUxFL64E",
-        "dateBasis": "publication",
-        "itemId": "TnicUxFL64E",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=TnicUxFL64E"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50413015",
-            "id": "hn-50413015",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50413015",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T13:15:01Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T13:15:01Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50413015. Not a verified endorsement.",
-      "date_published": "2026-11-08T13:15:01Z",
-      "external_url": "https://www.youtube.com/watch?v=TnicUxFL64E",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/TnicUxFL64E/",
-      "image": "https://i.ytimg.com/vi/TnicUxFL64E/hqdefault.jpg",
-      "title": "$6M/Year Cosmetics Empire Crumbles After Adobe Website Disaster [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/TnicUxFL64E/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:SdfxTXCw15s",
-        "dateBasis": "publication",
-        "itemId": "SdfxTXCw15s",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=SdfxTXCw15s"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50412225",
-            "id": "hn-50412225",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50412225",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T11:07:10Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T11:07:10Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50412225. Not a verified endorsement.",
-      "date_published": "2026-11-08T11:07:10Z",
-      "external_url": "https://www.youtube.com/watch?v=SdfxTXCw15s",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/SdfxTXCw15s/",
-      "image": "https://i.ytimg.com/vi/SdfxTXCw15s/hqdefault.jpg",
-      "title": "The complete history of Civilization, as told by Sid Meier and more [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/SdfxTXCw15s/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:9GRFNThJIIQ",
-        "dateBasis": "publication",
-        "itemId": "9GRFNThJIIQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=9GRFNThJIIQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50412189",
-            "id": "hn-50412189",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50412189",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T11:01:20Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T11:01:20Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50412189. Not a verified endorsement.",
-      "date_published": "2026-11-08T11:01:20Z",
-      "external_url": "https://www.youtube.com/watch?v=9GRFNThJIIQ",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9GRFNThJIIQ/",
-      "image": "https://i.ytimg.com/vi/9GRFNThJIIQ/hqdefault.jpg",
-      "title": "Impressive Stunt Car racer port on the NES [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9GRFNThJIIQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:MM7QGccszUU",
-        "dateBasis": "publication",
-        "itemId": "MM7QGccszUU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=MM7QGccszUU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50411981",
-            "id": "hn-50411981",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50411981",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T10:27:32Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T10:27:32Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50411981. Not a verified endorsement.",
-      "date_published": "2026-11-08T10:27:32Z",
-      "external_url": "https://www.youtube.com/watch?v=MM7QGccszUU",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/MM7QGccszUU/",
-      "image": "https://i.ytimg.com/vi/MM7QGccszUU/hqdefault.jpg",
-      "title": "Investigating Jared Kushner's Empire of Fraud and Corruption [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/MM7QGccszUU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:wDU27f84hAs",
-        "dateBasis": "publication",
-        "itemId": "wDU27f84hAs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=wDU27f84hAs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50411937",
-            "id": "hn-50411937",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50411937",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T10:17:27Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T10:17:27Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50411937. Not a verified endorsement.",
-      "date_published": "2026-11-08T10:17:27Z",
-      "external_url": "https://www.youtube.com/watch?v=wDU27f84hAs",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/wDU27f84hAs/",
-      "image": "https://i.ytimg.com/vi/wDU27f84hAs/hqdefault.jpg",
-      "title": "Humans' origin story is being revised [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/wDU27f84hAs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:3gZMT_NRWJE",
-        "dateBasis": "publication",
-        "itemId": "3gZMT_NRWJE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=3gZMT_NRWJE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50411756",
-            "id": "hn-50411756",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50411756",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T09:42:31Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T09:42:31Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50411756. Not a verified endorsement.",
-      "date_published": "2026-11-08T09:42:31Z",
-      "external_url": "https://www.youtube.com/watch?v=3gZMT_NRWJE",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/3gZMT_NRWJE/",
-      "image": "https://i.ytimg.com/vi/3gZMT_NRWJE/hqdefault.jpg",
-      "title": "Is the era of the educated elite over? (M.Gove, T.Debbonaire, D.Susskind) [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/3gZMT_NRWJE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:zIxTKc67tHU",
-        "dateBasis": "publication",
-        "itemId": "zIxTKc67tHU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=zIxTKc67tHU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50411460",
-            "id": "hn-50411460",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50411460",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-08T08:38:52Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-08T08:38:52Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50411460. Not a verified endorsement.",
-      "date_published": "2026-11-08T08:38:52Z",
-      "external_url": "https://www.youtube.com/watch?v=zIxTKc67tHU",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/zIxTKc67tHU/",
-      "image": "https://i.ytimg.com/vi/zIxTKc67tHU/hqdefault.jpg",
-      "title": "Why Is Everyone Leaving New Zealand? [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/zIxTKc67tHU/"
     }
   ],
   "title": "Hacker News — newest-story videos",
