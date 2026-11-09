@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 8,
+    "revision": 9,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:60QggjjkOfk",
+        "dateBasis": "publication",
+        "itemId": "60QggjjkOfk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=60QggjjkOfk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xs2821/",
+            "id": "reddit-youtubehaiku-1xs2821",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xs2821",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T20:07:31Z"
+            }
+          }
+        ],
+        "revision": 9,
+        "sortAt": "2026-11-09T20:07:31Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xs2821/",
+      "date_published": "2026-11-09T20:07:31Z",
+      "external_url": "https://www.youtube.com/watch?v=60QggjjkOfk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/60QggjjkOfk/",
+      "image": "https://i.ytimg.com/vi/60QggjjkOfk/hqdefault.jpg",
+      "title": "[meme] America, choose wisely...",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/60QggjjkOfk/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:tO3MyzlDFUY",
@@ -20982,47 +21023,6 @@
       "image": "https://i.ytimg.com/vi/4LJzGlBG39k/hqdefault.jpg",
       "title": "[Poetry] asking about my fav subject",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/4LJzGlBG39k/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:lmfYVv1F8ms",
-        "dateBasis": "publication",
-        "itemId": "lmfYVv1F8ms",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=lmfYVv1F8ms"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rbrltr/",
-            "id": "reddit-youtubehaiku-1rbrltr",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rbrltr",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-02-22T17:21:35Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-02-22T17:21:35Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rbrltr/",
-      "date_published": "2026-02-22T17:21:35Z",
-      "external_url": "https://www.youtube.com/watch?v=lmfYVv1F8ms",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/lmfYVv1F8ms/",
-      "image": "https://i.ytimg.com/vi/lmfYVv1F8ms/hqdefault.jpg",
-      "title": "[Poetry] Fish in a fish bowl paper stop-motion",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/lmfYVv1F8ms/"
     }
   ],
   "title": "r/youtubehaiku — video links",
