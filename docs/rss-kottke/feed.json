@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 24,
+    "itemCount": 29,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 1,
+    "revision": 2,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,216 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:Qf6rT9ouHSE",
+        "dateBasis": "publication",
+        "itemId": "Qf6rT9ouHSE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Qf6rT9ouHSE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/crimson-star",
+            "id": "rss-c957d9bb89d4140815ecc5dab63b36a5",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-09:49956",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T21:44:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T21:44:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/crimson-star. Not a verified endorsement.",
+      "date_published": "2026-11-09T21:44:00Z",
+      "external_url": "https://www.youtube.com/watch?v=Qf6rT9ouHSE",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/Qf6rT9ouHSE/",
+      "image": "https://i.ytimg.com/vi/Qf6rT9ouHSE/hqdefault.jpg",
+      "title": "Crimson Star",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/Qf6rT9ouHSE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:GV0t3fWD0ok",
+        "dateBasis": "publication",
+        "itemId": "GV0t3fWD0ok",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=GV0t3fWD0ok"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/crimson-star",
+            "id": "rss-e3f2c1c0b9cfb85533bcd4fdb72de76f",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-09:49956",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T21:44:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T21:44:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/crimson-star. Not a verified endorsement.",
+      "date_published": "2026-11-09T21:44:00Z",
+      "external_url": "https://www.youtube.com/watch?v=GV0t3fWD0ok",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/GV0t3fWD0ok/",
+      "image": "https://i.ytimg.com/vi/GV0t3fWD0ok/hqdefault.jpg",
+      "title": "Crimson Star",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/GV0t3fWD0ok/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:6H4MMvaIpyk",
+        "dateBasis": "publication",
+        "itemId": "6H4MMvaIpyk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=6H4MMvaIpyk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0049929-the-most-intense-shoe-sal",
+            "id": "rss-517c670afbd27c42dfa43ee61930a2e7",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-09:49929",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T20:44:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T20:44:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0049929-the-most-intense-shoe-sal. Not a verified endorsement.",
+      "date_published": "2026-11-09T20:44:00Z",
+      "external_url": "https://www.youtube.com/watch?v=6H4MMvaIpyk",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/6H4MMvaIpyk/",
+      "image": "https://i.ytimg.com/vi/6H4MMvaIpyk/hqdefault.jpg",
+      "title": "The most intense shoe salesman you’ll ever meet, a CBS...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/6H4MMvaIpyk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:eNsx8EYGYbM",
+        "dateBasis": "publication",
+        "itemId": "eNsx8EYGYbM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=eNsx8EYGYbM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/the-welcome-rain-falling-from-the-sky",
+            "id": "rss-da5ecb99b916372d91cbc20326a050dc",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-09:49939",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T19:40:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T19:40:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/the-welcome-rain-falling-from-the-sky. Not a verified endorsement.",
+      "date_published": "2026-11-09T19:40:00Z",
+      "external_url": "https://www.youtube.com/watch?v=eNsx8EYGYbM",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/eNsx8EYGYbM/",
+      "image": "https://i.ytimg.com/vi/eNsx8EYGYbM/hqdefault.jpg",
+      "title": "The Welcome Rain Falling From the Sky",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/eNsx8EYGYbM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:UytYrhYLOKI",
+        "dateBasis": "publication",
+        "itemId": "UytYrhYLOKI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UytYrhYLOKI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0049951-most-videos-contain-inaud",
+            "id": "rss-762d0c05c346601b92b491c2818c536d",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-09:49951",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T16:55:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T16:55:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0049951-most-videos-contain-inaud. Not a verified endorsement.",
+      "date_published": "2026-11-09T16:55:00Z",
+      "external_url": "https://www.youtube.com/watch?v=UytYrhYLOKI",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/UytYrhYLOKI/",
+      "image": "https://i.ytimg.com/vi/UytYrhYLOKI/hqdefault.jpg",
+      "title": "A YouTuber discovered that most videos contain inaudible...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/UytYrhYLOKI/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:sSUfXgJ04D0",
