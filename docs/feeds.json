@@ -185,6 +185,13 @@
       "revision": 7
     },
     {
+      "title": "Kottke \u2014 video discoveries",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
+      "home": "https://algoplay.com/retoob-feeds/rss-kottke/",
+      "itemCount": 24,
+      "revision": 1
+    },
+    {
       "title": "Tech Night \u2014 independent feed demo",
       "url": "https://algoplay.com/retoob-feeds/tech-night/feed.json",
       "home": "https://algoplay.com/retoob-feeds/tech-night/",
@@ -351,6 +358,24 @@
       "successfulSourcesThisRun": 0,
       "lastSuccessfulRefreshAt": "2026-11-08T16:51:53Z",
       "lastAttemptAt": "2026-11-08T17:13:39Z"
+    },
+    "rss": {
+      "cards": 24,
+      "checkedAt": "2026-11-09T01:17:25Z",
+      "httpNotModified": false,
+      "latestObservedVideoPostAt": "2026-11-06T19:46:00Z",
+      "postsWithYouTube": 18,
+      "revision": 1,
+      "source": "https://feeds.kottke.org/main",
+      "sourcePosts": 60,
+      "sourceWithdrawn": false,
+      "validators": {
+        "lastModified": "Fri, 06 Nov 2026 22:00:00 GMT"
+      },
+      "vimeoLinkOccurrencesSkipped": 1,
+      "youtubeOccurrences": 24,
+      "lastSuccessfulRefreshAt": "2026-11-09T01:17:25Z",
+      "scheduledIntervalHours": 6
     }
   }
 }
