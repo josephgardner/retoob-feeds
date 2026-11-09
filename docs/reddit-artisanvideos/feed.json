@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 7,
+    "revision": 8,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:pPfjCRYpIo8",
+        "dateBasis": "publication",
+        "itemId": "pPfjCRYpIo8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pPfjCRYpIo8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1xrdq2u/",
+            "id": "reddit-artisanvideos-1xrdq2u",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1xrdq2u",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T00:33:42Z"
+            }
+          }
+        ],
+        "revision": 8,
+        "sortAt": "2026-11-09T00:33:42Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1xrdq2u/",
+      "date_published": "2026-11-09T00:33:42Z",
+      "external_url": "https://www.youtube.com/watch?v=pPfjCRYpIo8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/pPfjCRYpIo8/",
+      "image": "https://i.ytimg.com/vi/pPfjCRYpIo8/hqdefault.jpg",
+      "title": "Coopered cup by Euan the Cooper [22:31]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/pPfjCRYpIo8/"
+    },
     {
       "_retoob": {
         "contentKey": "reddit:khxb4j2pme0i1",
@@ -21720,63 +21761,6 @@
       "image": "https://i.ytimg.com/vi/wQBBMp9btI8/hqdefault.jpg",
       "title": "Uses Ancient Techniques to Create a Modern Anime Sword. [27:32]",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/wQBBMp9btI8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:53_cuLhObr8",
-        "dateBasis": "publication",
-        "itemId": "53_cuLhObr8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=53_cuLhObr8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1guggio/",
-            "id": "reddit-artisanvideos-1guggio",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1guggio",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-18T21:43:47Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1gugeq4/",
-            "id": "reddit-artisanvideos-1gugeq4",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1gugeq4",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-18T21:41:42Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2024-11-18T21:43:47Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1guggio/\nhttps://www.reddit.com/r/artisanvideos/comments/1gugeq4/",
-      "date_published": "2024-11-18T21:43:47Z",
-      "external_url": "https://www.youtube.com/watch?v=53_cuLhObr8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/53_cuLhObr8/",
-      "image": "https://i.ytimg.com/vi/53_cuLhObr8/hqdefault.jpg",
-      "title": "This guy talks a lot about his process, but he makes some truly beautiful blades [39:41]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/53_cuLhObr8/"
     }
   ],
   "title": "r/artisanvideos — video links",
