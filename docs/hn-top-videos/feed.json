@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 2,
+    "itemCount": 5,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 12,
+    "revision": 13,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-top-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-top-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:XxiLs3mAZJ8",
+        "dateBasis": "publication",
+        "itemId": "XxiLs3mAZJ8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=XxiLs3mAZJ8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50423342",
+            "id": "hn-50423342",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50423342",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T09:46:44Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T09:46:44Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50423342. Not a verified endorsement.",
+      "date_published": "2026-11-09T09:46:44Z",
+      "external_url": "https://www.youtube.com/watch?v=XxiLs3mAZJ8",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/XxiLs3mAZJ8/",
+      "image": "https://i.ytimg.com/vi/XxiLs3mAZJ8/hqdefault.jpg",
+      "title": "DIY Injection Molding: Making Plastic Recycling Accessible to All",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/XxiLs3mAZJ8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:F2TkzDaa8A4",
+        "dateBasis": "publication",
+        "itemId": "F2TkzDaa8A4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=F2TkzDaa8A4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50423258",
+            "id": "hn-50423258",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50423258",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-09T09:36:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-09T09:36:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50423258. Not a verified endorsement.",
+      "date_published": "2026-11-09T09:36:00Z",
+      "external_url": "https://www.youtube.com/watch?v=F2TkzDaa8A4",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/F2TkzDaa8A4/",
+      "image": "https://i.ytimg.com/vi/F2TkzDaa8A4/hqdefault.jpg",
+      "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/F2TkzDaa8A4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:zrlLUUdqDJI",
@@ -95,6 +179,48 @@
       "image": "https://i.ytimg.com/vi/zIxTKc67tHU/hqdefault.jpg",
       "title": "Why Is Everyone Leaving New Zealand? [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/zIxTKc67tHU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:havcACdx0Y0",
+        "dateBasis": "publication",
+        "itemId": "havcACdx0Y0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=havcACdx0Y0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50408235",
+            "id": "hn-50408235",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50408235",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-07T21:28:57Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-07T21:28:57Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50408235. Not a verified endorsement.",
+      "date_published": "2026-11-07T21:28:57Z",
+      "external_url": "https://www.youtube.com/watch?v=havcACdx0Y0",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/havcACdx0Y0/",
+      "image": "https://i.ytimg.com/vi/havcACdx0Y0/hqdefault.jpg",
+      "title": "The French Cake Cooked on a Spit (2018) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/havcACdx0Y0/"
     }
   ],
   "title": "Hacker News — top-story videos",
