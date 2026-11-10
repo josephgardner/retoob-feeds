@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 11,
+    "revision": 12,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:UUh-vQkbsRw",
+        "dateBasis": "publication",
+        "itemId": "UUh-vQkbsRw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UUh-vQkbsRw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xsmp60/",
+            "id": "reddit-obscuremedia-1xsmp60",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xsmp60",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-10T13:19:21Z"
+            }
+          }
+        ],
+        "revision": 12,
+        "sortAt": "2026-11-10T13:19:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xsmp60/",
+      "date_published": "2026-11-10T13:19:21Z",
+      "external_url": "https://www.youtube.com/watch?v=UUh-vQkbsRw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UUh-vQkbsRw/",
+      "image": "https://i.ytimg.com/vi/UUh-vQkbsRw/hqdefault.jpg",
+      "title": "THE SECRET CINEMA (1966) -  A Paranoid Fantasy by Paul Bartel",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UUh-vQkbsRw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:QMTwNWoBvZ8",
+        "dateBasis": "publication",
+        "itemId": "QMTwNWoBvZ8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QMTwNWoBvZ8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xsl83p/",
+            "id": "reddit-obscuremedia-1xsl83p",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xsl83p",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-10T12:07:07Z"
+            }
+          }
+        ],
+        "revision": 12,
+        "sortAt": "2026-11-10T12:07:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xsl83p/",
+      "date_published": "2026-11-10T12:07:07Z",
+      "external_url": "https://www.youtube.com/watch?v=QMTwNWoBvZ8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/QMTwNWoBvZ8/",
+      "image": "https://i.ytimg.com/vi/QMTwNWoBvZ8/hqdefault.jpg",
+      "title": "(2013) the misfortune of being Ned is a short-lived YouTube animated series.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/QMTwNWoBvZ8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:_4tfT8d_Urc",
@@ -21101,88 +21183,6 @@
       "image": "https://i.ytimg.com/vi/XqHkIYLk45c/hqdefault.jpg",
       "title": "Playground Safety with The Peepercorns(1975)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/XqHkIYLk45c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:1uciljYGDlQ",
-        "dateBasis": "publication",
-        "itemId": "1uciljYGDlQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=1uciljYGDlQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vq76d9/",
-            "id": "reddit-obscuremedia-1vq76d9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vq76d9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-16T20:07:21Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-16T20:07:21Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vq76d9/",
-      "date_published": "2026-08-16T20:07:21Z",
-      "external_url": "https://www.youtube.com/watch?v=1uciljYGDlQ",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/1uciljYGDlQ/",
-      "image": "https://i.ytimg.com/vi/1uciljYGDlQ/hqdefault.jpg",
-      "title": "The unwanted guest (2010) song made by a completely unknown band with this Justice League AMV being their only documented piece of existence",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/1uciljYGDlQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:HWr9l97NM1c",
-        "dateBasis": "publication",
-        "itemId": "HWr9l97NM1c",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=HWr9l97NM1c"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vpih33/",
-            "id": "reddit-obscuremedia-1vpih33",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vpih33",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-16T00:21:39Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-16T00:21:39Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vpih33/",
-      "date_published": "2026-08-16T00:21:39Z",
-      "external_url": "https://www.youtube.com/watch?v=HWr9l97NM1c",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/HWr9l97NM1c/",
-      "image": "https://i.ytimg.com/vi/HWr9l97NM1c/hqdefault.jpg",
-      "title": "The World of Sid & Marty Krofft at the Hollywood Bowl  (1973)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/HWr9l97NM1c/"
     }
   ],
   "title": "r/obscuremedia — video links",
