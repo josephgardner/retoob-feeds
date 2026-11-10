@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.algoplay.retoob",
-  "versionCode": 4,
-  "versionName": "0.3.1",
-  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.3.1-preview.1/retoob-tv-0.3.1-preview.1.apk",
-  "size": 11037175,
-  "sha256": "3a029d9e1579063867d8dcb16f96c4dc9c4d0a1ca809b93fe43a6c88dc7d2e1c",
-  "notes": "Fresh feeds at the top\n\nYour feeds now sort by their newest video entry across collections. Feeds without dates follow dated feeds, and refresh keeps your selected feed focused.\n\nFeed cards are cleaner: repeated collection labels and “Ready to watch” text are removed. Loading and error messages still appear when needed."
+  "versionCode": 5,
+  "versionName": "0.3.2",
+  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.3.2-preview.1/retoob-tv-0.3.2-preview.1.apk",
+  "size": 11069943,
+  "sha256": "8ad0ca0c511277458ac8753792e749b7cec420121a8e4c737b10bc8c7d60a2c5",
+  "notes": "Pick up where you left off\n\nRetoob now restores saved feeds, their order, and your selected feed before refreshing in the background. Usable cards stay visible without routine loading messages. Cacheable thumbnails are retained too.\n\nFailed refreshes keep the last complete permitted view. Expired or withdrawn feeds are not restored. After feeds load successfully on this version, subsequent returns can use the saved view."
 }
