@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 498,
+    "itemCount": 500,
     "listId": "reddit-videos",
     "publicationEpoch": "reddit-public-20261106-videos",
-    "revision": 9,
+    "revision": 10,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -17550,13 +17550,45 @@
               "precision": "exact",
               "value": "2026-11-02T07:01:13Z"
             }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xjh1z4/",
+            "id": "reddit-videos-1xjh1z4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xjh1z4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-30T14:35:01Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xjfc07/",
+            "id": "reddit-videos-1xjfc07",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xjfc07",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-30T13:25:56Z"
+            }
           }
         ],
-        "revision": 4,
+        "revision": 10,
         "sortAt": "2026-11-02T07:01:13Z",
         "version": 1
       },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xlqfub/",
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xlqfub/\nhttps://www.reddit.com/r/videos/comments/1xjh1z4/\nhttps://www.reddit.com/r/videos/comments/1xjfc07/",
       "date_published": "2026-11-02T07:01:13Z",
       "external_url": "https://www.youtube.com/watch?v=c8C-X--RgT8",
       "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/c8C-X--RgT8/",
@@ -21037,6 +21069,88 @@
       "image": "https://i.ytimg.com/vi/h5-ZWHnXj8I/hqdefault.jpg",
       "title": "Halloween Attack of '99 (Godzilla Found Footage)",
       "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/h5-ZWHnXj8I/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:rdI8urjOgXw",
+        "dateBasis": "publication",
+        "itemId": "rdI8urjOgXw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rdI8urjOgXw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xjhwqj/",
+            "id": "reddit-videos-1xjhwqj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xjhwqj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-30T15:08:23Z"
+            }
+          }
+        ],
+        "revision": 10,
+        "sortAt": "2026-10-30T15:08:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xjhwqj/",
+      "date_published": "2026-10-30T15:08:23Z",
+      "external_url": "https://www.youtube.com/watch?v=rdI8urjOgXw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/rdI8urjOgXw/",
+      "image": "https://i.ytimg.com/vi/rdI8urjOgXw/hqdefault.jpg",
+      "title": "Lacappella ‧ Beetlejuice Main Title Theme",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/rdI8urjOgXw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:C0Joxm1p72I",
+        "dateBasis": "publication",
+        "itemId": "C0Joxm1p72I",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=C0Joxm1p72I"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xjhtel/",
+            "id": "reddit-videos-1xjhtel",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xjhtel",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-30T15:04:54Z"
+            }
+          }
+        ],
+        "revision": 10,
+        "sortAt": "2026-10-30T15:04:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xjhtel/",
+      "date_published": "2026-10-30T15:04:54Z",
+      "external_url": "https://www.youtube.com/watch?v=C0Joxm1p72I",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/C0Joxm1p72I/",
+      "image": "https://i.ytimg.com/vi/C0Joxm1p72I/hqdefault.jpg",
+      "title": "MAGA pastor prays that god will defeat Democrats and 'The Agenda Of Hell' in the midterm elections",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/C0Joxm1p72I/"
     }
   ],
   "title": "r/videos — video links",

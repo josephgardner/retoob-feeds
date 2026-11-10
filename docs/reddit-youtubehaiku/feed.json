@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 9,
+    "revision": 10,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:9n0ZDtLhOUE",
+        "dateBasis": "publication",
+        "itemId": "9n0ZDtLhOUE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9n0ZDtLhOUE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xscnj4/",
+            "id": "reddit-youtubehaiku-1xscnj4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xscnj4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-10T03:37:30Z"
+            }
+          }
+        ],
+        "revision": 10,
+        "sortAt": "2026-11-10T03:37:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xscnj4/",
+      "date_published": "2026-11-10T03:37:30Z",
+      "external_url": "https://www.youtube.com/watch?v=9n0ZDtLhOUE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/9n0ZDtLhOUE/",
+      "image": "https://i.ytimg.com/vi/9n0ZDtLhOUE/hqdefault.jpg",
+      "title": "[Poetry]literally just hot gluing a piece of ham to a satellite dish",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/9n0ZDtLhOUE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:EE_GsDBfYQ0",
+        "dateBasis": "publication",
+        "itemId": "EE_GsDBfYQ0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=EE_GsDBfYQ0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xsb7l9/",
+            "id": "reddit-youtubehaiku-1xsb7l9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xsb7l9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-10T02:26:48Z"
+            }
+          }
+        ],
+        "revision": 10,
+        "sortAt": "2026-11-10T02:26:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xsb7l9/",
+      "date_published": "2026-11-10T02:26:48Z",
+      "external_url": "https://www.youtube.com/watch?v=EE_GsDBfYQ0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/EE_GsDBfYQ0/",
+      "image": "https://i.ytimg.com/vi/EE_GsDBfYQ0/hqdefault.jpg",
+      "title": "[Haiku] Questionable intelligence",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/EE_GsDBfYQ0/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:60QggjjkOfk",
@@ -20941,88 +21023,6 @@
       "image": "https://i.ytimg.com/vi/A7JsM37bIO4/hqdefault.jpg",
       "title": "[Haiku] Stupid slug",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/A7JsM37bIO4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:inoMQs4Sk8c",
-        "dateBasis": "publication",
-        "itemId": "inoMQs4Sk8c",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=inoMQs4Sk8c"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1re8o7z/",
-            "id": "reddit-youtubehaiku-1re8o7z",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1re8o7z",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-02-25T09:28:10Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-02-25T09:28:10Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1re8o7z/",
-      "date_published": "2026-02-25T09:28:10Z",
-      "external_url": "https://www.youtube.com/watch?v=inoMQs4Sk8c",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/inoMQs4Sk8c/",
-      "image": "https://i.ytimg.com/vi/inoMQs4Sk8c/hqdefault.jpg",
-      "title": "[Meme] Please subscribe Karo bhailog , 157k views hain but kisine subscribe nhi kiya , Millionaire ka famous 90s remake maine hi banaya hai",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/inoMQs4Sk8c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:4LJzGlBG39k",
-        "dateBasis": "publication",
-        "itemId": "4LJzGlBG39k",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=4LJzGlBG39k"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rdqi60/",
-            "id": "reddit-youtubehaiku-1rdqi60",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rdqi60",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-02-24T19:46:29Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-02-24T19:46:29Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rdqi60/",
-      "date_published": "2026-02-24T19:46:29Z",
-      "external_url": "https://www.youtube.com/watch?v=4LJzGlBG39k",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/4LJzGlBG39k/",
-      "image": "https://i.ytimg.com/vi/4LJzGlBG39k/hqdefault.jpg",
-      "title": "[Poetry] asking about my fav subject",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/4LJzGlBG39k/"
     }
   ],
   "title": "r/youtubehaiku — video links",

@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 10,
+    "revision": 11,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:_4tfT8d_Urc",
+        "dateBasis": "publication",
+        "itemId": "_4tfT8d_Urc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=_4tfT8d_Urc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xsfnwm/",
+            "id": "reddit-obscuremedia-1xsfnwm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xsfnwm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-10T06:22:29Z"
+            }
+          }
+        ],
+        "revision": 11,
+        "sortAt": "2026-11-10T06:22:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xsfnwm/",
+      "date_published": "2026-11-10T06:22:29Z",
+      "external_url": "https://www.youtube.com/watch?v=_4tfT8d_Urc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/_4tfT8d_Urc/",
+      "image": "https://i.ytimg.com/vi/_4tfT8d_Urc/hqdefault.jpg",
+      "title": "THE CREEPY PUPPET PROJECT: a promotional presentation by Matt Ficner (2004)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/_4tfT8d_Urc/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:XI9w9yNbrcM",
@@ -21142,47 +21183,6 @@
       "image": "https://i.ytimg.com/vi/HWr9l97NM1c/hqdefault.jpg",
       "title": "The World of Sid & Marty Krofft at the Hollywood Bowl  (1973)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/HWr9l97NM1c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:WMNo-mTz4sA",
-        "dateBasis": "publication",
-        "itemId": "WMNo-mTz4sA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=WMNo-mTz4sA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vpflo9/",
-            "id": "reddit-obscuremedia-1vpflo9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vpflo9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-15T22:09:14Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-15T22:09:14Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vpflo9/",
-      "date_published": "2026-08-15T22:09:14Z",
-      "external_url": "https://www.youtube.com/watch?v=WMNo-mTz4sA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/WMNo-mTz4sA/",
-      "image": "https://i.ytimg.com/vi/WMNo-mTz4sA/hqdefault.jpg",
-      "title": "South Korea in the 1980s",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/WMNo-mTz4sA/"
     }
   ],
   "title": "r/obscuremedia — video links",
