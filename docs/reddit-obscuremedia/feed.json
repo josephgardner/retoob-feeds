@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 12,
+    "revision": 13,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:UHtIOkcG_fM",
+        "dateBasis": "publication",
+        "itemId": "UHtIOkcG_fM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UHtIOkcG_fM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xt9kdt/",
+            "id": "reddit-obscuremedia-1xt9kdt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xt9kdt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T05:30:31Z"
+            }
+          }
+        ],
+        "revision": 13,
+        "sortAt": "2026-11-11T05:30:31Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xt9kdt/",
+      "date_published": "2026-11-11T05:30:31Z",
+      "external_url": "https://www.youtube.com/watch?v=UHtIOkcG_fM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UHtIOkcG_fM/",
+      "image": "https://i.ytimg.com/vi/UHtIOkcG_fM/hqdefault.jpg",
+      "title": "Siouxsie and the Banshees Concert June 8 (1979) RTS, Switzerland",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UHtIOkcG_fM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:YUeynDs8PL8",
+        "dateBasis": "publication",
+        "itemId": "YUeynDs8PL8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=YUeynDs8PL8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xt3etn/",
+            "id": "reddit-obscuremedia-1xt3etn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xt3etn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T00:24:18Z"
+            }
+          }
+        ],
+        "revision": 13,
+        "sortAt": "2026-11-11T00:24:18Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xt3etn/",
+      "date_published": "2026-11-11T00:24:18Z",
+      "external_url": "https://www.youtube.com/watch?v=YUeynDs8PL8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/YUeynDs8PL8/",
+      "image": "https://i.ytimg.com/vi/YUeynDs8PL8/hqdefault.jpg",
+      "title": "Articles of Faith - What We Want Is Free (1982)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/YUeynDs8PL8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:UUh-vQkbsRw",
@@ -21101,88 +21183,6 @@
       "image": "https://i.ytimg.com/vi/M8VRbaVNvSA/hqdefault.jpg",
       "title": "The Lathe of Heaven (1980) — Surreal PBS sci-fi film about a man whose dreams alter reality",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/M8VRbaVNvSA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:ltlPINPn8UU",
-        "dateBasis": "publication",
-        "itemId": "ltlPINPn8UU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ltlPINPn8UU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vq7li8/",
-            "id": "reddit-obscuremedia-1vq7li8",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vq7li8",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-16T20:24:02Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-16T20:24:02Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vq7li8/",
-      "date_published": "2026-08-16T20:24:02Z",
-      "external_url": "https://www.youtube.com/watch?v=ltlPINPn8UU",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/ltlPINPn8UU/",
-      "image": "https://i.ytimg.com/vi/ltlPINPn8UU/hqdefault.jpg",
-      "title": "The Cat Came Back (1980) — A version of the song sung by Rowlf on The Muppet Show",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/ltlPINPn8UU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:XqHkIYLk45c",
-        "dateBasis": "publication",
-        "itemId": "XqHkIYLk45c",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=XqHkIYLk45c"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vq7f6e/",
-            "id": "reddit-obscuremedia-1vq7f6e",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vq7f6e",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-16T20:16:54Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-16T20:16:54Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vq7f6e/",
-      "date_published": "2026-08-16T20:16:54Z",
-      "external_url": "https://www.youtube.com/watch?v=XqHkIYLk45c",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/XqHkIYLk45c/",
-      "image": "https://i.ytimg.com/vi/XqHkIYLk45c/hqdefault.jpg",
-      "title": "Playground Safety with The Peepercorns(1975)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/XqHkIYLk45c/"
     }
   ],
   "title": "r/obscuremedia — video links",
