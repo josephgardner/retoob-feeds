@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 10,
+    "revision": 11,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:gKQOXYB2cd8",
+        "dateBasis": "publication",
+        "itemId": "gKQOXYB2cd8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gKQOXYB2cd8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xtmg0w/",
+            "id": "reddit-youtubehaiku-1xtmg0w",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xtmg0w",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T16:36:11Z"
+            }
+          }
+        ],
+        "revision": 11,
+        "sortAt": "2026-11-11T16:36:11Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xtmg0w/",
+      "date_published": "2026-11-11T16:36:11Z",
+      "external_url": "https://www.youtube.com/watch?v=gKQOXYB2cd8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/gKQOXYB2cd8/",
+      "image": "https://i.ytimg.com/vi/gKQOXYB2cd8/hqdefault.jpg",
+      "title": "[Poetry] WHO DO YOU THINK YOU ARE",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/gKQOXYB2cd8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:9n0ZDtLhOUE",
@@ -20982,47 +21023,6 @@
       "image": "https://i.ytimg.com/vi/W7LBfF_ND9Q/hqdefault.jpg",
       "title": "[Haiku] Nice Ron",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/W7LBfF_ND9Q/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:A7JsM37bIO4",
-        "dateBasis": "publication",
-        "itemId": "A7JsM37bIO4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=A7JsM37bIO4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rfvhm5/",
-            "id": "reddit-youtubehaiku-1rfvhm5",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rfvhm5",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-02-27T03:21:31Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-02-27T03:21:31Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rfvhm5/",
-      "date_published": "2026-02-27T03:21:31Z",
-      "external_url": "https://www.youtube.com/watch?v=A7JsM37bIO4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/A7JsM37bIO4/",
-      "image": "https://i.ytimg.com/vi/A7JsM37bIO4/hqdefault.jpg",
-      "title": "[Haiku] Stupid slug",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/A7JsM37bIO4/"
     }
   ],
   "title": "r/youtubehaiku — video links",

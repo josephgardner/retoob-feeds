@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-lectures",
     "publicationEpoch": "reddit-public-20261106-lectures",
-    "revision": 7,
+    "revision": 8,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-lectures/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-lectures/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:tWddLkaEPGs",
+        "dateBasis": "publication",
+        "itemId": "tWddLkaEPGs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=tWddLkaEPGs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/lectures/comments/1xtrj90/",
+            "id": "reddit-lectures-1xtrj90",
+            "kind": "community",
+            "publisher": {
+              "name": "r/lectures",
+              "url": "https://www.reddit.com/r/lectures/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/lectures/",
+            "upstreamItemId": "1xtrj90",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T19:43:08Z"
+            }
+          }
+        ],
+        "revision": 8,
+        "sortAt": "2026-11-11T19:43:08Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/1xtrj90/",
+      "date_published": "2026-11-11T19:43:08Z",
+      "external_url": "https://www.youtube.com/watch?v=tWddLkaEPGs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/tWddLkaEPGs/",
+      "image": "https://i.ytimg.com/vi/tWddLkaEPGs/hqdefault.jpg",
+      "title": "kids",
+      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/tWddLkaEPGs/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:WJVvZNi0Fi8",
@@ -20865,47 +20906,6 @@
       "image": "https://i.ytimg.com/vi/lT4vxQ3AwBQ/hqdefault.jpg",
       "title": "Survival instinct, Wild alone... find food and complete the house in the...",
       "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/lT4vxQ3AwBQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Sp96rfRLCxA",
-        "dateBasis": "publication",
-        "itemId": "Sp96rfRLCxA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Sp96rfRLCxA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/lectures/comments/prpe4l/",
-            "id": "reddit-lectures-prpe4l",
-            "kind": "community",
-            "publisher": {
-              "name": "r/lectures",
-              "url": "https://www.reddit.com/r/lectures/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/lectures/",
-            "upstreamItemId": "prpe4l",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2021-09-20T06:49:55Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2021-09-20T06:49:55Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/lectures/comments/prpe4l/",
-      "date_published": "2021-09-20T06:49:55Z",
-      "external_url": "https://www.youtube.com/watch?v=Sp96rfRLCxA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-lectures/items/Sp96rfRLCxA/",
-      "image": "https://i.ytimg.com/vi/Sp96rfRLCxA/hqdefault.jpg",
-      "title": "F 35 อังกฤษ อิตาลี จะติดตั้ง ระบบอาวุธ MBDA",
-      "url": "https://algoplay.com/retoob-feeds/reddit-lectures/items/Sp96rfRLCxA/"
     }
   ],
   "title": "r/lectures — video links",

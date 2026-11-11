@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 9,
+    "revision": 10,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:GKd5FfUN1V4",
+        "dateBasis": "publication",
+        "itemId": "GKd5FfUN1V4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=GKd5FfUN1V4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1xtg17z/",
+            "id": "reddit-artisanvideos-1xtg17z",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1xtg17z",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T12:03:56Z"
+            }
+          }
+        ],
+        "revision": 10,
+        "sortAt": "2026-11-11T12:03:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1xtg17z/",
+      "date_published": "2026-11-11T12:03:56Z",
+      "external_url": "https://www.youtube.com/watch?v=GKd5FfUN1V4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/GKd5FfUN1V4/",
+      "image": "https://i.ytimg.com/vi/GKd5FfUN1V4/hqdefault.jpg",
+      "title": "Building an Astronaut and Outer Space Using Natural Materials 🚀",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/GKd5FfUN1V4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:2eNxZP7zwaw",
@@ -21720,47 +21761,6 @@
       "image": "https://i.ytimg.com/vi/olDKDvyFQv0/hqdefault.jpg",
       "title": "Moist And Fluffy Sweet Potato Dinner Rolls [08:37]",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/olDKDvyFQv0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:JLtrZkvnH34",
-        "dateBasis": "publication",
-        "itemId": "JLtrZkvnH34",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=JLtrZkvnH34"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1gx8q0r/",
-            "id": "reddit-artisanvideos-1gx8q0r",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1gx8q0r",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-22T14:12:09Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2024-11-22T14:12:09Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1gx8q0r/",
-      "date_published": "2024-11-22T14:12:09Z",
-      "external_url": "https://www.youtube.com/watch?v=JLtrZkvnH34",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/JLtrZkvnH34/",
-      "image": "https://i.ytimg.com/vi/JLtrZkvnH34/hqdefault.jpg",
-      "title": "making my weekend dinner , honey barbecue chicken 🐔",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/JLtrZkvnH34/"
     }
   ],
   "title": "r/artisanvideos — video links",
