@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 29,
+    "itemCount": 31,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 2,
+    "revision": 3,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:sz_vI8V_k1E",
+        "dateBasis": "publication",
+        "itemId": "sz_vI8V_k1E",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=sz_vI8V_k1E"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/i-made-a-film-in-excel-and-i-dont-know-why",
+            "id": "rss-118af4960ec68169bf4cd4e74383303c",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-11:49972",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T17:02:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-11T17:02:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/i-made-a-film-in-excel-and-i-dont-know-why. Not a verified endorsement.",
+      "date_published": "2026-11-11T17:02:00Z",
+      "external_url": "https://www.youtube.com/watch?v=sz_vI8V_k1E",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/sz_vI8V_k1E/",
+      "image": "https://i.ytimg.com/vi/sz_vI8V_k1E/hqdefault.jpg",
+      "title": "“I Made a Film in Excel, and I Don’t Know Why”",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/sz_vI8V_k1E/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:p9gt3gcLywM",
+        "dateBasis": "publication",
+        "itemId": "p9gt3gcLywM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=p9gt3gcLywM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0049966-watch-the-morning-fog-flo",
+            "id": "rss-d163a94f2de3304a400da85ad1e90a67",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-11:49966",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T16:12:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-11T16:12:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0049966-watch-the-morning-fog-flo. Not a verified endorsement.",
+      "date_published": "2026-11-11T16:12:00Z",
+      "external_url": "https://www.youtube.com/watch?v=p9gt3gcLywM",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/p9gt3gcLywM/",
+      "image": "https://i.ytimg.com/vi/p9gt3gcLywM/hqdefault.jpg",
+      "title": "Watch the morning fog flow like ocean waves into the town...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/p9gt3gcLywM/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:Qf6rT9ouHSE",
