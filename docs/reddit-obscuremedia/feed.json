@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 15,
+    "revision": 16,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:BLq3Bq7XEXE",
+        "dateBasis": "publication",
+        "itemId": "BLq3Bq7XEXE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BLq3Bq7XEXE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xufww0/",
+            "id": "reddit-obscuremedia-1xufww0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xufww0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T15:36:46Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-12T15:36:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xufww0/",
+      "date_published": "2026-11-12T15:36:46Z",
+      "external_url": "https://www.youtube.com/watch?v=BLq3Bq7XEXE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/BLq3Bq7XEXE/",
+      "image": "https://i.ytimg.com/vi/BLq3Bq7XEXE/hqdefault.jpg",
+      "title": "\"carrot\"",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/BLq3Bq7XEXE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:b72nm7baV5c",
+        "dateBasis": "publication",
+        "itemId": "b72nm7baV5c",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=b72nm7baV5c"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xuckkr/",
+            "id": "reddit-obscuremedia-1xuckkr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xuckkr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T13:19:29Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-12T13:19:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xuckkr/",
+      "date_published": "2026-11-12T13:19:29Z",
+      "external_url": "https://www.youtube.com/watch?v=b72nm7baV5c",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/b72nm7baV5c/",
+      "image": "https://i.ytimg.com/vi/b72nm7baV5c/hqdefault.jpg",
+      "title": "FRANK ZAPPA: YOU ARE WHAT YOU IS (1981) - Only FZ Song to Ever Receive a Music Video",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/b72nm7baV5c/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:dDEYPbfWY6I",
+        "dateBasis": "publication",
+        "itemId": "dDEYPbfWY6I",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=dDEYPbfWY6I"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xubb3s/",
+            "id": "reddit-obscuremedia-1xubb3s",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xubb3s",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T12:18:23Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-12T12:18:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xubb3s/",
+      "date_published": "2026-11-12T12:18:23Z",
+      "external_url": "https://www.youtube.com/watch?v=dDEYPbfWY6I",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/dDEYPbfWY6I/",
+      "image": "https://i.ytimg.com/vi/dDEYPbfWY6I/hqdefault.jpg",
+      "title": "(1999) Pillsbury cookie dough commercial featuring a young Michael Cera",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/dDEYPbfWY6I/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:WFCyWdu71kw",
@@ -21044,129 +21167,6 @@
       "image": "https://i.ytimg.com/vi/YWTEWTj3OuA/hqdefault.jpg",
       "title": "Music promo video from Bulgaria (1997)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/YWTEWTj3OuA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:tWASh4x68Tk",
-        "dateBasis": "publication",
-        "itemId": "tWASh4x68Tk",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=tWASh4x68Tk"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vreuwj/",
-            "id": "reddit-obscuremedia-1vreuwj",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vreuwj",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T04:22:37Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-18T04:22:37Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vreuwj/",
-      "date_published": "2026-08-18T04:22:37Z",
-      "external_url": "https://www.youtube.com/watch?v=tWASh4x68Tk",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/tWASh4x68Tk/",
-      "image": "https://i.ytimg.com/vi/tWASh4x68Tk/hqdefault.jpg",
-      "title": "The Bus and Us: All About School Bus Safety - Ohio Dept. of Public Safety instructional tape (1996)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/tWASh4x68Tk/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:1aXKL3EegW0",
-        "dateBasis": "publication",
-        "itemId": "1aXKL3EegW0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=1aXKL3EegW0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vre89m/",
-            "id": "reddit-obscuremedia-1vre89m",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vre89m",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T03:50:56Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-18T03:50:56Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vre89m/",
-      "date_published": "2026-08-18T03:50:56Z",
-      "external_url": "https://www.youtube.com/watch?v=1aXKL3EegW0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/1aXKL3EegW0/",
-      "image": "https://i.ytimg.com/vi/1aXKL3EegW0/hqdefault.jpg",
-      "title": "Declaration of Independence (2003) Starring Morgan Freeman, Winona Ryder, Edward Norton and more",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/1aXKL3EegW0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Pf-sDjS8YR8",
-        "dateBasis": "publication",
-        "itemId": "Pf-sDjS8YR8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Pf-sDjS8YR8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vrcf44/",
-            "id": "reddit-obscuremedia-1vrcf44",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vrcf44",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T02:25:02Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-18T02:25:02Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vrcf44/",
-      "date_published": "2026-08-18T02:25:02Z",
-      "external_url": "https://www.youtube.com/watch?v=Pf-sDjS8YR8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Pf-sDjS8YR8/",
-      "image": "https://i.ytimg.com/vi/Pf-sDjS8YR8/hqdefault.jpg",
-      "title": "Midsummer Rock Festival. Grand Funk, Mountain, The Stooges, Alice Cooper and Traffic (1970) Cincinnati OH",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Pf-sDjS8YR8/"
     }
   ],
   "title": "r/obscuremedia — video links",
