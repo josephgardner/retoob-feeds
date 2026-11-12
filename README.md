@@ -1,151 +1,71 @@
-# Public video feeds
+# Retoob TV
 
-This is an independent, offline Python connector for a Git-tracked manual collection.
-It publishes a complete JSON Feed 1.1 / Retoob profile-1 snapshot. It needs no
-Retoob service, database, account, or Go generator. It fetches no video bytes or
-provider metadata. YouTube supplies playback in the original app.
+**Your video feeds. Your TV.**
 
-Subscribe: https://algoplay.com/retoob-feeds/tech-night/feed.json
+Retoob is a video-feed viewer for **Android TV and Google TV**. Browse community-curated videos from across the web, follow the feeds you care about, and watch them from a remote-friendly interface. Your subscriptions are based on public, portable feeds rather than a single centralized video list.
 
-Browse: https://algoplay.com/retoob-feeds/tech-night/
+**[Download Retoob TV 0.5.0 preview 2 (APK)](https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.0-preview.2/retoob-tv-0.5.0-preview.2.apk)** · [Release notes and checksums](https://github.com/josephgardner/retoob-feeds/releases/tag/tv-v0.5.0-preview.2) · [Browse public feeds](https://algoplay.com/retoob-feeds/)
 
-Schema: https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json
+> **Preview:** Retoob is currently distributed here as an Android TV APK for sideloading. This repository contains the public feeds, publishing tools, documentation, and TV releases; the Android app's source is maintained separately.
 
-The source is `examples/static-publisher/tech-night.json`. Each entry has a stable
-recommendation ID, YouTube video ID, title, UTC save time, and optional note/offset.
-Labels/notes are curator-authored demonstration text. Multiple saves of one video
-produce one card with all recommendations. Newest save wins the card's title and
-offset. The source's save time describes the recommendation, never the video's
-upload date. Keep IDs and dates stable when editing metadata.
+## Screenshots
 
-## Update
+Two real 1920×1080 captures from an Android TV emulator:
 
-Use Python 3.11 or newer. Install validation dependencies in a virtual environment:
+| Home — browse video shelves | Feeds — explore individual lists |
+| --- | --- |
+| ![Retoob Home screen](assets/screenshots/home.png) | ![Retoob Feeds screen](assets/screenshots/feeds.png) |
 
-```sh
-python3 -m venv .venv
-. .venv/bin/activate
-pip install -r scripts/requirements-protocol.txt
-```
+## Install on Android TV / Google TV
 
-Edit the collection, then generate into a fresh directory outside the checkout:
+1. [Download the preview APK](https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.0-preview.2/retoob-tv-0.5.0-preview.2.apk).
+2. Transfer the APK to your TV and open it with a file manager that can install APKs. If prompted, allow installation from that app in your TV's **Install unknown apps** settings. The exact menu names vary by device.
+3. Install and launch **Retoob**.
+
+**With ADB:** If your TV or emulator is connected and listed by `adb devices`, install from the folder containing the APK:
 
 ```sh
-python3 examples/static-publisher/publish.py examples/static-publisher/tech-night.json \
-  --state .publisher-state.json --output /tmp/retoob-next-site \
-  --schema docs/schemas/retoob-feed-v1.schema.json
-python3 scripts/check-protocol.py /tmp/retoob-next-site/tech-night/feed.json
+adb install -r retoob-tv-0.5.0-preview.2.apk
 ```
 
-Review the output. Replace the entire **owned `docs/tech-night/` directory**,
-including deletion of old card pages, and commit it together with the collection
-and `.publisher-state.json`. Preserve every other feed and the schema. Push
-`main` to validate and deploy `docs/` through GitHub Pages Actions. Do not overlay
-old card pages: that can preserve removed notes in old HTML pages. Git history is public; never put sensitive or
-revocable private content into this repository. Remove prohibited content from
-history/caches separately when required.
+The release page also offers `SHA256SUMS` to verify the downloaded file.
 
-Retain `.publisher-state.json`: it contains hashes and revision numbers, no notes
-or titles. It preserves monotonically increasing card revisions after removal and
-return. The unchanged input produces identical bytes. For a truly new publication,
-choose a fresh `publicationEpoch`, use a new state path and `--initialize`. Never
-reset an existing publication's ledger or reuse a withdrawn epoch.
+## Get started
 
-Delete an entry to remove one recommendation; delete all recommendations for a
-video to remove its card. Publish an empty collection to deliberately clear a
-list. To withdraw the list, remove its feed and HTML/card pages in the same deploy
-so a subsequent root fetch returns 404; retain the subscription URL unavailable.
-GitHub's caches can delay this change, so use a configurable HTTP origin if prompt
-withdrawal is required.
+1. **Home:** Browse video shelves from your feeds. Choose **View all** to explore more.
+2. **Feeds:** Open a particular feed and browse its video grid.
+3. **Add feed:** Subscribe to a public feed URL or a directory of feeds. For example:
+   - **Feed directory:** `https://algoplay.com/retoob-feeds/feeds.json`
+   - **Single feed:** `https://algoplay.com/retoob-feeds/tech-night/feed.json`
+4. **Settings:** Manage subscriptions, hide or restore feeds, and check for updates.
 
-## Hosting and conformance
+The Algoplay collection is included on new installations, so you can start browsing without setting up a publisher. Use your TV remote to navigate and select a video. Playback depends on the source and supported playback handlers on your device.
 
-Only `docs/` is served. This repository's connector source and content-free state
-are intentionally public. The site is static and portable; `baseUrl` configures
-its location, including a project subdirectory. No custom domain is required.
-A later feeds.algoplay.com deployment may use the same connector and a new epoch.
-The schema URI identifies the project-owned schema, independently of feed origin;
-keep the canonical URI available even if the test publisher moves.
+## How Retoob works
 
-GitHub Pages controls MIME types and caching: `.json` is `application/json`, which
-the existing TV reader accepts. The current protocol specifies
-`application/feed+json`, so this demonstrates reader interoperability with a
-**documented hosting deviation**, not full HTTP conformance. The original manual connector does not crawl arbitrary Git repositories.
-The separate HN and HackerTube source refreshes are described below.
+```text
+Communities / curators / source APIs
+                  |
+        Publishers and connectors
+                  |
+        Public JSON video feeds
+             or directories
+                  |
+              Retoob TV
+```
 
-The offline validator uses a pinned local schema, checks complete counts and unique
-identities, and never fetches a feed-supplied schema URL. Older profile-1 feeds
-without `_retoob.schema` remain valid. Unknown schema identifiers need explicit
-review; a reader may ignore additive discovery fields. It is not a network/SSRF,
-provider-permission, or cross-page conformance audit.
+Retoob consumes standardized JSON feeds hosted over HTTP. You can hand-curate a list, generate one from an existing community, or publish a collection of feeds. A Retoob account, central backend, or database is **not** required to publish a feed.
 
-## Hacker News feeds
+Want to look around? [Explore the public directory](https://algoplay.com/retoob-feeds/), including [Hacker News videos](https://algoplay.com/retoob-feeds/hn-new-videos/feed.json) and [HackerTube catalogue videos](https://algoplay.com/retoob-feeds/hackertube-software/feed.json).
 
-- Top-story window: https://algoplay.com/retoob-feeds/hn-top-videos/feed.json
-- Newest-story window: https://algoplay.com/retoob-feeds/hn-new-videos/feed.json
-- Last successful refresh: https://algoplay.com/retoob-feeds/hn-status.json
+## Make your own feed
 
-These are YouTube links among the official API's current top/new story windows,
-ordered by submission date. They are not a complete historical archive. HN
-mentions retain discussion provenance and are not verified endorsements. No
-YouTube account, Retoob backend, database, browser scraper, or Cloud Run deploy is
-needed. See `examples/hn-publisher/README.md` for bounds and failure behavior.
+This repository also hosts the **public feed-publishing companion** to Retoob TV. The protocol uses JSON Feed 1.1 with the Retoob profile-1 schema, alongside an optional directory schema.
 
-Collection runs in a private GitHub Actions pipeline every six hours. Its private
-Git state branch retains revision continuity and HackerTube source versions;
-`.hn-publisher-state.json` here is the historical migration ledger, not the active
-state store. This repository's workflow validates committed feeds and deploys
-Pages on pushes; it does not poll sources. Source failures preserve last good
-output. Scheduled GitHub jobs can be delayed. Check the public status timestamps
-if updates stop. No Google Cloud service is needed for this pipeline.
+- [Feed schema](docs/schemas/retoob-feed-v1.schema.json)
+- [Directory schema](docs/schemas/retoob-directory-v1.schema.json)
+- [Manual/static publisher example](examples/static-publisher/)
+- [Hacker News connector example](examples/hn-publisher/)
+- [Publishing and connector guide](PUBLISHING.md) — all the original technical README content, including source credits, state handling, deployment, and conformance notes
 
-## HackerTube historical catalogue
-
-Browse all feeds: https://algoplay.com/retoob-feeds/
-
-Machine-readable directory: https://algoplay.com/retoob-feeds/feeds.json
-
-Catalogue status: https://algoplay.com/retoob-feeds/hackertube-status.json
-
-Sixteen broad-area feeds use `hackertube-<area>/feed.json`, for example:
-
-- Software: https://algoplay.com/retoob-feeds/hackertube-software/feed.json
-- AI and data: https://algoplay.com/retoob-feeds/hackertube-ai-data/feed.json
-- Mathematics: https://algoplay.com/retoob-feeds/hackertube-math-theory/feed.json
-
-These are historical catalogue imports, distinct from live HN top/new windows.
-The pipeline checks the official export manifest every six hours; a new release
-is imported completely before publication. This does not promise that HackerTube
-releases new data every six hours. Each area selects up to 500 videos by catalogue
-score. Exact dates are unknown, so profile-1 cards use unknown dates and stable
-ID ordering, rather than fabricated timestamps or a claim of chronological rank.
-No comments, quotes, usernames, embeddings or related graph are republished.
-Omission in a new export is not treated as an authoritative withdrawal; explicit
-exclusions remain excluded across imports.
-
-Catalogue credit: [HackerTube](https://hackertube.org) and
-[open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news),
-under [ODC-By 1.0](https://opendatacommons.org/licenses/by/1-0/).
-Summaries/categories are machine-generated. Catalogue mentions are not verified
-endorsements. Titles and channel names belong to their creators.
-
-Manual updates must preserve all other producer directories and the schema.
-Never replace `docs/` with a manual-only generated site. The private publication
-pipeline rebuilds the combined directory from committed feed files.
-
-The initial Reddit cohort uses the same private collection/public output pipeline.
-Native clips use DASH playback in current Retoob builds; older readers may show
-them as unsupported.
-
-## Shared HTML viewer
-
-The Git tree stores one HTML viewer with JS/CSS, plus the JSON feeds and schemas.
-Browse a list using `index.html?feed=hackertube-software`, or append an `item` ID
-for a card. Per-card and per-feed HTML redirects are generated only in the Pages
-build artifact, preserving existing browser URLs without thousands of folders
-in this repository. Feed URLs and JSON Feed item identities stay unchanged.
-
-GitHub Pages cannot negotiate HTML/JSON with the HTTP Accept header; this is the
-static-host alternative. Retoob accepts the root `feeds.json` as a refreshable
-collection and includes the Algoplay collection on new installs. Counts remain
-JSON metadata and do not appear as a viewing target in the app.
+**Repository scope:** `retoob-feeds` publishes public feed data, documentation, and Retoob TV APK releases. It is not the app source repository.
