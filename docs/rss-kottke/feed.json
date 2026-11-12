@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 33,
+    "itemCount": 35,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 4,
+    "revision": 5,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:V0sCnx5qedM",
+        "dateBasis": "publication",
+        "itemId": "V0sCnx5qedM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=V0sCnx5qedM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0049985-400-volunteers-will-read-",
+            "id": "rss-a029c9d461ec4fc52e26681edccbdf83",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-12:49985",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T15:27:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-12T15:27:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0049985-400-volunteers-will-read-. Not a verified endorsement.",
+      "date_published": "2026-11-12T15:27:00Z",
+      "external_url": "https://www.youtube.com/watch?v=V0sCnx5qedM",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/V0sCnx5qedM/",
+      "image": "https://i.ytimg.com/vi/V0sCnx5qedM/hqdefault.jpg",
+      "title": "Starting today at 7pm in NYC, 400 volunteers will read...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/V0sCnx5qedM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:R39hGT1iM7w",
+        "dateBasis": "publication",
+        "itemId": "R39hGT1iM7w",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=R39hGT1iM7w"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/robyns-tiny-desk-concert",
+            "id": "rss-d3265ccc9d6ca9e3d190527f91cc9a51",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-12:49986",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T12:05:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-12T12:05:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/robyns-tiny-desk-concert. Not a verified endorsement.",
+      "date_published": "2026-11-12T12:05:00Z",
+      "external_url": "https://www.youtube.com/watch?v=R39hGT1iM7w",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/R39hGT1iM7w/",
+      "image": "https://i.ytimg.com/vi/R39hGT1iM7w/hqdefault.jpg",
+      "title": "Robyn’s Tiny Desk Concert",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/R39hGT1iM7w/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:Z1Zynyudags",
