@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 477,
+    "itemCount": 481,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 15,
+    "revision": 16,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,186 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:cjDHoNcH5o4",
+        "dateBasis": "publication",
+        "itemId": "cjDHoNcH5o4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cjDHoNcH5o4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xtyykf/",
+            "id": "reddit-documentaries-1xtyykf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xtyykf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T00:51:23Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xtywzu/",
+            "id": "reddit-documentaries-1xtywzu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xtywzu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T00:49:22Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-12T00:51:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xtyykf/\nhttps://www.reddit.com/r/documentaries/comments/1xtywzu/",
+      "date_published": "2026-11-12T00:51:23Z",
+      "external_url": "https://www.youtube.com/watch?v=cjDHoNcH5o4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/cjDHoNcH5o4/",
+      "image": "https://i.ytimg.com/vi/cjDHoNcH5o4/hqdefault.jpg",
+      "title": "Marine Corps Boot Camp is Stupid & Spiritually Depraved (2026) - A young man's experiences and observations as a United States Marine Corps cadet. [00:55:16]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/cjDHoNcH5o4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:K7eArK_Hq5k",
+        "dateBasis": "publication",
+        "itemId": "K7eArK_Hq5k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=K7eArK_Hq5k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xtvb84/",
+            "id": "reddit-documentaries-1xtvb84",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xtvb84",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T22:12:08Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-11T22:12:08Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xtvb84/",
+      "date_published": "2026-11-11T22:12:08Z",
+      "external_url": "https://www.youtube.com/watch?v=K7eArK_Hq5k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/K7eArK_Hq5k/",
+      "image": "https://i.ytimg.com/vi/K7eArK_Hq5k/hqdefault.jpg",
+      "title": "The She-Butterfly (1973): Yugoslavia’s Lost Vampire Film [52:47]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/K7eArK_Hq5k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:TrSi6GpIOCo",
+        "dateBasis": "publication",
+        "itemId": "TrSi6GpIOCo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=TrSi6GpIOCo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xtumtf/",
+            "id": "reddit-documentaries-1xtumtf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xtumtf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T21:44:47Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-11T21:44:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xtumtf/",
+      "date_published": "2026-11-11T21:44:47Z",
+      "external_url": "https://www.youtube.com/watch?v=TrSi6GpIOCo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/TrSi6GpIOCo/",
+      "image": "https://i.ytimg.com/vi/TrSi6GpIOCo/hqdefault.jpg",
+      "title": "The Woman Spy Who Seduced Nvidia's CEO (2026) - A breakdown of Chinese MSS surveillance, the $2B chip loophole, and the counterintelligence breakdown in Washington [00:08:45]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/TrSi6GpIOCo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:4dNFjd2LDdc",
+        "dateBasis": "publication",
+        "itemId": "4dNFjd2LDdc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4dNFjd2LDdc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xttxut/",
+            "id": "reddit-documentaries-1xttxut",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xttxut",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T21:16:48Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-11T21:16:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xttxut/",
+      "date_published": "2026-11-11T21:16:48Z",
+      "external_url": "https://www.youtube.com/watch?v=4dNFjd2LDdc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/4dNFjd2LDdc/",
+      "image": "https://i.ytimg.com/vi/4dNFjd2LDdc/hqdefault.jpg",
+      "title": "A Mother Searches for Her Son, One Graffiti Tag at a Time (2025) [00:12:38]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/4dNFjd2LDdc/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:eJVIQ6c0RUs",
