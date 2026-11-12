@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.algoplay.retoob",
-  "versionCode": 6,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.4.0-preview.1/retoob-tv-0.4.0-preview.1.apk",
-  "size": 11086327,
-  "sha256": "c3e97f29825b056e8929b3ac955e3d25ea04d66a0a07b1836873ce375c848578",
-  "notes": "All videos brings visible feeds into one date-sorted stream, merging duplicate videos while keeping their source mentions. Switch to Feeds for the compact, freshest-first feed grid.\n\nOptions now opens as a clear side panel. Manage collections and feeds, hide or restore individual feeds, check for updates, and open paired Family mode.\n\nSaved selection and permitted cached views restore before background refresh. Existing subscriptions and playback handlers are preserved."
+  "versionCode": 8,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.0-preview.2/retoob-tv-0.5.0-preview.2.apk",
+  "size": 11131117,
+  "sha256": "0a6bc729399f0a5d766ded03e70a709d475c2c02bf324c795d32e6ab27304a0d",
+  "notes": "Browse Home with horizontal video shelves, or switch to Feeds for individual feeds and their video grid. Moving Up or Down in the left navigation switches sections immediately; Right enters the content.\n\nSettings includes feed management with inline visibility switches, update checks and paired Family access. Hidden feeds stay in the list so you can restore them in place.\n\nThe logo now uses RSS arcs and a circular e inside the green play mark. Sources & notes is a quiet text action, with header space kept clear of thumbnails. Feed names are shorter while full attribution remains in details.\n\nExisting subscriptions, saved selection, playback handlers and Family pairing are preserved. Home shelves preview 20 videos; View all opens complete individual feeds or the newest 500 combined videos."
 }
