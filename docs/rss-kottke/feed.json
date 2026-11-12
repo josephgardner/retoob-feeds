@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 31,
+    "itemCount": 33,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 3,
+    "revision": 4,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:Z1Zynyudags",
+        "dateBasis": "publication",
+        "itemId": "Z1Zynyudags",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Z1Zynyudags"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/techno-marching-band",
+            "id": "rss-7e9bbd8675298bbcfa17d7eee7cf9e82",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-11:49974",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T22:08:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-11T22:08:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/techno-marching-band. Not a verified endorsement.",
+      "date_published": "2026-11-11T22:08:00Z",
+      "external_url": "https://www.youtube.com/watch?v=Z1Zynyudags",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/Z1Zynyudags/",
+      "image": "https://i.ytimg.com/vi/Z1Zynyudags/hqdefault.jpg",
+      "title": "Techno Marching Band!",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/Z1Zynyudags/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:JPcVyq_BYjU",
+        "dateBasis": "publication",
+        "itemId": "JPcVyq_BYjU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JPcVyq_BYjU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/techno-marching-band",
+            "id": "rss-c112efecef29c0bcad8c8e89ef9673d7",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-11:49974",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T22:08:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-11T22:08:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/techno-marching-band. Not a verified endorsement.",
+      "date_published": "2026-11-11T22:08:00Z",
+      "external_url": "https://www.youtube.com/watch?v=JPcVyq_BYjU",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/JPcVyq_BYjU/",
+      "image": "https://i.ytimg.com/vi/JPcVyq_BYjU/hqdefault.jpg",
+      "title": "Techno Marching Band!",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/JPcVyq_BYjU/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:sz_vI8V_k1E",
