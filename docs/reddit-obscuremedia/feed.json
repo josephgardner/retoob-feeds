@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 17,
+    "revision": 18,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,63 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:VUGpvb6Lk6M",
+        "dateBasis": "publication",
+        "itemId": "VUGpvb6Lk6M",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VUGpvb6Lk6M"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xv9ngp/",
+            "id": "reddit-obscuremedia-1xv9ngp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xv9ngp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T14:42:18Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
+            "id": "reddit-obscuremedia-1xv9m5j",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xv9m5j",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T14:40:47Z"
+            }
+          }
+        ],
+        "revision": 18,
+        "sortAt": "2026-11-13T14:42:18Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xv9ngp/\nhttps://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
+      "date_published": "2026-11-13T14:42:18Z",
+      "external_url": "https://www.youtube.com/watch?v=VUGpvb6Lk6M",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VUGpvb6Lk6M/",
+      "image": "https://i.ytimg.com/vi/VUGpvb6Lk6M/hqdefault.jpg",
+      "title": "I made a Youtube Video exploring early 3d and 90s internet (1994)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VUGpvb6Lk6M/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:_YlQeTwGcpg",
@@ -21126,47 +21183,6 @@
       "image": "https://i.ytimg.com/vi/C__EpRM0_RE/hqdefault.jpg",
       "title": "The Shagoolies (2015) Puppet Kickstarter pilot",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/C__EpRM0_RE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:IK8UY4sqDXg",
-        "dateBasis": "publication",
-        "itemId": "IK8UY4sqDXg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=IK8UY4sqDXg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vrsl75/",
-            "id": "reddit-obscuremedia-1vrsl75",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vrsl75",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T15:35:26Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-08-18T15:35:26Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vrsl75/",
-      "date_published": "2026-08-18T15:35:26Z",
-      "external_url": "https://www.youtube.com/watch?v=IK8UY4sqDXg",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IK8UY4sqDXg/",
-      "image": "https://i.ytimg.com/vi/IK8UY4sqDXg/hqdefault.jpg",
-      "title": "Bury The Axis (1943) — This is an independent, anti-fascist, stop-motion cartoon about the Allies defeating the Axis powers. Similar to the much more well-known Der Fuehrer's Face, there are also little songs made throughout this short mocking Hitler and the other Axis powers’ leaders.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IK8UY4sqDXg/"
     }
   ],
   "title": "r/obscuremedia — video links",
