@@ -118,15 +118,15 @@
       "title": "Hacker News \u2014 newest-story videos",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/hn-new-videos/",
-      "itemCount": 10,
-      "revision": 22
+      "itemCount": 15,
+      "revision": 23
     },
     {
       "title": "Hacker News \u2014 top-story videos",
       "url": "https://algoplay.com/retoob-feeds/hn-top-videos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/hn-top-videos/",
-      "itemCount": 4,
-      "revision": 18
+      "itemCount": 6,
+      "revision": 19
     },
     {
       "title": "r/artisanvideos \u2014 video links",
@@ -201,7 +201,7 @@
   ],
   "connectors": {
     "hn": {
-      "lastSuccessfulRefreshAt": "2026-11-12T20:24:07Z",
+      "lastSuccessfulRefreshAt": "2026-11-13T07:12:07Z",
       "scheduledIntervalHours": 6
     },
     "hackertube": {
