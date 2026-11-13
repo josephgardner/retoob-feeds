@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 12,
+    "revision": 13,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:iWcWqqqrxw8",
+        "dateBasis": "publication",
+        "itemId": "iWcWqqqrxw8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=iWcWqqqrxw8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xut7r2/",
+            "id": "reddit-youtubehaiku-1xut7r2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xut7r2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T00:15:09Z"
+            }
+          }
+        ],
+        "revision": 13,
+        "sortAt": "2026-11-13T00:15:09Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xut7r2/",
+      "date_published": "2026-11-13T00:15:09Z",
+      "external_url": "https://www.youtube.com/watch?v=iWcWqqqrxw8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/iWcWqqqrxw8/",
+      "image": "https://i.ytimg.com/vi/iWcWqqqrxw8/hqdefault.jpg",
+      "title": "[Haiku] Mississippi blue",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/iWcWqqqrxw8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:lQzmlWQ2u4w",
@@ -20982,47 +21023,6 @@
       "image": "https://i.ytimg.com/vi/yAdSQKy2f8Q/hqdefault.jpg",
       "title": "[POETRY] an animated voicemail",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/yAdSQKy2f8Q/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:_J2kPqszRN8",
-        "dateBasis": "publication",
-        "itemId": "_J2kPqszRN8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=_J2kPqszRN8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rgp0o4/",
-            "id": "reddit-youtubehaiku-1rgp0o4",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rgp0o4",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-02-28T01:15:25Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-02-28T01:15:25Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rgp0o4/",
-      "date_published": "2026-02-28T01:15:25Z",
-      "external_url": "https://www.youtube.com/watch?v=_J2kPqszRN8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/_J2kPqszRN8/",
-      "image": "https://i.ytimg.com/vi/_J2kPqszRN8/hqdefault.jpg",
-      "title": "[Haiku] Life in Lumiose City",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/_J2kPqszRN8/"
     }
   ],
   "title": "r/youtubehaiku — video links",

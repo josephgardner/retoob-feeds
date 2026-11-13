@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 10,
+    "revision": 11,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,104 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:oCNLLXN1Qho",
+        "dateBasis": "publication",
+        "itemId": "oCNLLXN1Qho",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=oCNLLXN1Qho"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1xuhvz6/",
+            "id": "reddit-artisanvideos-1xuhvz6",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1xuhvz6",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T16:51:00Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1xuh6nr/",
+            "id": "reddit-artisanvideos-1xuh6nr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1xuh6nr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T16:24:39Z"
+            }
+          }
+        ],
+        "revision": 11,
+        "sortAt": "2026-11-12T16:51:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1xuhvz6/\nhttps://www.reddit.com/r/artisanvideos/comments/1xuh6nr/",
+      "date_published": "2026-11-12T16:51:00Z",
+      "external_url": "https://www.youtube.com/watch?v=oCNLLXN1Qho",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/oCNLLXN1Qho/",
+      "image": "https://i.ytimg.com/vi/oCNLLXN1Qho/hqdefault.jpg",
+      "title": "Newt Grover - Glass Blower [40:20]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/oCNLLXN1Qho/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:PuWX-5yAJtE",
+        "dateBasis": "publication",
+        "itemId": "PuWX-5yAJtE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PuWX-5yAJtE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1xu17un/",
+            "id": "reddit-artisanvideos-1xu17un",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1xu17un",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T02:40:02Z"
+            }
+          }
+        ],
+        "revision": 11,
+        "sortAt": "2026-11-12T02:40:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1xu17un/",
+      "date_published": "2026-11-12T02:40:02Z",
+      "external_url": "https://www.youtube.com/watch?v=PuWX-5yAJtE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/PuWX-5yAJtE/",
+      "image": "https://i.ytimg.com/vi/PuWX-5yAJtE/hqdefault.jpg",
+      "title": "The Process Of Hand Carving A Gothic Shrine [32:46]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/PuWX-5yAJtE/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:GKd5FfUN1V4",
@@ -21679,88 +21777,6 @@
       "image": "https://i.ytimg.com/vi/ZexO3PzefD4/hqdefault.jpg",
       "title": "Thomas Johnson Restores a Harpsichord! [42:53]",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ZexO3PzefD4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Gkn7eGB0k8U",
-        "dateBasis": "publication",
-        "itemId": "Gkn7eGB0k8U",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Gkn7eGB0k8U"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1gxkzqg/",
-            "id": "reddit-artisanvideos-1gxkzqg",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1gxkzqg",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-22T23:03:47Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2024-11-22T23:03:47Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1gxkzqg/",
-      "date_published": "2024-11-22T23:03:47Z",
-      "external_url": "https://www.youtube.com/watch?v=Gkn7eGB0k8U",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/Gkn7eGB0k8U/",
-      "image": "https://i.ytimg.com/vi/Gkn7eGB0k8U/hqdefault.jpg",
-      "title": "Creating Jesmonite tape dispenser - storytime behind the product [5:45]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/Gkn7eGB0k8U/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:olDKDvyFQv0",
-        "dateBasis": "publication",
-        "itemId": "olDKDvyFQv0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=olDKDvyFQv0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1gxiktr/",
-            "id": "reddit-artisanvideos-1gxiktr",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1gxiktr",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-22T21:15:22Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2024-11-22T21:15:22Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1gxiktr/",
-      "date_published": "2024-11-22T21:15:22Z",
-      "external_url": "https://www.youtube.com/watch?v=olDKDvyFQv0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/olDKDvyFQv0/",
-      "image": "https://i.ytimg.com/vi/olDKDvyFQv0/hqdefault.jpg",
-      "title": "Moist And Fluffy Sweet Potato Dinner Rolls [08:37]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/olDKDvyFQv0/"
     }
   ],
   "title": "r/artisanvideos — video links",

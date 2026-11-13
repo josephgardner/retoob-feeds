@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-deepintoyoutube",
     "publicationEpoch": "reddit-public-20261106-deepintoyoutube",
-    "revision": 16,
+    "revision": 17,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,186 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:5JLCnjNpZU8",
+        "dateBasis": "publication",
+        "itemId": "5JLCnjNpZU8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5JLCnjNpZU8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1xuzgc7/",
+            "id": "reddit-deepintoyoutube-1xuzgc7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1xuzgc7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T05:24:57Z"
+            }
+          }
+        ],
+        "revision": 17,
+        "sortAt": "2026-11-13T05:24:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1xuzgc7/",
+      "date_published": "2026-11-13T05:24:57Z",
+      "external_url": "https://www.youtube.com/watch?v=5JLCnjNpZU8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/5JLCnjNpZU8/",
+      "image": "https://i.ytimg.com/vi/5JLCnjNpZU8/hqdefault.jpg",
+      "title": "Why an 11-day walk took Moses 40 years",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/5JLCnjNpZU8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:BB4Yb1rMX8k",
+        "dateBasis": "publication",
+        "itemId": "BB4Yb1rMX8k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BB4Yb1rMX8k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1xuwztf/",
+            "id": "reddit-deepintoyoutube-1xuwztf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1xuwztf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T03:15:35Z"
+            }
+          }
+        ],
+        "revision": 17,
+        "sortAt": "2026-11-13T03:15:35Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1xuwztf/",
+      "date_published": "2026-11-13T03:15:35Z",
+      "external_url": "https://www.youtube.com/watch?v=BB4Yb1rMX8k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/BB4Yb1rMX8k/",
+      "image": "https://i.ytimg.com/vi/BB4Yb1rMX8k/hqdefault.jpg",
+      "title": "there's nobody here",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/BB4Yb1rMX8k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:c7Sf9GG9kZE",
+        "dateBasis": "publication",
+        "itemId": "c7Sf9GG9kZE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=c7Sf9GG9kZE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1xuvevi/",
+            "id": "reddit-deepintoyoutube-1xuvevi",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1xuvevi",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T01:58:47Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1xuvbga/",
+            "id": "reddit-deepintoyoutube-1xuvbga",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1xuvbga",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T01:54:12Z"
+            }
+          }
+        ],
+        "revision": 17,
+        "sortAt": "2026-11-13T01:58:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1xuvevi/\nhttps://www.reddit.com/r/deepintoyoutube/comments/1xuvbga/",
+      "date_published": "2026-11-13T01:58:47Z",
+      "external_url": "https://www.youtube.com/watch?v=c7Sf9GG9kZE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/c7Sf9GG9kZE/",
+      "image": "https://i.ytimg.com/vi/c7Sf9GG9kZE/hqdefault.jpg",
+      "title": "MVI 3928 (12 views)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/c7Sf9GG9kZE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:D5pokGyv-vg",
+        "dateBasis": "publication",
+        "itemId": "D5pokGyv-vg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=D5pokGyv-vg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1xuru90/",
+            "id": "reddit-deepintoyoutube-1xuru90",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1xuru90",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T23:14:32Z"
+            }
+          }
+        ],
+        "revision": 17,
+        "sortAt": "2026-11-12T23:14:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1xuru90/",
+      "date_published": "2026-11-12T23:14:32Z",
+      "external_url": "https://www.youtube.com/watch?v=D5pokGyv-vg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/D5pokGyv-vg/",
+      "image": "https://i.ytimg.com/vi/D5pokGyv-vg/hqdefault.jpg",
+      "title": "FROGGY FRIEND I.R.L. FULL PLAYTHROUGH + ALL ENDINGS - 337 views",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/D5pokGyv-vg/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:7qYn1vgHcDU",
@@ -134,47 +314,6 @@
       "image": "https://i.ytimg.com/vi/TeNkP7QAYso/hqdefault.jpg",
       "title": "My Harlem Shake - YouTube. 24 views",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/TeNkP7QAYso/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:_Vu7_eE2YIA",
-        "dateBasis": "publication",
-        "itemId": "_Vu7_eE2YIA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=_Vu7_eE2YIA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1xu8f74/",
-            "id": "reddit-deepintoyoutube-1xu8f74",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1xu8f74",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-12T09:30:14Z"
-            }
-          }
-        ],
-        "revision": 16,
-        "sortAt": "2026-11-12T09:30:14Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1xu8f74/",
-      "date_published": "2026-11-12T09:30:14Z",
-      "external_url": "https://www.youtube.com/watch?v=_Vu7_eE2YIA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/_Vu7_eE2YIA/",
-      "image": "https://i.ytimg.com/vi/_Vu7_eE2YIA/hqdefault.jpg",
-      "title": "My experiences with Aliens. 👽",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/_Vu7_eE2YIA/"
     },
     {
       "_retoob": {
@@ -20564,129 +20703,6 @@
       "image": "https://i.ytimg.com/vi/vX-YiVrESHI/hqdefault.jpg",
       "title": "trans man in 2012 talks about trans related words he does and doesn't like (423 views)",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/vX-YiVrESHI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:AtvvC_C0YWU",
-        "dateBasis": "publication",
-        "itemId": "AtvvC_C0YWU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=AtvvC_C0YWU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wppb1d/",
-            "id": "reddit-deepintoyoutube-1wppb1d",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wppb1d",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-25T06:47:19Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-09-25T06:47:19Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wppb1d/",
-      "date_published": "2026-09-25T06:47:19Z",
-      "external_url": "https://www.youtube.com/watch?v=AtvvC_C0YWU",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/AtvvC_C0YWU/",
-      "image": "https://i.ytimg.com/vi/AtvvC_C0YWU/hqdefault.jpg",
-      "title": "PORTAL Speed Run TESTCHAMBER 16 (credit: lazycat619 - 25k views and 9 years ago)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/AtvvC_C0YWU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:nmMyhZbymjM",
-        "dateBasis": "publication",
-        "itemId": "nmMyhZbymjM",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=nmMyhZbymjM"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wpl5ya/",
-            "id": "reddit-deepintoyoutube-1wpl5ya",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wpl5ya",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-25T02:55:37Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-09-25T02:55:37Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wpl5ya/",
-      "date_published": "2026-09-25T02:55:37Z",
-      "external_url": "https://www.youtube.com/watch?v=nmMyhZbymjM",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/nmMyhZbymjM/",
-      "image": "https://i.ytimg.com/vi/nmMyhZbymjM/hqdefault.jpg",
-      "title": "Man compares the inner workings of two different vibrators. (3,290 views, 2 years old)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/nmMyhZbymjM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:ieROXR-ORPI",
-        "dateBasis": "publication",
-        "itemId": "ieROXR-ORPI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ieROXR-ORPI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wpl0ib/",
-            "id": "reddit-deepintoyoutube-1wpl0ib",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wpl0ib",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-25T02:47:48Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-09-25T02:47:48Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wpl0ib/",
-      "date_published": "2026-09-25T02:47:48Z",
-      "external_url": "https://www.youtube.com/watch?v=ieROXR-ORPI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/ieROXR-ORPI/",
-      "image": "https://i.ytimg.com/vi/ieROXR-ORPI/hqdefault.jpg",
-      "title": "patron account",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/ieROXR-ORPI/"
     }
   ],
   "title": "r/deepintoyoutube — video links",
