@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 35,
+    "itemCount": 36,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 5,
+    "revision": 6,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:c5PnkdpFr9M",
+        "dateBasis": "publication",
+        "itemId": "c5PnkdpFr9M",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=c5PnkdpFr9M"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/the-surma-boys-of-afghanistan",
+            "id": "rss-93e8cbe485006528196763e7d2503868",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-13:49978",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T18:54:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-13T18:54:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/the-surma-boys-of-afghanistan. Not a verified endorsement.",
+      "date_published": "2026-11-13T18:54:00Z",
+      "external_url": "https://www.youtube.com/watch?v=c5PnkdpFr9M",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/c5PnkdpFr9M/",
+      "image": "https://i.ytimg.com/vi/c5PnkdpFr9M/hqdefault.jpg",
+      "title": "The Surma Boys of Afghanistan",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/c5PnkdpFr9M/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:V0sCnx5qedM",
