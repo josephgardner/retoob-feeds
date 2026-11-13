@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 6,
+    "itemCount": 5,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 19,
+    "revision": 20,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-top-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-top-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:IRK8h67ol7Q",
+        "dateBasis": "publication",
+        "itemId": "IRK8h67ol7Q",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50484658",
+            "id": "hn-50484658",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50484658",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T15:08:44Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-13T15:08:44Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50484658. Not a verified endorsement.",
+      "date_published": "2026-11-13T15:08:44Z",
+      "external_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/IRK8h67ol7Q/",
+      "image": "https://i.ytimg.com/vi/IRK8h67ol7Q/hqdefault.jpg",
+      "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/IRK8h67ol7Q/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:YYU_geUwQoA",
+        "dateBasis": "publication",
+        "itemId": "YYU_geUwQoA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50483391",
+            "id": "hn-50483391",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50483391",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T13:45:06Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-13T13:45:06Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50483391. Not a verified endorsement.",
+      "date_published": "2026-11-13T13:45:06Z",
+      "external_url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/YYU_geUwQoA/",
+      "image": "https://i.ytimg.com/vi/YYU_geUwQoA/hqdefault.jpg",
+      "title": "The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/YYU_geUwQoA/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:hhVpOvpXUEE",
@@ -98,90 +182,6 @@
     },
     {
       "_retoob": {
-        "contentKey": "youtube:W4PIkmjwGsQ",
-        "dateBasis": "publication",
-        "itemId": "W4PIkmjwGsQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=W4PIkmjwGsQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50472507",
-            "id": "hn-50472507",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50472507",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-12T19:06:40Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-12T19:06:40Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50472507. Not a verified endorsement.",
-      "date_published": "2026-11-12T19:06:40Z",
-      "external_url": "https://www.youtube.com/watch?v=W4PIkmjwGsQ",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/W4PIkmjwGsQ/",
-      "image": "https://i.ytimg.com/vi/W4PIkmjwGsQ/hqdefault.jpg",
-      "title": "Coffeezilla: Investigating the President [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/W4PIkmjwGsQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:WPj3aQ-xxpI",
-        "dateBasis": "publication",
-        "itemId": "WPj3aQ-xxpI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50463399",
-            "id": "hn-50463399",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50463399",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-12T05:29:24Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-12T05:29:24Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50463399. Not a verified endorsement.",
-      "date_published": "2026-11-12T05:29:24Z",
-      "external_url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/WPj3aQ-xxpI/",
-      "image": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/WPj3aQ-xxpI/"
-    },
-    {
-      "_retoob": {
         "contentKey": "youtube:PHOcTXYaMfg",
         "dateBasis": "publication",
         "itemId": "PHOcTXYaMfg",
@@ -221,48 +221,6 @@
       "image": "https://i.ytimg.com/vi/PHOcTXYaMfg/hqdefault.jpg",
       "title": "Billion Watts in the Speaker [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/PHOcTXYaMfg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:havcACdx0Y0",
-        "dateBasis": "publication",
-        "itemId": "havcACdx0Y0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=havcACdx0Y0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50408235",
-            "id": "hn-50408235",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50408235",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T21:28:57Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-07T21:28:57Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50408235. Not a verified endorsement.",
-      "date_published": "2026-11-07T21:28:57Z",
-      "external_url": "https://www.youtube.com/watch?v=havcACdx0Y0",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/havcACdx0Y0/",
-      "image": "https://i.ytimg.com/vi/havcACdx0Y0/hqdefault.jpg",
-      "title": "The French Cake Cooked on a Spit (2018) [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/havcACdx0Y0/"
     }
   ],
   "title": "Hacker News — top-story videos",
