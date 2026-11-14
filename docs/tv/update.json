@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.algoplay.retoob",
-  "versionCode": 8,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.0-preview.2/retoob-tv-0.5.0-preview.2.apk",
+  "versionCode": 9,
+  "versionName": "0.5.1",
+  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.1-preview.1/retoob-tv-0.5.1-preview.1.apk",
   "size": 11131117,
-  "sha256": "0a6bc729399f0a5d766ded03e70a709d475c2c02bf324c795d32e6ab27304a0d",
-  "notes": "Browse Home with horizontal video shelves, or switch to Feeds for individual feeds and their video grid. Moving Up or Down in the left navigation switches sections immediately; Right enters the content.\n\nSettings includes feed management with inline visibility switches, update checks and paired Family access. Hidden feeds stay in the list so you can restore them in place.\n\nThe logo now uses RSS arcs and a circular e inside the green play mark. Sources & notes is a quiet text action, with header space kept clear of thumbnails. Feed names are shorter while full attribution remains in details.\n\nExisting subscriptions, saved selection, playback handlers and Family pairing are preserved. Home shelves preview 20 videos; View all opens complete individual feeds or the newest 500 combined videos."
+  "sha256": "0d2f741af9ba1411afbf248f90b3f05bae80ba5f40202f87cc9a2ebafdbcaee4",
+  "notes": "This preview targets background loading and scrolling responsiveness on TV.\n\n- Save navigation and scroll state off the UI thread, coalescing rapid changes.\n- Keep loaded feeds readable while the disk cache is being written.\n- Remove duplicate startup/resume refresh requests.\n- Limit simultaneous thumbnail loading and decoding.\n\nExisting subscriptions, saved selection, Family pairing and playback handlers are preserved. Feed refresh and withdrawal rules remain unchanged.\n\nBoth build variants pass 135 unit tests, Android lint and release assembly. Emulator feed navigation and Home/resume were checked. Performance improvement on physical TVs still needs testing.\n\nInstall over your existing signed preview; no uninstall is needed."
 }
