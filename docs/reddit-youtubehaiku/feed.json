@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 14,
+    "revision": 15,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,104 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:3uXcjYHwUK4",
+        "dateBasis": "publication",
+        "itemId": "3uXcjYHwUK4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3uXcjYHwUK4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xvlys0/",
+            "id": "reddit-youtubehaiku-1xvlys0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xvlys0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T22:36:19Z"
+            }
+          }
+        ],
+        "revision": 15,
+        "sortAt": "2026-11-13T22:36:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xvlys0/",
+      "date_published": "2026-11-13T22:36:19Z",
+      "external_url": "https://www.youtube.com/watch?v=3uXcjYHwUK4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/3uXcjYHwUK4/",
+      "image": "https://i.ytimg.com/vi/3uXcjYHwUK4/hqdefault.jpg",
+      "title": "[Haiku] Canadian drivers are too polite",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/3uXcjYHwUK4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:iBO_CPRoloo",
+        "dateBasis": "publication",
+        "itemId": "iBO_CPRoloo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=iBO_CPRoloo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xvk1rx/",
+            "id": "reddit-youtubehaiku-1xvk1rx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xvk1rx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T21:18:17Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xvk013/",
+            "id": "reddit-youtubehaiku-1xvk013",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xvk013",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T21:16:18Z"
+            }
+          }
+        ],
+        "revision": 15,
+        "sortAt": "2026-11-13T21:18:17Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xvk1rx/\nhttps://www.reddit.com/r/youtubehaiku/comments/1xvk013/",
+      "date_published": "2026-11-13T21:18:17Z",
+      "external_url": "https://www.youtube.com/watch?v=iBO_CPRoloo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/iBO_CPRoloo/",
+      "image": "https://i.ytimg.com/vi/iBO_CPRoloo/hqdefault.jpg",
+      "title": "[Poetry] Wah wah Tube",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/iBO_CPRoloo/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:_x9jQ9YJcuY",
@@ -20941,88 +21039,6 @@
       "image": "https://i.ytimg.com/vi/KoH4MMuUJEA/hqdefault.jpg",
       "title": "[Poetry] a great teacher",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/KoH4MMuUJEA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:MogNycIbcTI",
-        "dateBasis": "publication",
-        "itemId": "MogNycIbcTI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=MogNycIbcTI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rhm2xv/",
-            "id": "reddit-youtubehaiku-1rhm2xv",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rhm2xv",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-01T03:02:04Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-01T03:02:04Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rhm2xv/",
-      "date_published": "2026-03-01T03:02:04Z",
-      "external_url": "https://www.youtube.com/watch?v=MogNycIbcTI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/MogNycIbcTI/",
-      "image": "https://i.ytimg.com/vi/MogNycIbcTI/hqdefault.jpg",
-      "title": "[Haiku] Racist Sylveon",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/MogNycIbcTI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Jv1zcH8CB7g",
-        "dateBasis": "publication",
-        "itemId": "Jv1zcH8CB7g",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Jv1zcH8CB7g"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rhfess/",
-            "id": "reddit-youtubehaiku-1rhfess",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rhfess",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-02-28T22:03:10Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-02-28T22:03:10Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rhfess/",
-      "date_published": "2026-02-28T22:03:10Z",
-      "external_url": "https://www.youtube.com/watch?v=Jv1zcH8CB7g",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/Jv1zcH8CB7g/",
-      "image": "https://i.ytimg.com/vi/Jv1zcH8CB7g/hqdefault.jpg",
-      "title": "Centrist Eye Exam [poetry]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/Jv1zcH8CB7g/"
     }
   ],
   "title": "r/youtubehaiku — video links",
