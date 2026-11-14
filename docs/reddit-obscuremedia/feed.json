@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 20,
+    "revision": 21,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:hsJUbgvomD4",
+        "dateBasis": "publication",
+        "itemId": "hsJUbgvomD4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=hsJUbgvomD4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xwd3ok/",
+            "id": "reddit-obscuremedia-1xwd3ok",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xwd3ok",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T20:57:06Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-14T20:57:06Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xwd3ok/",
+      "date_published": "2026-11-14T20:57:06Z",
+      "external_url": "https://www.youtube.com/watch?v=hsJUbgvomD4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/hsJUbgvomD4/",
+      "image": "https://i.ytimg.com/vi/hsJUbgvomD4/hqdefault.jpg",
+      "title": "THE EVIL DEAD (1981) - Original Opening and Ending Title Cards",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/hsJUbgvomD4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:c8nvi1HQ5i4",
@@ -21126,47 +21167,6 @@
       "image": "https://i.ytimg.com/vi/tx5GAA5NSWw/hqdefault.jpg",
       "title": "Cold War Christian Anti-Cult Audiobook on record (Disc 2) (1960)s",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/tx5GAA5NSWw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:IISf-0UwFkI",
-        "dateBasis": "publication",
-        "itemId": "IISf-0UwFkI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=IISf-0UwFkI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vsuvaa/",
-            "id": "reddit-obscuremedia-1vsuvaa",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vsuvaa",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T18:30:19Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-19T18:30:19Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vsuvaa/",
-      "date_published": "2026-08-19T18:30:19Z",
-      "external_url": "https://www.youtube.com/watch?v=IISf-0UwFkI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IISf-0UwFkI/",
-      "image": "https://i.ytimg.com/vi/IISf-0UwFkI/hqdefault.jpg",
-      "title": "Cold War Christian Anti-Cult audiobook on record (Side 1) (1960)s",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IISf-0UwFkI/"
     }
   ],
   "title": "r/obscuremedia — video links",

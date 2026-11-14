@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-musicvideos",
     "publicationEpoch": "reddit-public-20261106-musicvideos",
-    "revision": 14,
+    "revision": 15,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:oYb5g1PgxKE",
+        "dateBasis": "publication",
+        "itemId": "oYb5g1PgxKE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=oYb5g1PgxKE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xwc9cj/",
+            "id": "reddit-musicvideos-1xwc9cj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1xwc9cj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T20:20:25Z"
+            }
+          }
+        ],
+        "revision": 15,
+        "sortAt": "2026-11-14T20:20:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xwc9cj/",
+      "date_published": "2026-11-14T20:20:25Z",
+      "external_url": "https://www.youtube.com/watch?v=oYb5g1PgxKE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/oYb5g1PgxKE/",
+      "image": "https://i.ytimg.com/vi/oYb5g1PgxKE/hqdefault.jpg",
+      "title": "Sour Note Remix - Earthbound (Official Music Video) EARTHBOUND [Electronic]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/oYb5g1PgxKE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zXF0B2hblUw",
+        "dateBasis": "publication",
+        "itemId": "zXF0B2hblUw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zXF0B2hblUw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xwc3gm/",
+            "id": "reddit-musicvideos-1xwc3gm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1xwc3gm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T20:13:27Z"
+            }
+          }
+        ],
+        "revision": 15,
+        "sortAt": "2026-11-14T20:13:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xwc3gm/",
+      "date_published": "2026-11-14T20:13:27Z",
+      "external_url": "https://www.youtube.com/watch?v=zXF0B2hblUw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zXF0B2hblUw/",
+      "image": "https://i.ytimg.com/vi/zXF0B2hblUw/hqdefault.jpg",
+      "title": "Mirami - The One [Pop]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zXF0B2hblUw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:yP6obpCwnDQ",
+        "dateBasis": "publication",
+        "itemId": "yP6obpCwnDQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yP6obpCwnDQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xwb1xd/",
+            "id": "reddit-musicvideos-1xwb1xd",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1xwb1xd",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T19:29:38Z"
+            }
+          }
+        ],
+        "revision": 15,
+        "sortAt": "2026-11-14T19:29:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xwb1xd/",
+      "date_published": "2026-11-14T19:29:38Z",
+      "external_url": "https://www.youtube.com/watch?v=yP6obpCwnDQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/yP6obpCwnDQ/",
+      "image": "https://i.ytimg.com/vi/yP6obpCwnDQ/hqdefault.jpg",
+      "title": "Aklias - Eye For An Eye [Metal]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/yP6obpCwnDQ/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:qZZQczKAKzI",
@@ -20770,129 +20893,6 @@
       "image": "https://i.ytimg.com/vi/RH25CPZML8c/hqdefault.jpg",
       "title": "Disc Secrets - Let's Go Outside [Synthpop][2026]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/RH25CPZML8c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:GMBhA-doqCo",
-        "dateBasis": "publication",
-        "itemId": "GMBhA-doqCo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=GMBhA-doqCo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1wxz2x5/",
-            "id": "reddit-musicvideos-1wxz2x5",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1wxz2x5",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-05T04:07:29Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-05T04:07:29Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1wxz2x5/",
-      "date_published": "2026-10-05T04:07:29Z",
-      "external_url": "https://www.youtube.com/watch?v=GMBhA-doqCo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/GMBhA-doqCo/",
-      "image": "https://i.ytimg.com/vi/GMBhA-doqCo/hqdefault.jpg",
-      "title": "Thee Mourning Starr - Shadow Circus [dubstep metalcore rap]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/GMBhA-doqCo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:zFjMRwrBEPI",
-        "dateBasis": "publication",
-        "itemId": "zFjMRwrBEPI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=zFjMRwrBEPI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1wxyxuj/",
-            "id": "reddit-musicvideos-1wxyxuj",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1wxyxuj",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-05T04:00:09Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-05T04:00:09Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1wxyxuj/",
-      "date_published": "2026-10-05T04:00:09Z",
-      "external_url": "https://www.youtube.com/watch?v=zFjMRwrBEPI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zFjMRwrBEPI/",
-      "image": "https://i.ytimg.com/vi/zFjMRwrBEPI/hqdefault.jpg",
-      "title": "Thee Mourning Starr - Vaudeville Carnivore [Cabaret Metal][2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zFjMRwrBEPI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:eJIyFX3yMG0",
-        "dateBasis": "publication",
-        "itemId": "eJIyFX3yMG0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=eJIyFX3yMG0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1wxx18l/",
-            "id": "reddit-musicvideos-1wxx18l",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1wxx18l",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-05T02:16:11Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-05T02:16:11Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1wxx18l/",
-      "date_published": "2026-10-05T02:16:11Z",
-      "external_url": "https://www.youtube.com/watch?v=eJIyFX3yMG0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/eJIyFX3yMG0/",
-      "image": "https://i.ytimg.com/vi/eJIyFX3yMG0/hqdefault.jpg",
-      "title": "White Ember - White Boy Busting It Down Sexual Style [Dance Punk] [2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/eJIyFX3yMG0/"
     }
   ],
   "title": "r/musicvideos — video links",

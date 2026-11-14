@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 17,
+    "revision": 18,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -1223,47 +1223,6 @@
       "image": "https://i.ytimg.com/vi/GddAL6c__nE/hqdefault.jpg",
       "title": "Why Italy can't let go of Mussolini (2026) [00:13:18]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/GddAL6c__nE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:sSkXOxjDgbA",
-        "dateBasis": "publication",
-        "itemId": "sSkXOxjDgbA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=sSkXOxjDgbA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xtbmnz/",
-            "id": "reddit-documentaries-1xtbmnz",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1xtbmnz",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-11T07:32:19Z"
-            }
-          }
-        ],
-        "revision": 15,
-        "sortAt": "2026-11-11T07:32:19Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xtbmnz/",
-      "date_published": "2026-11-11T07:32:19Z",
-      "external_url": "https://www.youtube.com/watch?v=sSkXOxjDgbA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/sSkXOxjDgbA/",
-      "image": "https://i.ytimg.com/vi/sSkXOxjDgbA/hqdefault.jpg",
-      "title": "Pozières: Australia at the Somme (2026) - Veterans and archaeologists excavate a First World War battlefield [00:08:23]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/sSkXOxjDgbA/"
     },
     {
       "_retoob": {
@@ -21743,6 +21702,47 @@
       "image": "https://i.ytimg.com/vi/m2GeVG0XYTc/hqdefault.jpg",
       "title": "Birthgap (2025) [01:57:45]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/m2GeVG0XYTc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:XotZuHZ3Uyk",
+        "dateBasis": "publication",
+        "itemId": "XotZuHZ3Uyk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=XotZuHZ3Uyk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1voyspw/",
+            "id": "reddit-documentaries-1voyspw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1voyspw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-08-15T09:55:41Z"
+            }
+          }
+        ],
+        "revision": 18,
+        "sortAt": "2026-08-15T09:55:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1voyspw/",
+      "date_published": "2026-08-15T09:55:41Z",
+      "external_url": "https://www.youtube.com/watch?v=XotZuHZ3Uyk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/XotZuHZ3Uyk/",
+      "image": "https://i.ytimg.com/vi/XotZuHZ3Uyk/hqdefault.jpg",
+      "title": "What Life Is Actually Like in Syria Today (2026) [0:55:51]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/XotZuHZ3Uyk/"
     }
   ],
   "title": "r/documentaries — video links",
