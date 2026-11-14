@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 19,
+    "revision": 20,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:c8nvi1HQ5i4",
+        "dateBasis": "publication",
+        "itemId": "c8nvi1HQ5i4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=c8nvi1HQ5i4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xvxyxl/",
+            "id": "reddit-obscuremedia-1xvxyxl",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xvxyxl",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T09:08:19Z"
+            }
+          }
+        ],
+        "revision": 20,
+        "sortAt": "2026-11-14T09:08:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xvxyxl/",
+      "date_published": "2026-11-14T09:08:19Z",
+      "external_url": "https://www.youtube.com/watch?v=c8nvi1HQ5i4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/c8nvi1HQ5i4/",
+      "image": "https://i.ytimg.com/vi/c8nvi1HQ5i4/hqdefault.jpg",
+      "title": "Steam - Na Na Hey Hey Kiss Him Goodbye (Hits A Gogo) (1970)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/c8nvi1HQ5i4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:MaQA25_bAq0",
+        "dateBasis": "publication",
+        "itemId": "MaQA25_bAq0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MaQA25_bAq0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
+            "id": "reddit-obscuremedia-1xvxk1r",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xvxk1r",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T08:41:53Z"
+            }
+          }
+        ],
+        "revision": 20,
+        "sortAt": "2026-11-14T08:41:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
+      "date_published": "2026-11-14T08:41:53Z",
+      "external_url": "https://www.youtube.com/watch?v=MaQA25_bAq0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/",
+      "image": "https://i.ytimg.com/vi/MaQA25_bAq0/hqdefault.jpg",
+      "title": "Channel 3 (CH3) I Got A Gun - Live (1982) SF, Target Video",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:bNjoCeesc5w",
+        "dateBasis": "publication",
+        "itemId": "bNjoCeesc5w",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bNjoCeesc5w"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xvwbcg/",
+            "id": "reddit-obscuremedia-1xvwbcg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xvwbcg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T07:25:41Z"
+            }
+          }
+        ],
+        "revision": 20,
+        "sortAt": "2026-11-14T07:25:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xvwbcg/",
+      "date_published": "2026-11-14T07:25:41Z",
+      "external_url": "https://www.youtube.com/watch?v=bNjoCeesc5w",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bNjoCeesc5w/",
+      "image": "https://i.ytimg.com/vi/bNjoCeesc5w/hqdefault.jpg",
+      "title": "The Headless Horseman (1922) [01:16:09] -- silent movie adaptation of the Washington Irving story \"The Legend of Sleepy Hollow\"",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bNjoCeesc5w/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:3jtwTJbEMvM",
@@ -189,22 +312,6 @@
         },
         "recommendations": [
           {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xv9ngp/",
-            "id": "reddit-obscuremedia-1xv9ngp",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1xv9ngp",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-13T14:42:18Z"
-            }
-          },
-          {
             "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
             "id": "reddit-obscuremedia-1xv9m5j",
             "kind": "community",
@@ -221,16 +328,16 @@
             }
           }
         ],
-        "revision": 18,
-        "sortAt": "2026-11-13T14:42:18Z",
+        "revision": 20,
+        "sortAt": "2026-11-13T14:40:47Z",
         "version": 1
       },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xv9ngp/\nhttps://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
-      "date_published": "2026-11-13T14:42:18Z",
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
+      "date_published": "2026-11-13T14:40:47Z",
       "external_url": "https://www.youtube.com/watch?v=VUGpvb6Lk6M",
       "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VUGpvb6Lk6M/",
       "image": "https://i.ytimg.com/vi/VUGpvb6Lk6M/hqdefault.jpg",
-      "title": "I made a Youtube Video exploring early 3d and 90s internet (1994)",
+      "title": "I made a YouTube video exploring early internet 3d (1994-2003)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VUGpvb6Lk6M/"
     },
     {
@@ -21060,129 +21167,6 @@
       "image": "https://i.ytimg.com/vi/IISf-0UwFkI/hqdefault.jpg",
       "title": "Cold War Christian Anti-Cult audiobook on record (Side 1) (1960)s",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IISf-0UwFkI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:-jVAUFhDSPs",
-        "dateBasis": "publication",
-        "itemId": "-jVAUFhDSPs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=-jVAUFhDSPs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vsu4r7/",
-            "id": "reddit-obscuremedia-1vsu4r7",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vsu4r7",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T18:04:58Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-19T18:04:58Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vsu4r7/",
-      "date_published": "2026-08-19T18:04:58Z",
-      "external_url": "https://www.youtube.com/watch?v=-jVAUFhDSPs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/-jVAUFhDSPs/",
-      "image": "https://i.ytimg.com/vi/-jVAUFhDSPs/hqdefault.jpg",
-      "title": "Sammy the Seal Audiobook on Vinyl (1978)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/-jVAUFhDSPs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:1hwOv5lePJg",
-        "dateBasis": "publication",
-        "itemId": "1hwOv5lePJg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=1hwOv5lePJg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vst2o4/",
-            "id": "reddit-obscuremedia-1vst2o4",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vst2o4",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T17:28:11Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-19T17:28:11Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vst2o4/",
-      "date_published": "2026-08-19T17:28:11Z",
-      "external_url": "https://www.youtube.com/watch?v=1hwOv5lePJg",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/1hwOv5lePJg/",
-      "image": "https://i.ytimg.com/vi/1hwOv5lePJg/hqdefault.jpg",
-      "title": "Billy Ray Cyrus Commercial (1992) \"The Cyrus Virus Continues\"",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/1hwOv5lePJg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:4LOGpDqMvFw",
-        "dateBasis": "publication",
-        "itemId": "4LOGpDqMvFw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=4LOGpDqMvFw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vspy1z/",
-            "id": "reddit-obscuremedia-1vspy1z",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vspy1z",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T15:38:23Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-19T15:38:23Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vspy1z/",
-      "date_published": "2026-08-19T15:38:23Z",
-      "external_url": "https://www.youtube.com/watch?v=4LOGpDqMvFw",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/4LOGpDqMvFw/",
-      "image": "https://i.ytimg.com/vi/4LOGpDqMvFw/hqdefault.jpg",
-      "title": "Chan Marshall, of Cat Power, & Loren Connors - Live @ Tonic, NY (1999)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/4LOGpDqMvFw/"
     }
   ],
   "title": "r/obscuremedia — video links",
