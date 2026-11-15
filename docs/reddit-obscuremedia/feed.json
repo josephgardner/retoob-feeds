@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 22,
+    "revision": 23,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,161 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:VUGpvb6Lk6M",
+        "dateBasis": "publication",
+        "itemId": "VUGpvb6Lk6M",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VUGpvb6Lk6M"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xx3ihx/",
+            "id": "reddit-obscuremedia-1xx3ihx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xx3ihx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T18:54:54Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
+            "id": "reddit-obscuremedia-1xv9m5j",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xv9m5j",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T14:40:47Z"
+            }
+          }
+        ],
+        "revision": 23,
+        "sortAt": "2026-11-15T18:54:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xx3ihx/\nhttps://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
+      "date_published": "2026-11-15T18:54:54Z",
+      "external_url": "https://www.youtube.com/watch?v=VUGpvb6Lk6M",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VUGpvb6Lk6M/",
+      "image": "https://i.ytimg.com/vi/VUGpvb6Lk6M/hqdefault.jpg",
+      "title": "Early 3D Internet [VRML/X3D] (1994)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VUGpvb6Lk6M/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:3bTfHpRqcX8",
+        "dateBasis": "publication",
+        "itemId": "3bTfHpRqcX8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3bTfHpRqcX8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xwq1x6/",
+            "id": "reddit-obscuremedia-1xwq1x6",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xwq1x6",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T08:08:19Z"
+            }
+          }
+        ],
+        "revision": 23,
+        "sortAt": "2026-11-15T08:08:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xwq1x6/",
+      "date_published": "2026-11-15T08:08:19Z",
+      "external_url": "https://www.youtube.com/watch?v=3bTfHpRqcX8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/3bTfHpRqcX8/",
+      "image": "https://i.ytimg.com/vi/3bTfHpRqcX8/hqdefault.jpg",
+      "title": "Bobbie Gentry - Mama, A Rainbow (Live on All-Star Salute to Mother's Day) Final TV Performance (1981)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/3bTfHpRqcX8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:MaQA25_bAq0",
+        "dateBasis": "publication",
+        "itemId": "MaQA25_bAq0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MaQA25_bAq0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xwpxgt/",
+            "id": "reddit-obscuremedia-1xwpxgt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xwpxgt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T08:00:56Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
+            "id": "reddit-obscuremedia-1xvxk1r",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xvxk1r",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T08:41:53Z"
+            }
+          }
+        ],
+        "revision": 23,
+        "sortAt": "2026-11-15T08:00:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xwpxgt/\nhttps://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
+      "date_published": "2026-11-15T08:00:56Z",
+      "external_url": "https://www.youtube.com/watch?v=MaQA25_bAq0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/",
+      "image": "https://i.ytimg.com/vi/MaQA25_bAq0/hqdefault.jpg",
+      "title": "Channel 3 aka CH3 live, San Francisco (1982) SoCal punk band",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:bp65HNKl4W4",
@@ -219,47 +374,6 @@
     },
     {
       "_retoob": {
-        "contentKey": "youtube:MaQA25_bAq0",
-        "dateBasis": "publication",
-        "itemId": "MaQA25_bAq0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=MaQA25_bAq0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
-            "id": "reddit-obscuremedia-1xvxk1r",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1xvxk1r",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-14T08:41:53Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-14T08:41:53Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
-      "date_published": "2026-11-14T08:41:53Z",
-      "external_url": "https://www.youtube.com/watch?v=MaQA25_bAq0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/",
-      "image": "https://i.ytimg.com/vi/MaQA25_bAq0/hqdefault.jpg",
-      "title": "Channel 3 (CH3) I Got A Gun - Live (1982) SF, Target Video",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/"
-    },
-    {
-      "_retoob": {
         "contentKey": "youtube:bNjoCeesc5w",
         "dateBasis": "publication",
         "itemId": "bNjoCeesc5w",
@@ -462,47 +576,6 @@
       "image": "https://i.ytimg.com/vi/5lT_CX_trqI/hqdefault.jpg",
       "title": "The Middleton Family at the New York World's Fair (1939) Westinghouse's Technicolor film about the fair, with Elektro the robot",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/5lT_CX_trqI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:VUGpvb6Lk6M",
-        "dateBasis": "publication",
-        "itemId": "VUGpvb6Lk6M",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=VUGpvb6Lk6M"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
-            "id": "reddit-obscuremedia-1xv9m5j",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1xv9m5j",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-13T14:40:47Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-13T14:40:47Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xv9m5j/",
-      "date_published": "2026-11-13T14:40:47Z",
-      "external_url": "https://www.youtube.com/watch?v=VUGpvb6Lk6M",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VUGpvb6Lk6M/",
-      "image": "https://i.ytimg.com/vi/VUGpvb6Lk6M/hqdefault.jpg",
-      "title": "I made a YouTube video exploring early internet 3d (1994-2003)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/VUGpvb6Lk6M/"
     },
     {
       "_retoob": {
@@ -21126,47 +21199,6 @@
       "image": "https://i.ytimg.com/vi/guqxfCjlipE/hqdefault.jpg",
       "title": "Chevy Nomad Designer Clare MacKichan Interview on record (1960)s",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/guqxfCjlipE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:NkMfRVaA6fs",
-        "dateBasis": "publication",
-        "itemId": "NkMfRVaA6fs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=NkMfRVaA6fs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vt90kn/",
-            "id": "reddit-obscuremedia-1vt90kn",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vt90kn",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T04:11:46Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-20T04:11:46Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vt90kn/",
-      "date_published": "2026-08-20T04:11:46Z",
-      "external_url": "https://www.youtube.com/watch?v=NkMfRVaA6fs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/NkMfRVaA6fs/",
-      "image": "https://i.ytimg.com/vi/NkMfRVaA6fs/hqdefault.jpg",
-      "title": "The Witch's Cradle (1943) Maya Deren , M. Duchamp",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/NkMfRVaA6fs/"
     }
   ],
   "title": "Obscure finds",

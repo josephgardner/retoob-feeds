@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 17,
+    "revision": 18,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,63 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:JoekzziFYi8",
+        "dateBasis": "publication",
+        "itemId": "JoekzziFYi8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JoekzziFYi8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xx2kkc/",
+            "id": "reddit-youtubehaiku-1xx2kkc",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xx2kkc",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T18:17:42Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1tftat8/",
+            "id": "reddit-youtubehaiku-1tftat8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1tftat8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-05-17T15:51:34Z"
+            }
+          }
+        ],
+        "revision": 18,
+        "sortAt": "2026-11-15T18:17:42Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xx2kkc/\nhttps://www.reddit.com/r/youtubehaiku/comments/1tftat8/",
+      "date_published": "2026-11-15T18:17:42Z",
+      "external_url": "https://www.youtube.com/watch?v=JoekzziFYi8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/JoekzziFYi8/",
+      "image": "https://i.ytimg.com/vi/JoekzziFYi8/hqdefault.jpg",
+      "title": "[haiku] How To Catch A Greenman",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/JoekzziFYi8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:GctjUfXHw_c",
@@ -15727,47 +15784,6 @@
       "image": "https://i.ytimg.com/vi/P3YG8_R8paw/hqdefault.jpg",
       "title": "[Poetry] So yawr dee baus arawnd here",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/P3YG8_R8paw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:JoekzziFYi8",
-        "dateBasis": "publication",
-        "itemId": "JoekzziFYi8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=JoekzziFYi8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1tftat8/",
-            "id": "reddit-youtubehaiku-1tftat8",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1tftat8",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-05-17T15:51:34Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-05-17T15:51:34Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1tftat8/",
-      "date_published": "2026-05-17T15:51:34Z",
-      "external_url": "https://www.youtube.com/watch?v=JoekzziFYi8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/JoekzziFYi8/",
-      "image": "https://i.ytimg.com/vi/JoekzziFYi8/hqdefault.jpg",
-      "title": "[haiku] How To Catch A Greenman",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/JoekzziFYi8/"
     },
     {
       "_retoob": {
