@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.algoplay.retoob",
-  "versionCode": 10,
-  "versionName": "0.5.2",
-  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.2-preview.1/retoob-tv-0.5.2-preview.1.apk",
+  "versionCode": 11,
+  "versionName": "0.5.3",
+  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.3-preview.1/retoob-tv-0.5.3-preview.1.apk",
   "size": 3011834,
-  "sha256": "252bdcadabeb3dfbb47a852339d676c8cde9745e0b6d2ef3c422a62c15b4e1f0",
-  "notes": "Retoob TV 0.5.2 preview 1\n\n- Reuse recently viewed thumbnails with a bounded memory cache, so returning to a feed can show cached images immediately.\n- Reduce repeated preview work and avoid refreshing every feed when switching Home and Feeds.\n- Open a fresh app session at Home and the newest cards. Restore saved cards before showing Home; when saved data is missing, prepare initial feed results for up to 15 seconds. Thumbnails load independently.\n- Keep new cards visible at the beginning of a Home row while you remain at its newest edge. Moving deeper preserves your current card.\n- Back returns a scrolled list to its beginning, then Home, then exits when Home is already at the beginning.\n- Include optimized app packaging and embedded Android baseline profiles.\n\nExisting subscriptions, hidden-feed choices, Family pairing and playback handlers are preserved. Returning from playback keeps your place. Feed ordering remains newest video content date first.\n\nBoth build variants pass 141 unit tests and Android lint. The isolated test build was installed and launched on a physical Android TV; full startup/Back usability and measured performance improvements remain to be verified. Install over the existing signed preview without uninstalling."
+  "sha256": "446138ef4009bf66bd5480054d8ba09fc673ec7729c58b4452d3e3304bfa317e",
+  "notes": "Retoob TV 0.5.3 preview 1\n\nFix scrolling lag when holding Right on the Latest videos Home shelf. Home now reuses its shelf data during focus and preview saves instead of repeatedly rebuilding every shelf and rescanning feed dates.\n\nHome constructs only the newest 20 unique combined cards with a per-feed cursor merge. View all expands to the newest 500 only when opened, while retaining every selected video’s source mentions.\n\nCold-start previews, newly loaded feed content, hidden-feed changes and withdrawals still update the shelves correctly. Existing feed order, subscriptions, hidden choices, Family pairing and playback behavior are preserved.\n\nIsolated test builds are clearly labelled and cannot offer incompatible production updates. Use the regular Retoob app for the signed release channel.\n\nBoth build variants pass 148 unit tests and Android lint. A short physical-TV diagnostic showed shorter input-to-focus-draw times on Latest videos; broad device/performance verification remains ongoing.\n\nInstall over the existing signed preview without uninstalling."
 }
