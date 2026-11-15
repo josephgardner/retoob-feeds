@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.algoplay.retoob",
-  "versionCode": 9,
-  "versionName": "0.5.1",
-  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.1-preview.1/retoob-tv-0.5.1-preview.1.apk",
-  "size": 11131117,
-  "sha256": "0d2f741af9ba1411afbf248f90b3f05bae80ba5f40202f87cc9a2ebafdbcaee4",
-  "notes": "This preview targets background loading and scrolling responsiveness on TV.\n\n- Save navigation and scroll state off the UI thread, coalescing rapid changes.\n- Keep loaded feeds readable while the disk cache is being written.\n- Remove duplicate startup/resume refresh requests.\n- Limit simultaneous thumbnail loading and decoding.\n\nExisting subscriptions, saved selection, Family pairing and playback handlers are preserved. Feed refresh and withdrawal rules remain unchanged.\n\nBoth build variants pass 135 unit tests, Android lint and release assembly. Emulator feed navigation and Home/resume were checked. Performance improvement on physical TVs still needs testing.\n\nInstall over your existing signed preview; no uninstall is needed."
+  "versionCode": 10,
+  "versionName": "0.5.2",
+  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.2-preview.1/retoob-tv-0.5.2-preview.1.apk",
+  "size": 3011834,
+  "sha256": "252bdcadabeb3dfbb47a852339d676c8cde9745e0b6d2ef3c422a62c15b4e1f0",
+  "notes": "Retoob TV 0.5.2 preview 1\n\n- Reuse recently viewed thumbnails with a bounded memory cache, so returning to a feed can show cached images immediately.\n- Reduce repeated preview work and avoid refreshing every feed when switching Home and Feeds.\n- Open a fresh app session at Home and the newest cards. Restore saved cards before showing Home; when saved data is missing, prepare initial feed results for up to 15 seconds. Thumbnails load independently.\n- Keep new cards visible at the beginning of a Home row while you remain at its newest edge. Moving deeper preserves your current card.\n- Back returns a scrolled list to its beginning, then Home, then exits when Home is already at the beginning.\n- Include optimized app packaging and embedded Android baseline profiles.\n\nExisting subscriptions, hidden-feed choices, Family pairing and playback handlers are preserved. Returning from playback keeps your place. Feed ordering remains newest video content date first.\n\nBoth build variants pass 141 unit tests and Android lint. The isolated test build was installed and launched on a physical Android TV; full startup/Back usability and measured performance improvements remain to be verified. Install over the existing signed preview without uninstalling."
 }
