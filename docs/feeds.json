@@ -115,6 +115,27 @@
       "revision": 3
     },
     {
+      "title": "Hallway: Game development",
+      "url": "https://algoplay.com/retoob-feeds/hallway-games/feed.json",
+      "home": "https://algoplay.com/retoob-feeds/hallway-games/",
+      "itemCount": 50,
+      "revision": 1
+    },
+    {
+      "title": "Hallway: Graphics & audio",
+      "url": "https://algoplay.com/retoob-feeds/hallway-graphics/feed.json",
+      "home": "https://algoplay.com/retoob-feeds/hallway-graphics/",
+      "itemCount": 50,
+      "revision": 1
+    },
+    {
+      "title": "Hallway: Hardware",
+      "url": "https://algoplay.com/retoob-feeds/hallway-hardware/feed.json",
+      "home": "https://algoplay.com/retoob-feeds/hallway-hardware/",
+      "itemCount": 50,
+      "revision": 1
+    },
+    {
       "title": "New on HN",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/hn-new-videos/",
@@ -374,6 +395,21 @@
       "vimeoLinkOccurrencesSkipped": 1,
       "youtubeOccurrences": 16,
       "lastSuccessfulRefreshAt": "2026-11-15T19:05:56Z",
+      "scheduledIntervalHours": 6
+    },
+    "hallway": {
+      "areaFeeds": 3,
+      "cardsPerFeed": 50,
+      "checkedAt": "2026-11-15T19:18:53Z",
+      "datasetHash": "1ca5da43c7cdd879302ad4e0ab7d4c5b99c512c85a5229b198af003105ad8f49",
+      "httpNotModified": true,
+      "metadataMaxAgeDays": 7,
+      "mode": "bounded_catalogue_pilot",
+      "omissionIsWithdrawal": false,
+      "source": "https://www.hallway.video/dataset.json",
+      "sourceVersion": "2026-11-04T16:05:58.501Z",
+      "sourceWithdrawn": false,
+      "lastSuccessfulRefreshAt": "2026-11-15T19:18:55Z",
       "scheduledIntervalHours": 6
     }
   }
