@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 21,
+    "revision": 22,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:bp65HNKl4W4",
+        "dateBasis": "publication",
+        "itemId": "bp65HNKl4W4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bp65HNKl4W4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xwltoe/",
+            "id": "reddit-obscuremedia-1xwltoe",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xwltoe",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T04:00:53Z"
+            }
+          }
+        ],
+        "revision": 22,
+        "sortAt": "2026-11-15T04:00:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xwltoe/",
+      "date_published": "2026-11-15T04:00:53Z",
+      "external_url": "https://www.youtube.com/watch?v=bp65HNKl4W4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bp65HNKl4W4/",
+      "image": "https://i.ytimg.com/vi/bp65HNKl4W4/hqdefault.jpg",
+      "title": "Yoddha - The Warrior (2000) - A FPS based on the 1999 Kargil war. It is one of India's earliest commercially released PC games.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bp65HNKl4W4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Tkmd3KXKM_k",
+        "dateBasis": "publication",
+        "itemId": "Tkmd3KXKM_k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Tkmd3KXKM_k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xwiqgh/",
+            "id": "reddit-obscuremedia-1xwiqgh",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xwiqgh",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T01:18:41Z"
+            }
+          }
+        ],
+        "revision": 22,
+        "sortAt": "2026-11-15T01:18:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xwiqgh/",
+      "date_published": "2026-11-15T01:18:41Z",
+      "external_url": "https://www.youtube.com/watch?v=Tkmd3KXKM_k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Tkmd3KXKM_k/",
+      "image": "https://i.ytimg.com/vi/Tkmd3KXKM_k/hqdefault.jpg",
+      "title": "The Haunted Castle (1897) | Short Film | One of Cinema’s First Horror Films [0:46]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Tkmd3KXKM_k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:rYaoDrgMeAw",
+        "dateBasis": "publication",
+        "itemId": "rYaoDrgMeAw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rYaoDrgMeAw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xwgrl9/",
+            "id": "reddit-obscuremedia-1xwgrl9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xwgrl9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T23:43:04Z"
+            }
+          }
+        ],
+        "revision": 22,
+        "sortAt": "2026-11-14T23:43:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xwgrl9/",
+      "date_published": "2026-11-14T23:43:04Z",
+      "external_url": "https://www.youtube.com/watch?v=rYaoDrgMeAw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/rYaoDrgMeAw/",
+      "image": "https://i.ytimg.com/vi/rYaoDrgMeAw/hqdefault.jpg",
+      "title": "CAFE FLESH (1982) - Channel 5 Eyewitness News Behind-The-Scenes Report",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/rYaoDrgMeAw/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:hsJUbgvomD4",
@@ -21044,131 +21167,8 @@
       "image": "https://i.ytimg.com/vi/NkMfRVaA6fs/hqdefault.jpg",
       "title": "The Witch's Cradle (1943) Maya Deren , M. Duchamp",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/NkMfRVaA6fs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:KGwb_WgDqds",
-        "dateBasis": "publication",
-        "itemId": "KGwb_WgDqds",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=KGwb_WgDqds"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vt8k6d/",
-            "id": "reddit-obscuremedia-1vt8k6d",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vt8k6d",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T03:49:45Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-20T03:49:45Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vt8k6d/",
-      "date_published": "2026-08-20T03:49:45Z",
-      "external_url": "https://www.youtube.com/watch?v=KGwb_WgDqds",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KGwb_WgDqds/",
-      "image": "https://i.ytimg.com/vi/KGwb_WgDqds/hqdefault.jpg",
-      "title": "Rumours of Madam Roach (2026)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/KGwb_WgDqds/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:UwsjajMwXD8",
-        "dateBasis": "publication",
-        "itemId": "UwsjajMwXD8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=UwsjajMwXD8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vt1tl3/",
-            "id": "reddit-obscuremedia-1vt1tl3",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vt1tl3",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T22:50:00Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-19T22:50:00Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vt1tl3/",
-      "date_published": "2026-08-19T22:50:00Z",
-      "external_url": "https://www.youtube.com/watch?v=UwsjajMwXD8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UwsjajMwXD8/",
-      "image": "https://i.ytimg.com/vi/UwsjajMwXD8/hqdefault.jpg",
-      "title": "The Look - Material World (1992)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UwsjajMwXD8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:tx5GAA5NSWw",
-        "dateBasis": "publication",
-        "itemId": "tx5GAA5NSWw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=tx5GAA5NSWw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vszfnd/",
-            "id": "reddit-obscuremedia-1vszfnd",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vszfnd",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T21:16:35Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-19T21:16:35Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vszfnd/",
-      "date_published": "2026-08-19T21:16:35Z",
-      "external_url": "https://www.youtube.com/watch?v=tx5GAA5NSWw",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/tx5GAA5NSWw/",
-      "image": "https://i.ytimg.com/vi/tx5GAA5NSWw/hqdefault.jpg",
-      "title": "Cold War Christian Anti-Cult Audiobook on record (Disc 2) (1960)s",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/tx5GAA5NSWw/"
     }
   ],
-  "title": "r/obscuremedia — video links",
+  "title": "Obscure finds",
   "version": "https://jsonfeed.org/version/1.1"
 }

@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-musicvideos",
     "publicationEpoch": "reddit-public-20261106-musicvideos",
-    "revision": 15,
+    "revision": 16,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,87 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:zyq6emvkwp1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-zyq6emvkwp1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/zyq6emvkwp1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xwo2sb/",
+            "id": "reddit-musicvideos-1xwo2sb",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1xwo2sb",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T06:08:33Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-15T06:08:33Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xwo2sb/",
+      "date_published": "2026-11-15T06:08:33Z",
+      "external_url": "https://v.redd.it/zyq6emvkwp1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-zyq6emvkwp1i1/",
+      "title": "Alice in chains - Down in a hole[Grunge] my current mood",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-zyq6emvkwp1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:d4_6N-k5VS4",
+        "dateBasis": "publication",
+        "itemId": "d4_6N-k5VS4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=d4_6N-k5VS4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xwgf9w/",
+            "id": "reddit-musicvideos-1xwgf9w",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1xwgf9w",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T23:27:02Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2026-11-14T23:27:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xwgf9w/",
+      "date_published": "2026-11-14T23:27:02Z",
+      "external_url": "https://www.youtube.com/watch?v=d4_6N-k5VS4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/d4_6N-k5VS4/",
+      "image": "https://i.ytimg.com/vi/d4_6N-k5VS4/hqdefault.jpg",
+      "title": "kelly Clarkson - Heartbreak song [Synth Pop] (2015)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/d4_6N-k5VS4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:oYb5g1PgxKE",
@@ -20811,90 +20892,8 @@
       "image": "https://i.ytimg.com/vi/9V82938xYQc/hqdefault.jpg",
       "title": "Jusst AL - In A Picture Of Him [Progressive Rap] [2026]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/9V82938xYQc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:18VHzRLyWWA",
-        "dateBasis": "publication",
-        "itemId": "18VHzRLyWWA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=18VHzRLyWWA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1wy54w7/",
-            "id": "reddit-musicvideos-1wy54w7",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1wy54w7",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-05T10:32:07Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-05T10:32:07Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1wy54w7/",
-      "date_published": "2026-10-05T10:32:07Z",
-      "external_url": "https://www.youtube.com/watch?v=18VHzRLyWWA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/18VHzRLyWWA/",
-      "image": "https://i.ytimg.com/vi/18VHzRLyWWA/hqdefault.jpg",
-      "title": "Xawdoo Project - The Bible Black [prog metal / industrial] [2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/18VHzRLyWWA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:RH25CPZML8c",
-        "dateBasis": "publication",
-        "itemId": "RH25CPZML8c",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=RH25CPZML8c"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1wy51wz/",
-            "id": "reddit-musicvideos-1wy51wz",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1wy51wz",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-05T10:27:04Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-05T10:27:04Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1wy51wz/",
-      "date_published": "2026-10-05T10:27:04Z",
-      "external_url": "https://www.youtube.com/watch?v=RH25CPZML8c",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/RH25CPZML8c/",
-      "image": "https://i.ytimg.com/vi/RH25CPZML8c/hqdefault.jpg",
-      "title": "Disc Secrets - Let's Go Outside [Synthpop][2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/RH25CPZML8c/"
     }
   ],
-  "title": "r/musicvideos — video links",
+  "title": "Music videos",
   "version": "https://jsonfeed.org/version/1.1"
 }
