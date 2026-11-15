@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 11,
+    "itemCount": 20,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 27,
+    "revision": 28,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -14,19 +14,19 @@
   "items": [
     {
       "_retoob": {
-        "contentKey": "youtube:s_9sCVqKQjY",
+        "contentKey": "youtube:6dOFQHTVzEg",
         "dateBasis": "publication",
-        "itemId": "s_9sCVqKQjY",
+        "itemId": "6dOFQHTVzEg",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=s_9sCVqKQjY"
+          "url": "https://www.youtube.com/watch?v=6dOFQHTVzEg"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50501728",
-            "id": "hn-50501728",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50509531",
+            "id": "hn-50509531",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -35,40 +35,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50501728",
+            "upstreamItemId": "50509531",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T22:37:55Z"
+              "value": "2026-11-15T18:50:47Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T22:37:55Z",
+        "sortAt": "2026-11-15T18:50:47Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50501728. Not a verified endorsement.",
-      "date_published": "2026-11-14T22:37:55Z",
-      "external_url": "https://www.youtube.com/watch?v=s_9sCVqKQjY",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/s_9sCVqKQjY/",
-      "image": "https://i.ytimg.com/vi/s_9sCVqKQjY/hqdefault.jpg",
-      "title": "A look inside OpenAI's recent Proof of Yang-Mills Existence [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/s_9sCVqKQjY/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50509531. Not a verified endorsement.",
+      "date_published": "2026-11-15T18:50:47Z",
+      "external_url": "https://www.youtube.com/watch?v=6dOFQHTVzEg",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/6dOFQHTVzEg/",
+      "image": "https://i.ytimg.com/vi/6dOFQHTVzEg/hqdefault.jpg",
+      "title": "The Risk Factors Nvidia Forgot to Mention",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/6dOFQHTVzEg/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:BwJZXBR4k6I",
+        "contentKey": "youtube:HxdQawDIlnU",
         "dateBasis": "publication",
-        "itemId": "BwJZXBR4k6I",
+        "itemId": "HxdQawDIlnU",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=BwJZXBR4k6I"
+          "url": "https://www.youtube.com/watch?v=HxdQawDIlnU"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50501335",
-            "id": "hn-50501335",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50509386",
+            "id": "hn-50509386",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -77,40 +77,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50501335",
+            "upstreamItemId": "50509386",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T21:54:48Z"
+              "value": "2026-11-15T18:32:23Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T21:54:48Z",
+        "sortAt": "2026-11-15T18:32:23Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50501335. Not a verified endorsement.",
-      "date_published": "2026-11-14T21:54:48Z",
-      "external_url": "https://www.youtube.com/watch?v=BwJZXBR4k6I",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/BwJZXBR4k6I/",
-      "image": "https://i.ytimg.com/vi/BwJZXBR4k6I/hqdefault.jpg",
-      "title": "Scaling Laws in Practice: MuP, WSD and Muon Explained – DeepSeek Did Use IT [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/BwJZXBR4k6I/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50509386. Not a verified endorsement.",
+      "date_published": "2026-11-15T18:32:23Z",
+      "external_url": "https://www.youtube.com/watch?v=HxdQawDIlnU",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/HxdQawDIlnU/",
+      "image": "https://i.ytimg.com/vi/HxdQawDIlnU/hqdefault.jpg",
+      "title": "Show HN: Bad Apple but it's Strava [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/HxdQawDIlnU/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:hWe-j78vNpc",
+        "contentKey": "youtube:nUkj1XrUu2s",
         "dateBasis": "publication",
-        "itemId": "hWe-j78vNpc",
+        "itemId": "nUkj1XrUu2s",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=hWe-j78vNpc"
+          "url": "https://www.youtube.com/watch?v=nUkj1XrUu2s"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50500787",
-            "id": "hn-50500787",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50509383",
+            "id": "hn-50509383",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -119,40 +119,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50500787",
+            "upstreamItemId": "50509383",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T21:03:38Z"
+              "value": "2026-11-15T18:32:05Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T21:03:38Z",
+        "sortAt": "2026-11-15T18:32:05Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50500787. Not a verified endorsement.",
-      "date_published": "2026-11-14T21:03:38Z",
-      "external_url": "https://www.youtube.com/watch?v=hWe-j78vNpc",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/hWe-j78vNpc/",
-      "image": "https://i.ytimg.com/vi/hWe-j78vNpc/hqdefault.jpg",
-      "title": "The Home Repo: The effortless multi-repo agent setup (9 min video)",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/hWe-j78vNpc/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50509383. Not a verified endorsement.",
+      "date_published": "2026-11-15T18:32:05Z",
+      "external_url": "https://www.youtube.com/watch?v=nUkj1XrUu2s",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/nUkj1XrUu2s/",
+      "image": "https://i.ytimg.com/vi/nUkj1XrUu2s/hqdefault.jpg",
+      "title": "Ada Palmer on A brief history of the end of the world – The Curve 2026 [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/nUkj1XrUu2s/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:JKqUUYl5SCY",
+        "contentKey": "youtube:lcef-pVClBQ",
         "dateBasis": "publication",
-        "itemId": "JKqUUYl5SCY",
+        "itemId": "lcef-pVClBQ",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=JKqUUYl5SCY"
+          "url": "https://www.youtube.com/watch?v=lcef-pVClBQ"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50499870",
-            "id": "hn-50499870",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50509359",
+            "id": "hn-50509359",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -161,40 +161,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50499870",
+            "upstreamItemId": "50509359",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T19:14:59Z"
+              "value": "2026-11-15T18:29:42Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T19:14:59Z",
+        "sortAt": "2026-11-15T18:29:42Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50499870. Not a verified endorsement.",
-      "date_published": "2026-11-14T19:14:59Z",
-      "external_url": "https://www.youtube.com/watch?v=JKqUUYl5SCY",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JKqUUYl5SCY/",
-      "image": "https://i.ytimg.com/vi/JKqUUYl5SCY/hqdefault.jpg",
-      "title": "Who wants you to hate Ayn Rand? [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JKqUUYl5SCY/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50509359. Not a verified endorsement.",
+      "date_published": "2026-11-15T18:29:42Z",
+      "external_url": "https://www.youtube.com/watch?v=lcef-pVClBQ",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/lcef-pVClBQ/",
+      "image": "https://i.ytimg.com/vi/lcef-pVClBQ/hqdefault.jpg",
+      "title": "The Unwritten History of Special Relativity",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/lcef-pVClBQ/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:3Tw_lpCGX7s",
+        "contentKey": "youtube:7_JF3etiAv8",
         "dateBasis": "publication",
-        "itemId": "3Tw_lpCGX7s",
+        "itemId": "7_JF3etiAv8",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=3Tw_lpCGX7s"
+          "url": "https://www.youtube.com/watch?v=7_JF3etiAv8"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50498885",
-            "id": "hn-50498885",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50509308",
+            "id": "hn-50509308",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -203,40 +203,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50498885",
+            "upstreamItemId": "50509308",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T17:30:11Z"
+              "value": "2026-11-15T18:23:21Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T17:30:11Z",
+        "sortAt": "2026-11-15T18:23:21Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50498885. Not a verified endorsement.",
-      "date_published": "2026-11-14T17:30:11Z",
-      "external_url": "https://www.youtube.com/watch?v=3Tw_lpCGX7s",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/3Tw_lpCGX7s/",
-      "image": "https://i.ytimg.com/vi/3Tw_lpCGX7s/hqdefault.jpg",
-      "title": "Why some people can fix anything",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/3Tw_lpCGX7s/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50509308. Not a verified endorsement.",
+      "date_published": "2026-11-15T18:23:21Z",
+      "external_url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/7_JF3etiAv8/",
+      "image": "https://i.ytimg.com/vi/7_JF3etiAv8/hqdefault.jpg",
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/7_JF3etiAv8/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:EE6lEgeN1_U",
+        "contentKey": "youtube:gJGiApWDzjM",
         "dateBasis": "publication",
-        "itemId": "EE6lEgeN1_U",
+        "itemId": "gJGiApWDzjM",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=EE6lEgeN1_U"
+          "url": "https://www.youtube.com/watch?v=gJGiApWDzjM"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50498010",
-            "id": "hn-50498010",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50509152",
+            "id": "hn-50509152",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -245,40 +245,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50498010",
+            "upstreamItemId": "50509152",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T15:53:23Z"
+              "value": "2026-11-15T18:07:23Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T15:53:23Z",
+        "sortAt": "2026-11-15T18:07:23Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50498010. Not a verified endorsement.",
-      "date_published": "2026-11-14T15:53:23Z",
-      "external_url": "https://www.youtube.com/watch?v=EE6lEgeN1_U",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/EE6lEgeN1_U/",
-      "image": "https://i.ytimg.com/vi/EE6lEgeN1_U/hqdefault.jpg",
-      "title": "Tanker crashes into Mississippi cruise ship (Friday 13th) [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/EE6lEgeN1_U/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50509152. Not a verified endorsement.",
+      "date_published": "2026-11-15T18:07:23Z",
+      "external_url": "https://www.youtube.com/watch?v=gJGiApWDzjM",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/gJGiApWDzjM/",
+      "image": "https://i.ytimg.com/vi/gJGiApWDzjM/hqdefault.jpg",
+      "title": "Why Is China Shipping Jensen Huang? [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/gJGiApWDzjM/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:6D0yT1bgH0s",
+        "contentKey": "youtube:BZ28uPfpHxM",
         "dateBasis": "publication",
-        "itemId": "6D0yT1bgH0s",
+        "itemId": "BZ28uPfpHxM",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=6D0yT1bgH0s"
+          "url": "https://www.youtube.com/watch?v=BZ28uPfpHxM"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50497171",
-            "id": "hn-50497171",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50509055",
+            "id": "hn-50509055",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -287,82 +287,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50497171",
+            "upstreamItemId": "50509055",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T14:11:31Z"
-            }
-          }
-        ],
-        "revision": 2,
-        "sortAt": "2026-11-14T14:11:31Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50497171. Not a verified endorsement.",
-      "date_published": "2026-11-14T14:11:31Z",
-      "external_url": "https://www.youtube.com/watch?v=6D0yT1bgH0s",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/6D0yT1bgH0s/",
-      "image": "https://i.ytimg.com/vi/6D0yT1bgH0s/hqdefault.jpg",
-      "title": "Porting Elite to the Commodore PET the long way [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/6D0yT1bgH0s/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:drjltnetKtQ",
-        "dateBasis": "publication",
-        "itemId": "drjltnetKtQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=drjltnetKtQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50496985",
-            "id": "hn-50496985",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50496985",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-14T13:44:16Z"
+              "value": "2026-11-15T17:57:30Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T13:44:16Z",
+        "sortAt": "2026-11-15T17:57:30Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50496985. Not a verified endorsement.",
-      "date_published": "2026-11-14T13:44:16Z",
-      "external_url": "https://www.youtube.com/watch?v=drjltnetKtQ",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/drjltnetKtQ/",
-      "image": "https://i.ytimg.com/vi/drjltnetKtQ/hqdefault.jpg",
-      "title": "Vyrma – Herhlaup (100% AI music/visuals/audio showing what's possible) [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/drjltnetKtQ/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50509055. Not a verified endorsement.",
+      "date_published": "2026-11-15T17:57:30Z",
+      "external_url": "https://www.youtube.com/watch?v=BZ28uPfpHxM",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/BZ28uPfpHxM/",
+      "image": "https://i.ytimg.com/vi/BZ28uPfpHxM/hqdefault.jpg",
+      "title": "The Nintendo GTA Game Nobody Bought",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/BZ28uPfpHxM/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:5tqm_9eR02Y",
+        "contentKey": "youtube:Z6_ENp_fO_Y",
         "dateBasis": "publication",
-        "itemId": "5tqm_9eR02Y",
+        "itemId": "Z6_ENp_fO_Y",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=5tqm_9eR02Y"
+          "url": "https://www.youtube.com/watch?v=Z6_ENp_fO_Y"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50496132",
-            "id": "hn-50496132",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50508947",
+            "id": "hn-50508947",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -371,40 +329,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50496132",
+            "upstreamItemId": "50508947",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T11:26:44Z"
+              "value": "2026-11-15T17:45:40Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T11:26:44Z",
+        "sortAt": "2026-11-15T17:45:40Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50496132. Not a verified endorsement.",
-      "date_published": "2026-11-14T11:26:44Z",
-      "external_url": "https://www.youtube.com/watch?v=5tqm_9eR02Y",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5tqm_9eR02Y/",
-      "image": "https://i.ytimg.com/vi/5tqm_9eR02Y/hqdefault.jpg",
-      "title": "1 Week with the iPad Mini OLED [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5tqm_9eR02Y/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50508947. Not a verified endorsement.",
+      "date_published": "2026-11-15T17:45:40Z",
+      "external_url": "https://www.youtube.com/watch?v=Z6_ENp_fO_Y",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Z6_ENp_fO_Y/",
+      "image": "https://i.ytimg.com/vi/Z6_ENp_fO_Y/hqdefault.jpg",
+      "title": "Working as Intended [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Z6_ENp_fO_Y/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:7Zz1ZxI9ldY",
+        "contentKey": "youtube:9v4-zTODZWE",
         "dateBasis": "publication",
-        "itemId": "7Zz1ZxI9ldY",
+        "itemId": "9v4-zTODZWE",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=7Zz1ZxI9ldY"
+          "url": "https://www.youtube.com/watch?v=9v4-zTODZWE"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50495980",
-            "id": "hn-50495980",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50508290",
+            "id": "hn-50508290",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -413,40 +371,40 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50495980",
+            "upstreamItemId": "50508290",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T10:57:58Z"
+              "value": "2026-11-15T16:38:58Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T10:57:58Z",
+        "sortAt": "2026-11-15T16:38:58Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50495980. Not a verified endorsement.",
-      "date_published": "2026-11-14T10:57:58Z",
-      "external_url": "https://www.youtube.com/watch?v=7Zz1ZxI9ldY",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/7Zz1ZxI9ldY/",
-      "image": "https://i.ytimg.com/vi/7Zz1ZxI9ldY/hqdefault.jpg",
-      "title": "Ukraine needs a Starshield alternative. Can Europe deliver? – DW News [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/7Zz1ZxI9ldY/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50508290. Not a verified endorsement.",
+      "date_published": "2026-11-15T16:38:58Z",
+      "external_url": "https://www.youtube.com/watch?v=9v4-zTODZWE",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9v4-zTODZWE/",
+      "image": "https://i.ytimg.com/vi/9v4-zTODZWE/hqdefault.jpg",
+      "title": "The End of an Era: Jensen Huang [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9v4-zTODZWE/"
     },
     {
       "_retoob": {
-        "contentKey": "youtube:JW5s9Md4U2U",
+        "contentKey": "youtube:ZCAHP50Zly8",
         "dateBasis": "publication",
-        "itemId": "JW5s9Md4U2U",
+        "itemId": "ZCAHP50Zly8",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=JW5s9Md4U2U"
+          "url": "https://www.youtube.com/watch?v=ZCAHP50Zly8"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50495748",
-            "id": "hn-50495748",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50507870",
+            "id": "hn-50507870",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -455,26 +413,446 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50495748",
+            "upstreamItemId": "50507870",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-14T10:16:42Z"
+              "value": "2026-11-15T15:55:08Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-14T10:16:42Z",
+        "sortAt": "2026-11-15T15:55:08Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50495748. Not a verified endorsement.",
-      "date_published": "2026-11-14T10:16:42Z",
-      "external_url": "https://www.youtube.com/watch?v=JW5s9Md4U2U",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JW5s9Md4U2U/",
-      "image": "https://i.ytimg.com/vi/JW5s9Md4U2U/hqdefault.jpg",
-      "title": "The Rise and Reckoning of Jensen Huang – The Circuit with Emily Chang [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JW5s9Md4U2U/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50507870. Not a verified endorsement.",
+      "date_published": "2026-11-15T15:55:08Z",
+      "external_url": "https://www.youtube.com/watch?v=ZCAHP50Zly8",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ZCAHP50Zly8/",
+      "image": "https://i.ytimg.com/vi/ZCAHP50Zly8/hqdefault.jpg",
+      "title": "New open source C4 Diagram tool",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ZCAHP50Zly8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:9WjPdgOK-68",
+        "dateBasis": "publication",
+        "itemId": "9WjPdgOK-68",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9WjPdgOK-68"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50507726",
+            "id": "hn-50507726",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50507726",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T15:38:23Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T15:38:23Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50507726. Not a verified endorsement.",
+      "date_published": "2026-11-15T15:38:23Z",
+      "external_url": "https://www.youtube.com/watch?v=9WjPdgOK-68",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9WjPdgOK-68/",
+      "image": "https://i.ytimg.com/vi/9WjPdgOK-68/hqdefault.jpg",
+      "title": "Kotlin 2026: Layoffs, AI, Google – Is the Golden Age Over? Jake Wharton Explains",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9WjPdgOK-68/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:53ZV1GMrf50",
+        "dateBasis": "publication",
+        "itemId": "53ZV1GMrf50",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=53ZV1GMrf50"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50507595",
+            "id": "hn-50507595",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50507595",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T15:24:20Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T15:24:20Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50507595. Not a verified endorsement.",
+      "date_published": "2026-11-15T15:24:20Z",
+      "external_url": "https://www.youtube.com/watch?v=53ZV1GMrf50",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/53ZV1GMrf50/",
+      "image": "https://i.ytimg.com/vi/53ZV1GMrf50/hqdefault.jpg",
+      "title": "I Built an Electric Truck [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/53ZV1GMrf50/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:I1rlK3BKmyA",
+        "dateBasis": "publication",
+        "itemId": "I1rlK3BKmyA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50507474",
+            "id": "hn-50507474",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50507474",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T15:13:10Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T15:13:10Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50507474. Not a verified endorsement.",
+      "date_published": "2026-11-15T15:13:10Z",
+      "external_url": "https://www.youtube.com/watch?v=I1rlK3BKmyA",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/I1rlK3BKmyA/",
+      "image": "https://i.ytimg.com/vi/I1rlK3BKmyA/hqdefault.jpg",
+      "title": "Alkaline batteries are obsolete – but not for the reason you'd think [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/I1rlK3BKmyA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Y10q9EQp2NU",
+        "dateBasis": "publication",
+        "itemId": "Y10q9EQp2NU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Y10q9EQp2NU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50507377",
+            "id": "hn-50507377",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50507377",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T14:57:22Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T14:57:22Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50507377. Not a verified endorsement.",
+      "date_published": "2026-11-15T14:57:22Z",
+      "external_url": "https://www.youtube.com/watch?v=Y10q9EQp2NU",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Y10q9EQp2NU/",
+      "image": "https://i.ytimg.com/vi/Y10q9EQp2NU/hqdefault.jpg",
+      "title": "How an American EV is made [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Y10q9EQp2NU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:jHT4iHJxzOI",
+        "dateBasis": "publication",
+        "itemId": "jHT4iHJxzOI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jHT4iHJxzOI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50507090",
+            "id": "hn-50507090",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50507090",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T14:14:54Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T14:14:54Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50507090. Not a verified endorsement.",
+      "date_published": "2026-11-15T14:14:54Z",
+      "external_url": "https://www.youtube.com/watch?v=jHT4iHJxzOI",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/jHT4iHJxzOI/",
+      "image": "https://i.ytimg.com/vi/jHT4iHJxzOI/hqdefault.jpg",
+      "title": "WTF Happened to Epic Games? [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/jHT4iHJxzOI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:sC4JvyhBKtM",
+        "dateBasis": "publication",
+        "itemId": "sC4JvyhBKtM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=sC4JvyhBKtM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50506600",
+            "id": "hn-50506600",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50506600",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T12:54:14Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T12:54:14Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50506600. Not a verified endorsement.",
+      "date_published": "2026-11-15T12:54:14Z",
+      "external_url": "https://www.youtube.com/watch?v=sC4JvyhBKtM",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/sC4JvyhBKtM/",
+      "image": "https://i.ytimg.com/vi/sC4JvyhBKtM/hqdefault.jpg",
+      "title": "His Car Hobby Saved American Manufacturing [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/sC4JvyhBKtM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:9t2fV52jMA8",
+        "dateBasis": "publication",
+        "itemId": "9t2fV52jMA8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9t2fV52jMA8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50506498",
+            "id": "hn-50506498",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50506498",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T12:37:22Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T12:37:22Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50506498. Not a verified endorsement.",
+      "date_published": "2026-11-15T12:37:22Z",
+      "external_url": "https://www.youtube.com/watch?v=9t2fV52jMA8",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9t2fV52jMA8/",
+      "image": "https://i.ytimg.com/vi/9t2fV52jMA8/hqdefault.jpg",
+      "title": "Running Minecraft Until It Beats Itself [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9t2fV52jMA8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:pBsI1eJqqQ8",
+        "dateBasis": "publication",
+        "itemId": "pBsI1eJqqQ8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pBsI1eJqqQ8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50505922",
+            "id": "hn-50505922",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50505922",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T10:55:19Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T10:55:19Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50505922. Not a verified endorsement.",
+      "date_published": "2026-11-15T10:55:19Z",
+      "external_url": "https://www.youtube.com/watch?v=pBsI1eJqqQ8",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pBsI1eJqqQ8/",
+      "image": "https://i.ytimg.com/vi/pBsI1eJqqQ8/hqdefault.jpg",
+      "title": "Musical composition based on Nobel Prize winner Anne L'Huillier's physics",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pBsI1eJqqQ8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:rCZFomL5WBg",
+        "dateBasis": "publication",
+        "itemId": "rCZFomL5WBg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rCZFomL5WBg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50505673",
+            "id": "hn-50505673",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50505673",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T10:16:56Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T10:16:56Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50505673. Not a verified endorsement.",
+      "date_published": "2026-11-15T10:16:56Z",
+      "external_url": "https://www.youtube.com/watch?v=rCZFomL5WBg",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/rCZFomL5WBg/",
+      "image": "https://i.ytimg.com/vi/rCZFomL5WBg/hqdefault.jpg",
+      "title": "Terence Tao and Peter L.: Live Math with Open Math OS [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/rCZFomL5WBg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:qAd1myPXrRk",
+        "dateBasis": "publication",
+        "itemId": "qAd1myPXrRk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qAd1myPXrRk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50504263",
+            "id": "hn-50504263",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50504263",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T05:24:38Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T05:24:38Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50504263. Not a verified endorsement.",
+      "date_published": "2026-11-15T05:24:38Z",
+      "external_url": "https://www.youtube.com/watch?v=qAd1myPXrRk",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/qAd1myPXrRk/",
+      "image": "https://i.ytimg.com/vi/qAd1myPXrRk/hqdefault.jpg",
+      "title": "The elites just went into hiding [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/qAd1myPXrRk/"
     }
   ],
-  "title": "Hacker News — newest-story videos",
+  "title": "New on HN",
   "version": "https://jsonfeed.org/version/1.1"
 }
