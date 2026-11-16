@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 61,
+    "itemCount": 100,
     "listId": "reddit-beamazed",
     "publicationEpoch": "reddit-public-20261106-beamazed",
-    "revision": 1,
+    "revision": 2,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,739 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-beamazed/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-beamazed/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:w6iev9ca5x1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-w6iev9ca5x1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/w6iev9ca5x1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxiaep/",
+            "id": "reddit-beamazed-1xxiaep",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxiaep",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T06:30:38Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T06:30:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxiaep/",
+      "date_published": "2026-11-16T06:30:38Z",
+      "external_url": "https://v.redd.it/w6iev9ca5x1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-w6iev9ca5x1i1/",
+      "image": "https://external-preview.redd.it/bDJoY2U4dXY0eDFpMRtgWa1Q84_hLx5XeorAGEbnLZ-SGkHWL3GS8N5G8iQZ.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=054794da3d902fc7472b11ebe2f43bbdf68d4be6",
+      "title": "Imagine Drinking 25 Litres of Water in Just One Sip… That's an Elephant! 🐘",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-w6iev9ca5x1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:lvw3j5ii1x1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-lvw3j5ii1x1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/lvw3j5ii1x1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxhwtz/",
+            "id": "reddit-beamazed-1xxhwtz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxhwtz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T06:08:14Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T06:08:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxhwtz/",
+      "date_published": "2026-11-16T06:08:14Z",
+      "external_url": "https://v.redd.it/lvw3j5ii1x1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-lvw3j5ii1x1i1/",
+      "image": "https://external-preview.redd.it/NHNtaGlvZ2kxeDFpMe1C76jGanYX21LGQmHbYU7MyOAQrvbsaGqCEBHNDnhl.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=5177e3f26c46e237fd6c2f83af2fbb9ad78eede3",
+      "title": "Some people really are just born with music in their veins",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-lvw3j5ii1x1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:3n3a7gjxhi1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-3n3a7gjxhi1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/3n3a7gjxhi1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxgpxm/",
+            "id": "reddit-beamazed-1xxgpxm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxgpxm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T05:00:46Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T05:00:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxgpxm/",
+      "date_published": "2026-11-16T05:00:46Z",
+      "external_url": "https://v.redd.it/3n3a7gjxhi1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-3n3a7gjxhi1i1/",
+      "title": "Tanker hits docked cruise ship along the Mississippi River causing it to capsize and sink.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-3n3a7gjxhi1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:yw1smjawow1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-yw1smjawow1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/yw1smjawow1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxgo66/",
+            "id": "reddit-beamazed-1xxgo66",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxgo66",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T04:58:15Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T04:58:15Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxgo66/",
+      "date_published": "2026-11-16T04:58:15Z",
+      "external_url": "https://v.redd.it/yw1smjawow1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-yw1smjawow1i1/",
+      "image": "https://external-preview.redd.it/Nng0eWlqOXdvdzFpMfol8bn2B4HAo-V5t5hF3JwCp_9WsHu9-8Vm6LtGHTUE.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=a996f98f3e74f915b601492d0aa64763b67f328b",
+      "title": "Molting Crab!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-yw1smjawow1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:gs2eil2pew1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-gs2eil2pew1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/gs2eil2pew1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxfmbd/",
+            "id": "reddit-beamazed-1xxfmbd",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxfmbd",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T04:00:23Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T04:00:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxfmbd/",
+      "date_published": "2026-11-16T04:00:23Z",
+      "external_url": "https://v.redd.it/gs2eil2pew1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-gs2eil2pew1i1/",
+      "title": "Tiny Metalhead",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-gs2eil2pew1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:rk63lr2naw1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-rk63lr2naw1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/rk63lr2naw1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxf6sm/",
+            "id": "reddit-beamazed-1xxf6sm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxf6sm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T03:37:39Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T03:37:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxf6sm/",
+      "date_published": "2026-11-16T03:37:39Z",
+      "external_url": "https://v.redd.it/rk63lr2naw1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-rk63lr2naw1i1/",
+      "image": "https://external-preview.redd.it/YjVrNXVkd21hdzFpMbF-zNjM2SZG3RSynjz27LOaLdihGaliUfAjm7InVUml.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=dcc416bf51c77100ebdac6a0451c6fe39dd102fd",
+      "title": "It was as ground breaking in '33 as Jurassic Park was in '93.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-rk63lr2naw1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:reedyo3aas1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-reedyo3aas1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/reedyo3aas1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxen77/",
+            "id": "reddit-beamazed-1xxen77",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxen77",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T03:09:27Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T03:09:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxen77/",
+      "date_published": "2026-11-16T03:09:27Z",
+      "external_url": "https://v.redd.it/reedyo3aas1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-reedyo3aas1i1/",
+      "title": "Bad birds Club",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-reedyo3aas1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:k0evps3iwv1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-k0evps3iwv1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/k0evps3iwv1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxdmlr/",
+            "id": "reddit-beamazed-1xxdmlr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxdmlr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T02:18:25Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T02:18:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxdmlr/",
+      "date_published": "2026-11-16T02:18:25Z",
+      "external_url": "https://v.redd.it/k0evps3iwv1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-k0evps3iwv1i1/",
+      "image": "https://external-preview.redd.it/YW8yZXk4dmh3djFpMSGWum7WkbdWZmfbX0tz9hEG9PinrcmEz6jyYIVsc5O5.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=e410a1cad973ce6e76631852cb272adf2c6ab536",
+      "title": "An orange cat casually fighting a venomous cobra.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-k0evps3iwv1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:m7ikb2l9wv1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-m7ikb2l9wv1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/m7ikb2l9wv1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxdllz/",
+            "id": "reddit-beamazed-1xxdllz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxdllz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T02:17:06Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T02:17:06Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxdllz/",
+      "date_published": "2026-11-16T02:17:06Z",
+      "external_url": "https://v.redd.it/m7ikb2l9wv1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-m7ikb2l9wv1i1/",
+      "image": "https://external-preview.redd.it/Y2RwOG1sZTl3djFpMWWZh6ef52F6J8VIgObMaYLJ39RNh0R3po3uF4yyQsv7.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=467b4c7e9acdc286b51ed2ec5e5da7588cf20318",
+      "title": "An orange cat casually fighting a venomous cobra",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-m7ikb2l9wv1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:vza3q9g6rv1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-vza3q9g6rv1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/vza3q9g6rv1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxd13g/",
+            "id": "reddit-beamazed-1xxd13g",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxd13g",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T01:49:06Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T01:49:06Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxd13g/",
+      "date_published": "2026-11-16T01:49:06Z",
+      "external_url": "https://v.redd.it/vza3q9g6rv1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-vza3q9g6rv1i1/",
+      "image": "https://external-preview.redd.it/MHlwZTNzZzZydjFpMQ84rTDvrWIVRPw_7ijAdNYbkZsowk5cfsJ1N6hbBo0I.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=133aed0d886543cc4e7e5b1c83dc083e276a81c6",
+      "title": "Aerial view of Meiling Palace in China Nanjing: a ring of plane trees forms a “necklace,” with the palace in the middle like a pendant—absolutely stunning!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-vza3q9g6rv1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:gweiabjenv1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-gweiabjenv1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/gweiabjenv1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxckys/",
+            "id": "reddit-beamazed-1xxckys",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxckys",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T01:27:25Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T01:27:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxckys/",
+      "date_published": "2026-11-16T01:27:25Z",
+      "external_url": "https://v.redd.it/gweiabjenv1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-gweiabjenv1i1/",
+      "image": "https://external-preview.redd.it/ZXR6YWluaGVudjFpMdaGuzMaEy1fSlmSJi7eR1h5ZCXDnmotQvbVfnJskUy6.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=a2b2171348c3eca8478c713fff48670aa2d288d9",
+      "title": "People running across the frozen Chasm lake below Longs peak as viewed from the summit of Mount Meeker through the lens of an IPhone 17 pro",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-gweiabjenv1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:e2h8tnncjv1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-e2h8tnncjv1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/e2h8tnncjv1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xxc5su/",
+            "id": "reddit-beamazed-1xxc5su",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xxc5su",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T01:06:38Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T01:06:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xxc5su/",
+      "date_published": "2026-11-16T01:06:38Z",
+      "external_url": "https://v.redd.it/e2h8tnncjv1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-e2h8tnncjv1i1/",
+      "image": "https://external-preview.redd.it/bWgwMGowb2NqdjFpMTyC9LudV_hXPY_lvVBSNI_04ViCYodFNEZYesysCDeq.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=5b0db7afeae2a0209840016b3e11fed7574590d1",
+      "title": "The way these dads are completely synchronized on wheels",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-e2h8tnncjv1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:djvl8pkyru1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-djvl8pkyru1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/djvl8pkyru1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xx8rnm/",
+            "id": "reddit-beamazed-1xx8rnm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xx8rnm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T22:31:43Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T22:31:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xx8rnm/",
+      "date_published": "2026-11-15T22:31:43Z",
+      "external_url": "https://v.redd.it/djvl8pkyru1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-djvl8pkyru1i1/",
+      "image": "https://external-preview.redd.it/MHZvb3p0a3lydTFpMRdiQq3SLQ97JRv_oFOGps366w9ROgqxl0tmj3n-O5_7.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=90fb41cc987ed9641689265b1ee1261fe04e48fc",
+      "title": "Rise and Shine, Imgurians, You rise and shine",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-djvl8pkyru1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:c710rj7vpu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-c710rj7vpu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/c710rj7vpu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xx8hk3/",
+            "id": "reddit-beamazed-1xx8hk3",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xx8hk3",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T22:19:27Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T22:19:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xx8hk3/",
+      "date_published": "2026-11-15T22:19:27Z",
+      "external_url": "https://v.redd.it/c710rj7vpu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-c710rj7vpu1i1/",
+      "image": "https://external-preview.redd.it/bGlqaWtsNHZwdTFpMdPMIAicJ1DobW9fjkWJGXz0_gcWiTUcH7-ZMfiigmak.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=66d75f7eaebd7c6373da9b21b31ed40db3934541",
+      "title": "Sidecar motorcycle racing passenger shifts all body weight inches off the asphalt and rear tire to act as human ballast at Pannonia Ring",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-c710rj7vpu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:s80b9j2ykjkh1",
+        "dateBasis": "publication",
+        "itemId": "reddit-s80b9j2ykjkh1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/s80b9j2ykjkh1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xx7tya/",
+            "id": "reddit-beamazed-1xx7tya",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xx7tya",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:51:17Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:51:17Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xx7tya/",
+      "date_published": "2026-11-15T21:51:17Z",
+      "external_url": "https://v.redd.it/s80b9j2ykjkh1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-s80b9j2ykjkh1/",
+      "title": "Tilt-shift photography makes real life look like a miniature toy world.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-s80b9j2ykjkh1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:zf3azai8gu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-zf3azai8gu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/zf3azai8gu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xx78cw/",
+            "id": "reddit-beamazed-1xx78cw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xx78cw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:25:53Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:25:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xx78cw/",
+      "date_published": "2026-11-15T21:25:53Z",
+      "external_url": "https://v.redd.it/zf3azai8gu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-zf3azai8gu1i1/",
+      "image": "https://external-preview.redd.it/NXF5eGd5ODhndTFpMQV3W_nUAW-j4F762ShWWrMzFGpGWi9xBQYqmpPCb8j7.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=9345d533b07e526612871eaedb0074ea7ed6e121",
+      "title": "the adrenaline energy of a Belgian Malinois",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-zf3azai8gu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:lati5xr46u1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-lati5xr46u1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/lati5xr46u1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xx5v2r/",
+            "id": "reddit-beamazed-1xx5v2r",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xx5v2r",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T20:28:53Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T20:28:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xx5v2r/",
+      "date_published": "2026-11-15T20:28:53Z",
+      "external_url": "https://v.redd.it/lati5xr46u1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-lati5xr46u1i1/",
+      "image": "https://external-preview.redd.it/bm1iM2RkazQ2dTFpMfzfiYr2UFeP19WYf3zx8vlWf2CJcJLYcPIxBNOtz-me.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=857377e64e8afe8ee9741487f0cb69a643943798",
+      "title": "A Young magician with some incredible skills!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-lati5xr46u1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:p2f022dc4q1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-p2f022dc4q1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/p2f022dc4q1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xx58bo/",
+            "id": "reddit-beamazed-1xx58bo",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xx58bo",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T20:03:02Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T20:03:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xx58bo/",
+      "date_published": "2026-11-15T20:03:02Z",
+      "external_url": "https://v.redd.it/p2f022dc4q1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-p2f022dc4q1i1/",
+      "title": "Grime is a vibe",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-p2f022dc4q1i1/"
+    },
     {
       "_retoob": {
         "contentKey": "reddit:96geec8wvs1i1",
@@ -95,47 +828,6 @@
     },
     {
       "_retoob": {
-        "contentKey": "reddit:dxssioxuot1i1",
-        "dateBasis": "publication",
-        "itemId": "reddit-dxssioxuot1i1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/dxssioxuot1i1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xx3fux/",
-            "id": "reddit-beamazed-1xx3fux",
-            "kind": "community",
-            "publisher": {
-              "name": "r/beamazed",
-              "url": "https://www.reddit.com/r/beamazed/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/beamazed/",
-            "upstreamItemId": "1xx3fux",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T18:51:59Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-15T18:51:59Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xx3fux/",
-      "date_published": "2026-11-15T18:51:59Z",
-      "external_url": "https://v.redd.it/dxssioxuot1i1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-dxssioxuot1i1/",
-      "image": "https://external-preview.redd.it/N2FueXhqd3VvdDFpMe_0h6RtU4gTMbpdS3I_25_rdM-wvW1RqvjBhchjaBIh.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=ce94e7646c7afe22b8a3edc611f7be84b725d9f1",
-      "title": "Welcome to India 🇮🇳 & Happy Diwali 🪔!",
-      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-dxssioxuot1i1/"
-    },
-    {
-      "_retoob": {
         "contentKey": "reddit:m0r2tljv5t1i1",
         "dateBasis": "publication",
         "itemId": "reddit-m0r2tljv5t1i1",
@@ -215,47 +907,6 @@
       "image": "https://external-preview.redd.it/ZnRrYjJ1OGs1dDFpMa0hw5wSL6Umw_JsQ_AJKBEBYN04_xBg7LzZYz_G3QYq.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=5f3f9e6413ec3f34f397d470c2c2f5ae97f42c2b",
       "title": "This is an athlete ✨ 👑",
       "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-oj7ypmx45t1i1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:s0cv5gu1ws1i1",
-        "dateBasis": "publication",
-        "itemId": "reddit-s0cv5gu1ws1i1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/s0cv5gu1ws1i1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xwzakw/",
-            "id": "reddit-beamazed-1xwzakw",
-            "kind": "community",
-            "publisher": {
-              "name": "r/beamazed",
-              "url": "https://www.reddit.com/r/beamazed/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/beamazed/",
-            "upstreamItemId": "1xwzakw",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T16:10:31Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-15T16:10:31Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xwzakw/",
-      "date_published": "2026-11-15T16:10:31Z",
-      "external_url": "https://v.redd.it/s0cv5gu1ws1i1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-s0cv5gu1ws1i1/",
-      "image": "https://external-preview.redd.it/czdwcXRrbzF3czFpMdlIwWbzgTC5CNUm9Mrws6c9y9Jj6jkhg3FTqdZ_dqwf.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=55bc97c10d93dce7d120f99e396113478b1254ad",
-      "title": "A rare sighting of white stags in the Himalayas",
-      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-s0cv5gu1ws1i1/"
     },
     {
       "_retoob": {
@@ -2495,6 +3146,956 @@
       "image": "https://external-preview.redd.it/bTE4bm1qODgwazFpMUM1XqTGhwGQWQvSXexTDVr-XuVlrw0sY42hFsiZpeEF.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=a9bcaca29fb182ce1797f81bf6b54de8e8fb68df",
       "title": "A persistent dolphin refuses to let fishermen release a small fish, insisting on taking the catch for itself",
       "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-hbxhasp80k1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ypqcqtauij1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ypqcqtauij1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ypqcqtauij1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvxjb7/",
+            "id": "reddit-beamazed-1xvxjb7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvxjb7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T08:40:38Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T08:40:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvxjb7/",
+      "date_published": "2026-11-14T08:40:38Z",
+      "external_url": "https://v.redd.it/ypqcqtauij1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-ypqcqtauij1i1/",
+      "image": "https://external-preview.redd.it/M3NtNmVqN3VpajFpMQwPqtx8rljmUamJde2ZDQnqjHHSELqe-EDX0nna7yxZ.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=bb79f509a9bde3cda9617bb13b0c056d4fa681a5",
+      "title": "Boy gives the first slice of his birthday cake to his niece.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-ypqcqtauij1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:doafrkxxdj1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-doafrkxxdj1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/doafrkxxdj1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvx330/",
+            "id": "reddit-beamazed-1xvx330",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvx330",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T08:13:00Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T08:13:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvx330/",
+      "date_published": "2026-11-14T08:13:00Z",
+      "external_url": "https://v.redd.it/doafrkxxdj1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-doafrkxxdj1i1/",
+      "image": "https://external-preview.redd.it/M2xmbDh4dHhkajFpMSFURh561TY9cbg0zLmvpzinBG4izE_XTBRYD8A5NSJ0.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=ee7ee45c1fd2845d6b1d153307b72fefd838235e",
+      "title": "Boojie takes his job VERY seriously!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-doafrkxxdj1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:clikvg712j1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-clikvg712j1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/clikvg712j1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvvzno/",
+            "id": "reddit-beamazed-1xvvzno",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvvzno",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T07:06:16Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T07:06:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvvzno/",
+      "date_published": "2026-11-14T07:06:16Z",
+      "external_url": "https://v.redd.it/clikvg712j1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-clikvg712j1i1/",
+      "image": "https://external-preview.redd.it/ZHJnNW45MDEyajFpMcX0_KBb_JfHxunyzyLWx8P-Ps05jLH0cknuIyQiBCrU.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=1ed347cedaa96ed379d174c973294f8a1e22c14c",
+      "title": "When they say heavy lifting, he takes it literally",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-clikvg712j1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:5hd2frnjzi1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-5hd2frnjzi1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/5hd2frnjzi1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvvr7b/",
+            "id": "reddit-beamazed-1xvvr7b",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvvr7b",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T06:52:18Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T06:52:18Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvvr7b/",
+      "date_published": "2026-11-14T06:52:18Z",
+      "external_url": "https://v.redd.it/5hd2frnjzi1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-5hd2frnjzi1i1/",
+      "image": "https://external-preview.redd.it/M2NxdHVmZ2p6aTFpMf1BC2mJtP4oyRCy07LXJ3VqtX8kU108nd-OMJYkC2kI.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=f0c08090c8286595c0ff5161acf750835bdac016",
+      "title": "Two Different Worlds in one Frame.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-5hd2frnjzi1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:7bia6b9vii1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-7bia6b9vii1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/7bia6b9vii1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvu4o4/",
+            "id": "reddit-beamazed-1xvu4o4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvu4o4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T05:18:56Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T05:18:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvu4o4/",
+      "date_published": "2026-11-14T05:18:56Z",
+      "external_url": "https://v.redd.it/7bia6b9vii1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-7bia6b9vii1i1/",
+      "image": "https://external-preview.redd.it/bnZpNXZlN3ZpaTFpMbgonzcQeeYCT02FMvOYEXAR9K3wNXTzUhxp4nB_W_Xr.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=5cf23736c737cc499fb53759b59376f53bab2ecd",
+      "title": "Tree burning from inside after lightning strike",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-7bia6b9vii1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:iv869fcyci1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-iv869fcyci1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/iv869fcyci1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvtihy/",
+            "id": "reddit-beamazed-1xvtihy",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvtihy",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T04:45:41Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T04:45:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvtihy/",
+      "date_published": "2026-11-14T04:45:41Z",
+      "external_url": "https://v.redd.it/iv869fcyci1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-iv869fcyci1i1/",
+      "image": "https://external-preview.redd.it/YTNiMHI5N3ljaTFpMYyhXaGbes_KeJ7V_3xH0Wuy6szoCQZVUe_UzJW52QR5.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=c3986baf195f8cca6ae81a60862839874b9e89f5",
+      "title": "Raulane Festival from the Himalayas 🇮🇳",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-iv869fcyci1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:aif9h1gz0i1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-aif9h1gz0i1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/aif9h1gz0i1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvtbif/",
+            "id": "reddit-beamazed-1xvtbif",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvtbif",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T04:35:01Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T04:35:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvtbif/",
+      "date_published": "2026-11-14T04:35:01Z",
+      "external_url": "https://v.redd.it/aif9h1gz0i1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-aif9h1gz0i1i1/",
+      "title": "Successful police chase",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-aif9h1gz0i1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:isik7fkhdh1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-isik7fkhdh1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/isik7fkhdh1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvta7c/",
+            "id": "reddit-beamazed-1xvta7c",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvta7c",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T04:33:04Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T04:33:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvta7c/",
+      "date_published": "2026-11-14T04:33:04Z",
+      "external_url": "https://v.redd.it/isik7fkhdh1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-isik7fkhdh1i1/",
+      "title": "I finally had the timing and patience to get a timelapse! 🌱",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-isik7fkhdh1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:hp18dqp80i1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-hp18dqp80i1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/hp18dqp80i1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvs81p/",
+            "id": "reddit-beamazed-1xvs81p",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvs81p",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T03:35:23Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T03:35:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvs81p/",
+      "date_published": "2026-11-14T03:35:23Z",
+      "external_url": "https://v.redd.it/hp18dqp80i1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-hp18dqp80i1i1/",
+      "title": "Most Beautiful view 😍",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-hp18dqp80i1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:zer7w8x09h1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-zer7w8x09h1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/zer7w8x09h1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvp71r/",
+            "id": "reddit-beamazed-1xvp71r",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvp71r",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T01:02:03Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T01:02:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvp71r/",
+      "date_published": "2026-11-14T01:02:03Z",
+      "external_url": "https://v.redd.it/zer7w8x09h1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-zer7w8x09h1i1/",
+      "image": "https://external-preview.redd.it/eXF6Y3U5dDA5aDFpMf6k9KYcbY5w32rjbqcDwaoXB6iKG1bmY99rnXQ-15q6.jpeg?width=140&height=78&format=jpg&auto=webp&s=174678e59204b810a0253378acd034488800a0fb",
+      "title": "Hundreds of stone tombs across Arabia come in precise shapes: arrowheads, triangles, circles, keys. Dr. Eid Al-Yahya asks: how can people who built a 100m+ stone structure be called \"primitive\"?",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-zer7w8x09h1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:oq43b5rzib1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-oq43b5rzib1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/oq43b5rzib1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvou7m/",
+            "id": "reddit-beamazed-1xvou7m",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvou7m",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T00:45:12Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvon9p/",
+            "id": "reddit-beamazed-1xvon9p",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvon9p",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T00:35:29Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-14T00:45:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvou7m/\nhttps://www.reddit.com/r/beamazed/comments/1xvon9p/",
+      "date_published": "2026-11-14T00:45:12Z",
+      "external_url": "https://v.redd.it/oq43b5rzib1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-oq43b5rzib1i1/",
+      "title": "Little girl with two prosthetic legs dancing at the playground",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-oq43b5rzib1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:5ymuf8t7eg1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-5ymuf8t7eg1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/5ymuf8t7eg1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvlfr6/",
+            "id": "reddit-beamazed-1xvlfr6",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvlfr6",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T22:14:27Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T22:14:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvlfr6/",
+      "date_published": "2026-11-13T22:14:27Z",
+      "external_url": "https://v.redd.it/5ymuf8t7eg1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-5ymuf8t7eg1i1/",
+      "image": "https://external-preview.redd.it/bmppeGk5dTdlZzFpMX1dbjO0YhxelhKZhfGJ4cNTcDXr2yN963XEui9dlLlZ.png?width=140&height=69&format=jpg&auto=webp&s=63d983c2a35bb46a29a767625d17bece5e5d8868",
+      "title": "Polar bears porpoising",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-5ymuf8t7eg1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:552k6dc4xf1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-552k6dc4xf1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/552k6dc4xf1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xviwd8/",
+            "id": "reddit-beamazed-1xviwd8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xviwd8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T20:33:29Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T20:33:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xviwd8/",
+      "date_published": "2026-11-13T20:33:29Z",
+      "external_url": "https://v.redd.it/552k6dc4xf1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-552k6dc4xf1i1/",
+      "image": "https://external-preview.redd.it/dXh6YXk4NTR4ZjFpMbY9KXriwlxiyK7PDmunZA0x0XgdquCsnUswiMoHeAWa.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=d43ce078c7f156c7eef1d84288a8286c1828b3ea",
+      "title": "A hiker faced avalanche very closely",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-552k6dc4xf1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:fgk2ejf1wf1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-fgk2ejf1wf1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/fgk2ejf1wf1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xviqyk/",
+            "id": "reddit-beamazed-1xviqyk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xviqyk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T20:27:27Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T20:27:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xviqyk/",
+      "date_published": "2026-11-13T20:27:27Z",
+      "external_url": "https://v.redd.it/fgk2ejf1wf1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-fgk2ejf1wf1i1/",
+      "image": "https://external-preview.redd.it/OXU4cXo0NzF3ZjFpMbY9KXriwlxiyK7PDmunZA0x0XgdquCsnUswiMoHeAWa.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=9163b521a3315f57cb0d9d7d793d1bd4350830d2",
+      "title": "Trust me it's not AI",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-fgk2ejf1wf1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:uijhb50xsf1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-uijhb50xsf1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/uijhb50xsf1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvigbf/",
+            "id": "reddit-beamazed-1xvigbf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvigbf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T20:15:37Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T20:15:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvigbf/",
+      "date_published": "2026-11-13T20:15:37Z",
+      "external_url": "https://v.redd.it/uijhb50xsf1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-uijhb50xsf1i1/",
+      "title": "This frozen lake looks like an endless sea of shattered glass",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-uijhb50xsf1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:701qxf8ngf1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-701qxf8ngf1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/701qxf8ngf1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvi8xw/",
+            "id": "reddit-beamazed-1xvi8xw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvi8xw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T20:07:26Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T20:07:26Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvi8xw/",
+      "date_published": "2026-11-13T20:07:26Z",
+      "external_url": "https://v.redd.it/701qxf8ngf1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-701qxf8ngf1i1/",
+      "title": "The amazing strength of an old Gaucho",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-701qxf8ngf1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:p45peidyrf1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-p45peidyrf1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/p45peidyrf1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvi65w/",
+            "id": "reddit-beamazed-1xvi65w",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvi65w",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T20:04:23Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T20:04:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvi65w/",
+      "date_published": "2026-11-13T20:04:23Z",
+      "external_url": "https://v.redd.it/p45peidyrf1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-p45peidyrf1i1/",
+      "image": "https://external-preview.redd.it/cWVtbG1zYnlyZjFpMWVl7yWkJk5X-2nAWEa5p4PItnMbhDG55qURYHwK9V8P.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=027dcfe791d5b6eda7cd289170918537a168c4ff",
+      "title": "I’ve never seen a snail “eat”… 🐌 🍁",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-p45peidyrf1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:7hcas6horf1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-7hcas6horf1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/7hcas6horf1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvi4ts/",
+            "id": "reddit-beamazed-1xvi4ts",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvi4ts",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T20:02:51Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T20:02:51Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvi4ts/",
+      "date_published": "2026-11-13T20:02:51Z",
+      "external_url": "https://v.redd.it/7hcas6horf1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-7hcas6horf1i1/",
+      "image": "https://external-preview.redd.it/MnJqZmpuZW9yZjFpMeHBa0cdFCB9ycaIp9j70_S1fEkW6hhnGrunHYzTfDrr.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=bd2a39b822dad33ba24621c1e4ab4e3eb99ad744",
+      "title": "I’ve never seen a snail “eat”… 🐌 🍁",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-7hcas6horf1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:t1vc07p7rf1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-t1vc07p7rf1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/t1vc07p7rf1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvi20x/",
+            "id": "reddit-beamazed-1xvi20x",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvi20x",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T20:00:14Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T20:00:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvi20x/",
+      "date_published": "2026-11-13T20:00:14Z",
+      "external_url": "https://v.redd.it/t1vc07p7rf1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-t1vc07p7rf1i1/",
+      "image": "https://external-preview.redd.it/d2VhNXdobjdyZjFpMQwoMytbOrmV1NW_6jjBUyN265bcQqmBtqIgFiykXHVW.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=1b429b108091791769f1ccd29b0d7fbebf0522a4",
+      "title": "I’ve never seen a snail “eat”… 🐌 🍁",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-t1vc07p7rf1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:6qe5dyuvlf1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-6qe5dyuvlf1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/6qe5dyuvlf1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvhepp/",
+            "id": "reddit-beamazed-1xvhepp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvhepp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T19:34:58Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T19:34:58Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvhepp/",
+      "date_published": "2026-11-13T19:34:58Z",
+      "external_url": "https://v.redd.it/6qe5dyuvlf1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-6qe5dyuvlf1i1/",
+      "title": "A vintage bun divider",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-6qe5dyuvlf1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:szkvtwpfv81i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-szkvtwpfv81i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/szkvtwpfv81i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvgued/",
+            "id": "reddit-beamazed-1xvgued",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvgued",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T19:13:42Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T19:13:42Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvgued/",
+      "date_published": "2026-11-13T19:13:42Z",
+      "external_url": "https://v.redd.it/szkvtwpfv81i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-szkvtwpfv81i1/",
+      "title": "Aura farming Mantis",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-szkvtwpfv81i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:8i9p7nmtff1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-8i9p7nmtff1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/8i9p7nmtff1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvgdoq/",
+            "id": "reddit-beamazed-1xvgdoq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvgdoq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T18:56:25Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T18:56:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvgdoq/",
+      "date_published": "2026-11-13T18:56:25Z",
+      "external_url": "https://v.redd.it/8i9p7nmtff1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-8i9p7nmtff1i1/",
+      "image": "https://external-preview.redd.it/aHpiOHdwbnRmZjFpMT5yHkNu18zGqFBux5tmI7jeCAlEGNHq5iCzANkWMDVT.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=b60f704067b3a6e83b7b128973e2da5f15c1c615",
+      "title": "Rickets is awful, but thankfully treatable. So glad this sweet pup got the care she needed. What a little fighter, still wagging her tail and refusing to give up, even while crawling on her elbows. 🐶",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-8i9p7nmtff1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:5zxvhjpw231i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-5zxvhjpw231i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/5zxvhjpw231i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/beamazed/comments/1xvg1aa/",
+            "id": "reddit-beamazed-1xvg1aa",
+            "kind": "community",
+            "publisher": {
+              "name": "r/beamazed",
+              "url": "https://www.reddit.com/r/beamazed/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/beamazed/",
+            "upstreamItemId": "1xvg1aa",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T18:43:20Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T18:43:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/beamazed/comments/1xvg1aa/",
+      "date_published": "2026-11-13T18:43:20Z",
+      "external_url": "https://v.redd.it/5zxvhjpw231i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-5zxvhjpw231i1/",
+      "title": "Vue en survolant le désert du Sahara",
+      "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/items/reddit-5zxvhjpw231i1/"
     }
   ],
   "title": "Be amazed",

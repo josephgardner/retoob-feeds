@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 18,
+    "revision": 19,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:14ulqlbqR5s",
+        "dateBasis": "publication",
+        "itemId": "14ulqlbqR5s",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=14ulqlbqR5s"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xxbikf/",
+            "id": "reddit-youtubehaiku-1xxbikf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xxbikf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T00:35:03Z"
+            }
+          }
+        ],
+        "revision": 19,
+        "sortAt": "2026-11-16T00:35:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xxbikf/",
+      "date_published": "2026-11-16T00:35:03Z",
+      "external_url": "https://www.youtube.com/watch?v=14ulqlbqR5s",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/14ulqlbqR5s/",
+      "image": "https://i.ytimg.com/vi/14ulqlbqR5s/hqdefault.jpg",
+      "title": "[Poetry] The Most Important Line In Spider-Man History",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/14ulqlbqR5s/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:shzX7-D2HFw",
+        "dateBasis": "publication",
+        "itemId": "shzX7-D2HFw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=shzX7-D2HFw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xx6brg/",
+            "id": "reddit-youtubehaiku-1xx6brg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xx6brg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T20:47:59Z"
+            }
+          }
+        ],
+        "revision": 19,
+        "sortAt": "2026-11-15T20:47:59Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xx6brg/",
+      "date_published": "2026-11-15T20:47:59Z",
+      "external_url": "https://www.youtube.com/watch?v=shzX7-D2HFw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/shzX7-D2HFw/",
+      "image": "https://i.ytimg.com/vi/shzX7-D2HFw/hqdefault.jpg",
+      "title": "[Poetry] Teachers when they say there are no stupid questions",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/shzX7-D2HFw/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:JoekzziFYi8",
@@ -20973,88 +21055,6 @@
       "image": "https://i.ytimg.com/vi/sWTQcq4mH2A/hqdefault.jpg",
       "title": "[Haiku] Watch: Trump's Statement on U.S. Strikes Against Iran",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/sWTQcq4mH2A/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:O_xSRtXrPOM",
-        "dateBasis": "publication",
-        "itemId": "O_xSRtXrPOM",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=O_xSRtXrPOM"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rix4xo/",
-            "id": "reddit-youtubehaiku-1rix4xo",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rix4xo",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-02T16:16:37Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-02T16:16:37Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rix4xo/",
-      "date_published": "2026-03-02T16:16:37Z",
-      "external_url": "https://www.youtube.com/watch?v=O_xSRtXrPOM",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/O_xSRtXrPOM/",
-      "image": "https://i.ytimg.com/vi/O_xSRtXrPOM/hqdefault.jpg",
-      "title": "[Haiku] Two fish blow up when they kiss",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/O_xSRtXrPOM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:tsVKhnTVJhU",
-        "dateBasis": "publication",
-        "itemId": "tsVKhnTVJhU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=tsVKhnTVJhU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1riqldy/",
-            "id": "reddit-youtubehaiku-1riqldy",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1riqldy",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-02T11:41:07Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-02T11:41:07Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1riqldy/",
-      "date_published": "2026-03-02T11:41:07Z",
-      "external_url": "https://www.youtube.com/watch?v=tsVKhnTVJhU",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/tsVKhnTVJhU/",
-      "image": "https://i.ytimg.com/vi/tsVKhnTVJhU/hqdefault.jpg",
-      "title": "[Haiku] hot ass room",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/tsVKhnTVJhU/"
     }
   ],
   "title": "Quick clips",

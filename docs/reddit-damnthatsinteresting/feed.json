@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 33,
+    "itemCount": 44,
     "listId": "reddit-damnthatsinteresting",
     "publicationEpoch": "reddit-public-20261106-damnthatsinteresting",
-    "revision": 1,
+    "revision": 2,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,497 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:270wb93y9x1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-270wb93y9x1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/270wb93y9x1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xxip4v/",
+            "id": "reddit-damnthatsinteresting-1xxip4v",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xxip4v",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T06:55:53Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T06:55:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xxip4v/",
+      "date_published": "2026-11-16T06:55:53Z",
+      "external_url": "https://v.redd.it/270wb93y9x1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-270wb93y9x1i1/",
+      "image": "https://external-preview.redd.it/anFoaHJtM3k5eDFpMYMYn4pA0Cg-JjSGgkwxUIt7luxGIWJVZQv9VW4aD2Jt.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=34f826df74b80e3e58bc4432191301053468eb76",
+      "title": "All Swiss passenger trains moving during a typical Tuesday - by Milos Popovic",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-270wb93y9x1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:iwu0b1yh4x1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-iwu0b1yh4x1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/iwu0b1yh4x1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xxi74c/",
+            "id": "reddit-damnthatsinteresting-1xxi74c",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xxi74c",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T06:25:10Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T06:25:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xxi74c/",
+      "date_published": "2026-11-16T06:25:10Z",
+      "external_url": "https://v.redd.it/iwu0b1yh4x1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-iwu0b1yh4x1i1/",
+      "image": "https://external-preview.redd.it/ZHAxNHZheWg0eDFpMfVzjwZXnRhNmF0wq5atS85yXuqEmJjQQtY8ZEdA-Jrj.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=f444aab7e9307ce0b0cbe2a6e5e0142832c5e5cf",
+      "title": "A tile setting machine.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-iwu0b1yh4x1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:xbwba85xbw1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-xbwba85xbw1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/xbwba85xbw1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xxfc0x/",
+            "id": "reddit-damnthatsinteresting-1xxfc0x",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xxfc0x",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T03:45:28Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T03:45:28Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xxfc0x/",
+      "date_published": "2026-11-16T03:45:28Z",
+      "external_url": "https://v.redd.it/xbwba85xbw1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-xbwba85xbw1i1/",
+      "image": "https://external-preview.redd.it/c3drNXhneXdidzFpMeQwnFLpxnYRRIVrqg6ifYLZCP_5oFYsJhovMh_z9Qfn.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=a02d60e6b01aa333ea8effca0b8a5e4688c1f10b",
+      "title": "A 100 year old film showing a tutorial for dial phone. This tutorial was shown in theatres in Fresno, California to educate the masses on how to use a dial phone.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-xbwba85xbw1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:l1og3ap05w1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-l1og3ap05w1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/l1og3ap05w1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xxekzv/",
+            "id": "reddit-damnthatsinteresting-1xxekzv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xxekzv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T03:06:17Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T03:06:17Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xxekzv/",
+      "date_published": "2026-11-16T03:06:17Z",
+      "external_url": "https://v.redd.it/l1og3ap05w1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-l1og3ap05w1i1/",
+      "image": "https://external-preview.redd.it/ZGZhMG1pcDA1dzFpMfwN3zoB_F0wje49UGK6nPAIO4TsjNLsex3yNOb9Ft_Y.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=12416ecc6aa5af17d7edbfe5ec5818b14fd78ef8",
+      "title": "Close call with a boat... that could have ended so badly.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-l1og3ap05w1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:o24czn2jiv1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-o24czn2jiv1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/o24czn2jiv1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xxc0oz/",
+            "id": "reddit-damnthatsinteresting-1xxc0oz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xxc0oz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T01:00:04Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T01:00:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xxc0oz/",
+      "date_published": "2026-11-16T01:00:04Z",
+      "external_url": "https://v.redd.it/o24czn2jiv1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-o24czn2jiv1i1/",
+      "image": "https://external-preview.redd.it/eWM0cHVueGlpdjFpMWUnQ4rdYmcOsfurOEhKNVkM0qhTIrKOKj69Qf8dylp8.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=4a480b2fafeec68c29a6284efd0643c0fa4e822a",
+      "title": "Nature’s ultimate time capsule: an ancient pollinator locked in stone with every delicate wing vein still intact",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-o24czn2jiv1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:fxp5i2yotu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-fxp5i2yotu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/fxp5i2yotu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xx8zmk/",
+            "id": "reddit-damnthatsinteresting-1xx8zmk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xx8zmk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T22:41:26Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T22:41:26Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xx8zmk/",
+      "date_published": "2026-11-15T22:41:26Z",
+      "external_url": "https://v.redd.it/fxp5i2yotu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-fxp5i2yotu1i1/",
+      "image": "https://external-preview.redd.it/d2tjd2VvZWV0dTFpMRtgWa1Q84_hLx5XeorAGEbnLZ-SGkHWL3GS8N5G8iQZ.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=ade05a5fdb6b48c09d2670ff834ae7632a75bba1",
+      "title": "Imagine Drinking 25 Litres of Water in Just One Sip… That's an Elephant! 🐘",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-fxp5i2yotu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:zo1d5hztnu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-zo1d5hztnu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/zo1d5hztnu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xx87vk/",
+            "id": "reddit-damnthatsinteresting-1xx87vk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xx87vk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T22:08:02Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T22:08:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xx87vk/",
+      "date_published": "2026-11-15T22:08:02Z",
+      "external_url": "https://v.redd.it/zo1d5hztnu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-zo1d5hztnu1i1/",
+      "image": "https://external-preview.redd.it/M2puYnZzd3RudTFpMVwMmNma4F1uekAXZltc9J0GmRAU8aqe9Mnvvn5R74Cn.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=e9aaa58ab640284b09b562f7b60c84fbad5f7162",
+      "title": "A city in Peru organized and unveiled a 46-foot monument of Pope Leo XIV",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-zo1d5hztnu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:9olkjv94ju1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-9olkjv94ju1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/9olkjv94ju1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xx7nx8/",
+            "id": "reddit-damnthatsinteresting-1xx7nx8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xx7nx8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:44:11Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:44:11Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xx7nx8/",
+      "date_published": "2026-11-15T21:44:11Z",
+      "external_url": "https://v.redd.it/9olkjv94ju1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-9olkjv94ju1i1/",
+      "image": "https://external-preview.redd.it/YWwwY2hjbmhldTFpMULcEESW6gtKeLs--l7JccyMaasXq_akODkf4S5k_GQ8.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=ce268444ad0981a45f8966053d1731dd8f726585",
+      "title": "Making a bottle \"talk\" by adjusting hand position to change the sound",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-9olkjv94ju1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:8853j9e3ju1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-8853j9e3ju1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/8853j9e3ju1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xx7m49/",
+            "id": "reddit-damnthatsinteresting-1xx7m49",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xx7m49",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:42:05Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:42:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xx7m49/",
+      "date_published": "2026-11-15T21:42:05Z",
+      "external_url": "https://v.redd.it/8853j9e3ju1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-8853j9e3ju1i1/",
+      "image": "https://external-preview.redd.it/d252ZmxlYjNqdTFpMROnSTQc3IQfOwBeiBl3iU12hGOAwcRiwJv-QrKZ4krM.jpeg?width=140&height=78&format=jpg&auto=webp&s=1e5d0b8e647ca3044e9a33400932eec484670d2a",
+      "title": "Giant starling murmuration over the Fairburn Ings (UK)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-8853j9e3ju1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:cheqjylmfu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-cheqjylmfu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/cheqjylmfu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xx75ib/",
+            "id": "reddit-damnthatsinteresting-1xx75ib",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xx75ib",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:22:38Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:22:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xx75ib/",
+      "date_published": "2026-11-15T21:22:38Z",
+      "external_url": "https://v.redd.it/cheqjylmfu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-cheqjylmfu1i1/",
+      "image": "https://external-preview.redd.it/YnIxcDcyYm1mdTFpMQV3W_nUAW-j4F762ShWWrMzFGpGWi9xBQYqmpPCb8j7.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=59bba978de2df0f3320031d77f7bd76f81f267d3",
+      "title": "the adrenaline energy of a Belgian Malinois is on steroids.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-cheqjylmfu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:i7xhopneeu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-i7xhopneeu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/i7xhopneeu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xx6z9j/",
+            "id": "reddit-damnthatsinteresting-1xx6z9j",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xx6z9j",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:15:21Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:15:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xx6z9j/",
+      "date_published": "2026-11-15T21:15:21Z",
+      "external_url": "https://v.redd.it/i7xhopneeu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-i7xhopneeu1i1/",
+      "image": "https://external-preview.redd.it/ZWFxemprbGVldTFpMcf28wZmH-dxKH9OnP6y__Oqv-xSmZfx5NuTTS9oN73s.jpeg?width=140&height=76&format=jpg&auto=webp&s=70507e00ae51b910fceb10371d3d2468adda1764",
+      "title": "Budget LED Christmas lights actually flash 60 times a second with our 60Hz power—at 24 and 60 FPS the camera syncs with the current so they look steady, but at 120 FPS the lens splits the wave in half and catches the 8.3ms \"off\" cycle in total darkness",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-i7xhopneeu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:wd6t5pgs0u1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-wd6t5pgs0u1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/wd6t5pgs0u1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xx54un/",
+            "id": "reddit-damnthatsinteresting-1xx54un",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1xx54un",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T19:59:45Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T19:59:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xx54un/",
+      "date_published": "2026-11-15T19:59:45Z",
+      "external_url": "https://v.redd.it/wd6t5pgs0u1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-wd6t5pgs0u1i1/",
+      "title": "That wake went a lot further than expected",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-wd6t5pgs0u1i1/"
+    },
     {
       "_retoob": {
         "contentKey": "reddit:nbmem9h5xt1i1",
@@ -52,47 +543,6 @@
       "image": "https://external-preview.redd.it/ZTl2NmJqaDV4dDFpMRg7kOwHo-NP51lia7bZkfLrNtgiObkMC-vqQ8EkQxMb.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=f8d8ba29b715bbac70255c01531a0e272ad27b77",
       "title": "A herd of deer crossing the road at night",
       "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-nbmem9h5xt1i1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:qmpfvmkrot1i1",
-        "dateBasis": "publication",
-        "itemId": "reddit-qmpfvmkrot1i1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/qmpfvmkrot1i1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xx3ffv/",
-            "id": "reddit-damnthatsinteresting-1xx3ffv",
-            "kind": "community",
-            "publisher": {
-              "name": "r/damnthatsinteresting",
-              "url": "https://www.reddit.com/r/damnthatsinteresting/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
-            "upstreamItemId": "1xx3ffv",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T18:51:30Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-15T18:51:30Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xx3ffv/",
-      "date_published": "2026-11-15T18:51:30Z",
-      "external_url": "https://v.redd.it/qmpfvmkrot1i1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-qmpfvmkrot1i1/",
-      "image": "https://external-preview.redd.it/NmFpZWU4aHJvdDFpMQKaGhOqeD9LMLMnza25x-itwt3w4HdCsXkNXz7rbJmM.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=4389e4c7aaba98aa9a81db105c8338f6ff083444",
-      "title": "9 weird insect sounds",
-      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-qmpfvmkrot1i1/"
     },
     {
       "_retoob": {

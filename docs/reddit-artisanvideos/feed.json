@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 12,
+    "revision": 13,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:IDy3_rr2Nn4",
+        "dateBasis": "publication",
+        "itemId": "IDy3_rr2Nn4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IDy3_rr2Nn4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1xxcohf/",
+            "id": "reddit-artisanvideos-1xxcohf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1xxcohf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T01:32:04Z"
+            }
+          }
+        ],
+        "revision": 13,
+        "sortAt": "2026-11-16T01:32:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1xxcohf/",
+      "date_published": "2026-11-16T01:32:04Z",
+      "external_url": "https://www.youtube.com/watch?v=IDy3_rr2Nn4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/IDy3_rr2Nn4/",
+      "image": "https://i.ytimg.com/vi/IDy3_rr2Nn4/hqdefault.jpg",
+      "title": "An extensive 62 day long restoration of a vintage Atari 2600 console that suffered severe flood damage.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/IDy3_rr2Nn4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:oCNLLXN1Qho",
@@ -21736,47 +21777,6 @@
       "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-395c35ghja2e1/",
       "title": "Ming Dynasty porcelain repair",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-395c35ghja2e1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:ZexO3PzefD4",
-        "dateBasis": "publication",
-        "itemId": "ZexO3PzefD4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ZexO3PzefD4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1gy9lv9/",
-            "id": "reddit-artisanvideos-1gy9lv9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1gy9lv9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-23T20:55:02Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2024-11-23T20:55:02Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1gy9lv9/",
-      "date_published": "2024-11-23T20:55:02Z",
-      "external_url": "https://www.youtube.com/watch?v=ZexO3PzefD4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ZexO3PzefD4/",
-      "image": "https://i.ytimg.com/vi/ZexO3PzefD4/hqdefault.jpg",
-      "title": "Thomas Johnson Restores a Harpsichord! [42:53]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/ZexO3PzefD4/"
     }
   ],
   "title": "Craft & making",

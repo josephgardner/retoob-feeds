@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 20,
+    "revision": 21,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,104 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:U8e5p9B9Xuk",
+        "dateBasis": "publication",
+        "itemId": "U8e5p9B9Xuk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=U8e5p9B9Xuk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xxafzu/",
+            "id": "reddit-documentaries-1xxafzu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xxafzu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T23:47:04Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xxacz1/",
+            "id": "reddit-documentaries-1xxacz1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xxacz1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T23:43:03Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-15T23:47:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xxafzu/\nhttps://www.reddit.com/r/documentaries/comments/1xxacz1/",
+      "date_published": "2026-11-15T23:47:04Z",
+      "external_url": "https://www.youtube.com/watch?v=U8e5p9B9Xuk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/U8e5p9B9Xuk/",
+      "image": "https://i.ytimg.com/vi/U8e5p9B9Xuk/hqdefault.jpg",
+      "title": "CEOs Who Got Caught Having Affairs (2026) A look at corporate governance scandals involving Nestlé, BP, Boeing, Nvidia, Amazon, and McDonald's [00:11:15]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/U8e5p9B9Xuk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1CY1hBRdmoo",
+        "dateBasis": "publication",
+        "itemId": "1CY1hBRdmoo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1CY1hBRdmoo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xx5xcx/",
+            "id": "reddit-documentaries-1xx5xcx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xx5xcx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T20:31:29Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-15T20:31:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xx5xcx/",
+      "date_published": "2026-11-15T20:31:29Z",
+      "external_url": "https://www.youtube.com/watch?v=1CY1hBRdmoo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/1CY1hBRdmoo/",
+      "image": "https://i.ytimg.com/vi/1CY1hBRdmoo/hqdefault.jpg",
+      "title": "Razz Apache 41 – The Lost Tapes of the Most Legendary Run in Offshore Powerboat History (2026) [0:40:43]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/1CY1hBRdmoo/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:kgm9N0CeiYQ",
@@ -134,47 +232,6 @@
       "image": "https://i.ytimg.com/vi/GOJFznzSZhM/hqdefault.jpg",
       "title": "Atom: Clash of Titans (Jim Al-Khalili) | Science Documentary | Reel Trut...",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/GOJFznzSZhM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:5i-c7OovkpA",
-        "dateBasis": "publication",
-        "itemId": "5i-c7OovkpA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=5i-c7OovkpA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xwua89/",
-            "id": "reddit-documentaries-1xwua89",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1xwua89",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T12:27:54Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-15T12:27:54Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xwua89/",
-      "date_published": "2026-11-15T12:27:54Z",
-      "external_url": "https://www.youtube.com/watch?v=5i-c7OovkpA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/5i-c7OovkpA/",
-      "image": "https://i.ytimg.com/vi/5i-c7OovkpA/hqdefault.jpg",
-      "title": "\"Lucifer of Liege (2026) The church replaced one hot devil with an even HOTTER one [11:04]\"",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/5i-c7OovkpA/"
     },
     {
       "_retoob": {
@@ -21702,47 +21759,6 @@
       "image": "https://i.ytimg.com/vi/Vn-qawKMZUQ/hqdefault.jpg",
       "title": "Change of Heart (2017) [49:17]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Vn-qawKMZUQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:oNUgQv6wk7Y",
-        "dateBasis": "publication",
-        "itemId": "oNUgQv6wk7Y",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=oNUgQv6wk7Y"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vq8c04/",
-            "id": "reddit-documentaries-1vq8c04",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vq8c04",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-16T20:53:22Z"
-            }
-          }
-        ],
-        "revision": 15,
-        "sortAt": "2026-08-16T20:53:22Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vq8c04/",
-      "date_published": "2026-08-16T20:53:22Z",
-      "external_url": "https://www.youtube.com/watch?v=oNUgQv6wk7Y",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/oNUgQv6wk7Y/",
-      "image": "https://i.ytimg.com/vi/oNUgQv6wk7Y/hqdefault.jpg",
-      "title": "चेर्नोबिल: वह आपदा जिसने दुनिया को झकझोर दिया",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/oNUgQv6wk7Y/"
     }
   ],
   "title": "Documentaries",

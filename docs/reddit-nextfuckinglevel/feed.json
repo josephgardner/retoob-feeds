@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 86,
+    "itemCount": 132,
     "listId": "reddit-nextfuckinglevel",
     "publicationEpoch": "reddit-public-20261106-nextfuckinglevel",
-    "revision": 1,
+    "revision": 2,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,537 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:nr0gcjbl3x1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-nr0gcjbl3x1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/nr0gcjbl3x1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xxi46n/",
+            "id": "reddit-nextfuckinglevel-1xxi46n",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xxi46n",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T06:20:15Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T06:20:15Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xxi46n/",
+      "date_published": "2026-11-16T06:20:15Z",
+      "external_url": "https://v.redd.it/nr0gcjbl3x1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-nr0gcjbl3x1i1/",
+      "image": "https://external-preview.redd.it/cDkxdzlyYmwzeDFpMRH2SthKkrrmV4dWNx6BxlgCGIvBDUlc37QGZ8wZiFsE.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=5f65ba609b7e6681006908412d3a5a85af5e6802",
+      "title": "Behold: The Amazing Speed of a Cat",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-nr0gcjbl3x1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:bcqht40u1x1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-bcqht40u1x1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/bcqht40u1x1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xxhy7p/",
+            "id": "reddit-nextfuckinglevel-1xxhy7p",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xxhy7p",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T06:10:32Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T06:10:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xxhy7p/",
+      "date_published": "2026-11-16T06:10:32Z",
+      "external_url": "https://v.redd.it/bcqht40u1x1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-bcqht40u1x1i1/",
+      "image": "https://external-preview.redd.it/YWtqZG1vbnQxeDFpMaSLUBLqFLncl6dZ3TjqnNoaQhT_BiV7rI9S42Tb-i47.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=86a97ee2ee16370a3d89d79131d3cddfe53912f7",
+      "title": "Young musician masterfully playing the Sheng (traditional Chinese mouth organ), a complex instrument that has been around for over 3,000 years",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-bcqht40u1x1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:19wmciawrv1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-19wmciawrv1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/19wmciawrv1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xxd3v9/",
+            "id": "reddit-nextfuckinglevel-1xxd3v9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xxd3v9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T01:53:00Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T01:53:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xxd3v9/",
+      "date_published": "2026-11-16T01:53:00Z",
+      "external_url": "https://v.redd.it/19wmciawrv1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-19wmciawrv1i1/",
+      "image": "https://external-preview.redd.it/cW05bm4zNndydjFpMZM0AfKXg24i0ALKgU7crfsdJFU8H3DOT4-ydLnRCbRU.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=03b28322bf5ac257e95745e21ec8519fc96e07da",
+      "title": "The evolution of steering wheel physics across 25years of GTA",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-19wmciawrv1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:3rg33h4s9v1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-3rg33h4s9v1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/3rg33h4s9v1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xxb04s/",
+            "id": "reddit-nextfuckinglevel-1xxb04s",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xxb04s",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T00:11:10Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-16T00:11:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xxb04s/",
+      "date_published": "2026-11-16T00:11:10Z",
+      "external_url": "https://v.redd.it/3rg33h4s9v1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-3rg33h4s9v1i1/",
+      "image": "https://external-preview.redd.it/bDY3dGN0eHI5djFpMRbrop_lepJ-IhFIniPvspb2kr71wRP27WkPEyXfmL05.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=764ecb5af5df048dff46dd6e4e2bca48cda100eb",
+      "title": "„on your left\"\" 🚀🚀👀👀",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-3rg33h4s9v1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ivwmekro7v1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ivwmekro7v1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ivwmekro7v1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xxapj9/",
+            "id": "reddit-nextfuckinglevel-1xxapj9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xxapj9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T23:59:19Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T23:59:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xxapj9/",
+      "date_published": "2026-11-15T23:59:19Z",
+      "external_url": "https://v.redd.it/ivwmekro7v1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ivwmekro7v1i1/",
+      "image": "https://external-preview.redd.it/aXg5ZWVrbG83djFpMQK5lXQDPwmkFXMSVD48cQ8FstZjwdp9ilQmbD1O46CC.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=af98f8f2d508d92fcff6444f183b0d60f8012e23",
+      "title": "super quality grape agate",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ivwmekro7v1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:zkszipx80v1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-zkszipx80v1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/zkszipx80v1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xx9sya/",
+            "id": "reddit-nextfuckinglevel-1xx9sya",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xx9sya",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T23:17:35Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T23:17:35Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xx9sya/",
+      "date_published": "2026-11-15T23:17:35Z",
+      "external_url": "https://v.redd.it/zkszipx80v1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-zkszipx80v1i1/",
+      "image": "https://external-preview.redd.it/c3QzeXE0dzgwdjFpMYuD5G3TzeQ0gOmbaxIuWGaK79-Wt1FOIrZWr54N7gZQ.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=1b44eb2a9d9f6f7dae869f6ada97577d27cfbb09",
+      "title": "Peugeot car with a v16 engine! Wild sound and engine build.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-zkszipx80v1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:nlydq8bvyu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-nlydq8bvyu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/nlydq8bvyu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xx9ocs/",
+            "id": "reddit-nextfuckinglevel-1xx9ocs",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xx9ocs",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T23:11:54Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T23:11:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xx9ocs/",
+      "date_published": "2026-11-15T23:11:54Z",
+      "external_url": "https://v.redd.it/nlydq8bvyu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-nlydq8bvyu1i1/",
+      "title": "Bro sure knows how to apply his high school physics lessons.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-nlydq8bvyu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:cbdfm5k1pu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-cbdfm5k1pu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/cbdfm5k1pu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xx8dmo/",
+            "id": "reddit-nextfuckinglevel-1xx8dmo",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xx8dmo",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T22:14:47Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T22:14:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xx8dmo/",
+      "date_published": "2026-11-15T22:14:47Z",
+      "external_url": "https://v.redd.it/cbdfm5k1pu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-cbdfm5k1pu1i1/",
+      "title": "Sidecar motorcycle racing passenger shifts all body weight inches off the asphalt and rear tire to act as human ballast at Pannonia Ring",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-cbdfm5k1pu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ffp5i8jtiu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ffp5i8jtiu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ffp5i8jtiu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xx7k94/",
+            "id": "reddit-nextfuckinglevel-1xx7k94",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xx7k94",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:39:55Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:39:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xx7k94/",
+      "date_published": "2026-11-15T21:39:55Z",
+      "external_url": "https://v.redd.it/ffp5i8jtiu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ffp5i8jtiu1i1/",
+      "image": "https://external-preview.redd.it/eDRtZHgwZnRpdTFpMalMqgubDf2YAqLLf92e2ctHrXCqVPmzLWHdOlN0B97Y.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=ab027bc14273cfa993d07dccf1aef58a225e6bd4",
+      "title": "Pest control with fire in Brazil",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ffp5i8jtiu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:16rxv1szcu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-16rxv1szcu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/16rxv1szcu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xx6sgq/",
+            "id": "reddit-nextfuckinglevel-1xx6sgq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xx6sgq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:07:20Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:07:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xx6sgq/",
+      "date_published": "2026-11-15T21:07:20Z",
+      "external_url": "https://v.redd.it/16rxv1szcu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-16rxv1szcu1i1/",
+      "image": "https://external-preview.redd.it/N3V0YnRya3pjdTFpMRETLB5EwxvoI4PaXnX6E0AOu71IN_iHQqK0cjpB7Exw.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=356f5aae48ef6a037dfd6f2c5d97bbd38a8be858",
+      "title": "The audacity to look away mid fight.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-16rxv1szcu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:mzvl0179cu1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-mzvl0179cu1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/mzvl0179cu1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xx6ozq/",
+            "id": "reddit-nextfuckinglevel-1xx6ozq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xx6ozq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T21:03:12Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T21:03:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xx6ozq/",
+      "date_published": "2026-11-15T21:03:12Z",
+      "external_url": "https://v.redd.it/mzvl0179cu1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-mzvl0179cu1i1/",
+      "image": "https://external-preview.redd.it/ZG1nZDMzNDljdTFpMT0n_9h6Gcjc6jBihr3v950_npu4UBTJa3_i20rtlCkh.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=7e3be33b1c669063916f3333464a53f282bd7922",
+      "title": "Tell me you’re a pro without saying anything",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-mzvl0179cu1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:aid4pfom5u1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-aid4pfom5u1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/aid4pfom5u1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xx5sy6/",
+            "id": "reddit-nextfuckinglevel-1xx5sy6",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xx5sy6",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T20:26:25Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T20:26:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xx5sy6/",
+      "date_published": "2026-11-15T20:26:25Z",
+      "external_url": "https://v.redd.it/aid4pfom5u1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-aid4pfom5u1i1/",
+      "image": "https://external-preview.redd.it/dnc2OGJsb201dTFpMacnBVKttl4tljazFEoqAuOuNN5m4b9T3oZ5tGv3RJni.png?width=140&height=78&format=jpg&auto=webp&s=709ccaf9fdc21d4ae1286a56caa5156eb7ae8cc4",
+      "title": "A Kagu on the brink of extinction finds its own kind",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-aid4pfom5u1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:1psgn6df3u1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-1psgn6df3u1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/1psgn6df3u1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xx5im2/",
+            "id": "reddit-nextfuckinglevel-1xx5im2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xx5im2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T20:14:40Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-15T20:14:40Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xx5im2/",
+      "date_published": "2026-11-15T20:14:40Z",
+      "external_url": "https://v.redd.it/1psgn6df3u1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-1psgn6df3u1i1/",
+      "image": "https://external-preview.redd.it/MzhkbWdoZGYzdTFpMT1BeCAZpaEMLbH6q4F98a0CR-Y3F53qsDKvsmJe-dve.png?width=140&height=78&format=jpg&auto=webp&s=bbaa91d1af96692dcc5e190383e82c47a0649913",
+      "title": "Bad Apple but it's Strava",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-1psgn6df3u1i1/"
+    },
     {
       "_retoob": {
         "contentKey": "reddit:7l4sdu7qxt1i1",
@@ -3522,6 +4053,1366 @@
       "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-g6t1p5x0ja1i1/",
       "title": "This is how we do it / I got 5 on it (mashup)",
       "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-g6t1p5x0ja1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:xm1hdub3ha1i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-xm1hdub3ha1i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/xm1hdub3ha1i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xuvvxo/",
+            "id": "reddit-nextfuckinglevel-1xuvvxo",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xuvvxo",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T02:21:41Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T02:21:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xuvvxo/",
+      "date_published": "2026-11-13T02:21:41Z",
+      "external_url": "https://v.redd.it/xm1hdub3ha1i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-xm1hdub3ha1i1/",
+      "image": "https://external-preview.redd.it/ejZyazNnODNoYTFpMcmN4OKXOupp2944Iyg10M3OLARRtEVN_s0VHJWSoIZ9.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=32b21fb71f77518c02b24e7e1048cad85a93276f",
+      "title": "Service Dog Alerts Owner During Playtime",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-xm1hdub3ha1i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:F-7W12a3tY4",
+        "dateBasis": "publication",
+        "itemId": "F-7W12a3tY4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=F-7W12a3tY4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xutjzz/",
+            "id": "reddit-nextfuckinglevel-1xutjzz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xutjzz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-13T00:30:39Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-13T00:30:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xutjzz/",
+      "date_published": "2026-11-13T00:30:39Z",
+      "external_url": "https://www.youtube.com/watch?v=F-7W12a3tY4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/F-7W12a3tY4/",
+      "image": "https://i.ytimg.com/vi/F-7W12a3tY4/hqdefault.jpg",
+      "title": "The World's First Blue Tooth Speaker",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/F-7W12a3tY4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:khjir7bhx81i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-khjir7bhx81i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/khjir7bhx81i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xuon0l/",
+            "id": "reddit-nextfuckinglevel-1xuon0l",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xuon0l",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T21:02:57Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T21:02:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xuon0l/",
+      "date_published": "2026-11-12T21:02:57Z",
+      "external_url": "https://v.redd.it/khjir7bhx81i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-khjir7bhx81i1/",
+      "image": "https://external-preview.redd.it/ZzZ1MWd3N2h4ODFpMXlUX4RDhVTgzDbbHXoblWL3IZjibayDIy4RqFpldLux.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=b29f6d7ed12e168024c057ffb583136bb7cfc57e",
+      "title": "It’s brilliant how she’s able to do this without any fear",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-khjir7bhx81i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:lz5jiok2s81i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-lz5jiok2s81i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/lz5jiok2s81i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xunvp0/",
+            "id": "reddit-nextfuckinglevel-1xunvp0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xunvp0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T20:32:46Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T20:32:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xunvp0/",
+      "date_published": "2026-11-12T20:32:46Z",
+      "external_url": "https://v.redd.it/lz5jiok2s81i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-lz5jiok2s81i1/",
+      "image": "https://external-preview.redd.it/MjMzNjR2aTJzODFpMbsRUhBmIEH6vpsQIc0bEyLDFescMLaqOzkY97MwsyNL.jpeg?width=140&height=106&format=jpg&auto=webp&s=c2e9125db9fd812d29ac2babacbec290c2e67642",
+      "title": "GTA VI Footage VS Real Life",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-lz5jiok2s81i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:mzr7sd4br81i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-mzr7sd4br81i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/mzr7sd4br81i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xunrqh/",
+            "id": "reddit-nextfuckinglevel-1xunrqh",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xunrqh",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T20:28:30Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T20:28:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xunrqh/",
+      "date_published": "2026-11-12T20:28:30Z",
+      "external_url": "https://v.redd.it/mzr7sd4br81i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-mzr7sd4br81i1/",
+      "image": "https://external-preview.redd.it/NXdrbHBoMmJyODFpMbsRUhBmIEH6vpsQIc0bEyLDFescMLaqOzkY97MwsyNL.jpeg?width=140&height=106&format=jpg&auto=webp&s=3ba3be2b00a9f440697f772723e5ed08699d5a00",
+      "title": "GTA VI Footage VS Real Life",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-mzr7sd4br81i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:g95vo04we81i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-g95vo04we81i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/g95vo04we81i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xulwwr/",
+            "id": "reddit-nextfuckinglevel-1xulwwr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xulwwr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T19:18:42Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T19:18:42Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xulwwr/",
+      "date_published": "2026-11-12T19:18:42Z",
+      "external_url": "https://v.redd.it/g95vo04we81i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-g95vo04we81i1/",
+      "image": "https://external-preview.redd.it/a2w1Z2ZoenZlODFpMXL-sPkaUzgUTYA1CzykLF3_Fep6Qhnf-OXeln-K--Lc.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=3706ff74cfb70ed3f4b6421bc5c8903aa2a5cc19",
+      "title": "Egyptian quarry workers precisely cutting white building blocks straight from the mountain",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-g95vo04we81i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:itfovside81i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-itfovside81i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/itfovside81i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xulu5a/",
+            "id": "reddit-nextfuckinglevel-1xulu5a",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xulu5a",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T19:15:49Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T19:15:49Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xulu5a/",
+      "date_published": "2026-11-12T19:15:49Z",
+      "external_url": "https://v.redd.it/itfovside81i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-itfovside81i1/",
+      "image": "https://external-preview.redd.it/Z2doMjR2YmRlODFpMczSnZOVzsJvBHylwPwf8WsEn7dR0iNuPsTN3sBEyfoC.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=0c3365ece63edb83edcc5809b284f0ee5f5edd14",
+      "title": "Unexpected acrobatics from an elderly man",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-itfovside81i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:u830tb78c81i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-u830tb78c81i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/u830tb78c81i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xulifz/",
+            "id": "reddit-nextfuckinglevel-1xulifz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xulifz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T19:03:54Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T19:03:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xulifz/",
+      "date_published": "2026-11-12T19:03:54Z",
+      "external_url": "https://v.redd.it/u830tb78c81i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-u830tb78c81i1/",
+      "image": "https://external-preview.redd.it/dWY4dDdiNzhjODFpMZmZxwqmgQYw20HxM8pdYg7ZcPojCGm87cOhuwLRCz91.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=9739c2ed74dda2dc9aa52ebfd5d56fa205192d0f",
+      "title": "Testing The World's Biggest Human Catapult",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-u830tb78c81i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:oo600emw081i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-oo600emw081i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/oo600emw081i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xujtiw/",
+            "id": "reddit-nextfuckinglevel-1xujtiw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xujtiw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T18:01:33Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T18:01:33Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xujtiw/",
+      "date_published": "2026-11-12T18:01:33Z",
+      "external_url": "https://v.redd.it/oo600emw081i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-oo600emw081i1/",
+      "image": "https://external-preview.redd.it/YmN6dzd0bXcwODFpMSIIRGHBMXtJwtdXRTqskp9KYZDMgimTJ0QvgencY6tH.png?width=140&height=78&format=jpg&auto=webp&s=8f837469a320529a93f902b005ee61e5b8a7c036",
+      "title": "Building and bringing to life a giant glowing heron puppet",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-oo600emw081i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:1066t6orv71i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-1066t6orv71i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/1066t6orv71i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xuj07a/",
+            "id": "reddit-nextfuckinglevel-1xuj07a",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xuj07a",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T17:31:34Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T17:31:34Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xuj07a/",
+      "date_published": "2026-11-12T17:31:34Z",
+      "external_url": "https://v.redd.it/1066t6orv71i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-1066t6orv71i1/",
+      "image": "https://external-preview.redd.it/b2ltZzBrcnJ2NzFpMetKKNxfVppS4MqfqmoCSY8NgQeJW54RE52m8A6DkumL.png?width=140&height=140&format=jpg&auto=webp&s=d4eaa8d94a9c23cedb24764afee0d88fcce67a82",
+      "title": "GTA 6 Is About to Set an Insane New Standard for Realism",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-1066t6orv71i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:2j1vd9rvm71i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-2j1vd9rvm71i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/2j1vd9rvm71i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xuhnh8/",
+            "id": "reddit-nextfuckinglevel-1xuhnh8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xuhnh8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T16:42:11Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T16:42:11Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xuhnh8/",
+      "date_published": "2026-11-12T16:42:11Z",
+      "external_url": "https://v.redd.it/2j1vd9rvm71i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-2j1vd9rvm71i1/",
+      "image": "https://external-preview.redd.it/ajBsOXcwc3ZtNzFpMW8XEwCwajayUmu1FCAK6pNTni_3YGZHZgemRXDP-SEK.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=2099151703416f11c4730aa34f1dad130dc106ca",
+      "title": "One of the hardest yet smoothly performed stunt that I have ever seen.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-2j1vd9rvm71i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:d0yko6g9c71i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-d0yko6g9c71i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/d0yko6g9c71i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xug1sz/",
+            "id": "reddit-nextfuckinglevel-1xug1sz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xug1sz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T15:42:12Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T15:42:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xug1sz/",
+      "date_published": "2026-11-12T15:42:12Z",
+      "external_url": "https://v.redd.it/d0yko6g9c71i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-d0yko6g9c71i1/",
+      "image": "https://external-preview.redd.it/OHhkZTVjZTljNzFpMbHoDp_bOUhUKnDGZc8sHqQeZNc6LShXe3NQNuUh3FQ9.jpeg?width=140&height=140&format=jpg&auto=webp&s=5447bfeb46e7fed409a08d732d61b619c5ae1aee",
+      "title": "Precision Blasting",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-d0yko6g9c71i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:69660vxtb71i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-69660vxtb71i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/69660vxtb71i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xufzkh/",
+            "id": "reddit-nextfuckinglevel-1xufzkh",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xufzkh",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T15:39:49Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T15:39:49Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xufzkh/",
+      "date_published": "2026-11-12T15:39:49Z",
+      "external_url": "https://v.redd.it/69660vxtb71i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-69660vxtb71i1/",
+      "title": "Blasting Rock",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-69660vxtb71i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:s06x7caqu61i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-s06x7caqu61i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/s06x7caqu61i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xudl0y/",
+            "id": "reddit-nextfuckinglevel-1xudl0y",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xudl0y",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T14:03:55Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T14:03:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xudl0y/",
+      "date_published": "2026-11-12T14:03:55Z",
+      "external_url": "https://v.redd.it/s06x7caqu61i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-s06x7caqu61i1/",
+      "image": "https://external-preview.redd.it/ZGp6dW5hNXF1NjFpMRt5dXSObS8jQlMZJywt6UwwVGnCXmzoVo6bT26amana.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=6be0c85cae9547247bcc4ae8fda162bd821a4326",
+      "title": "He has a bright future ahead of him",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-s06x7caqu61i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:73rchq1sk61i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-73rchq1sk61i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/73rchq1sk61i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xucbkz/",
+            "id": "reddit-nextfuckinglevel-1xucbkz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xucbkz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T13:08:07Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T13:08:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xucbkz/",
+      "date_published": "2026-11-12T13:08:07Z",
+      "external_url": "https://v.redd.it/73rchq1sk61i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-73rchq1sk61i1/",
+      "image": "https://external-preview.redd.it/MWhlYWVoMHNrNjFpMZNxAPyDE3_Zdd4a4cXiXYdAyozCF59EcybRrvYQI_Tz.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=ad11a38a07f14013b9821bd7e6cd09cddee0b7da",
+      "title": "When being good makes you bored",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-73rchq1sk61i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:l4rfitanj61i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-l4rfitanj61i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/l4rfitanj61i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xuc6re/",
+            "id": "reddit-nextfuckinglevel-1xuc6re",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xuc6re",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T13:02:01Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T13:02:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xuc6re/",
+      "date_published": "2026-11-12T13:02:01Z",
+      "external_url": "https://v.redd.it/l4rfitanj61i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-l4rfitanj61i1/",
+      "image": "https://external-preview.redd.it/eGpsOWE0Nm5qNjFpMXoRn_J2i2yTwgjJaZOzU574z3Im5DkqQxcKgoo9gh_0.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=b33868ae3d6234d9733c966030bcecf9e2ab6c78",
+      "title": "Converting a standard piano into a self-playing piano",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-l4rfitanj61i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:eygxf7uc761i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-eygxf7uc761i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/eygxf7uc761i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xuath8/",
+            "id": "reddit-nextfuckinglevel-1xuath8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xuath8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T11:52:57Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T11:52:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xuath8/",
+      "date_published": "2026-11-12T11:52:57Z",
+      "external_url": "https://v.redd.it/eygxf7uc761i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-eygxf7uc761i1/",
+      "title": "University of waterloo students broke a rocket world record",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-eygxf7uc761i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:oy5asar4761i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-oy5asar4761i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/oy5asar4761i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xuasok/",
+            "id": "reddit-nextfuckinglevel-1xuasok",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xuasok",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T11:51:40Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T11:51:40Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xuasok/",
+      "date_published": "2026-11-12T11:51:40Z",
+      "external_url": "https://v.redd.it/oy5asar4761i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-oy5asar4761i1/",
+      "image": "https://external-preview.redd.it/c3gxNm4zbTQ3NjFpMdgg4GTeP3L43ZCOD4s1MT07Jv0V1kBQfVvrCFQbHLMf.jpeg?width=140&height=92&format=jpg&auto=webp&s=09ee80d062c0a970474f33f5e32cf8f92b51cf02",
+      "title": "This is a theremin a musical instrument you play without ever touching it",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-oy5asar4761i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:qak6p5p2f41i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-qak6p5p2f41i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/qak6p5p2f41i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xu4wfj/",
+            "id": "reddit-nextfuckinglevel-1xu4wfj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xu4wfj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T05:52:46Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T05:52:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xu4wfj/",
+      "date_published": "2026-11-12T05:52:46Z",
+      "external_url": "https://v.redd.it/qak6p5p2f41i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-qak6p5p2f41i1/",
+      "title": "Superdog",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-qak6p5p2f41i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:a4csszl9y31i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-a4csszl9y31i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/a4csszl9y31i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xu36i9/",
+            "id": "reddit-nextfuckinglevel-1xu36i9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xu36i9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T04:18:22Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T04:18:22Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xu36i9/",
+      "date_published": "2026-11-12T04:18:22Z",
+      "external_url": "https://v.redd.it/a4csszl9y31i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-a4csszl9y31i1/",
+      "image": "https://external-preview.redd.it/bGdvcDMzbDl5MzFpMXCeRgJ3GtWvRnFo_6a5zBPTjX0lCxDj7ZGiGlJLgwLK.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=032f0e721a8b36f22deccc71abe9533c59adc711",
+      "title": "How my ink drawing, The Brawl, came together. Made last year.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-a4csszl9y31i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:tfb6fstnt31i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-tfb6fstnt31i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/tfb6fstnt31i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xu2qhp/",
+            "id": "reddit-nextfuckinglevel-1xu2qhp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xu2qhp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T03:55:23Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T03:55:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xu2qhp/",
+      "date_published": "2026-11-12T03:55:23Z",
+      "external_url": "https://v.redd.it/tfb6fstnt31i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-tfb6fstnt31i1/",
+      "title": "... this is Crimson Desert's combat",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-tfb6fstnt31i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:m00ZUIwF8Gs",
+        "dateBasis": "publication",
+        "itemId": "m00ZUIwF8Gs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=m00ZUIwF8Gs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xu2nhz/",
+            "id": "reddit-nextfuckinglevel-1xu2nhz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xu2nhz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T03:51:05Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xu2m8u/",
+            "id": "reddit-nextfuckinglevel-1xu2m8u",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xu2m8u",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T03:49:24Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T03:51:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xu2nhz/\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xu2m8u/",
+      "date_published": "2026-11-12T03:51:05Z",
+      "external_url": "https://www.youtube.com/watch?v=m00ZUIwF8Gs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/m00ZUIwF8Gs/",
+      "image": "https://i.ytimg.com/vi/m00ZUIwF8Gs/hqdefault.jpg",
+      "title": "Crimson Desert's Late-Game Combat",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/m00ZUIwF8Gs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:w2kwia0vi31i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-w2kwia0vi31i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/w2kwia0vi31i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xu1gmw/",
+            "id": "reddit-nextfuckinglevel-1xu1gmw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xu1gmw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-12T02:52:03Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-12T02:52:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xu1gmw/",
+      "date_published": "2026-11-12T02:52:03Z",
+      "external_url": "https://v.redd.it/w2kwia0vi31i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-w2kwia0vi31i1/",
+      "image": "https://external-preview.redd.it/eDk4anZ3dHVpMzFpMVE9r-OI7obqgX6RS7XmfYYL25C6gcKTH2733S2dYCG8.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=822481e36a61ce17e90681a1f50147ea4596f5b2",
+      "title": "Rockstar reposted this on instagram showing a recreation of a real life marketing vid but it is actual in game footage",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-w2kwia0vi31i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:zgwdncfug21i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-zgwdncfug21i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/zgwdncfug21i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xtwwx6/",
+            "id": "reddit-nextfuckinglevel-1xtwwx6",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xtwwx6",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T23:19:39Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T23:19:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xtwwx6/",
+      "date_published": "2026-11-11T23:19:39Z",
+      "external_url": "https://v.redd.it/zgwdncfug21i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-zgwdncfug21i1/",
+      "image": "https://external-preview.redd.it/ZjBtbmNxZnVnMjFpMebci9fNhe2PvpTA-_kL9Dr-IW3d-5U0ROV4wLpHHm15.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=832bae178f815eaa1a74fa744cfcedbd83319278",
+      "title": "I spent 9 months light painting this short film",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-zgwdncfug21i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:upjuu03t521i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-upjuu03t521i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/upjuu03t521i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xtvg9u/",
+            "id": "reddit-nextfuckinglevel-1xtvg9u",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xtvg9u",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T22:17:47Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T22:17:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xtvg9u/",
+      "date_published": "2026-11-11T22:17:47Z",
+      "external_url": "https://v.redd.it/upjuu03t521i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-upjuu03t521i1/",
+      "title": "Guitar solo in the studio",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-upjuu03t521i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ozmj23n5521i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ozmj23n5521i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ozmj23n5521i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xtvd56/",
+            "id": "reddit-nextfuckinglevel-1xtvd56",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xtvd56",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T22:14:15Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T22:14:15Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xtvd56/",
+      "date_published": "2026-11-11T22:14:15Z",
+      "external_url": "https://v.redd.it/ozmj23n5521i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ozmj23n5521i1/",
+      "title": "DR3 and Christian O’Connor, Guitar!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ozmj23n5521i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:o3rfaxwq421i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-o3rfaxwq421i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/o3rfaxwq421i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xtvb0m/",
+            "id": "reddit-nextfuckinglevel-1xtvb0m",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xtvb0m",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T22:11:53Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T22:11:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xtvb0m/",
+      "date_published": "2026-11-11T22:11:53Z",
+      "external_url": "https://v.redd.it/o3rfaxwq421i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-o3rfaxwq421i1/",
+      "title": "Next level guitar work",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-o3rfaxwq421i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:rvvwtre2421i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-rvvwtre2421i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/rvvwtre2421i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xtv7ic/",
+            "id": "reddit-nextfuckinglevel-1xtv7ic",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xtv7ic",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T22:08:04Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T22:08:04Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xtv7ic/",
+      "date_published": "2026-11-11T22:08:04Z",
+      "external_url": "https://v.redd.it/rvvwtre2421i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-rvvwtre2421i1/",
+      "title": "Feels Good! Amazing guitar solo",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-rvvwtre2421i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:qy5sqvsuu11i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-qy5sqvsuu11i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/qy5sqvsuu11i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xttwrf/",
+            "id": "reddit-nextfuckinglevel-1xttwrf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xttwrf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T21:15:46Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T21:15:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xttwrf/",
+      "date_published": "2026-11-11T21:15:46Z",
+      "external_url": "https://v.redd.it/qy5sqvsuu11i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-qy5sqvsuu11i1/",
+      "image": "https://external-preview.redd.it/NWxsYTV6c3V1MTFpMU6qvgUN5-q4IHHsRtm4Wu0AAX-BttxsXegxN4mCD-gM.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=886929563861adc3905b34543c8775fa767e3ac5",
+      "title": "no footholds allowed",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-qy5sqvsuu11i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:wevjsymsh11i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-wevjsymsh11i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/wevjsymsh11i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xts1t9/",
+            "id": "reddit-nextfuckinglevel-1xts1t9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xts1t9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T20:02:33Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T20:02:33Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xts1t9/",
+      "date_published": "2026-11-11T20:02:33Z",
+      "external_url": "https://v.redd.it/wevjsymsh11i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-wevjsymsh11i1/",
+      "image": "https://external-preview.redd.it/c2d4ZXJrZ3NoMTFpMWIjyKec1WFcfxTd37wEZI31HKBWBxTMTmQUQK5I22xY.png?width=140&height=78&format=jpg&auto=webp&s=aa2b58ff664bb267385d19c3877ad0a6cc441ece",
+      "title": "Human babies do not fear snakes",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-wevjsymsh11i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:t1kdal9ag11i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-t1kdal9ag11i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/t1kdal9ag11i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xtrtdh/",
+            "id": "reddit-nextfuckinglevel-1xtrtdh",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xtrtdh",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T19:54:03Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T19:54:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xtrtdh/",
+      "date_published": "2026-11-11T19:54:03Z",
+      "external_url": "https://v.redd.it/t1kdal9ag11i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-t1kdal9ag11i1/",
+      "image": "https://external-preview.redd.it/am5nM2txM2FnMTFpMREAdV3EtcEREJfb0BRDFP9uBj8GpSek0luUGK4x4Bjc.png?width=140&height=91&format=jpg&auto=webp&s=71e8b8c36ad45201e1efc78b97f65f428dde5b61",
+      "title": "Apparently female octopuses throw rocks at males when they get annoyed 🙂‍↔️",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-t1kdal9ag11i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:mqt0di8o411i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-mqt0di8o411i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/mqt0di8o411i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xtq2y2/",
+            "id": "reddit-nextfuckinglevel-1xtq2y2",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xtq2y2",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T18:48:59Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T18:48:59Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xtq2y2/",
+      "date_published": "2026-11-11T18:48:59Z",
+      "external_url": "https://v.redd.it/mqt0di8o411i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-mqt0di8o411i1/",
+      "title": "When you take \"cold shower therapy\" way too seriously 🥶",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-mqt0di8o411i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ikl8vcjs901i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ikl8vcjs901i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ikl8vcjs901i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xtle0k/",
+            "id": "reddit-nextfuckinglevel-1xtle0k",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1xtle0k",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-11T15:57:12Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-11T15:57:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xtle0k/",
+      "date_published": "2026-11-11T15:57:12Z",
+      "external_url": "https://v.redd.it/ikl8vcjs901i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ikl8vcjs901i1/",
+      "image": "https://external-preview.redd.it/YTdhc3J6anM5MDFpMVkloxzsovAL0HU-WgGGPKzPmXhbWIG1BFgvbsVyojkd.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=7b93f2aff1f7c9e7cbb4d419cf1a750f39a08c76",
+      "title": "Man is gaming with a paralyzed body using a QuadStick controller operated with his mouth, by sipping and puffing into different air sensors, along with a chin button",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ikl8vcjs901i1/"
     }
   ],
   "title": "Next level",
