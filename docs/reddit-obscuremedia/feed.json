@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 24,
+    "revision": 25,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,63 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:RLv8EjIoQck",
+        "dateBasis": "publication",
+        "itemId": "RLv8EjIoQck",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=RLv8EjIoQck"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xxyomu/",
+            "id": "reddit-obscuremedia-1xxyomu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xxyomu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T19:29:39Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xxyn9x/",
+            "id": "reddit-obscuremedia-1xxyn9x",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xxyn9x",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T19:28:15Z"
+            }
+          }
+        ],
+        "revision": 25,
+        "sortAt": "2026-11-16T19:29:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xxyomu/\nhttps://www.reddit.com/r/obscuremedia/comments/1xxyn9x/",
+      "date_published": "2026-11-16T19:29:39Z",
+      "external_url": "https://www.youtube.com/watch?v=RLv8EjIoQck",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/RLv8EjIoQck/",
+      "image": "https://i.ytimg.com/vi/RLv8EjIoQck/hqdefault.jpg",
+      "title": "Disneyland - February (1958) - 8mm footage",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/RLv8EjIoQck/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:6O8ujY3eTJ4",
@@ -21142,47 +21199,6 @@
       "image": "https://i.ytimg.com/vi/UqRQw79JcRg/hqdefault.jpg",
       "title": "Popcorn! Sounds for ‘73 [Moog obscura- full album] (1973)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/UqRQw79JcRg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:2EiqOLDuVyo",
-        "dateBasis": "publication",
-        "itemId": "2EiqOLDuVyo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=2EiqOLDuVyo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vtnsvm/",
-            "id": "reddit-obscuremedia-1vtnsvm",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vtnsvm",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T16:09:42Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-20T16:09:42Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vtnsvm/",
-      "date_published": "2026-08-20T16:09:42Z",
-      "external_url": "https://www.youtube.com/watch?v=2EiqOLDuVyo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/2EiqOLDuVyo/",
-      "image": "https://i.ytimg.com/vi/2EiqOLDuVyo/hqdefault.jpg",
-      "title": "Wipe My Butt (feat. the Shins) [(2008)]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/2EiqOLDuVyo/"
     }
   ],
   "title": "Obscure finds",
