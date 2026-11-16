@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 36,
+    "itemCount": 40,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 7,
+    "revision": 8,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,174 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:RgMiWMpyjbs",
+        "dateBasis": "publication",
+        "itemId": "RgMiWMpyjbs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=RgMiWMpyjbs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/crime-and-punishment-in-america",
+            "id": "rss-eefed319a245908de67fb42358e55d46",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:49995",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T20:26:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T20:26:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/crime-and-punishment-in-america. Not a verified endorsement.",
+      "date_published": "2026-11-16T20:26:00Z",
+      "external_url": "https://www.youtube.com/watch?v=RgMiWMpyjbs",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/RgMiWMpyjbs/",
+      "image": "https://i.ytimg.com/vi/RgMiWMpyjbs/hqdefault.jpg",
+      "title": "Crime and Punishment in America",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/RgMiWMpyjbs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:cqmmmbhj2PQ",
+        "dateBasis": "publication",
+        "itemId": "cqmmmbhj2PQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=cqmmmbhj2PQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050001-has-been-located",
+            "id": "rss-2b883b5600bce5f63f19461775615401",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50001",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T19:32:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T19:32:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050001-has-been-located. Not a verified endorsement.",
+      "date_published": "2026-11-16T19:32:00Z",
+      "external_url": "https://www.youtube.com/watch?v=cqmmmbhj2PQ",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/cqmmmbhj2PQ/",
+      "image": "https://i.ytimg.com/vi/cqmmmbhj2PQ/hqdefault.jpg",
+      "title": "Quick one: a previously unknown sample from Stardust’s...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/cqmmmbhj2PQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:LGj7ECffGRw",
+        "dateBasis": "publication",
+        "itemId": "LGj7ECffGRw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=LGj7ECffGRw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050005-making-beautiful-porcelai",
+            "id": "rss-0cdf264c5134f1b81c8064b54c0283a5",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50005",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T18:59:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T18:59:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050005-making-beautiful-porcelai. Not a verified endorsement.",
+      "date_published": "2026-11-16T18:59:00Z",
+      "external_url": "https://www.youtube.com/watch?v=LGj7ECffGRw",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/LGj7ECffGRw/",
+      "image": "https://i.ytimg.com/vi/LGj7ECffGRw/hqdefault.jpg",
+      "title": "Making beautiful porcelain cups that are “the color of...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/LGj7ECffGRw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:f0J_EeW42Lo",
+        "dateBasis": "publication",
+        "itemId": "f0J_EeW42Lo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=f0J_EeW42Lo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/what-robert-caro-has-learned-about-power",
+            "id": "rss-46ff7200f1e7f9c5840ab465286f2a5c",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:49994",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T17:42:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T17:42:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/what-robert-caro-has-learned-about-power. Not a verified endorsement.",
+      "date_published": "2026-11-16T17:42:00Z",
+      "external_url": "https://www.youtube.com/watch?v=f0J_EeW42Lo",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/f0J_EeW42Lo/",
+      "image": "https://i.ytimg.com/vi/f0J_EeW42Lo/hqdefault.jpg",
+      "title": "What Robert Caro Has Learned About Power",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/f0J_EeW42Lo/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:c5PnkdpFr9M",
