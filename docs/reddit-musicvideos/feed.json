@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 499,
+    "itemCount": 500,
     "listId": "reddit-musicvideos",
     "publicationEpoch": "reddit-public-20261106-musicvideos",
-    "revision": 19,
+    "revision": 20,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:E-5ZWp0XTvs",
+        "dateBasis": "publication",
+        "itemId": "E-5ZWp0XTvs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=E-5ZWp0XTvs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xy567u/",
+            "id": "reddit-musicvideos-1xy567u",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1xy567u",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T23:46:48Z"
+            }
+          }
+        ],
+        "revision": 20,
+        "sortAt": "2026-11-16T23:46:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xy567u/",
+      "date_published": "2026-11-16T23:46:48Z",
+      "external_url": "https://www.youtube.com/watch?v=E-5ZWp0XTvs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/E-5ZWp0XTvs/",
+      "image": "https://i.ytimg.com/vi/E-5ZWp0XTvs/hqdefault.jpg",
+      "title": "Stray Era - Outside The Net [lo-fi indie pop] [2026]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/E-5ZWp0XTvs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:PbgKEjNBHqM",
+        "dateBasis": "publication",
+        "itemId": "PbgKEjNBHqM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PbgKEjNBHqM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xy4gny/",
+            "id": "reddit-musicvideos-1xy4gny",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1xy4gny",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T23:16:01Z"
+            }
+          }
+        ],
+        "revision": 20,
+        "sortAt": "2026-11-16T23:16:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xy4gny/",
+      "date_published": "2026-11-16T23:16:01Z",
+      "external_url": "https://www.youtube.com/watch?v=PbgKEjNBHqM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/PbgKEjNBHqM/",
+      "image": "https://i.ytimg.com/vi/PbgKEjNBHqM/hqdefault.jpg",
+      "title": "Nirvana - In Bloom [Grunge, Alt-Rock]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/PbgKEjNBHqM/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:oiKj0Z_Xnjc",
@@ -20794,47 +20876,6 @@
       "image": "https://i.ytimg.com/vi/hdhbn5UzJFk/hqdefault.jpg",
       "title": "James Green – Moving Forward [HipHop] [2026] (Official Music Video)",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/hdhbn5UzJFk/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:hcHiozfNGdM",
-        "dateBasis": "publication",
-        "itemId": "hcHiozfNGdM",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=hcHiozfNGdM"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1x0dbkk/",
-            "id": "reddit-musicvideos-1x0dbkk",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1x0dbkk",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-08T00:46:01Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-08T00:46:01Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1x0dbkk/",
-      "date_published": "2026-10-08T00:46:01Z",
-      "external_url": "https://www.youtube.com/watch?v=hcHiozfNGdM",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/hcHiozfNGdM/",
-      "image": "https://i.ytimg.com/vi/hcHiozfNGdM/hqdefault.jpg",
-      "title": "Mötley Crüe - Nobody Knows What It’s Like To Be Lonely [Rock] [2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/hcHiozfNGdM/"
     }
   ],
   "title": "Music videos",

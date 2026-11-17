@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 22,
+    "revision": 23,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -14,19 +14,19 @@
   "items": [
     {
       "_retoob": {
-        "contentKey": "youtube:BBt0G9ZJuQ0",
+        "contentKey": "youtube:9uHoDltafeU",
         "dateBasis": "publication",
-        "itemId": "BBt0G9ZJuQ0",
+        "itemId": "9uHoDltafeU",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=BBt0G9ZJuQ0"
+          "url": "https://www.youtube.com/watch?v=9uHoDltafeU"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xy1mdk/",
-            "id": "reddit-documentaries-1xy1mdk",
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xy41bk/",
+            "id": "reddit-documentaries-1xy41bk",
             "kind": "community",
             "publisher": {
               "name": "r/documentaries",
@@ -34,24 +34,24 @@
             },
             "recommendationBasis": "mention",
             "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1xy1mdk",
+            "upstreamItemId": "1xy41bk",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-16T21:19:49Z"
+              "value": "2026-11-16T22:57:58Z"
             }
           }
         ],
-        "revision": 22,
-        "sortAt": "2026-11-16T21:19:49Z",
+        "revision": 23,
+        "sortAt": "2026-11-16T22:57:58Z",
         "version": 1
       },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xy1mdk/",
-      "date_published": "2026-11-16T21:19:49Z",
-      "external_url": "https://www.youtube.com/watch?v=BBt0G9ZJuQ0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/BBt0G9ZJuQ0/",
-      "image": "https://i.ytimg.com/vi/BBt0G9ZJuQ0/hqdefault.jpg",
-      "title": "Day in the Life of a High School Math Teacher (2026) [10:52]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/BBt0G9ZJuQ0/"
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xy41bk/",
+      "date_published": "2026-11-16T22:57:58Z",
+      "external_url": "https://www.youtube.com/watch?v=9uHoDltafeU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/9uHoDltafeU/",
+      "image": "https://i.ytimg.com/vi/9uHoDltafeU/hqdefault.jpg",
+      "title": "Manson (1973) [01:22:00]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/9uHoDltafeU/"
     },
     {
       "_retoob": {
