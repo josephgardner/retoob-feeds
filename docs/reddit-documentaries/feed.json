@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 23,
+    "revision": 24,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:9PhtiaVBS_Q",
+        "dateBasis": "publication",
+        "itemId": "9PhtiaVBS_Q",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9PhtiaVBS_Q"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xyvrbe/",
+            "id": "reddit-documentaries-1xyvrbe",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xyvrbe",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-17T20:46:53Z"
+            }
+          }
+        ],
+        "revision": 24,
+        "sortAt": "2026-11-17T20:46:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xyvrbe/",
+      "date_published": "2026-11-17T20:46:53Z",
+      "external_url": "https://www.youtube.com/watch?v=9PhtiaVBS_Q",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/9PhtiaVBS_Q/",
+      "image": "https://i.ytimg.com/vi/9PhtiaVBS_Q/hqdefault.jpg",
+      "title": "Ehren Tool Just Makes Cups (2018) - A Marine veteran's decades-long ceramic art project exploring the human cost of war (CC) [00:04:05]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/9PhtiaVBS_Q/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:YVtDtJ5jBS0",
+        "dateBasis": "publication",
+        "itemId": "YVtDtJ5jBS0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=YVtDtJ5jBS0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xyjbqj/",
+            "id": "reddit-documentaries-1xyjbqj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xyjbqj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-17T12:35:12Z"
+            }
+          }
+        ],
+        "revision": 24,
+        "sortAt": "2026-11-17T12:35:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xyjbqj/",
+      "date_published": "2026-11-17T12:35:12Z",
+      "external_url": "https://www.youtube.com/watch?v=YVtDtJ5jBS0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/YVtDtJ5jBS0/",
+      "image": "https://i.ytimg.com/vi/YVtDtJ5jBS0/hqdefault.jpg",
+      "title": "Beyond the Horizon(2026): A Photographer’s Search for Kenya’s Elusive Black Leopard [00:24:55]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/YVtDtJ5jBS0/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:9uHoDltafeU",
@@ -21725,88 +21807,6 @@
       "image": "https://i.ytimg.com/vi/ZnMmr-YR7Cc/hqdefault.jpg",
       "title": "The War Against Firefighter Cancer (2026) [00:11:39]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/ZnMmr-YR7Cc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:V7DnypSoeL0",
-        "dateBasis": "publication",
-        "itemId": "V7DnypSoeL0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=V7DnypSoeL0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vrjvqo/",
-            "id": "reddit-documentaries-1vrjvqo",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vrjvqo",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T09:06:28Z"
-            }
-          }
-        ],
-        "revision": 15,
-        "sortAt": "2026-08-18T09:06:28Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vrjvqo/",
-      "date_published": "2026-08-18T09:06:28Z",
-      "external_url": "https://www.youtube.com/watch?v=V7DnypSoeL0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/V7DnypSoeL0/",
-      "image": "https://i.ytimg.com/vi/V7DnypSoeL0/hqdefault.jpg",
-      "title": "Take Fo' Records Documentary",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/V7DnypSoeL0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:RBnW1u20jWQ",
-        "dateBasis": "publication",
-        "itemId": "RBnW1u20jWQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=RBnW1u20jWQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vrcn1b/",
-            "id": "reddit-documentaries-1vrcn1b",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vrcn1b",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T02:35:15Z"
-            }
-          }
-        ],
-        "revision": 15,
-        "sortAt": "2026-08-18T02:35:15Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vrcn1b/",
-      "date_published": "2026-08-18T02:35:15Z",
-      "external_url": "https://www.youtube.com/watch?v=RBnW1u20jWQ",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/RBnW1u20jWQ/",
-      "image": "https://i.ytimg.com/vi/RBnW1u20jWQ/hqdefault.jpg",
-      "title": "NOVA - The Asteroid and the Dinosaur (1981) [00:57:58] Scientists investigate the then new hypothesis that an asteroid wiped out the dinosaurs",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/RBnW1u20jWQ/"
     }
   ],
   "title": "Documentaries",

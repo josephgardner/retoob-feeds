@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 19,
+    "revision": 20,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:EPQjkr4-q7s",
+        "dateBasis": "publication",
+        "itemId": "EPQjkr4-q7s",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=EPQjkr4-q7s"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xyrkz5/",
+            "id": "reddit-youtubehaiku-1xyrkz5",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xyrkz5",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-17T18:07:01Z"
+            }
+          }
+        ],
+        "revision": 20,
+        "sortAt": "2026-11-17T18:07:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xyrkz5/",
+      "date_published": "2026-11-17T18:07:01Z",
+      "external_url": "https://www.youtube.com/watch?v=EPQjkr4-q7s",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/EPQjkr4-q7s/",
+      "image": "https://i.ytimg.com/vi/EPQjkr4-q7s/hqdefault.jpg",
+      "title": "throwing a potato in the wilderness[meme]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/EPQjkr4-q7s/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ex-KkrUohA0",
+        "dateBasis": "publication",
+        "itemId": "ex-KkrUohA0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ex-KkrUohA0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xypwdh/",
+            "id": "reddit-youtubehaiku-1xypwdh",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xypwdh",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-17T17:04:09Z"
+            }
+          }
+        ],
+        "revision": 20,
+        "sortAt": "2026-11-17T17:04:09Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xypwdh/",
+      "date_published": "2026-11-17T17:04:09Z",
+      "external_url": "https://www.youtube.com/watch?v=ex-KkrUohA0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/ex-KkrUohA0/",
+      "image": "https://i.ytimg.com/vi/ex-KkrUohA0/hqdefault.jpg",
+      "title": "[meme] A Picture Worth a Thousand Votes",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/ex-KkrUohA0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:JmB0PusTvKg",
+        "dateBasis": "publication",
+        "itemId": "JmB0PusTvKg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JmB0PusTvKg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xyjfa4/",
+            "id": "reddit-youtubehaiku-1xyjfa4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xyjfa4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-17T12:40:12Z"
+            }
+          }
+        ],
+        "revision": 20,
+        "sortAt": "2026-11-17T12:40:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xyjfa4/",
+      "date_published": "2026-11-17T12:40:12Z",
+      "external_url": "https://www.youtube.com/watch?v=JmB0PusTvKg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/JmB0PusTvKg/",
+      "image": "https://i.ytimg.com/vi/JmB0PusTvKg/hqdefault.jpg",
+      "title": "[Meme] American Psycho Censored Chinese Ending (Parody)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/JmB0PusTvKg/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:14ulqlbqR5s",
@@ -20932,129 +21055,6 @@
       "image": "https://i.ytimg.com/vi/StvmcVIJVz4/hqdefault.jpg",
       "title": "[Haiku] It is Wednesday, my Homer",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/StvmcVIJVz4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:B0RiRWCey4k",
-        "dateBasis": "publication",
-        "itemId": "B0RiRWCey4k",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=B0RiRWCey4k"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rjmykl/",
-            "id": "reddit-youtubehaiku-1rjmykl",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rjmykl",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-03T11:31:48Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-03T11:31:48Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rjmykl/",
-      "date_published": "2026-03-03T11:31:48Z",
-      "external_url": "https://www.youtube.com/watch?v=B0RiRWCey4k",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/B0RiRWCey4k/",
-      "image": "https://i.ytimg.com/vi/B0RiRWCey4k/hqdefault.jpg",
-      "title": "[Poetry] poochini please stop dancing",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/B0RiRWCey4k/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:RWcwhiiaUF4",
-        "dateBasis": "publication",
-        "itemId": "RWcwhiiaUF4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=RWcwhiiaUF4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rj5y9d/",
-            "id": "reddit-youtubehaiku-1rj5y9d",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rj5y9d",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-02T21:32:47Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-02T21:32:47Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rj5y9d/",
-      "date_published": "2026-03-02T21:32:47Z",
-      "external_url": "https://www.youtube.com/watch?v=RWcwhiiaUF4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/RWcwhiiaUF4/",
-      "image": "https://i.ytimg.com/vi/RWcwhiiaUF4/hqdefault.jpg",
-      "title": "[poetry] Tommy looks after his neighbor's pet.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/RWcwhiiaUF4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:sWTQcq4mH2A",
-        "dateBasis": "publication",
-        "itemId": "sWTQcq4mH2A",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=sWTQcq4mH2A"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rizs1s/",
-            "id": "reddit-youtubehaiku-1rizs1s",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rizs1s",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-02T17:50:25Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-02T17:50:25Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rizs1s/",
-      "date_published": "2026-03-02T17:50:25Z",
-      "external_url": "https://www.youtube.com/watch?v=sWTQcq4mH2A",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/sWTQcq4mH2A/",
-      "image": "https://i.ytimg.com/vi/sWTQcq4mH2A/hqdefault.jpg",
-      "title": "[Haiku] Watch: Trump's Statement on U.S. Strikes Against Iran",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/sWTQcq4mH2A/"
     }
   ],
   "title": "Quick clips",
