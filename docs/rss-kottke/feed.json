@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 40,
+    "itemCount": 50,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 8,
+    "revision": 9,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,426 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:tEA33fzbE_Y",
+        "dateBasis": "publication",
+        "itemId": "tEA33fzbE_Y",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=tEA33fzbE_Y"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-1377aba43496347865b09e7680c00753",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=tEA33fzbE_Y",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/tEA33fzbE_Y/",
+      "image": "https://i.ytimg.com/vi/tEA33fzbE_Y/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/tEA33fzbE_Y/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:srTGyytP_i4",
+        "dateBasis": "publication",
+        "itemId": "srTGyytP_i4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=srTGyytP_i4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-0ec34338a8afcc30a0ccffd84086cff0",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=srTGyytP_i4",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/srTGyytP_i4/",
+      "image": "https://i.ytimg.com/vi/srTGyytP_i4/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/srTGyytP_i4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ZlN4YB27YQk",
+        "dateBasis": "publication",
+        "itemId": "ZlN4YB27YQk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZlN4YB27YQk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-1c1000fb34bc23d9eee05e43fd1aef97",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=ZlN4YB27YQk",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/ZlN4YB27YQk/",
+      "image": "https://i.ytimg.com/vi/ZlN4YB27YQk/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/ZlN4YB27YQk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Wjt6iUaLwE0",
+        "dateBasis": "publication",
+        "itemId": "Wjt6iUaLwE0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Wjt6iUaLwE0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-bf5fdbd479890e0eca552f9f7ca75ec7",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=Wjt6iUaLwE0",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/Wjt6iUaLwE0/",
+      "image": "https://i.ytimg.com/vi/Wjt6iUaLwE0/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/Wjt6iUaLwE0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:VG1IyBbBY0I",
+        "dateBasis": "publication",
+        "itemId": "VG1IyBbBY0I",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VG1IyBbBY0I"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-f59d6dccc893f9b6c1448e27fba3c975",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=VG1IyBbBY0I",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/VG1IyBbBY0I/",
+      "image": "https://i.ytimg.com/vi/VG1IyBbBY0I/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/VG1IyBbBY0I/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:TybqdFFOmcs",
+        "dateBasis": "publication",
+        "itemId": "TybqdFFOmcs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=TybqdFFOmcs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-9435d26115b89ec756041beaf16a8a23",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=TybqdFFOmcs",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/TybqdFFOmcs/",
+      "image": "https://i.ytimg.com/vi/TybqdFFOmcs/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/TybqdFFOmcs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:OqWmYRZH5_w",
+        "dateBasis": "publication",
+        "itemId": "OqWmYRZH5_w",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OqWmYRZH5_w"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-1d845e47ccb3cf5c79694cd4396792a8",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=OqWmYRZH5_w",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/OqWmYRZH5_w/",
+      "image": "https://i.ytimg.com/vi/OqWmYRZH5_w/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/OqWmYRZH5_w/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:I7XBlXxLFCM",
+        "dateBasis": "publication",
+        "itemId": "I7XBlXxLFCM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=I7XBlXxLFCM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-559713eb7236de303f7594a029e70667",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=I7XBlXxLFCM",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/I7XBlXxLFCM/",
+      "image": "https://i.ytimg.com/vi/I7XBlXxLFCM/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/I7XBlXxLFCM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:AiWqBGd5XE8",
+        "dateBasis": "publication",
+        "itemId": "AiWqBGd5XE8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=AiWqBGd5XE8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-f709637e8cf8327b55a6c344f34f15a1",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=AiWqBGd5XE8",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/AiWqBGd5XE8/",
+      "image": "https://i.ytimg.com/vi/AiWqBGd5XE8/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/AiWqBGd5XE8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:8jw-0DHnOgc",
+        "dateBasis": "publication",
+        "itemId": "8jw-0DHnOgc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8jw-0DHnOgc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050007-waves",
+            "id": "rss-fae66a11cee2774a0890024c14413fb9",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-16:50007",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-16T22:38:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-16T22:38:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050007-waves. Not a verified endorsement.",
+      "date_published": "2026-11-16T22:38:00Z",
+      "external_url": "https://www.youtube.com/watch?v=8jw-0DHnOgc",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/8jw-0DHnOgc/",
+      "image": "https://i.ytimg.com/vi/8jw-0DHnOgc/hqdefault.jpg",
+      "title": "Waves have been in the news lately: El Niño battering the...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/8jw-0DHnOgc/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:RgMiWMpyjbs",
