@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 50,
+    "itemCount": 56,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 9,
+    "revision": 10,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:eLuySKwDvhM",
+        "dateBasis": "publication",
+        "itemId": "eLuySKwDvhM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=eLuySKwDvhM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0049996-trailer-for-a-new-documen",
+            "id": "rss-5c739e2fabee330eb97ac6fd74d38b7c",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-17:49996",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-17T19:56:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-17T19:56:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0049996-trailer-for-a-new-documen. Not a verified endorsement.",
+      "date_published": "2026-11-17T19:56:00Z",
+      "external_url": "https://www.youtube.com/watch?v=eLuySKwDvhM",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/eLuySKwDvhM/",
+      "image": "https://i.ytimg.com/vi/eLuySKwDvhM/hqdefault.jpg",
+      "title": "Trailer for a new documentary on Jean-Michel Basquiat....",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/eLuySKwDvhM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1AdRE5qFzuE",
+        "dateBasis": "publication",
+        "itemId": "1AdRE5qFzuE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1AdRE5qFzuE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/why-rich-people-used-to-collect-unicorn-horns",
+            "id": "rss-69663a2315cd06a0c267cdaed4348ac0",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-17:50021",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-17T17:10:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-17T17:10:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/why-rich-people-used-to-collect-unicorn-horns. Not a verified endorsement.",
+      "date_published": "2026-11-17T17:10:00Z",
+      "external_url": "https://www.youtube.com/watch?v=1AdRE5qFzuE",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/1AdRE5qFzuE/",
+      "image": "https://i.ytimg.com/vi/1AdRE5qFzuE/hqdefault.jpg",
+      "title": "Why Rich People Used To Collect Unicorn Horns",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/1AdRE5qFzuE/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:tEA33fzbE_Y",
@@ -1985,6 +2069,174 @@
       "image": "https://i.ytimg.com/vi/3n115MgLFz0/hqdefault.jpg",
       "title": "What’s the largest tweetable number? You’ve got 280...",
       "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/3n115MgLFz0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:mL2r6E1E7sM",
+        "dateBasis": "publication",
+        "itemId": "mL2r6E1E7sM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=mL2r6E1E7sM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong",
+            "id": "rss-32a66406bf0be76d3dea12969ee9587b",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2019-07-02:34873",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2019-07-02T14:38:13Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2019-07-02T14:38:13Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong. Not a verified endorsement.",
+      "date_published": "2019-07-02T14:38:13Z",
+      "external_url": "https://www.youtube.com/watch?v=mL2r6E1E7sM",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/mL2r6E1E7sM/",
+      "image": "https://i.ytimg.com/vi/mL2r6E1E7sM/hqdefault.jpg",
+      "title": "The Otherworldly Sounds of a Giant Gong",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/mL2r6E1E7sM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:LbVtXkVIAk8",
+        "dateBasis": "publication",
+        "itemId": "LbVtXkVIAk8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=LbVtXkVIAk8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong",
+            "id": "rss-9cfefe68f380c026b6c7aa83b79a2018",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2019-07-02:34873",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2019-07-02T14:38:13Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2019-07-02T14:38:13Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong. Not a verified endorsement.",
+      "date_published": "2019-07-02T14:38:13Z",
+      "external_url": "https://www.youtube.com/watch?v=LbVtXkVIAk8",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/LbVtXkVIAk8/",
+      "image": "https://i.ytimg.com/vi/LbVtXkVIAk8/hqdefault.jpg",
+      "title": "The Otherworldly Sounds of a Giant Gong",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/LbVtXkVIAk8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:KYNKFJr8bSA",
+        "dateBasis": "publication",
+        "itemId": "KYNKFJr8bSA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KYNKFJr8bSA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong",
+            "id": "rss-7e32e7baa98661ab30caafca01b03832",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2019-07-02:34873",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2019-07-02T14:38:13Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2019-07-02T14:38:13Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong. Not a verified endorsement.",
+      "date_published": "2019-07-02T14:38:13Z",
+      "external_url": "https://www.youtube.com/watch?v=KYNKFJr8bSA",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/KYNKFJr8bSA/",
+      "image": "https://i.ytimg.com/vi/KYNKFJr8bSA/hqdefault.jpg",
+      "title": "The Otherworldly Sounds of a Giant Gong",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/KYNKFJr8bSA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:FS3_UDNEbG0",
+        "dateBasis": "publication",
+        "itemId": "FS3_UDNEbG0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=FS3_UDNEbG0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong",
+            "id": "rss-f5ac9133952dde2f9da9c8d61be6a008",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2019-07-02:34873",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2019-07-02T14:38:13Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2019-07-02T14:38:13Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/19/07/the-otherworldly-sounds-of-a-giant-gong. Not a verified endorsement.",
+      "date_published": "2019-07-02T14:38:13Z",
+      "external_url": "https://www.youtube.com/watch?v=FS3_UDNEbG0",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/FS3_UDNEbG0/",
+      "image": "https://i.ytimg.com/vi/FS3_UDNEbG0/hqdefault.jpg",
+      "title": "The Otherworldly Sounds of a Giant Gong",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/FS3_UDNEbG0/"
     },
     {
       "_retoob": {
