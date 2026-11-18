@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 56,
+    "itemCount": 57,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 10,
+    "revision": 11,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:KInfw7kCPkc",
+        "dateBasis": "publication",
+        "itemId": "KInfw7kCPkc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KInfw7kCPkc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050026-the-teaser-trailer-for-th",
+            "id": "rss-021b90470078104067ad5e2974cba35c",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-17:50026",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T02:57:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T02:57:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050026-the-teaser-trailer-for-th. Not a verified endorsement.",
+      "date_published": "2026-11-18T02:57:00Z",
+      "external_url": "https://www.youtube.com/watch?v=KInfw7kCPkc",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/KInfw7kCPkc/",
+      "image": "https://i.ytimg.com/vi/KInfw7kCPkc/hqdefault.jpg",
+      "title": "Oooh, finally! The teaser trailer for the second season...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/KInfw7kCPkc/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:eLuySKwDvhM",
