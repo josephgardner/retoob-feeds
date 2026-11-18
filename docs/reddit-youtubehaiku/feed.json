@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 20,
+    "revision": 21,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:97f3fk7hnco",
+        "dateBasis": "publication",
+        "itemId": "97f3fk7hnco",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=97f3fk7hnco"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xzi0pz/",
+            "id": "reddit-youtubehaiku-1xzi0pz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xzi0pz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T15:28:16Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-18T15:28:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xzi0pz/",
+      "date_published": "2026-11-18T15:28:16Z",
+      "external_url": "https://www.youtube.com/watch?v=97f3fk7hnco",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/97f3fk7hnco/",
+      "image": "https://i.ytimg.com/vi/97f3fk7hnco/hqdefault.jpg",
+      "title": "[haiku] Star Wars Episode III: Mace Windu's death redub",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/97f3fk7hnco/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:J9TmUPGGIeI",
+        "dateBasis": "publication",
+        "itemId": "J9TmUPGGIeI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=J9TmUPGGIeI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1xzc2fv/",
+            "id": "reddit-youtubehaiku-1xzc2fv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1xzc2fv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T10:39:05Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-18T10:39:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1xzc2fv/",
+      "date_published": "2026-11-18T10:39:05Z",
+      "external_url": "https://www.youtube.com/watch?v=J9TmUPGGIeI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/J9TmUPGGIeI/",
+      "image": "https://i.ytimg.com/vi/J9TmUPGGIeI/hqdefault.jpg",
+      "title": "[poetry] Grand Theft Auto | The Movie",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/J9TmUPGGIeI/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:EPQjkr4-q7s",
@@ -20973,88 +21055,6 @@
       "image": "https://i.ytimg.com/vi/m65wGFV3WWo/hqdefault.jpg",
       "title": "[Haiku] Bullseye",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/m65wGFV3WWo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:HU492NdjZAA",
-        "dateBasis": "publication",
-        "itemId": "HU492NdjZAA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=HU492NdjZAA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rl74td/",
-            "id": "reddit-youtubehaiku-1rl74td",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rl74td",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-05T03:48:33Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-05T03:48:33Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rl74td/",
-      "date_published": "2026-03-05T03:48:33Z",
-      "external_url": "https://www.youtube.com/watch?v=HU492NdjZAA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/HU492NdjZAA/",
-      "image": "https://i.ytimg.com/vi/HU492NdjZAA/hqdefault.jpg",
-      "title": "[Haiku] how did work go?",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/HU492NdjZAA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:StvmcVIJVz4",
-        "dateBasis": "publication",
-        "itemId": "StvmcVIJVz4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=StvmcVIJVz4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rkda23/",
-            "id": "reddit-youtubehaiku-1rkda23",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rkda23",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-04T05:42:15Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-04T05:42:15Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rkda23/",
-      "date_published": "2026-03-04T05:42:15Z",
-      "external_url": "https://www.youtube.com/watch?v=StvmcVIJVz4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/StvmcVIJVz4/",
-      "image": "https://i.ytimg.com/vi/StvmcVIJVz4/hqdefault.jpg",
-      "title": "[Haiku] It is Wednesday, my Homer",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/StvmcVIJVz4/"
     }
   ],
   "title": "Quick clips",

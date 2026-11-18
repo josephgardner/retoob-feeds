@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 25,
+    "revision": 26,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:FT7R9pNwXF8",
+        "dateBasis": "publication",
+        "itemId": "FT7R9pNwXF8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=FT7R9pNwXF8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xzpvd7/",
+            "id": "reddit-documentaries-1xzpvd7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xzpvd7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T20:26:55Z"
+            }
+          }
+        ],
+        "revision": 26,
+        "sortAt": "2026-11-18T20:26:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xzpvd7/",
+      "date_published": "2026-11-18T20:26:55Z",
+      "external_url": "https://www.youtube.com/watch?v=FT7R9pNwXF8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/FT7R9pNwXF8/",
+      "image": "https://i.ytimg.com/vi/FT7R9pNwXF8/hqdefault.jpg",
+      "title": "From Balfour to Banksy (2017) – A Century of British Involvement in Palestine, Occupation and Resistance Through Art [01:12:00]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/FT7R9pNwXF8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:lx-Fn432FPk",
+        "dateBasis": "publication",
+        "itemId": "lx-Fn432FPk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=lx-Fn432FPk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xzb1tp/",
+            "id": "reddit-documentaries-1xzb1tp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xzb1tp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T09:33:41Z"
+            }
+          }
+        ],
+        "revision": 26,
+        "sortAt": "2026-11-18T09:33:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xzb1tp/",
+      "date_published": "2026-11-18T09:33:41Z",
+      "external_url": "https://www.youtube.com/watch?v=lx-Fn432FPk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/lx-Fn432FPk/",
+      "image": "https://i.ytimg.com/vi/lx-Fn432FPk/hqdefault.jpg",
+      "title": "Voyager 2: One Wrong Command (2026) - In 2023 NASA accidentally turned Voyager 2’s antenna 2 degrees away from Earth and lost contact with the only spacecraft to ever visit Uranus and Neptune [00:19:20]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/lx-Fn432FPk/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:PA68Ehs8Wps",
@@ -21709,88 +21791,6 @@
       "image": "https://i.ytimg.com/vi/6QpOO7nOSjY/hqdefault.jpg",
       "title": "The Hidden History of Salt Lake City's Japantown (2026) [00:11:16]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/6QpOO7nOSjY/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:azgQFaVmBHY",
-        "dateBasis": "publication",
-        "itemId": "azgQFaVmBHY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=azgQFaVmBHY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vs959g/",
-            "id": "reddit-documentaries-1vs959g",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vs959g",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T02:05:23Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-19T02:05:23Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vs959g/",
-      "date_published": "2026-08-19T02:05:23Z",
-      "external_url": "https://www.youtube.com/watch?v=azgQFaVmBHY",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/azgQFaVmBHY/",
-      "image": "https://i.ytimg.com/vi/azgQFaVmBHY/hqdefault.jpg",
-      "title": "Fourteen Days in May(1987)[1:25:00] a look into the fourteen Days prior to the execution of Edward Earl Johnson",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/azgQFaVmBHY/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:bJqH1WYpn08",
-        "dateBasis": "publication",
-        "itemId": "bJqH1WYpn08",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=bJqH1WYpn08"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vrxytk/",
-            "id": "reddit-documentaries-1vrxytk",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vrxytk",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T18:40:05Z"
-            }
-          }
-        ],
-        "revision": 15,
-        "sortAt": "2026-08-18T18:40:05Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vrxytk/",
-      "date_published": "2026-08-18T18:40:05Z",
-      "external_url": "https://www.youtube.com/watch?v=bJqH1WYpn08",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/bJqH1WYpn08/",
-      "image": "https://i.ytimg.com/vi/bJqH1WYpn08/hqdefault.jpg",
-      "title": "The Subway That Never Ran a Train (2026) — In 1920, Cincinnati built two miles of subway and four stations. No train ever came. Assembled from the city engineer's archival photographs. [12:43]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/bJqH1WYpn08/"
     }
   ],
   "title": "Documentaries",
