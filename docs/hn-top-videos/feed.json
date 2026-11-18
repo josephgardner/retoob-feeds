@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 6,
+    "itemCount": 9,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 29,
+    "revision": 30,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -14,19 +14,19 @@
   "items": [
     {
       "_retoob": {
-        "contentKey": "youtube:tl9yUNqVZrQ",
+        "contentKey": "youtube:ufeJbTNq-BI",
         "dateBasis": "publication",
-        "itemId": "tl9yUNqVZrQ",
+        "itemId": "ufeJbTNq-BI",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=tl9yUNqVZrQ"
+          "url": "https://www.youtube.com/watch?v=ufeJbTNq-BI"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50540998",
-            "id": "hn-50540998",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50550448",
+            "id": "hn-50550448",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -35,24 +35,150 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50540998",
+            "upstreamItemId": "50550448",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-18T02:10:39Z"
+              "value": "2026-11-18T18:52:19Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-18T02:10:39Z",
+        "sortAt": "2026-11-18T18:52:19Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50540998. Not a verified endorsement.",
-      "date_published": "2026-11-18T02:10:39Z",
-      "external_url": "https://www.youtube.com/watch?v=tl9yUNqVZrQ",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/tl9yUNqVZrQ/",
-      "image": "https://i.ytimg.com/vi/tl9yUNqVZrQ/hqdefault.jpg",
-      "title": "New Analysis of Epstein's Autopsy Challenges Official Cause of Death [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/tl9yUNqVZrQ/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50550448. Not a verified endorsement.",
+      "date_published": "2026-11-18T18:52:19Z",
+      "external_url": "https://www.youtube.com/watch?v=ufeJbTNq-BI",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/ufeJbTNq-BI/",
+      "image": "https://i.ytimg.com/vi/ufeJbTNq-BI/hqdefault.jpg",
+      "title": "Artificial (movie about OpenAI) official trailer [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/ufeJbTNq-BI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:KrVH-MKJviI",
+        "dateBasis": "publication",
+        "itemId": "KrVH-MKJviI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KrVH-MKJviI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50548057",
+            "id": "hn-50548057",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50548057",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T16:11:25Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T16:11:25Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50548057. Not a verified endorsement.",
+      "date_published": "2026-11-18T16:11:25Z",
+      "external_url": "https://www.youtube.com/watch?v=KrVH-MKJviI",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/KrVH-MKJviI/",
+      "image": "https://i.ytimg.com/vi/KrVH-MKJviI/hqdefault.jpg",
+      "title": "All civilizational wealth comes from invention",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/KrVH-MKJviI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:-TLCGUpoD6c",
+        "dateBasis": "publication",
+        "itemId": "-TLCGUpoD6c",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50547048",
+            "id": "hn-50547048",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50547048",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T14:56:04Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T14:56:04Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50547048. Not a verified endorsement.",
+      "date_published": "2026-11-18T14:56:04Z",
+      "external_url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/-TLCGUpoD6c/",
+      "image": "https://i.ytimg.com/vi/-TLCGUpoD6c/hqdefault.jpg",
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/-TLCGUpoD6c/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:qsBU0bcpONA",
+        "dateBasis": "publication",
+        "itemId": "qsBU0bcpONA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qsBU0bcpONA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50546999",
+            "id": "hn-50546999",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50546999",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T14:51:01Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T14:51:01Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50546999. Not a verified endorsement.",
+      "date_published": "2026-11-18T14:51:01Z",
+      "external_url": "https://www.youtube.com/watch?v=qsBU0bcpONA",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/qsBU0bcpONA/",
+      "image": "https://i.ytimg.com/vi/qsBU0bcpONA/hqdefault.jpg",
+      "title": "Grand Theft Auto 6: Digital Foundry Tech Review [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/qsBU0bcpONA/"
     },
     {
       "_retoob": {
@@ -140,6 +266,48 @@
     },
     {
       "_retoob": {
+        "contentKey": "youtube:I1rlK3BKmyA",
+        "dateBasis": "publication",
+        "itemId": "I1rlK3BKmyA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50507474",
+            "id": "hn-50507474",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50507474",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T15:13:10Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-15T15:13:10Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50507474. Not a verified endorsement.",
+      "date_published": "2026-11-15T15:13:10Z",
+      "external_url": "https://www.youtube.com/watch?v=I1rlK3BKmyA",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/I1rlK3BKmyA/",
+      "image": "https://i.ytimg.com/vi/I1rlK3BKmyA/hqdefault.jpg",
+      "title": "Alkaline batteries are obsolete – but not for the reason you'd think [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/I1rlK3BKmyA/"
+    },
+    {
+      "_retoob": {
         "contentKey": "youtube:IRK8h67ol7Q",
         "dateBasis": "publication",
         "itemId": "IRK8h67ol7Q",
@@ -221,48 +389,6 @@
       "image": "https://i.ytimg.com/vi/WPj3aQ-xxpI/hqdefault.jpg",
       "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/WPj3aQ-xxpI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:PHOcTXYaMfg",
-        "dateBasis": "publication",
-        "itemId": "PHOcTXYaMfg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50408336",
-            "id": "hn-50408336",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50408336",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-07T21:45:50Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-07T21:45:50Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50408336. Not a verified endorsement.",
-      "date_published": "2026-11-07T21:45:50Z",
-      "external_url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/PHOcTXYaMfg/",
-      "image": "https://i.ytimg.com/vi/PHOcTXYaMfg/hqdefault.jpg",
-      "title": "Billion Watts in the Speaker [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/PHOcTXYaMfg/"
     }
   ],
   "title": "Top on HN",
