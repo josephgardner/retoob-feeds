@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 24,
+    "revision": 25,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -14,19 +14,19 @@
   "items": [
     {
       "_retoob": {
-        "contentKey": "youtube:9PhtiaVBS_Q",
+        "contentKey": "youtube:PA68Ehs8Wps",
         "dateBasis": "publication",
-        "itemId": "9PhtiaVBS_Q",
+        "itemId": "PA68Ehs8Wps",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=9PhtiaVBS_Q"
+          "url": "https://www.youtube.com/watch?v=PA68Ehs8Wps"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xyvrbe/",
-            "id": "reddit-documentaries-1xyvrbe",
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xz4k9o/",
+            "id": "reddit-documentaries-1xz4k9o",
             "kind": "community",
             "publisher": {
               "name": "r/documentaries",
@@ -34,24 +34,106 @@
             },
             "recommendationBasis": "mention",
             "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1xyvrbe",
+            "upstreamItemId": "1xz4k9o",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-17T20:46:53Z"
+              "value": "2026-11-18T03:13:11Z"
             }
           }
         ],
-        "revision": 24,
-        "sortAt": "2026-11-17T20:46:53Z",
+        "revision": 25,
+        "sortAt": "2026-11-18T03:13:11Z",
         "version": 1
       },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xyvrbe/",
-      "date_published": "2026-11-17T20:46:53Z",
-      "external_url": "https://www.youtube.com/watch?v=9PhtiaVBS_Q",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/9PhtiaVBS_Q/",
-      "image": "https://i.ytimg.com/vi/9PhtiaVBS_Q/hqdefault.jpg",
-      "title": "Ehren Tool Just Makes Cups (2018) - A Marine veteran's decades-long ceramic art project exploring the human cost of war (CC) [00:04:05]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/9PhtiaVBS_Q/"
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xz4k9o/",
+      "date_published": "2026-11-18T03:13:11Z",
+      "external_url": "https://www.youtube.com/watch?v=PA68Ehs8Wps",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/PA68Ehs8Wps/",
+      "image": "https://i.ytimg.com/vi/PA68Ehs8Wps/hqdefault.jpg",
+      "title": "The Landscape (2026) A documentary about the staff of a TV talk show dealing with the show’s cancellation and the loss of their jobs. (CC) [21:07]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/PA68Ehs8Wps/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ebuKaY0KIbI",
+        "dateBasis": "publication",
+        "itemId": "ebuKaY0KIbI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ebuKaY0KIbI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xz28px/",
+            "id": "reddit-documentaries-1xz28px",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xz28px",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T01:21:54Z"
+            }
+          }
+        ],
+        "revision": 25,
+        "sortAt": "2026-11-18T01:21:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xz28px/",
+      "date_published": "2026-11-18T01:21:54Z",
+      "external_url": "https://www.youtube.com/watch?v=ebuKaY0KIbI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/ebuKaY0KIbI/",
+      "image": "https://i.ytimg.com/vi/ebuKaY0KIbI/hqdefault.jpg",
+      "title": "4 Little Girls (1997) [01:34:47]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/ebuKaY0KIbI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:PkheFEsHyMA",
+        "dateBasis": "publication",
+        "itemId": "PkheFEsHyMA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PkheFEsHyMA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xyzw11/",
+            "id": "reddit-documentaries-1xyzw11",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xyzw11",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-17T23:36:12Z"
+            }
+          }
+        ],
+        "revision": 25,
+        "sortAt": "2026-11-17T23:36:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xyzw11/",
+      "date_published": "2026-11-17T23:36:12Z",
+      "external_url": "https://www.youtube.com/watch?v=PkheFEsHyMA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/PkheFEsHyMA/",
+      "image": "https://i.ytimg.com/vi/PkheFEsHyMA/hqdefault.jpg",
+      "title": "The Encampments (2025) - Inside the Gaza solidarity protests at Columbia University, featuring student activist Mahmoud Khalil. Executive produced by Macklemore. Al Jazeera broadcast edition [00:47:24]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/PkheFEsHyMA/"
     },
     {
       "_retoob": {
@@ -21709,104 +21791,6 @@
       "image": "https://i.ytimg.com/vi/bJqH1WYpn08/hqdefault.jpg",
       "title": "The Subway That Never Ran a Train (2026) — In 1920, Cincinnati built two miles of subway and four stations. No train ever came. Assembled from the city engineer's archival photographs. [12:43]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/bJqH1WYpn08/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:8uOk_VVei9Q",
-        "dateBasis": "publication",
-        "itemId": "8uOk_VVei9Q",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=8uOk_VVei9Q"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vruzgx/",
-            "id": "reddit-documentaries-1vruzgx",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vruzgx",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T16:55:52Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vruqd4/",
-            "id": "reddit-documentaries-1vruqd4",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vruqd4",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T16:47:24Z"
-            }
-          }
-        ],
-        "revision": 15,
-        "sortAt": "2026-08-18T16:55:52Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vruzgx/\nhttps://www.reddit.com/r/documentaries/comments/1vruqd4/",
-      "date_published": "2026-08-18T16:55:52Z",
-      "external_url": "https://www.youtube.com/watch?v=8uOk_VVei9Q",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/8uOk_VVei9Q/",
-      "image": "https://i.ytimg.com/vi/8uOk_VVei9Q/hqdefault.jpg",
-      "title": "Bouncy Brothers (2026) - He Bet It All on Bouncy Castles, His Brother Had to Save Him [19:50]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/8uOk_VVei9Q/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:ZnMmr-YR7Cc",
-        "dateBasis": "publication",
-        "itemId": "ZnMmr-YR7Cc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ZnMmr-YR7Cc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vrl0lc/",
-            "id": "reddit-documentaries-1vrl0lc",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vrl0lc",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-18T10:12:32Z"
-            }
-          }
-        ],
-        "revision": 15,
-        "sortAt": "2026-08-18T10:12:32Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vrl0lc/",
-      "date_published": "2026-08-18T10:12:32Z",
-      "external_url": "https://www.youtube.com/watch?v=ZnMmr-YR7Cc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/ZnMmr-YR7Cc/",
-      "image": "https://i.ytimg.com/vi/ZnMmr-YR7Cc/hqdefault.jpg",
-      "title": "The War Against Firefighter Cancer (2026) [00:11:39]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/ZnMmr-YR7Cc/"
     }
   ],
   "title": "Documentaries",

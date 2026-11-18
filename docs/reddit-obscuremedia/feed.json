@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 27,
+    "revision": 28,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:Kzx6Qkb-gaY",
+        "dateBasis": "publication",
+        "itemId": "Kzx6Qkb-gaY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Kzx6Qkb-gaY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xz74lk/",
+            "id": "reddit-obscuremedia-1xz74lk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xz74lk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T05:27:46Z"
+            }
+          }
+        ],
+        "revision": 28,
+        "sortAt": "2026-11-18T05:27:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xz74lk/",
+      "date_published": "2026-11-18T05:27:46Z",
+      "external_url": "https://www.youtube.com/watch?v=Kzx6Qkb-gaY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Kzx6Qkb-gaY/",
+      "image": "https://i.ytimg.com/vi/Kzx6Qkb-gaY/hqdefault.jpg",
+      "title": "Stone Dagger - Cassette (2013)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Kzx6Qkb-gaY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:663CcckVuxk",
+        "dateBasis": "publication",
+        "itemId": "663CcckVuxk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=663CcckVuxk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xz5mcr/",
+            "id": "reddit-obscuremedia-1xz5mcr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xz5mcr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T04:07:25Z"
+            }
+          }
+        ],
+        "revision": 28,
+        "sortAt": "2026-11-18T04:07:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xz5mcr/",
+      "date_published": "2026-11-18T04:07:25Z",
+      "external_url": "https://www.youtube.com/watch?v=663CcckVuxk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/663CcckVuxk/",
+      "image": "https://i.ytimg.com/vi/663CcckVuxk/hqdefault.jpg",
+      "title": "Qiqihao Cruiser - Chinese Kid's Puppet show(1987)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/663CcckVuxk/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:m4BdMmVsg88",
@@ -21117,88 +21199,6 @@
       "image": "https://i.ytimg.com/vi/XpgprK1pfug/hqdefault.jpg",
       "title": "Garden of Delight - blessed minutes (1984) Norway Goth Rock",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/XpgprK1pfug/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:7Zgy-xU3ap4",
-        "dateBasis": "publication",
-        "itemId": "7Zgy-xU3ap4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=7Zgy-xU3ap4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vusbsg/",
-            "id": "reddit-obscuremedia-1vusbsg",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vusbsg",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-21T20:52:56Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-21T20:52:56Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vusbsg/",
-      "date_published": "2026-08-21T20:52:56Z",
-      "external_url": "https://www.youtube.com/watch?v=7Zgy-xU3ap4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/7Zgy-xU3ap4/",
-      "image": "https://i.ytimg.com/vi/7Zgy-xU3ap4/hqdefault.jpg",
-      "title": "Bulldozer - Whisky Time (1985)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/7Zgy-xU3ap4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:uOs8vy3cgAs",
-        "dateBasis": "publication",
-        "itemId": "uOs8vy3cgAs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=uOs8vy3cgAs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vurnoa/",
-            "id": "reddit-obscuremedia-1vurnoa",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vurnoa",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-21T20:26:51Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-21T20:26:51Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vurnoa/",
-      "date_published": "2026-08-21T20:26:51Z",
-      "external_url": "https://www.youtube.com/watch?v=uOs8vy3cgAs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/uOs8vy3cgAs/",
-      "image": "https://i.ytimg.com/vi/uOs8vy3cgAs/hqdefault.jpg",
-      "title": "I Am Not An Animal (2004) — This is the first episode of an adult cartoon that aired on the BBC for a month in 2004 before it was cancelled. It’s about a group of talking animals who are broken out of the testing facility that they were living in, and how they then navigate the outside world.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/uOs8vy3cgAs/"
     }
   ],
   "title": "Obscure finds",

@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 206,
+    "itemCount": 244,
     "listId": "reddit-mealtimevideos",
     "publicationEpoch": "reddit-public-20261106-mealtimevideos",
-    "revision": 4,
+    "revision": 5,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:L6XIoiq2qNI",
+        "dateBasis": "publication",
+        "itemId": "L6XIoiq2qNI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=L6XIoiq2qNI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xz75v1/",
+            "id": "reddit-mealtimevideos-1xz75v1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xz75v1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T05:29:37Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-11-18T05:29:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xz75v1/",
+      "date_published": "2026-11-18T05:29:37Z",
+      "external_url": "https://www.youtube.com/watch?v=L6XIoiq2qNI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/L6XIoiq2qNI/",
+      "image": "https://i.ytimg.com/vi/L6XIoiq2qNI/hqdefault.jpg",
+      "title": "How much did GTA 6 actually cost to make? [6:45]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/L6XIoiq2qNI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:82Xv_bPVtpU",
+        "dateBasis": "publication",
+        "itemId": "82Xv_bPVtpU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=82Xv_bPVtpU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xz6q80/",
+            "id": "reddit-mealtimevideos-1xz6q80",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xz6q80",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T05:06:30Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-11-18T05:06:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xz6q80/",
+      "date_published": "2026-11-18T05:06:30Z",
+      "external_url": "https://www.youtube.com/watch?v=82Xv_bPVtpU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/82Xv_bPVtpU/",
+      "image": "https://i.ytimg.com/vi/82Xv_bPVtpU/hqdefault.jpg",
+      "title": "\"Bernie Sanders Grills Claude AI Over Data Privacy And Surveillance In Viral Anthropic Conversation\" [9:13]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/82Xv_bPVtpU/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:qKlLSfI1VxI",
@@ -175,47 +257,6 @@
       "image": "https://i.ytimg.com/vi/rj-G_gmFWtE/hqdefault.jpg",
       "title": "Why Are There So Many Different Transmission Towers? [22:36]",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/rj-G_gmFWtE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:YoCWOKVpxMI",
-        "dateBasis": "publication",
-        "itemId": "YoCWOKVpxMI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=YoCWOKVpxMI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xyoq5o/",
-            "id": "reddit-mealtimevideos-1xyoq5o",
-            "kind": "community",
-            "publisher": {
-              "name": "r/mealtimevideos",
-              "url": "https://www.reddit.com/r/mealtimevideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
-            "upstreamItemId": "1xyoq5o",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-17T16:20:23Z"
-            }
-          }
-        ],
-        "revision": 4,
-        "sortAt": "2026-11-17T16:20:23Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xyoq5o/",
-      "date_published": "2026-11-17T16:20:23Z",
-      "external_url": "https://www.youtube.com/watch?v=YoCWOKVpxMI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/YoCWOKVpxMI/",
-      "image": "https://i.ytimg.com/vi/YoCWOKVpxMI/hqdefault.jpg",
-      "title": "How Cars Survive in the World's Coldest City (-55°C)  [10:16]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/YoCWOKVpxMI/"
     },
     {
       "_retoob": {
@@ -8633,6 +8674,1571 @@
       "image": "https://i.ytimg.com/vi/FV-tZmnKmNo/hqdefault.jpg",
       "title": "How can white parents raise Black children with confidence? [25:00]",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/FV-tZmnKmNo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Q7JeX2OoBnI",
+        "dateBasis": "publication",
+        "itemId": "Q7JeX2OoBnI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Q7JeX2OoBnI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xbvs9c/",
+            "id": "reddit-mealtimevideos-1xbvs9c",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xbvs9c",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-21T18:48:47Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-21T18:48:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xbvs9c/",
+      "date_published": "2026-10-21T18:48:47Z",
+      "external_url": "https://www.youtube.com/watch?v=Q7JeX2OoBnI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Q7JeX2OoBnI/",
+      "image": "https://i.ytimg.com/vi/Q7JeX2OoBnI/hqdefault.jpg",
+      "title": "An arcade cabinet that runs concrete cartridges [08:27]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Q7JeX2OoBnI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:N_f3ZI897Ws",
+        "dateBasis": "publication",
+        "itemId": "N_f3ZI897Ws",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=N_f3ZI897Ws"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xbv8f9/",
+            "id": "reddit-mealtimevideos-1xbv8f9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xbv8f9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-21T18:28:46Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-21T18:28:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xbv8f9/",
+      "date_published": "2026-10-21T18:28:46Z",
+      "external_url": "https://www.youtube.com/watch?v=N_f3ZI897Ws",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/N_f3ZI897Ws/",
+      "image": "https://i.ytimg.com/vi/N_f3ZI897Ws/hqdefault.jpg",
+      "title": "Is America An Oligarchy? - Some More News [49:52]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/N_f3ZI897Ws/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:foIw3LO-nsA",
+        "dateBasis": "publication",
+        "itemId": "foIw3LO-nsA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=foIw3LO-nsA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xbsran/",
+            "id": "reddit-mealtimevideos-1xbsran",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xbsran",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-21T16:59:48Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-21T16:59:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xbsran/",
+      "date_published": "2026-10-21T16:59:48Z",
+      "external_url": "https://www.youtube.com/watch?v=foIw3LO-nsA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/foIw3LO-nsA/",
+      "image": "https://i.ytimg.com/vi/foIw3LO-nsA/hqdefault.jpg",
+      "title": "Something Doesn't Add Up in Musk's $1 Trillion SpaceX Plan [5:37]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/foIw3LO-nsA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Ac70Uyz303k",
+        "dateBasis": "publication",
+        "itemId": "Ac70Uyz303k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Ac70Uyz303k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xbnpo8/",
+            "id": "reddit-mealtimevideos-1xbnpo8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xbnpo8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-21T13:50:19Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-21T13:50:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xbnpo8/",
+      "date_published": "2026-10-21T13:50:19Z",
+      "external_url": "https://www.youtube.com/watch?v=Ac70Uyz303k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Ac70Uyz303k/",
+      "image": "https://i.ytimg.com/vi/Ac70Uyz303k/hqdefault.jpg",
+      "title": "\"The Dynasties\" Episode 1:  [09:41]  In 1911 the US broke Standard Oil into 34 companies. Rockefeller got richer, and the pieces became Exxon, Mobil and Chevron",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Ac70Uyz303k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:s5P22nEmF3k",
+        "dateBasis": "publication",
+        "itemId": "s5P22nEmF3k",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=s5P22nEmF3k"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xaxjoz/",
+            "id": "reddit-mealtimevideos-1xaxjoz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xaxjoz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T16:56:20Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T16:56:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xaxjoz/",
+      "date_published": "2026-10-20T16:56:20Z",
+      "external_url": "https://www.youtube.com/watch?v=s5P22nEmF3k",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/s5P22nEmF3k/",
+      "image": "https://i.ytimg.com/vi/s5P22nEmF3k/hqdefault.jpg",
+      "title": "Ozu in Color - TCM x Every Frame a Painting [10:27]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/s5P22nEmF3k/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:3MeEXvMooUU",
+        "dateBasis": "publication",
+        "itemId": "3MeEXvMooUU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3MeEXvMooUU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xaxabg/",
+            "id": "reddit-mealtimevideos-1xaxabg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xaxabg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T16:46:14Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T16:46:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xaxabg/",
+      "date_published": "2026-10-20T16:46:14Z",
+      "external_url": "https://www.youtube.com/watch?v=3MeEXvMooUU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/3MeEXvMooUU/",
+      "image": "https://i.ytimg.com/vi/3MeEXvMooUU/hqdefault.jpg",
+      "title": "What Really Happened in 536 AD? (It Was Worse Than You Think) [12:39]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/3MeEXvMooUU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:4dKfioK57WU",
+        "dateBasis": "publication",
+        "itemId": "4dKfioK57WU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4dKfioK57WU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xas5oj/",
+            "id": "reddit-mealtimevideos-1xas5oj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xas5oj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T13:28:12Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T13:28:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xas5oj/",
+      "date_published": "2026-10-20T13:28:12Z",
+      "external_url": "https://www.youtube.com/watch?v=4dKfioK57WU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/4dKfioK57WU/",
+      "image": "https://i.ytimg.com/vi/4dKfioK57WU/hqdefault.jpg",
+      "title": "The French Colony On Maps That Never Existed [8:00]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/4dKfioK57WU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:iGN2Sq2JxwU",
+        "dateBasis": "publication",
+        "itemId": "iGN2Sq2JxwU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=iGN2Sq2JxwU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xas31w/",
+            "id": "reddit-mealtimevideos-1xas31w",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xas31w",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T13:25:12Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T13:25:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xas31w/",
+      "date_published": "2026-10-20T13:25:12Z",
+      "external_url": "https://www.youtube.com/watch?v=iGN2Sq2JxwU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/iGN2Sq2JxwU/",
+      "image": "https://i.ytimg.com/vi/iGN2Sq2JxwU/hqdefault.jpg",
+      "title": "The Documentary That Ended The Satanic Panic [19:59]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/iGN2Sq2JxwU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Y-A-w-V3RaQ",
+        "dateBasis": "publication",
+        "itemId": "Y-A-w-V3RaQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Y-A-w-V3RaQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xar4hk/",
+            "id": "reddit-mealtimevideos-1xar4hk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xar4hk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T12:43:00Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T12:43:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xar4hk/",
+      "date_published": "2026-10-20T12:43:00Z",
+      "external_url": "https://www.youtube.com/watch?v=Y-A-w-V3RaQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Y-A-w-V3RaQ/",
+      "image": "https://i.ytimg.com/vi/Y-A-w-V3RaQ/hqdefault.jpg",
+      "title": "This Is What a Real Trans Ally Looks Like [10:52]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Y-A-w-V3RaQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:XI_yKHCdKHI",
+        "dateBasis": "publication",
+        "itemId": "XI_yKHCdKHI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=XI_yKHCdKHI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xapgl9/",
+            "id": "reddit-mealtimevideos-1xapgl9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xapgl9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T11:20:10Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xaorvz/",
+            "id": "reddit-mealtimevideos-1xaorvz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xaorvz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T10:42:43Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T11:20:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xapgl9/\nhttps://www.reddit.com/r/mealtimevideos/comments/1xaorvz/",
+      "date_published": "2026-10-20T11:20:10Z",
+      "external_url": "https://www.youtube.com/watch?v=XI_yKHCdKHI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/XI_yKHCdKHI/",
+      "image": "https://i.ytimg.com/vi/XI_yKHCdKHI/hqdefault.jpg",
+      "title": "7 Hidden WiFi Secrets (Including One That Can Identify You) [11:53]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/XI_yKHCdKHI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:hdngdbzayHA",
+        "dateBasis": "publication",
+        "itemId": "hdngdbzayHA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=hdngdbzayHA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xammya/",
+            "id": "reddit-mealtimevideos-1xammya",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xammya",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T08:31:35Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xamjqn/",
+            "id": "reddit-mealtimevideos-1xamjqn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xamjqn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T08:25:35Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T08:31:35Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xammya/\nhttps://www.reddit.com/r/mealtimevideos/comments/1xamjqn/",
+      "date_published": "2026-10-20T08:31:35Z",
+      "external_url": "https://www.youtube.com/watch?v=hdngdbzayHA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/hdngdbzayHA/",
+      "image": "https://i.ytimg.com/vi/hdngdbzayHA/hqdefault.jpg",
+      "title": "InterNYET: A History Of Modern Russian Internet Companies | Episode #1 [36:16] [Subtitled]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/hdngdbzayHA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:3Az5egVxVyg",
+        "dateBasis": "publication",
+        "itemId": "3Az5egVxVyg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3Az5egVxVyg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xait02/",
+            "id": "reddit-mealtimevideos-1xait02",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xait02",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T04:36:26Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T04:36:26Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xait02/",
+      "date_published": "2026-10-20T04:36:26Z",
+      "external_url": "https://www.youtube.com/watch?v=3Az5egVxVyg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/3Az5egVxVyg/",
+      "image": "https://i.ytimg.com/vi/3Az5egVxVyg/hqdefault.jpg",
+      "title": "The Night a Medieval Village Burned to the Ground [13:03]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/3Az5egVxVyg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:BbozgBWa1us",
+        "dateBasis": "publication",
+        "itemId": "BbozgBWa1us",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BbozgBWa1us"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xai43r/",
+            "id": "reddit-mealtimevideos-1xai43r",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xai43r",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T03:58:57Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T03:58:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xai43r/",
+      "date_published": "2026-10-20T03:58:57Z",
+      "external_url": "https://www.youtube.com/watch?v=BbozgBWa1us",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/BbozgBWa1us/",
+      "image": "https://i.ytimg.com/vi/BbozgBWa1us/hqdefault.jpg",
+      "title": "What was it really like to live in a viking longhouse?[11:39]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/BbozgBWa1us/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Kjg7m7t182A",
+        "dateBasis": "publication",
+        "itemId": "Kjg7m7t182A",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Kjg7m7t182A"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xafu71/",
+            "id": "reddit-mealtimevideos-1xafu71",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xafu71",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T02:03:42Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T02:03:42Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xafu71/",
+      "date_published": "2026-10-20T02:03:42Z",
+      "external_url": "https://www.youtube.com/watch?v=Kjg7m7t182A",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Kjg7m7t182A/",
+      "image": "https://i.ytimg.com/vi/Kjg7m7t182A/hqdefault.jpg",
+      "title": "Raising Eden - The Pineal Gland [8:45]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Kjg7m7t182A/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:6QxeRLhjlkM",
+        "dateBasis": "publication",
+        "itemId": "6QxeRLhjlkM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=6QxeRLhjlkM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xaeoly/",
+            "id": "reddit-mealtimevideos-1xaeoly",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xaeoly",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-20T01:08:38Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-20T01:08:38Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xaeoly/",
+      "date_published": "2026-10-20T01:08:38Z",
+      "external_url": "https://www.youtube.com/watch?v=6QxeRLhjlkM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/6QxeRLhjlkM/",
+      "image": "https://i.ytimg.com/vi/6QxeRLhjlkM/hqdefault.jpg",
+      "title": "Creepypasta Reading Podcast Similar to CreepCast [46:29]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/6QxeRLhjlkM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:bVg90h5zvxk",
+        "dateBasis": "publication",
+        "itemId": "bVg90h5zvxk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bVg90h5zvxk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xa3n36/",
+            "id": "reddit-mealtimevideos-1xa3n36",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xa3n36",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-19T17:45:07Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-19T17:45:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xa3n36/",
+      "date_published": "2026-10-19T17:45:07Z",
+      "external_url": "https://www.youtube.com/watch?v=bVg90h5zvxk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/bVg90h5zvxk/",
+      "image": "https://i.ytimg.com/vi/bVg90h5zvxk/hqdefault.jpg",
+      "title": "Currant Nevada video [9:28]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/bVg90h5zvxk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:8Ev9f3S7RkQ",
+        "dateBasis": "publication",
+        "itemId": "8Ev9f3S7RkQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=8Ev9f3S7RkQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xa2lmv/",
+            "id": "reddit-mealtimevideos-1xa2lmv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xa2lmv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-19T17:07:16Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-19T17:07:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xa2lmv/",
+      "date_published": "2026-10-19T17:07:16Z",
+      "external_url": "https://www.youtube.com/watch?v=8Ev9f3S7RkQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/8Ev9f3S7RkQ/",
+      "image": "https://i.ytimg.com/vi/8Ev9f3S7RkQ/hqdefault.jpg",
+      "title": "[42:37] Battle Board: The Battle of Pokrovsk",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/8Ev9f3S7RkQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Blk30LI_CI0",
+        "dateBasis": "publication",
+        "itemId": "Blk30LI_CI0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Blk30LI_CI0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xa0ka4/",
+            "id": "reddit-mealtimevideos-1xa0ka4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xa0ka4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-19T15:51:10Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-19T15:51:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xa0ka4/",
+      "date_published": "2026-10-19T15:51:10Z",
+      "external_url": "https://www.youtube.com/watch?v=Blk30LI_CI0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Blk30LI_CI0/",
+      "image": "https://i.ytimg.com/vi/Blk30LI_CI0/hqdefault.jpg",
+      "title": "The Trial That Destroyed Canadian Christianity [53:08]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Blk30LI_CI0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:SmxsfT9PDWw",
+        "dateBasis": "publication",
+        "itemId": "SmxsfT9PDWw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SmxsfT9PDWw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1xa0bs1/",
+            "id": "reddit-mealtimevideos-1xa0bs1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1xa0bs1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-19T15:42:15Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-19T15:42:15Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1xa0bs1/",
+      "date_published": "2026-10-19T15:42:15Z",
+      "external_url": "https://www.youtube.com/watch?v=SmxsfT9PDWw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/SmxsfT9PDWw/",
+      "image": "https://i.ytimg.com/vi/SmxsfT9PDWw/hqdefault.jpg",
+      "title": "Should Small Anime YouTubers Cover Seasonal Anime [13:02]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/SmxsfT9PDWw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1-hLtnc7Bwg",
+        "dateBasis": "publication",
+        "itemId": "1-hLtnc7Bwg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1-hLtnc7Bwg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x9ezz1/",
+            "id": "reddit-mealtimevideos-1x9ezz1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x9ezz1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-18T21:31:03Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-18T21:31:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x9ezz1/",
+      "date_published": "2026-10-18T21:31:03Z",
+      "external_url": "https://www.youtube.com/watch?v=1-hLtnc7Bwg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/1-hLtnc7Bwg/",
+      "image": "https://i.ytimg.com/vi/1-hLtnc7Bwg/hqdefault.jpg",
+      "title": "You don't actually understand Charles Xavier[37.40]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/1-hLtnc7Bwg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Bsdoh7d-VBI",
+        "dateBasis": "publication",
+        "itemId": "Bsdoh7d-VBI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Bsdoh7d-VBI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x9eck8/",
+            "id": "reddit-mealtimevideos-1x9eck8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x9eck8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-18T21:03:25Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-18T21:03:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x9eck8/",
+      "date_published": "2026-10-18T21:03:25Z",
+      "external_url": "https://www.youtube.com/watch?v=Bsdoh7d-VBI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Bsdoh7d-VBI/",
+      "image": "https://i.ytimg.com/vi/Bsdoh7d-VBI/hqdefault.jpg",
+      "title": "Exploring Miami’s Failed Luxury Island Project 100 Years Later [09:59]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Bsdoh7d-VBI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:TMamrPATD9c",
+        "dateBasis": "publication",
+        "itemId": "TMamrPATD9c",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=TMamrPATD9c"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x9b0vw/",
+            "id": "reddit-mealtimevideos-1x9b0vw",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x9b0vw",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-18T18:49:55Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-18T18:49:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x9b0vw/",
+      "date_published": "2026-10-18T18:49:55Z",
+      "external_url": "https://www.youtube.com/watch?v=TMamrPATD9c",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/TMamrPATD9c/",
+      "image": "https://i.ytimg.com/vi/TMamrPATD9c/hqdefault.jpg",
+      "title": "Teddy Brown: The World's 'Greatest' Xylophonist [18:56]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/TMamrPATD9c/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:NVStTbUu8kI",
+        "dateBasis": "publication",
+        "itemId": "NVStTbUu8kI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=NVStTbUu8kI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x950zj/",
+            "id": "reddit-mealtimevideos-1x950zj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x950zj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-18T14:48:07Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-18T14:48:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x950zj/",
+      "date_published": "2026-10-18T14:48:07Z",
+      "external_url": "https://www.youtube.com/watch?v=NVStTbUu8kI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/NVStTbUu8kI/",
+      "image": "https://i.ytimg.com/vi/NVStTbUu8kI/hqdefault.jpg",
+      "title": "Saying Goodbye to Tokyo's OLDEST TINY Shop...[20:59]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/NVStTbUu8kI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:EJgVjxM4Rno",
+        "dateBasis": "publication",
+        "itemId": "EJgVjxM4Rno",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=EJgVjxM4Rno"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x94j4p/",
+            "id": "reddit-mealtimevideos-1x94j4p",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x94j4p",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-18T14:26:23Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-18T14:26:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x94j4p/",
+      "date_published": "2026-10-18T14:26:23Z",
+      "external_url": "https://www.youtube.com/watch?v=EJgVjxM4Rno",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/EJgVjxM4Rno/",
+      "image": "https://i.ytimg.com/vi/EJgVjxM4Rno/hqdefault.jpg",
+      "title": "Why Safer Streets Keep Losing to Fire Trucks [10:57]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/EJgVjxM4Rno/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:9pe1SxTyhqc",
+        "dateBasis": "publication",
+        "itemId": "9pe1SxTyhqc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9pe1SxTyhqc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x8mbwq/",
+            "id": "reddit-mealtimevideos-1x8mbwq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x8mbwq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T21:54:40Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T21:54:40Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x8mbwq/",
+      "date_published": "2026-10-17T21:54:40Z",
+      "external_url": "https://www.youtube.com/watch?v=9pe1SxTyhqc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/9pe1SxTyhqc/",
+      "image": "https://i.ytimg.com/vi/9pe1SxTyhqc/hqdefault.jpg",
+      "title": "Superpower Suicide interview w/ Tim Snyder [59:42]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/9pe1SxTyhqc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:HlSZF4CWqdQ",
+        "dateBasis": "publication",
+        "itemId": "HlSZF4CWqdQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HlSZF4CWqdQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x8knxp/",
+            "id": "reddit-mealtimevideos-1x8knxp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x8knxp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T20:41:43Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T20:41:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x8knxp/",
+      "date_published": "2026-10-17T20:41:43Z",
+      "external_url": "https://www.youtube.com/watch?v=HlSZF4CWqdQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/HlSZF4CWqdQ/",
+      "image": "https://i.ytimg.com/vi/HlSZF4CWqdQ/hqdefault.jpg",
+      "title": "[8:40] The $20,000 Cat Breed that is ILLEGAL ??",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/HlSZF4CWqdQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:SLSueh7SPvY",
+        "dateBasis": "publication",
+        "itemId": "SLSueh7SPvY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SLSueh7SPvY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x8j61o/",
+            "id": "reddit-mealtimevideos-1x8j61o",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x8j61o",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T19:38:24Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T19:38:24Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x8j61o/",
+      "date_published": "2026-10-17T19:38:24Z",
+      "external_url": "https://www.youtube.com/watch?v=SLSueh7SPvY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/SLSueh7SPvY/",
+      "image": "https://i.ytimg.com/vi/SLSueh7SPvY/hqdefault.jpg",
+      "title": "Solving The Weirdest Nintendo Mystery You've Never Heard of [52:37]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/SLSueh7SPvY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:3oCDuK_SVcA",
+        "dateBasis": "publication",
+        "itemId": "3oCDuK_SVcA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3oCDuK_SVcA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x8itcq/",
+            "id": "reddit-mealtimevideos-1x8itcq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x8itcq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T19:23:42Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T19:23:42Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x8itcq/",
+      "date_published": "2026-10-17T19:23:42Z",
+      "external_url": "https://www.youtube.com/watch?v=3oCDuK_SVcA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/3oCDuK_SVcA/",
+      "image": "https://i.ytimg.com/vi/3oCDuK_SVcA/hqdefault.jpg",
+      "title": "America Claimed 100 Islands Just for Bird Poop [11:24]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/3oCDuK_SVcA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ae4dYaPCGN4",
+        "dateBasis": "publication",
+        "itemId": "ae4dYaPCGN4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ae4dYaPCGN4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x8i0xs/",
+            "id": "reddit-mealtimevideos-1x8i0xs",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x8i0xs",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T18:51:20Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T18:51:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x8i0xs/",
+      "date_published": "2026-10-17T18:51:20Z",
+      "external_url": "https://www.youtube.com/watch?v=ae4dYaPCGN4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/ae4dYaPCGN4/",
+      "image": "https://i.ytimg.com/vi/ae4dYaPCGN4/hqdefault.jpg",
+      "title": "How The Children Of Billionaires Took Over America [9:00]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/ae4dYaPCGN4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Q6Bg26MWJMY",
+        "dateBasis": "publication",
+        "itemId": "Q6Bg26MWJMY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Q6Bg26MWJMY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x8h5f3/",
+            "id": "reddit-mealtimevideos-1x8h5f3",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x8h5f3",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T18:15:30Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T18:15:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x8h5f3/",
+      "date_published": "2026-10-17T18:15:30Z",
+      "external_url": "https://www.youtube.com/watch?v=Q6Bg26MWJMY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Q6Bg26MWJMY/",
+      "image": "https://i.ytimg.com/vi/Q6Bg26MWJMY/hqdefault.jpg",
+      "title": "The Hidden Eugenics of Lysol Ads: Structuralist Mythologies [24:38]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Q6Bg26MWJMY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:FYSZaWpj7dc",
+        "dateBasis": "publication",
+        "itemId": "FYSZaWpj7dc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=FYSZaWpj7dc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x8g0ib/",
+            "id": "reddit-mealtimevideos-1x8g0ib",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x8g0ib",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T17:28:40Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T17:28:40Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x8g0ib/",
+      "date_published": "2026-10-17T17:28:40Z",
+      "external_url": "https://www.youtube.com/watch?v=FYSZaWpj7dc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/FYSZaWpj7dc/",
+      "image": "https://i.ytimg.com/vi/FYSZaWpj7dc/hqdefault.jpg",
+      "title": "Inside Jerry Jones’ Dallas mansion [15:14]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/FYSZaWpj7dc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:JnceIDVMZyQ",
+        "dateBasis": "publication",
+        "itemId": "JnceIDVMZyQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JnceIDVMZyQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x8d6ui/",
+            "id": "reddit-mealtimevideos-1x8d6ui",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x8d6ui",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T15:34:49Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T15:34:49Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x8d6ui/",
+      "date_published": "2026-10-17T15:34:49Z",
+      "external_url": "https://www.youtube.com/watch?v=JnceIDVMZyQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/JnceIDVMZyQ/",
+      "image": "https://i.ytimg.com/vi/JnceIDVMZyQ/hqdefault.jpg",
+      "title": "The Russian Bot Apocalypse [36:16]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/JnceIDVMZyQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:IHnJiZ8PIuw",
+        "dateBasis": "publication",
+        "itemId": "IHnJiZ8PIuw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IHnJiZ8PIuw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x87cqj/",
+            "id": "reddit-mealtimevideos-1x87cqj",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x87cqj",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T10:55:26Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T10:55:26Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x87cqj/",
+      "date_published": "2026-10-17T10:55:26Z",
+      "external_url": "https://www.youtube.com/watch?v=IHnJiZ8PIuw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/IHnJiZ8PIuw/",
+      "image": "https://i.ytimg.com/vi/IHnJiZ8PIuw/hqdefault.jpg",
+      "title": "Half-Life: The Game That Reinvented the Shooter [21:31]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/IHnJiZ8PIuw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:kT_AumzYbaQ",
+        "dateBasis": "publication",
+        "itemId": "kT_AumzYbaQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=kT_AumzYbaQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x84gyr/",
+            "id": "reddit-mealtimevideos-1x84gyr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x84gyr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T07:55:03Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T07:55:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x84gyr/",
+      "date_published": "2026-10-17T07:55:03Z",
+      "external_url": "https://www.youtube.com/watch?v=kT_AumzYbaQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/kT_AumzYbaQ/",
+      "image": "https://i.ytimg.com/vi/kT_AumzYbaQ/hqdefault.jpg",
+      "title": "The Real Reason Everything Is So Expensive (They Want You To Lose Your Job) [10:52]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/kT_AumzYbaQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:b_H7jLFKJuU",
+        "dateBasis": "publication",
+        "itemId": "b_H7jLFKJuU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=b_H7jLFKJuU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x80twx/",
+            "id": "reddit-mealtimevideos-1x80twx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x80twx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-17T04:17:35Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-17T04:17:35Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x80twx/",
+      "date_published": "2026-10-17T04:17:35Z",
+      "external_url": "https://www.youtube.com/watch?v=b_H7jLFKJuU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/b_H7jLFKJuU/",
+      "image": "https://i.ytimg.com/vi/b_H7jLFKJuU/hqdefault.jpg",
+      "title": "Why did Germany and the USSR sign the Molotov Ribbentrop Pact? (Short Animated Documentary) [9:06]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/b_H7jLFKJuU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:OQX2GJNY2m0",
+        "dateBasis": "publication",
+        "itemId": "OQX2GJNY2m0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OQX2GJNY2m0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x7vdel/",
+            "id": "reddit-mealtimevideos-1x7vdel",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x7vdel",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-16T23:32:25Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x7v45i/",
+            "id": "reddit-mealtimevideos-1x7v45i",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x7v45i",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-16T23:20:26Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-16T23:32:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x7vdel/\nhttps://www.reddit.com/r/mealtimevideos/comments/1x7v45i/",
+      "date_published": "2026-10-16T23:32:25Z",
+      "external_url": "https://www.youtube.com/watch?v=OQX2GJNY2m0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/OQX2GJNY2m0/",
+      "image": "https://i.ytimg.com/vi/OQX2GJNY2m0/hqdefault.jpg",
+      "title": "10 Animal records and strange behaviors that defy common sense [8:52]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/OQX2GJNY2m0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:sVv0xKCk0IU",
+        "dateBasis": "publication",
+        "itemId": "sVv0xKCk0IU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=sVv0xKCk0IU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1x7n7v9/",
+            "id": "reddit-mealtimevideos-1x7n7v9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1x7n7v9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-16T17:58:45Z"
+            }
+          }
+        ],
+        "revision": 5,
+        "sortAt": "2026-10-16T17:58:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x7n7v9/",
+      "date_published": "2026-10-16T17:58:45Z",
+      "external_url": "https://www.youtube.com/watch?v=sVv0xKCk0IU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/sVv0xKCk0IU/",
+      "image": "https://i.ytimg.com/vi/sVv0xKCk0IU/hqdefault.jpg",
+      "title": "[OC] What If Titanoboa Never Went Extinct? [06:01]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/sVv0xKCk0IU/"
     }
   ],
   "title": "Mealtime videos",
