@@ -3,7 +3,7 @@
     "itemCount": 6,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 28,
+    "revision": 29,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -14,19 +14,19 @@
   "items": [
     {
       "_retoob": {
-        "contentKey": "youtube:awjlMCCdqXw",
+        "contentKey": "youtube:tl9yUNqVZrQ",
         "dateBasis": "publication",
-        "itemId": "awjlMCCdqXw",
+        "itemId": "tl9yUNqVZrQ",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=awjlMCCdqXw"
+          "url": "https://www.youtube.com/watch?v=tl9yUNqVZrQ"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50534384",
-            "id": "hn-50534384",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50540998",
+            "id": "hn-50540998",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -35,24 +35,24 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50534384",
+            "upstreamItemId": "50540998",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-17T16:58:10Z"
+              "value": "2026-11-18T02:10:39Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-17T16:58:10Z",
+        "sortAt": "2026-11-18T02:10:39Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50534384. Not a verified endorsement.",
-      "date_published": "2026-11-17T16:58:10Z",
-      "external_url": "https://www.youtube.com/watch?v=awjlMCCdqXw",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/awjlMCCdqXw/",
-      "image": "https://i.ytimg.com/vi/awjlMCCdqXw/hqdefault.jpg",
-      "title": "China Is Becoming the Leading Carmaker [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/awjlMCCdqXw/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50540998. Not a verified endorsement.",
+      "date_published": "2026-11-18T02:10:39Z",
+      "external_url": "https://www.youtube.com/watch?v=tl9yUNqVZrQ",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/tl9yUNqVZrQ/",
+      "image": "https://i.ytimg.com/vi/tl9yUNqVZrQ/hqdefault.jpg",
+      "title": "New Analysis of Epstein's Autopsy Challenges Official Cause of Death [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/tl9yUNqVZrQ/"
     },
     {
       "_retoob": {
