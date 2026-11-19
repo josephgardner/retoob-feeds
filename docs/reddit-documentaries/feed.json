@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 26,
+    "revision": 27,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:DV2o_aB6HBc",
+        "dateBasis": "publication",
+        "itemId": "DV2o_aB6HBc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=DV2o_aB6HBc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xzzcn1/",
+            "id": "reddit-documentaries-1xzzcn1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xzzcn1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T03:33:08Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-19T03:33:08Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xzzcn1/",
+      "date_published": "2026-11-19T03:33:08Z",
+      "external_url": "https://www.youtube.com/watch?v=DV2o_aB6HBc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/DV2o_aB6HBc/",
+      "image": "https://i.ytimg.com/vi/DV2o_aB6HBc/hqdefault.jpg",
+      "title": "Unreleased Documentary (200): The Execution of Christina Marie Riggs, the Woman Who Killed Her Children",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/DV2o_aB6HBc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:HJcSnpn8oMg",
+        "dateBasis": "publication",
+        "itemId": "HJcSnpn8oMg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=HJcSnpn8oMg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xzz8ib/",
+            "id": "reddit-documentaries-1xzz8ib",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xzz8ib",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T03:27:12Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-19T03:27:12Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xzz8ib/",
+      "date_published": "2026-11-19T03:27:12Z",
+      "external_url": "https://www.youtube.com/watch?v=HJcSnpn8oMg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/HJcSnpn8oMg/",
+      "image": "https://i.ytimg.com/vi/HJcSnpn8oMg/hqdefault.jpg",
+      "title": "\"Love and Cameras in America\" (2008) [1:41:29]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/HJcSnpn8oMg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:mCoUy_cUcDQ",
+        "dateBasis": "publication",
+        "itemId": "mCoUy_cUcDQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=mCoUy_cUcDQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xzyldd/",
+            "id": "reddit-documentaries-1xzyldd",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1xzyldd",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T02:54:37Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-19T02:54:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xzyldd/",
+      "date_published": "2026-11-19T02:54:37Z",
+      "external_url": "https://www.youtube.com/watch?v=mCoUy_cUcDQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/mCoUy_cUcDQ/",
+      "image": "https://i.ytimg.com/vi/mCoUy_cUcDQ/hqdefault.jpg",
+      "title": "20 Days Alone in One of Earth's Last Empty Places (2026) - A Man Takes a Solo Canoe Trip in Alaska's Yukon Territory [1:33:14]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/mCoUy_cUcDQ/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:FT7R9pNwXF8",
@@ -21668,129 +21791,6 @@
       "image": "https://i.ytimg.com/vi/jHE3OetNf2U/hqdefault.jpg",
       "title": "The Man Who Built China’s Forbidden Chip: How Liang Mong-song Altered the Semiconductor Race (2026) [00:14:21]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/jHE3OetNf2U/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Kinaw9id5TQ",
-        "dateBasis": "publication",
-        "itemId": "Kinaw9id5TQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Kinaw9id5TQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vsexvw/",
-            "id": "reddit-documentaries-1vsexvw",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vsexvw",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T06:59:48Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-19T06:59:48Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vsexvw/",
-      "date_published": "2026-08-19T06:59:48Z",
-      "external_url": "https://www.youtube.com/watch?v=Kinaw9id5TQ",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Kinaw9id5TQ/",
-      "image": "https://i.ytimg.com/vi/Kinaw9id5TQ/hqdefault.jpg",
-      "title": "The Most Famous Artist Ever (2026) [42:09:00] - Covering the bizarre and eccentric story of Salvador Dali",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Kinaw9id5TQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Y31ubKt24qk",
-        "dateBasis": "publication",
-        "itemId": "Y31ubKt24qk",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Y31ubKt24qk"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vsexsd/",
-            "id": "reddit-documentaries-1vsexsd",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vsexsd",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T06:59:39Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-19T06:59:39Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vsexsd/",
-      "date_published": "2026-08-19T06:59:39Z",
-      "external_url": "https://www.youtube.com/watch?v=Y31ubKt24qk",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Y31ubKt24qk/",
-      "image": "https://i.ytimg.com/vi/Y31ubKt24qk/hqdefault.jpg",
-      "title": "The $160 Billion Energy Drink Habit (2026) - The business, marketing and psychology behind the global energy drink boom (CC) [00:12:56]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Y31ubKt24qk/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:6QpOO7nOSjY",
-        "dateBasis": "publication",
-        "itemId": "6QpOO7nOSjY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=6QpOO7nOSjY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vs9qcf/",
-            "id": "reddit-documentaries-1vs9qcf",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vs9qcf",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T02:32:12Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-19T02:32:12Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vs9qcf/",
-      "date_published": "2026-08-19T02:32:12Z",
-      "external_url": "https://www.youtube.com/watch?v=6QpOO7nOSjY",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/6QpOO7nOSjY/",
-      "image": "https://i.ytimg.com/vi/6QpOO7nOSjY/hqdefault.jpg",
-      "title": "The Hidden History of Salt Lake City's Japantown (2026) [00:11:16]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/6QpOO7nOSjY/"
     }
   ],
   "title": "Documentaries",

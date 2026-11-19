@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 21,
+    "revision": 22,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:jpmR0oWvxkQ",
+        "dateBasis": "publication",
+        "itemId": "jpmR0oWvxkQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jpmR0oWvxkQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y03jip/",
+            "id": "reddit-youtubehaiku-1y03jip",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y03jip",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T07:34:30Z"
+            }
+          }
+        ],
+        "revision": 22,
+        "sortAt": "2026-11-19T07:34:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y03jip/",
+      "date_published": "2026-11-19T07:34:30Z",
+      "external_url": "https://www.youtube.com/watch?v=jpmR0oWvxkQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/jpmR0oWvxkQ/",
+      "image": "https://i.ytimg.com/vi/jpmR0oWvxkQ/hqdefault.jpg",
+      "title": "[Poetry] Clue Speedrun in 0:00.733",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/jpmR0oWvxkQ/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:97f3fk7hnco",
@@ -21014,47 +21055,6 @@
       "image": "https://i.ytimg.com/vi/lX9SeCj0khI/hqdefault.jpg",
       "title": "[Meme] Resident Evil But It's Borks",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/lX9SeCj0khI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:m65wGFV3WWo",
-        "dateBasis": "publication",
-        "itemId": "m65wGFV3WWo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=m65wGFV3WWo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rn075h/",
-            "id": "reddit-youtubehaiku-1rn075h",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rn075h",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-07T04:21:59Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-07T04:21:59Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rn075h/",
-      "date_published": "2026-03-07T04:21:59Z",
-      "external_url": "https://www.youtube.com/watch?v=m65wGFV3WWo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/m65wGFV3WWo/",
-      "image": "https://i.ytimg.com/vi/m65wGFV3WWo/hqdefault.jpg",
-      "title": "[Haiku] Bullseye",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/m65wGFV3WWo/"
     }
   ],
   "title": "Quick clips",
