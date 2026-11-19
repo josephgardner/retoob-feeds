@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 22,
+    "revision": 23,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,145 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:fREdmSV4oDY",
+        "dateBasis": "publication",
+        "itemId": "fREdmSV4oDY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fREdmSV4oDY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y0f0t8/",
+            "id": "reddit-youtubehaiku-1y0f0t8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y0f0t8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T17:17:33Z"
+            }
+          }
+        ],
+        "revision": 23,
+        "sortAt": "2026-11-19T17:17:33Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y0f0t8/",
+      "date_published": "2026-11-19T17:17:33Z",
+      "external_url": "https://www.youtube.com/watch?v=fREdmSV4oDY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/fREdmSV4oDY/",
+      "image": "https://i.ytimg.com/vi/fREdmSV4oDY/hqdefault.jpg",
+      "title": "[Haiku] WWE SmackDown vs. RAW 2011 11/03/10 23:05",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/fREdmSV4oDY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:deBu-MX3Ghk",
+        "dateBasis": "publication",
+        "itemId": "deBu-MX3Ghk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=deBu-MX3Ghk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y0dlr8/",
+            "id": "reddit-youtubehaiku-1y0dlr8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y0dlr8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T16:23:57Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y0dijt/",
+            "id": "reddit-youtubehaiku-1y0dijt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y0dijt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T16:20:43Z"
+            }
+          }
+        ],
+        "revision": 23,
+        "sortAt": "2026-11-19T16:23:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y0dlr8/\nhttps://www.reddit.com/r/youtubehaiku/comments/1y0dijt/",
+      "date_published": "2026-11-19T16:23:57Z",
+      "external_url": "https://www.youtube.com/watch?v=deBu-MX3Ghk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/deBu-MX3Ghk/",
+      "image": "https://i.ytimg.com/vi/deBu-MX3Ghk/hqdefault.jpg",
+      "title": "[poetry] hold ctrl+z to undo everything",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/deBu-MX3Ghk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:PGJKeESLBpQ",
+        "dateBasis": "publication",
+        "itemId": "PGJKeESLBpQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PGJKeESLBpQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y09g8g/",
+            "id": "reddit-youtubehaiku-1y09g8g",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y09g8g",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T13:33:21Z"
+            }
+          }
+        ],
+        "revision": 23,
+        "sortAt": "2026-11-19T13:33:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y09g8g/",
+      "date_published": "2026-11-19T13:33:21Z",
+      "external_url": "https://www.youtube.com/watch?v=PGJKeESLBpQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/PGJKeESLBpQ/",
+      "image": "https://i.ytimg.com/vi/PGJKeESLBpQ/hqdefault.jpg",
+      "title": "[Poetry] Grandpa Found the Car Keys (2006)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/PGJKeESLBpQ/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:jpmR0oWvxkQ",
@@ -20932,129 +21071,6 @@
       "image": "https://i.ytimg.com/vi/t14-XWqGFiY/hqdefault.jpg",
       "title": "[Haiku] hilarious video",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/t14-XWqGFiY/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:txO9LiUxW9I",
-        "dateBasis": "publication",
-        "itemId": "txO9LiUxW9I",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=txO9LiUxW9I"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1ro2ipy/",
-            "id": "reddit-youtubehaiku-1ro2ipy",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1ro2ipy",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-08T11:26:25Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-08T11:26:25Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1ro2ipy/",
-      "date_published": "2026-03-08T11:26:25Z",
-      "external_url": "https://www.youtube.com/watch?v=txO9LiUxW9I",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/txO9LiUxW9I/",
-      "image": "https://i.ytimg.com/vi/txO9LiUxW9I/hqdefault.jpg",
-      "title": "[haiku] This is not the final boss, this is just my boss",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/txO9LiUxW9I/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:J3eOhM75Q3g",
-        "dateBasis": "publication",
-        "itemId": "J3eOhM75Q3g",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=J3eOhM75Q3g"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rnbwbt/",
-            "id": "reddit-youtubehaiku-1rnbwbt",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rnbwbt",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-07T14:53:23Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-07T14:53:23Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rnbwbt/",
-      "date_published": "2026-03-07T14:53:23Z",
-      "external_url": "https://www.youtube.com/watch?v=J3eOhM75Q3g",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/J3eOhM75Q3g/",
-      "image": "https://i.ytimg.com/vi/J3eOhM75Q3g/hqdefault.jpg",
-      "title": "[Poetry] A guy eating a rare football sticker from 1970",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/J3eOhM75Q3g/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:lX9SeCj0khI",
-        "dateBasis": "publication",
-        "itemId": "lX9SeCj0khI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=lX9SeCj0khI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rnbddo/",
-            "id": "reddit-youtubehaiku-1rnbddo",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rnbddo",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-07T14:30:31Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-07T14:30:31Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rnbddo/",
-      "date_published": "2026-03-07T14:30:31Z",
-      "external_url": "https://www.youtube.com/watch?v=lX9SeCj0khI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/lX9SeCj0khI/",
-      "image": "https://i.ytimg.com/vi/lX9SeCj0khI/hqdefault.jpg",
-      "title": "[Meme] Resident Evil But It's Borks",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/lX9SeCj0khI/"
     }
   ],
   "title": "Quick clips",

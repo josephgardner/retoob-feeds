@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 30,
+    "revision": 31,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:BgMMnnFxjkg",
+        "dateBasis": "publication",
+        "itemId": "BgMMnnFxjkg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BgMMnnFxjkg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y056s1/",
+            "id": "reddit-obscuremedia-1y056s1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y056s1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T09:25:53Z"
+            }
+          }
+        ],
+        "revision": 31,
+        "sortAt": "2026-11-19T09:25:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y056s1/",
+      "date_published": "2026-11-19T09:25:53Z",
+      "external_url": "https://www.youtube.com/watch?v=BgMMnnFxjkg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/BgMMnnFxjkg/",
+      "image": "https://i.ytimg.com/vi/BgMMnnFxjkg/hqdefault.jpg",
+      "title": "THE GREATEST SHOW ON EARTH 1964 - Big Man From Nairobi - Jack Palance, C...",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/BgMMnnFxjkg/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:4zMo82WFNRY",
@@ -21110,47 +21151,6 @@
       "image": "https://i.ytimg.com/vi/cFGAAPbUFKQ/hqdefault.jpg",
       "title": "Featuring some of the earliest Silent Films from 1925 and more...The Werewolf of Bedburg: Demonology, Satan, and the Confessions of Peter...",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cFGAAPbUFKQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:2m4wI_xuiLc",
-        "dateBasis": "publication",
-        "itemId": "2m4wI_xuiLc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=2m4wI_xuiLc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vwucqt/",
-            "id": "reddit-obscuremedia-1vwucqt",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vwucqt",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-24T06:00:44Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-24T06:00:44Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vwucqt/",
-      "date_published": "2026-08-24T06:00:44Z",
-      "external_url": "https://www.youtube.com/watch?v=2m4wI_xuiLc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/2m4wI_xuiLc/",
-      "image": "https://i.ytimg.com/vi/2m4wI_xuiLc/hqdefault.jpg",
-      "title": "The Holy Ghost People (1967) documentary - A West Virginia snake handling and speaking in tongues congregation",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/2m4wI_xuiLc/"
     }
   ],
   "title": "Obscure finds",
