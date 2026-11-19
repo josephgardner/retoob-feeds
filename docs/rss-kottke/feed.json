@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 57,
+    "itemCount": 58,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 11,
+    "revision": 12,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:fEjvSbI_PT4",
+        "dateBasis": "publication",
+        "itemId": "fEjvSbI_PT4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fEjvSbI_PT4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/what-happens-to-your-body-when-you-die",
+            "id": "rss-d7013bb37da4bed29ed4ff7fe59931b4",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-18:50025",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T20:51:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T20:51:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/what-happens-to-your-body-when-you-die. Not a verified endorsement.",
+      "date_published": "2026-11-18T20:51:00Z",
+      "external_url": "https://www.youtube.com/watch?v=fEjvSbI_PT4",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/fEjvSbI_PT4/",
+      "image": "https://i.ytimg.com/vi/fEjvSbI_PT4/hqdefault.jpg",
+      "title": "What Happens to Your Body When You Die?",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/fEjvSbI_PT4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:KInfw7kCPkc",
