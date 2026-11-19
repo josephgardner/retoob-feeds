@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 58,
+    "itemCount": 59,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 12,
+    "revision": 13,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -2405,6 +2405,48 @@
       "image": "https://i.ytimg.com/vi/-8lP3U26zGI/hqdefault.jpg",
       "title": "Film Meets Art",
       "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/-8lP3U26zGI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:yY96hTb8WgI",
+        "dateBasis": "publication",
+        "itemId": "yY96hTb8WgI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yY96hTb8WgI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/16/02/bad-doors-are-everywhere",
+            "id": "rss-c2e28304e77b941c9286f147edfbcff0",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2016-02-29:27703",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2016-02-29T18:21:57Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2016-02-29T18:21:57Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/16/02/bad-doors-are-everywhere. Not a verified endorsement.",
+      "date_published": "2016-02-29T18:21:57Z",
+      "external_url": "https://www.youtube.com/watch?v=yY96hTb8WgI",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/yY96hTb8WgI/",
+      "image": "https://i.ytimg.com/vi/yY96hTb8WgI/hqdefault.jpg",
+      "title": "Bad Doors Are Everywhere",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/yY96hTb8WgI/"
     },
     {
       "_retoob": {
