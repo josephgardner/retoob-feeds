@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 19,
+    "itemCount": 11,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 34,
+    "revision": 35,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,426 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:v1X9Fqs5a14",
+        "dateBasis": "publication",
+        "itemId": "v1X9Fqs5a14",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50556707",
+            "id": "hn-50556707",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50556707",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T06:27:32Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-19T06:27:32Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50556707. Not a verified endorsement.",
+      "date_published": "2026-11-19T06:27:32Z",
+      "external_url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/v1X9Fqs5a14/",
+      "image": "https://i.ytimg.com/vi/v1X9Fqs5a14/hqdefault.jpg",
+      "title": "GTA-6,Crime,Jewel Heists,Prison,Corrupt Cops,Mafia,Miami,Money – Lex Fridman [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/v1X9Fqs5a14/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:nncrPbf7CEs",
+        "dateBasis": "publication",
+        "itemId": "nncrPbf7CEs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=nncrPbf7CEs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50556661",
+            "id": "hn-50556661",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50556661",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T06:18:49Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-19T06:18:49Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50556661. Not a verified endorsement.",
+      "date_published": "2026-11-19T06:18:49Z",
+      "external_url": "https://www.youtube.com/watch?v=nncrPbf7CEs",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/nncrPbf7CEs/",
+      "image": "https://i.ytimg.com/vi/nncrPbf7CEs/hqdefault.jpg",
+      "title": "On the Origins of Riemann's Hypothesis – David E Rowe (Oxford Mathematics) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/nncrPbf7CEs/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:i8mrwS5QZQE",
+        "dateBasis": "publication",
+        "itemId": "i8mrwS5QZQE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=i8mrwS5QZQE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50556585",
+            "id": "hn-50556585",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50556585",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T06:06:52Z"
+            }
+          }
+        ],
+        "revision": 4,
+        "sortAt": "2026-11-19T06:06:52Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50556585. Not a verified endorsement.",
+      "date_published": "2026-11-19T06:06:52Z",
+      "external_url": "https://www.youtube.com/watch?v=i8mrwS5QZQE",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i8mrwS5QZQE/",
+      "image": "https://i.ytimg.com/vi/i8mrwS5QZQE/hqdefault.jpg",
+      "title": "PayByPhone is stealing $50M/year from their users",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i8mrwS5QZQE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:UCL4K36SHp0",
+        "dateBasis": "publication",
+        "itemId": "UCL4K36SHp0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UCL4K36SHp0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50554578",
+            "id": "hn-50554578",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50554578",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T00:51:20Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-19T00:51:20Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50554578. Not a verified endorsement.",
+      "date_published": "2026-11-19T00:51:20Z",
+      "external_url": "https://www.youtube.com/watch?v=UCL4K36SHp0",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/UCL4K36SHp0/",
+      "image": "https://i.ytimg.com/vi/UCL4K36SHp0/hqdefault.jpg",
+      "title": "I Cloned Adobe with AI – Brandon Thomas, ArtCraft [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/UCL4K36SHp0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:jo16XhyukyA",
+        "dateBasis": "publication",
+        "itemId": "jo16XhyukyA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=jo16XhyukyA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50554124",
+            "id": "hn-50554124",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50554124",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T00:03:22Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-19T00:03:22Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50554124. Not a verified endorsement.",
+      "date_published": "2026-11-19T00:03:22Z",
+      "external_url": "https://www.youtube.com/watch?v=jo16XhyukyA",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/jo16XhyukyA/",
+      "image": "https://i.ytimg.com/vi/jo16XhyukyA/hqdefault.jpg",
+      "title": "Vapors Preview – new Svelte inspired Rust GUI framework [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/jo16XhyukyA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1ejtdt78rCo",
+        "dateBasis": "publication",
+        "itemId": "1ejtdt78rCo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1ejtdt78rCo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50553873",
+            "id": "hn-50553873",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50553873",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T23:33:59Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T23:33:59Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50553873. Not a verified endorsement.",
+      "date_published": "2026-11-18T23:33:59Z",
+      "external_url": "https://www.youtube.com/watch?v=1ejtdt78rCo",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/1ejtdt78rCo/",
+      "image": "https://i.ytimg.com/vi/1ejtdt78rCo/hqdefault.jpg",
+      "title": "The Chess Rating System That Predicts Everything [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/1ejtdt78rCo/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:9BL4tcw8MVE",
+        "dateBasis": "publication",
+        "itemId": "9BL4tcw8MVE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9BL4tcw8MVE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50553661",
+            "id": "hn-50553661",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50553661",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T23:08:57Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T23:08:57Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50553661. Not a verified endorsement.",
+      "date_published": "2026-11-18T23:08:57Z",
+      "external_url": "https://www.youtube.com/watch?v=9BL4tcw8MVE",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9BL4tcw8MVE/",
+      "image": "https://i.ytimg.com/vi/9BL4tcw8MVE/hqdefault.jpg",
+      "title": "The Nerd Reich: Big Tech, Trump and Fascism – The Weekly Show with Jon Stewart [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/9BL4tcw8MVE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:C7UC2ie0XIE",
+        "dateBasis": "publication",
+        "itemId": "C7UC2ie0XIE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=C7UC2ie0XIE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50553053",
+            "id": "hn-50553053",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50553053",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T22:18:22Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T22:18:22Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50553053. Not a verified endorsement.",
+      "date_published": "2026-11-18T22:18:22Z",
+      "external_url": "https://www.youtube.com/watch?v=C7UC2ie0XIE",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/C7UC2ie0XIE/",
+      "image": "https://i.ytimg.com/vi/C7UC2ie0XIE/hqdefault.jpg",
+      "title": "Mark Zuckerberg Video Deposition – New Mexico vs. Facebook Trial – 9/10/2026",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/C7UC2ie0XIE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:lFdvbf9bomM",
+        "dateBasis": "publication",
+        "itemId": "lFdvbf9bomM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=lFdvbf9bomM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50552458",
+            "id": "hn-50552458",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50552458",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T21:36:58Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T21:36:58Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50552458. Not a verified endorsement.",
+      "date_published": "2026-11-18T21:36:58Z",
+      "external_url": "https://www.youtube.com/watch?v=lFdvbf9bomM",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/lFdvbf9bomM/",
+      "image": "https://i.ytimg.com/vi/lFdvbf9bomM/hqdefault.jpg",
+      "title": "Why 'Metropolis', Fritz Lang's Silent Movie, Still Defines SciFi 100 Years Later [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/lFdvbf9bomM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:VC_NUxbeA0E",
+        "dateBasis": "publication",
+        "itemId": "VC_NUxbeA0E",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VC_NUxbeA0E"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50552358",
+            "id": "hn-50552358",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50552358",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T21:28:22Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T21:28:22Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50552358. Not a verified endorsement.",
+      "date_published": "2026-11-18T21:28:22Z",
+      "external_url": "https://www.youtube.com/watch?v=VC_NUxbeA0E",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/VC_NUxbeA0E/",
+      "image": "https://i.ytimg.com/vi/VC_NUxbeA0E/hqdefault.jpg",
+      "title": "Chlorophyll Engine 10M Trees – 15km² Test [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/VC_NUxbeA0E/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:Da0aXfshlxM",
@@ -53,762 +473,6 @@
       "image": "https://i.ytimg.com/vi/Da0aXfshlxM/hqdefault.jpg",
       "title": "Fireside Chat: Nassim Nicholas Taleb and Naval Ravikant (2018) [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Da0aXfshlxM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:1NHPDzpfR6Y",
-        "dateBasis": "publication",
-        "itemId": "1NHPDzpfR6Y",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=1NHPDzpfR6Y"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50550510",
-            "id": "hn-50550510",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50550510",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T18:57:23Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T18:57:23Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50550510. Not a verified endorsement.",
-      "date_published": "2026-11-18T18:57:23Z",
-      "external_url": "https://www.youtube.com/watch?v=1NHPDzpfR6Y",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/1NHPDzpfR6Y/",
-      "image": "https://i.ytimg.com/vi/1NHPDzpfR6Y/hqdefault.jpg",
-      "title": "Recursive self-improvement has started [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/1NHPDzpfR6Y/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:ufeJbTNq-BI",
-        "dateBasis": "publication",
-        "itemId": "ufeJbTNq-BI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ufeJbTNq-BI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50550448",
-            "id": "hn-50550448",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50550448",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T18:52:19Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T18:52:19Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50550448. Not a verified endorsement.",
-      "date_published": "2026-11-18T18:52:19Z",
-      "external_url": "https://www.youtube.com/watch?v=ufeJbTNq-BI",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ufeJbTNq-BI/",
-      "image": "https://i.ytimg.com/vi/ufeJbTNq-BI/hqdefault.jpg",
-      "title": "Artificial (movie about OpenAI) official trailer [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ufeJbTNq-BI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:qOAenK39gfs",
-        "dateBasis": "publication",
-        "itemId": "qOAenK39gfs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=qOAenK39gfs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50550142",
-            "id": "hn-50550142",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50550142",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T18:31:37Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T18:31:37Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50550142. Not a verified endorsement.",
-      "date_published": "2026-11-18T18:31:37Z",
-      "external_url": "https://www.youtube.com/watch?v=qOAenK39gfs",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/qOAenK39gfs/",
-      "image": "https://i.ytimg.com/vi/qOAenK39gfs/hqdefault.jpg",
-      "title": "I Built a Dueling Retractable Lightsaber [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/qOAenK39gfs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:-b7g5XIgEn0",
-        "dateBasis": "publication",
-        "itemId": "-b7g5XIgEn0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=-b7g5XIgEn0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50550078",
-            "id": "hn-50550078",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50550078",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T18:27:40Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T18:27:40Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50550078. Not a verified endorsement.",
-      "date_published": "2026-11-18T18:27:40Z",
-      "external_url": "https://www.youtube.com/watch?v=-b7g5XIgEn0",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/-b7g5XIgEn0/",
-      "image": "https://i.ytimg.com/vi/-b7g5XIgEn0/hqdefault.jpg",
-      "title": "Fable 5.2 made a video explaining the DeepSeek Super-agent architecture",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/-b7g5XIgEn0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:vj-XbrZGT2M",
-        "dateBasis": "publication",
-        "itemId": "vj-XbrZGT2M",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=vj-XbrZGT2M"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50549894",
-            "id": "hn-50549894",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50549894",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T18:14:31Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T18:14:31Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50549894. Not a verified endorsement.",
-      "date_published": "2026-11-18T18:14:31Z",
-      "external_url": "https://www.youtube.com/watch?v=vj-XbrZGT2M",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/vj-XbrZGT2M/",
-      "image": "https://i.ytimg.com/vi/vj-XbrZGT2M/hqdefault.jpg",
-      "title": "CEO discovers AI costs more than humans [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/vj-XbrZGT2M/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:gv8QqF5zYC8",
-        "dateBasis": "publication",
-        "itemId": "gv8QqF5zYC8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=gv8QqF5zYC8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50549893",
-            "id": "hn-50549893",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50549893",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T18:14:29Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T18:14:29Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50549893. Not a verified endorsement.",
-      "date_published": "2026-11-18T18:14:29Z",
-      "external_url": "https://www.youtube.com/watch?v=gv8QqF5zYC8",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/gv8QqF5zYC8/",
-      "image": "https://i.ytimg.com/vi/gv8QqF5zYC8/hqdefault.jpg",
-      "title": "Tiny BASIC: The People's Language for the People's Computer",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/gv8QqF5zYC8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:awjlMCCdqXw",
-        "dateBasis": "publication",
-        "itemId": "awjlMCCdqXw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=awjlMCCdqXw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50549693",
-            "id": "hn-50549693",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50549693",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T17:58:44Z"
-            }
-          }
-        ],
-        "revision": 2,
-        "sortAt": "2026-11-18T17:58:44Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50549693. Not a verified endorsement.",
-      "date_published": "2026-11-18T17:58:44Z",
-      "external_url": "https://www.youtube.com/watch?v=awjlMCCdqXw",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/awjlMCCdqXw/",
-      "image": "https://i.ytimg.com/vi/awjlMCCdqXw/hqdefault.jpg",
-      "title": "The Dark Side of China's Perfect Cars",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/awjlMCCdqXw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:i8mrwS5QZQE",
-        "dateBasis": "publication",
-        "itemId": "i8mrwS5QZQE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=i8mrwS5QZQE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50549273",
-            "id": "hn-50549273",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50549273",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T17:32:12Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-11-18T17:32:12Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50549273. Not a verified endorsement.",
-      "date_published": "2026-11-18T17:32:12Z",
-      "external_url": "https://www.youtube.com/watch?v=i8mrwS5QZQE",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i8mrwS5QZQE/",
-      "image": "https://i.ytimg.com/vi/i8mrwS5QZQE/hqdefault.jpg",
-      "title": "PayByPhone dark patterns let it make an extra –$54,630,342/yr from their users [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i8mrwS5QZQE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:kChLGU7ArTQ",
-        "dateBasis": "publication",
-        "itemId": "kChLGU7ArTQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=kChLGU7ArTQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50549248",
-            "id": "hn-50549248",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50549248",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T17:30:31Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T17:30:31Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50549248. Not a verified endorsement.",
-      "date_published": "2026-11-18T17:30:31Z",
-      "external_url": "https://www.youtube.com/watch?v=kChLGU7ArTQ",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/kChLGU7ArTQ/",
-      "image": "https://i.ytimg.com/vi/kChLGU7ArTQ/hqdefault.jpg",
-      "title": "You're Learning LLMs in the Wrong Order",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/kChLGU7ArTQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:QuGarqtkvtc",
-        "dateBasis": "publication",
-        "itemId": "QuGarqtkvtc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=QuGarqtkvtc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50549177",
-            "id": "hn-50549177",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50549177",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T17:25:40Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T17:25:40Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50549177. Not a verified endorsement.",
-      "date_published": "2026-11-18T17:25:40Z",
-      "external_url": "https://www.youtube.com/watch?v=QuGarqtkvtc",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/QuGarqtkvtc/",
-      "image": "https://i.ytimg.com/vi/QuGarqtkvtc/hqdefault.jpg",
-      "title": "Shopify: When Rails Met Fibers: Migrating Sidekick from Puma to Falcon [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/QuGarqtkvtc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:5jijlWkozh8",
-        "dateBasis": "publication",
-        "itemId": "5jijlWkozh8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=5jijlWkozh8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50548992",
-            "id": "hn-50548992",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50548992",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T17:14:34Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T17:14:34Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50548992. Not a verified endorsement.",
-      "date_published": "2026-11-18T17:14:34Z",
-      "external_url": "https://www.youtube.com/watch?v=5jijlWkozh8",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5jijlWkozh8/",
-      "image": "https://i.ytimg.com/vi/5jijlWkozh8/hqdefault.jpg",
-      "title": "Beyond the LLM Top: Putting AI security into practice [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/5jijlWkozh8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:8wI4jMxveyI",
-        "dateBasis": "publication",
-        "itemId": "8wI4jMxveyI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=8wI4jMxveyI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50548631",
-            "id": "hn-50548631",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50548631",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T16:51:50Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T16:51:50Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50548631. Not a verified endorsement.",
-      "date_published": "2026-11-18T16:51:50Z",
-      "external_url": "https://www.youtube.com/watch?v=8wI4jMxveyI",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/8wI4jMxveyI/",
-      "image": "https://i.ytimg.com/vi/8wI4jMxveyI/hqdefault.jpg",
-      "title": "William Shatner \"Sings\" 'Rocket Man' (1978) [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/8wI4jMxveyI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:rY9s0tMzfM8",
-        "dateBasis": "publication",
-        "itemId": "rY9s0tMzfM8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=rY9s0tMzfM8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50548391",
-            "id": "hn-50548391",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50548391",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T16:34:35Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T16:34:35Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50548391. Not a verified endorsement.",
-      "date_published": "2026-11-18T16:34:35Z",
-      "external_url": "https://www.youtube.com/watch?v=rY9s0tMzfM8",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/rY9s0tMzfM8/",
-      "image": "https://i.ytimg.com/vi/rY9s0tMzfM8/hqdefault.jpg",
-      "title": "Why a \"stable\" labor market feels so bad [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/rY9s0tMzfM8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:siy0744Ykys",
-        "dateBasis": "publication",
-        "itemId": "siy0744Ykys",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=siy0744Ykys"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50548127",
-            "id": "hn-50548127",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50548127",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T16:16:38Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T16:16:38Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50548127. Not a verified endorsement.",
-      "date_published": "2026-11-18T16:16:38Z",
-      "external_url": "https://www.youtube.com/watch?v=siy0744Ykys",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/siy0744Ykys/",
-      "image": "https://i.ytimg.com/vi/siy0744Ykys/hqdefault.jpg",
-      "title": "Who's afraid of open source AI? [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/siy0744Ykys/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:KrVH-MKJviI",
-        "dateBasis": "publication",
-        "itemId": "KrVH-MKJviI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=KrVH-MKJviI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50548057",
-            "id": "hn-50548057",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50548057",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T16:11:25Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T16:11:25Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50548057. Not a verified endorsement.",
-      "date_published": "2026-11-18T16:11:25Z",
-      "external_url": "https://www.youtube.com/watch?v=KrVH-MKJviI",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/KrVH-MKJviI/",
-      "image": "https://i.ytimg.com/vi/KrVH-MKJviI/hqdefault.jpg",
-      "title": "All civilizational wealth comes from invention",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/KrVH-MKJviI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:fWXB5u4lXk0",
-        "dateBasis": "publication",
-        "itemId": "fWXB5u4lXk0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=fWXB5u4lXk0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50547944",
-            "id": "hn-50547944",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50547944",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T16:01:53Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T16:01:53Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50547944. Not a verified endorsement.",
-      "date_published": "2026-11-18T16:01:53Z",
-      "external_url": "https://www.youtube.com/watch?v=fWXB5u4lXk0",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/fWXB5u4lXk0/",
-      "image": "https://i.ytimg.com/vi/fWXB5u4lXk0/hqdefault.jpg",
-      "title": "I'm giving the whole Internet a good time [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/fWXB5u4lXk0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:-TLCGUpoD6c",
-        "dateBasis": "publication",
-        "itemId": "-TLCGUpoD6c",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50547048",
-            "id": "hn-50547048",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50547048",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T14:56:04Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T14:56:04Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50547048. Not a verified endorsement.",
-      "date_published": "2026-11-18T14:56:04Z",
-      "external_url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/-TLCGUpoD6c/",
-      "image": "https://i.ytimg.com/vi/-TLCGUpoD6c/hqdefault.jpg",
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/-TLCGUpoD6c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:qsBU0bcpONA",
-        "dateBasis": "publication",
-        "itemId": "qsBU0bcpONA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=qsBU0bcpONA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50546999",
-            "id": "hn-50546999",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50546999",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T14:51:01Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T14:51:01Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50546999. Not a verified endorsement.",
-      "date_published": "2026-11-18T14:51:01Z",
-      "external_url": "https://www.youtube.com/watch?v=qsBU0bcpONA",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/qsBU0bcpONA/",
-      "image": "https://i.ytimg.com/vi/qsBU0bcpONA/hqdefault.jpg",
-      "title": "Grand Theft Auto 6: Digital Foundry Tech Review [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/qsBU0bcpONA/"
     }
   ],
   "title": "New on HN",

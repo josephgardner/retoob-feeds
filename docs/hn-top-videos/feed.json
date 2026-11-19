@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 9,
+    "itemCount": 7,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 30,
+    "revision": 31,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-top-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-top-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:9BL4tcw8MVE",
+        "dateBasis": "publication",
+        "itemId": "9BL4tcw8MVE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9BL4tcw8MVE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50553661",
+            "id": "hn-50553661",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50553661",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-18T23:08:57Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-18T23:08:57Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50553661. Not a verified endorsement.",
+      "date_published": "2026-11-18T23:08:57Z",
+      "external_url": "https://www.youtube.com/watch?v=9BL4tcw8MVE",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/9BL4tcw8MVE/",
+      "image": "https://i.ytimg.com/vi/9BL4tcw8MVE/hqdefault.jpg",
+      "title": "The Nerd Reich: Big Tech, Trump and Fascism – The Weekly Show with Jon Stewart [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/9BL4tcw8MVE/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:ufeJbTNq-BI",
@@ -98,90 +140,6 @@
     },
     {
       "_retoob": {
-        "contentKey": "youtube:-TLCGUpoD6c",
-        "dateBasis": "publication",
-        "itemId": "-TLCGUpoD6c",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50547048",
-            "id": "hn-50547048",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50547048",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T14:56:04Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T14:56:04Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50547048. Not a verified endorsement.",
-      "date_published": "2026-11-18T14:56:04Z",
-      "external_url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/-TLCGUpoD6c/",
-      "image": "https://i.ytimg.com/vi/-TLCGUpoD6c/hqdefault.jpg",
-      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/-TLCGUpoD6c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:qsBU0bcpONA",
-        "dateBasis": "publication",
-        "itemId": "qsBU0bcpONA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=qsBU0bcpONA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50546999",
-            "id": "hn-50546999",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50546999",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-18T14:51:01Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-18T14:51:01Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50546999. Not a verified endorsement.",
-      "date_published": "2026-11-18T14:51:01Z",
-      "external_url": "https://www.youtube.com/watch?v=qsBU0bcpONA",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/qsBU0bcpONA/",
-      "image": "https://i.ytimg.com/vi/qsBU0bcpONA/hqdefault.jpg",
-      "title": "Grand Theft Auto 6: Digital Foundry Tech Review [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/qsBU0bcpONA/"
-    },
-    {
-      "_retoob": {
         "contentKey": "youtube:7_JF3etiAv8",
         "dateBasis": "publication",
         "itemId": "7_JF3etiAv8",
@@ -263,48 +221,6 @@
       "image": "https://i.ytimg.com/vi/ZCAHP50Zly8/hqdefault.jpg",
       "title": "New open source C4 Diagram tool",
       "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/ZCAHP50Zly8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:I1rlK3BKmyA",
-        "dateBasis": "publication",
-        "itemId": "I1rlK3BKmyA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=I1rlK3BKmyA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50507474",
-            "id": "hn-50507474",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50507474",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T15:13:10Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-15T15:13:10Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50507474. Not a verified endorsement.",
-      "date_published": "2026-11-15T15:13:10Z",
-      "external_url": "https://www.youtube.com/watch?v=I1rlK3BKmyA",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/I1rlK3BKmyA/",
-      "image": "https://i.ytimg.com/vi/I1rlK3BKmyA/hqdefault.jpg",
-      "title": "Alkaline batteries are obsolete – but not for the reason you'd think [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/I1rlK3BKmyA/"
     },
     {
       "_retoob": {
