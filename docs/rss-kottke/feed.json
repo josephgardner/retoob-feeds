@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 59,
+    "itemCount": 61,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 13,
+    "revision": 14,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:XuBdq0CbYYE",
+        "dateBasis": "publication",
+        "itemId": "XuBdq0CbYYE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=XuBdq0CbYYE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/the-rose-by-jay-defeo",
+            "id": "rss-b6ca3c84a5f9869f01ea47562fa5fca7",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-20:50041",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T14:48:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-20T14:48:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/the-rose-by-jay-defeo. Not a verified endorsement.",
+      "date_published": "2026-11-20T14:48:00Z",
+      "external_url": "https://www.youtube.com/watch?v=XuBdq0CbYYE",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/XuBdq0CbYYE/",
+      "image": "https://i.ytimg.com/vi/XuBdq0CbYYE/hqdefault.jpg",
+      "title": "The Rose by Jay DeFeo",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/XuBdq0CbYYE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:BkHi-XqVS8U",
+        "dateBasis": "publication",
+        "itemId": "BkHi-XqVS8U",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BkHi-XqVS8U"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/the-rose-by-jay-defeo",
+            "id": "rss-7bc0633a16a75ef952031bd67c0c21cd",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-20:50041",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T14:48:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-20T14:48:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/the-rose-by-jay-defeo. Not a verified endorsement.",
+      "date_published": "2026-11-20T14:48:00Z",
+      "external_url": "https://www.youtube.com/watch?v=BkHi-XqVS8U",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/BkHi-XqVS8U/",
+      "image": "https://i.ytimg.com/vi/BkHi-XqVS8U/hqdefault.jpg",
+      "title": "The Rose by Jay DeFeo",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/BkHi-XqVS8U/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:fEjvSbI_PT4",
