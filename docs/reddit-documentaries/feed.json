@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 29,
+    "revision": 30,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,170 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:ND8F6OkCTNE",
+        "dateBasis": "publication",
+        "itemId": "ND8F6OkCTNE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ND8F6OkCTNE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y1dotl/",
+            "id": "reddit-documentaries-1y1dotl",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y1dotl",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T20:17:45Z"
+            }
+          }
+        ],
+        "revision": 30,
+        "sortAt": "2026-11-20T20:17:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y1dotl/",
+      "date_published": "2026-11-20T20:17:45Z",
+      "external_url": "https://www.youtube.com/watch?v=ND8F6OkCTNE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/ND8F6OkCTNE/",
+      "image": "https://i.ytimg.com/vi/ND8F6OkCTNE/hqdefault.jpg",
+      "title": "33 Years to Build Nvidia, 14 Days to Lose It (2026) - How Jensen Huang built the first $5 trillion company and lost it in two weeks [00:15:17]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/ND8F6OkCTNE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:brn-GC8-3eY",
+        "dateBasis": "publication",
+        "itemId": "brn-GC8-3eY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=brn-GC8-3eY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y1d21q/",
+            "id": "reddit-documentaries-1y1d21q",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y1d21q",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T19:52:16Z"
+            }
+          }
+        ],
+        "revision": 30,
+        "sortAt": "2026-11-20T19:52:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y1d21q/",
+      "date_published": "2026-11-20T19:52:16Z",
+      "external_url": "https://www.youtube.com/watch?v=brn-GC8-3eY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/brn-GC8-3eY/",
+      "image": "https://i.ytimg.com/vi/brn-GC8-3eY/hqdefault.jpg",
+      "title": "Britain's Lost Railways Ep 1: Exploring Newent Station & the Daffodil Line (2026) [00:06:53]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/brn-GC8-3eY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Sx-JouaylxE",
+        "dateBasis": "publication",
+        "itemId": "Sx-JouaylxE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Sx-JouaylxE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y14hal/",
+            "id": "reddit-documentaries-1y14hal",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y14hal",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T14:12:31Z"
+            }
+          }
+        ],
+        "revision": 30,
+        "sortAt": "2026-11-20T14:12:31Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y14hal/",
+      "date_published": "2026-11-20T14:12:31Z",
+      "external_url": "https://www.youtube.com/watch?v=Sx-JouaylxE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Sx-JouaylxE/",
+      "image": "https://i.ytimg.com/vi/Sx-JouaylxE/hqdefault.jpg",
+      "title": "What happened to London's most EXPENSIVE house? (2026) [00:12:16]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Sx-JouaylxE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:i8mrwS5QZQE",
+        "dateBasis": "publication",
+        "itemId": "i8mrwS5QZQE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=i8mrwS5QZQE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y10luk/",
+            "id": "reddit-documentaries-1y10luk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y10luk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T11:00:10Z"
+            }
+          }
+        ],
+        "revision": 30,
+        "sortAt": "2026-11-20T11:00:10Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y10luk/",
+      "date_published": "2026-11-20T11:00:10Z",
+      "external_url": "https://www.youtube.com/watch?v=i8mrwS5QZQE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/i8mrwS5QZQE/",
+      "image": "https://i.ytimg.com/vi/i8mrwS5QZQE/hqdefault.jpg",
+      "title": "I think PayByPhone is stealing ~$54,630,342/yr from their users (2026) [0:16:41]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/i8mrwS5QZQE/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:UpCTKfgp7Vk",
@@ -134,47 +298,6 @@
       "image": "https://i.ytimg.com/vi/Mz_VjqEZ5hI/hqdefault.jpg",
       "title": "The Transformation of the World Into Music (1996) [01:30:11]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Mz_VjqEZ5hI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Ei1BVk_Jol4",
-        "dateBasis": "publication",
-        "itemId": "Ei1BVk_Jol4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Ei1BVk_Jol4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y0iw3g/",
-            "id": "reddit-documentaries-1y0iw3g",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1y0iw3g",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-19T19:48:27Z"
-            }
-          }
-        ],
-        "revision": 28,
-        "sortAt": "2026-11-19T19:48:27Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y0iw3g/",
-      "date_published": "2026-11-19T19:48:27Z",
-      "external_url": "https://www.youtube.com/watch?v=Ei1BVk_Jol4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Ei1BVk_Jol4/",
-      "image": "https://i.ytimg.com/vi/Ei1BVk_Jol4/hqdefault.jpg",
-      "title": "Release the Votes (2026) - After six shows of keeping vote counts secret, QTCinderella briefly posted the fan vote totals for the Streamer Awards before deleting them, sparking a broader argument over how the show is run [00:11:21]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Ei1BVk_Jol4/"
     },
     {
       "_retoob": {
@@ -21652,129 +21775,6 @@
       "image": "https://i.ytimg.com/vi/1mQiDpzZJuw/hqdefault.jpg",
       "title": "The Palestinian (1977) — Vanessa Redgrave documentary on Palestinian life and displacement [2:20:43]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/1mQiDpzZJuw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:25zqZ4uJDFs",
-        "dateBasis": "publication",
-        "itemId": "25zqZ4uJDFs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=25zqZ4uJDFs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vtwxgp/",
-            "id": "reddit-documentaries-1vtwxgp",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vtwxgp",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T21:40:08Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-20T21:40:08Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vtwxgp/",
-      "date_published": "2026-08-20T21:40:08Z",
-      "external_url": "https://www.youtube.com/watch?v=25zqZ4uJDFs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/25zqZ4uJDFs/",
-      "image": "https://i.ytimg.com/vi/25zqZ4uJDFs/hqdefault.jpg",
-      "title": "How Cincinnati Built A 5-Star Geese Resort (2026) [00:05:35]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/25zqZ4uJDFs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:E2M4oQhCh7o",
-        "dateBasis": "publication",
-        "itemId": "E2M4oQhCh7o",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=E2M4oQhCh7o"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vtsd4u/",
-            "id": "reddit-documentaries-1vtsd4u",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vtsd4u",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T18:53:32Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-20T18:53:32Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vtsd4u/",
-      "date_published": "2026-08-20T18:53:32Z",
-      "external_url": "https://www.youtube.com/watch?v=E2M4oQhCh7o",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/E2M4oQhCh7o/",
-      "image": "https://i.ytimg.com/vi/E2M4oQhCh7o/hqdefault.jpg",
-      "title": "Hoax the White House Correspondent's Dinner (2026) - The \"shooting\" at the White House Correspondents Dinner was a hoax. No shots were fired. The \"shooter\" is a brilliant engineer & clearly a patsy. Documentary compares this hoax to the Butler \"shooting\" hoax, and the Charlie Kirk murder. [2:10:37]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/E2M4oQhCh7o/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:o103U6DNorU",
-        "dateBasis": "publication",
-        "itemId": "o103U6DNorU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=o103U6DNorU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vtlcbl/",
-            "id": "reddit-documentaries-1vtlcbl",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vtlcbl",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T14:38:49Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-20T14:38:49Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vtlcbl/",
-      "date_published": "2026-08-20T14:38:49Z",
-      "external_url": "https://www.youtube.com/watch?v=o103U6DNorU",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/o103U6DNorU/",
-      "image": "https://i.ytimg.com/vi/o103U6DNorU/hqdefault.jpg",
-      "title": "Are Beavers the Solution for Drought? (2026) [26:17]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/o103U6DNorU/"
     }
   ],
   "title": "Documentaries",

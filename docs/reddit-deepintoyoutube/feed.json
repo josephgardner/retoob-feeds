@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-deepintoyoutube",
     "publicationEpoch": "reddit-public-20261106-deepintoyoutube",
-    "revision": 30,
+    "revision": 31,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:061zkzhL8xg",
+        "dateBasis": "publication",
+        "itemId": "061zkzhL8xg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=061zkzhL8xg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y1aeun/",
+            "id": "reddit-deepintoyoutube-1y1aeun",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y1aeun",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T18:07:45Z"
+            }
+          }
+        ],
+        "revision": 31,
+        "sortAt": "2026-11-20T18:07:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y1aeun/",
+      "date_published": "2026-11-20T18:07:45Z",
+      "external_url": "https://www.youtube.com/watch?v=061zkzhL8xg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/061zkzhL8xg/",
+      "image": "https://i.ytimg.com/vi/061zkzhL8xg/hqdefault.jpg",
+      "title": "Hotel Cuck Chairs (Conspiracy video) [70k Views]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/061zkzhL8xg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zVhvfjxyqxY",
+        "dateBasis": "publication",
+        "itemId": "zVhvfjxyqxY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zVhvfjxyqxY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y12062/",
+            "id": "reddit-deepintoyoutube-1y12062",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y12062",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T12:17:29Z"
+            }
+          }
+        ],
+        "revision": 31,
+        "sortAt": "2026-11-20T12:17:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y12062/",
+      "date_published": "2026-11-20T12:17:29Z",
+      "external_url": "https://www.youtube.com/watch?v=zVhvfjxyqxY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/zVhvfjxyqxY/",
+      "image": "https://i.ytimg.com/vi/zVhvfjxyqxY/hqdefault.jpg",
+      "title": "cool vid",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/zVhvfjxyqxY/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:xF7uWGP-jM8",
@@ -20653,88 +20735,6 @@
       "image": "https://i.ytimg.com/vi/vv499kTtElM/hqdefault.jpg",
       "title": "“Decreped slide show montage thing” from 2007 - 100 views",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/vv499kTtElM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:KOVqyTHcyqY",
-        "dateBasis": "publication",
-        "itemId": "KOVqyTHcyqY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=KOVqyTHcyqY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wtz5rp/",
-            "id": "reddit-deepintoyoutube-1wtz5rp",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wtz5rp",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-30T08:05:47Z"
-            }
-          }
-        ],
-        "revision": 4,
-        "sortAt": "2026-09-30T08:05:47Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wtz5rp/",
-      "date_published": "2026-09-30T08:05:47Z",
-      "external_url": "https://www.youtube.com/watch?v=KOVqyTHcyqY",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/KOVqyTHcyqY/",
-      "image": "https://i.ytimg.com/vi/KOVqyTHcyqY/hqdefault.jpg",
-      "title": "You fell for my trap",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/KOVqyTHcyqY/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:xH6vDiXQ3pc",
-        "dateBasis": "publication",
-        "itemId": "xH6vDiXQ3pc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=xH6vDiXQ3pc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wtyfee/",
-            "id": "reddit-deepintoyoutube-1wtyfee",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wtyfee",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-30T07:18:09Z"
-            }
-          }
-        ],
-        "revision": 4,
-        "sortAt": "2026-09-30T07:18:09Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wtyfee/",
-      "date_published": "2026-09-30T07:18:09Z",
-      "external_url": "https://www.youtube.com/watch?v=xH6vDiXQ3pc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/xH6vDiXQ3pc/",
-      "image": "https://i.ytimg.com/vi/xH6vDiXQ3pc/hqdefault.jpg",
-      "title": "MINIATURE PEOPLE MAKING SPAGHETTI!! #Shorts",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/xH6vDiXQ3pc/"
     }
   ],
   "title": "Deep cuts",
