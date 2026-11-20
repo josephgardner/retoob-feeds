@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 28,
+    "revision": 29,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:UpCTKfgp7Vk",
+        "dateBasis": "publication",
+        "itemId": "UpCTKfgp7Vk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UpCTKfgp7Vk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y0tm80/",
+            "id": "reddit-documentaries-1y0tm80",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y0tm80",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T03:55:41Z"
+            }
+          }
+        ],
+        "revision": 29,
+        "sortAt": "2026-11-20T03:55:41Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y0tm80/",
+      "date_published": "2026-11-20T03:55:41Z",
+      "external_url": "https://www.youtube.com/watch?v=UpCTKfgp7Vk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/UpCTKfgp7Vk/",
+      "image": "https://i.ytimg.com/vi/UpCTKfgp7Vk/hqdefault.jpg",
+      "title": "One Doctor’s Fight Against Mississippi’s Amputation Epidemic (2026) - A documentary following Dr. Foluso Fakorede’s efforts to prevent diabetes-related amputations and address healthcare inequalities in the Mississippi Delta [00:21:16]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/UpCTKfgp7Vk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:bBwN5fJKiI8",
+        "dateBasis": "publication",
+        "itemId": "bBwN5fJKiI8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bBwN5fJKiI8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y0t6d5/",
+            "id": "reddit-documentaries-1y0t6d5",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y0t6d5",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T03:31:45Z"
+            }
+          }
+        ],
+        "revision": 29,
+        "sortAt": "2026-11-20T03:31:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y0t6d5/",
+      "date_published": "2026-11-20T03:31:45Z",
+      "external_url": "https://www.youtube.com/watch?v=bBwN5fJKiI8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/bBwN5fJKiI8/",
+      "image": "https://i.ytimg.com/vi/bBwN5fJKiI8/hqdefault.jpg",
+      "title": "The Invisible Killer: Investigating the Suspicious Death of a Canadian Woman (2026) - The investigation into a Canadian woman's death in Istanbul and the suspected link to illegal pesticide poisoning [00:42:34]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/bBwN5fJKiI8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Mz_VjqEZ5hI",
+        "dateBasis": "publication",
+        "itemId": "Mz_VjqEZ5hI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Mz_VjqEZ5hI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y0mzk8/",
+            "id": "reddit-documentaries-1y0mzk8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y0mzk8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T22:36:55Z"
+            }
+          }
+        ],
+        "revision": 29,
+        "sortAt": "2026-11-19T22:36:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y0mzk8/",
+      "date_published": "2026-11-19T22:36:55Z",
+      "external_url": "https://www.youtube.com/watch?v=Mz_VjqEZ5hI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Mz_VjqEZ5hI/",
+      "image": "https://i.ytimg.com/vi/Mz_VjqEZ5hI/hqdefault.jpg",
+      "title": "The Transformation of the World Into Music (1996) [01:30:11]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Mz_VjqEZ5hI/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:Ei1BVk_Jol4",
@@ -175,47 +298,6 @@
       "image": "https://i.ytimg.com/vi/DV2o_aB6HBc/hqdefault.jpg",
       "title": "Unreleased Documentary (200): The Execution of Christina Marie Riggs, the Woman Who Killed Her Children",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/DV2o_aB6HBc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:HJcSnpn8oMg",
-        "dateBasis": "publication",
-        "itemId": "HJcSnpn8oMg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=HJcSnpn8oMg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1xzz8ib/",
-            "id": "reddit-documentaries-1xzz8ib",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1xzz8ib",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-19T03:27:12Z"
-            }
-          }
-        ],
-        "revision": 27,
-        "sortAt": "2026-11-19T03:27:12Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1xzz8ib/",
-      "date_published": "2026-11-19T03:27:12Z",
-      "external_url": "https://www.youtube.com/watch?v=HJcSnpn8oMg",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/HJcSnpn8oMg/",
-      "image": "https://i.ytimg.com/vi/HJcSnpn8oMg/hqdefault.jpg",
-      "title": "\"Love and Cameras in America\" (2008) [1:41:29]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/HJcSnpn8oMg/"
     },
     {
       "_retoob": {
@@ -21693,88 +21775,6 @@
       "image": "https://i.ytimg.com/vi/o103U6DNorU/hqdefault.jpg",
       "title": "Are Beavers the Solution for Drought? (2026) [26:17]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/o103U6DNorU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:a7-9H4gQVnc",
-        "dateBasis": "publication",
-        "itemId": "a7-9H4gQVnc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=a7-9H4gQVnc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vtggsu/",
-            "id": "reddit-documentaries-1vtggsu",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vtggsu",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T11:10:16Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-20T11:10:16Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vtggsu/",
-      "date_published": "2026-08-20T11:10:16Z",
-      "external_url": "https://www.youtube.com/watch?v=a7-9H4gQVnc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/a7-9H4gQVnc/",
-      "image": "https://i.ytimg.com/vi/a7-9H4gQVnc/hqdefault.jpg",
-      "title": "Narta Lagoon (Jared & Ivanka Development Project area) Roman Monument on Zvërnec Island. (2026) [0:07:17]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/a7-9H4gQVnc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:v3Dp75K3TQo",
-        "dateBasis": "publication",
-        "itemId": "v3Dp75K3TQo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=v3Dp75K3TQo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vt2xb1/",
-            "id": "reddit-documentaries-1vt2xb1",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vt2xb1",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-19T23:35:14Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-19T23:35:14Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vt2xb1/",
-      "date_published": "2026-08-19T23:35:14Z",
-      "external_url": "https://www.youtube.com/watch?v=v3Dp75K3TQo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/v3Dp75K3TQo/",
-      "image": "https://i.ytimg.com/vi/v3Dp75K3TQo/hqdefault.jpg",
-      "title": "Jakarta: Who Profits When a City Sinks (2026) - investigation into why/how the city is sinking and the corruption within the Government's response [1:01:03]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/v3Dp75K3TQo/"
     }
   ],
   "title": "Documentaries",

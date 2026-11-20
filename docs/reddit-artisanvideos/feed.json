@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 13,
+    "revision": 14,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:S_DjoWxdNJo",
+        "dateBasis": "publication",
+        "itemId": "S_DjoWxdNJo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=S_DjoWxdNJo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1y0822b/",
+            "id": "reddit-artisanvideos-1y0822b",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1y0822b",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T12:22:54Z"
+            }
+          }
+        ],
+        "revision": 14,
+        "sortAt": "2026-11-19T12:22:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1y0822b/",
+      "date_published": "2026-11-19T12:22:54Z",
+      "external_url": "https://www.youtube.com/watch?v=S_DjoWxdNJo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/S_DjoWxdNJo/",
+      "image": "https://i.ytimg.com/vi/S_DjoWxdNJo/hqdefault.jpg",
+      "title": "Restoring a German soldering station for precision work [17:59]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/S_DjoWxdNJo/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:IDy3_rr2Nn4",
@@ -21737,46 +21778,6 @@
       "image": "https://i.ytimg.com/vi/L9z08e0ueNY/hqdefault.jpg",
       "title": "Talented Craftsman Made Wooden Hay Fork With Amazing Skills[14:12]",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/L9z08e0ueNY/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:395c35ghja2e1",
-        "dateBasis": "publication",
-        "itemId": "reddit-395c35ghja2e1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/395c35ghja2e1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1gyzgrb/",
-            "id": "reddit-artisanvideos-1gyzgrb",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1gyzgrb",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-11-24T19:38:50Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2024-11-24T19:38:50Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1gyzgrb/",
-      "date_published": "2024-11-24T19:38:50Z",
-      "external_url": "https://v.redd.it/395c35ghja2e1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-395c35ghja2e1/",
-      "title": "Ming Dynasty porcelain repair",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-395c35ghja2e1/"
     }
   ],
   "title": "Craft & making",

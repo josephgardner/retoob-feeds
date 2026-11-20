@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-deepintoyoutube",
     "publicationEpoch": "reddit-public-20261106-deepintoyoutube",
-    "revision": 29,
+    "revision": 30,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:xF7uWGP-jM8",
+        "dateBasis": "publication",
+        "itemId": "xF7uWGP-jM8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xF7uWGP-jM8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y0x3sz/",
+            "id": "reddit-deepintoyoutube-1y0x3sz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y0x3sz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T07:16:52Z"
+            }
+          }
+        ],
+        "revision": 30,
+        "sortAt": "2026-11-20T07:16:52Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y0x3sz/",
+      "date_published": "2026-11-20T07:16:52Z",
+      "external_url": "https://www.youtube.com/watch?v=xF7uWGP-jM8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/xF7uWGP-jM8/",
+      "image": "https://i.ytimg.com/vi/xF7uWGP-jM8/hqdefault.jpg",
+      "title": "Not sure where to post this",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/xF7uWGP-jM8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:T1cyJnpGnTw",
+        "dateBasis": "publication",
+        "itemId": "T1cyJnpGnTw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=T1cyJnpGnTw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y0r4mc/",
+            "id": "reddit-deepintoyoutube-1y0r4mc",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y0r4mc",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T01:49:27Z"
+            }
+          }
+        ],
+        "revision": 30,
+        "sortAt": "2026-11-20T01:49:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y0r4mc/",
+      "date_published": "2026-11-20T01:49:27Z",
+      "external_url": "https://www.youtube.com/watch?v=T1cyJnpGnTw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/T1cyJnpGnTw/",
+      "image": "https://i.ytimg.com/vi/T1cyJnpGnTw/hqdefault.jpg",
+      "title": "Mr. Frost's Wild Tales",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/T1cyJnpGnTw/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:9E4yPDK22zY",
@@ -52,47 +134,6 @@
       "image": "https://i.ytimg.com/vi/9E4yPDK22zY/hqdefault.jpg",
       "title": "Game Over - Gimmick!",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/9E4yPDK22zY/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:LTPVNgEt2lI",
-        "dateBasis": "publication",
-        "itemId": "LTPVNgEt2lI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=LTPVNgEt2lI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y0e7xl/",
-            "id": "reddit-deepintoyoutube-1y0e7xl",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1y0e7xl",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-19T16:47:40Z"
-            }
-          }
-        ],
-        "revision": 29,
-        "sortAt": "2026-11-19T16:47:40Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y0e7xl/",
-      "date_published": "2026-11-19T16:47:40Z",
-      "external_url": "https://www.youtube.com/watch?v=LTPVNgEt2lI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/LTPVNgEt2lI/",
-      "image": "https://i.ytimg.com/vi/LTPVNgEt2lI/hqdefault.jpg",
-      "title": "i found this vid quite amusing why isnt getting any views",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/LTPVNgEt2lI/"
     },
     {
       "_retoob": {
@@ -175,47 +216,6 @@
       "image": "https://i.ytimg.com/vi/6Mg6hCcSi4c/hqdefault.jpg",
       "title": "SHORT FILM — WITH YOU (5 minutes)",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/6Mg6hCcSi4c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:B4bLIuGOGA4",
-        "dateBasis": "publication",
-        "itemId": "B4bLIuGOGA4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=B4bLIuGOGA4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y09ryi/",
-            "id": "reddit-deepintoyoutube-1y09ryi",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1y09ryi",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-19T13:48:34Z"
-            }
-          }
-        ],
-        "revision": 29,
-        "sortAt": "2026-11-19T13:48:34Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y09ryi/",
-      "date_published": "2026-11-19T13:48:34Z",
-      "external_url": "https://www.youtube.com/watch?v=B4bLIuGOGA4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/B4bLIuGOGA4/",
-      "image": "https://i.ytimg.com/vi/B4bLIuGOGA4/hqdefault.jpg",
-      "title": "🎄 Cozy Christmas Ambience 4K | Relaxing Christmas Songs, Crackling Fireplace & Falling Snow",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/B4bLIuGOGA4/"
     },
     {
       "_retoob": {

@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 31,
+    "revision": 32,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:LZicyZ-KFAc",
+        "dateBasis": "publication",
+        "itemId": "LZicyZ-KFAc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=LZicyZ-KFAc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y0pm5f/",
+            "id": "reddit-obscuremedia-1y0pm5f",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y0pm5f",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T00:36:08Z"
+            }
+          }
+        ],
+        "revision": 32,
+        "sortAt": "2026-11-20T00:36:08Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y0pm5f/",
+      "date_published": "2026-11-20T00:36:08Z",
+      "external_url": "https://www.youtube.com/watch?v=LZicyZ-KFAc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/LZicyZ-KFAc/",
+      "image": "https://i.ytimg.com/vi/LZicyZ-KFAc/hqdefault.jpg",
+      "title": "Macy's Thanksgiving Day Parade (1997) full",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/LZicyZ-KFAc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:LeFgd6gGTWk",
+        "dateBasis": "publication",
+        "itemId": "LeFgd6gGTWk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=LeFgd6gGTWk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y0mf8b/",
+            "id": "reddit-obscuremedia-1y0mf8b",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y0mf8b",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-19T22:12:19Z"
+            }
+          }
+        ],
+        "revision": 32,
+        "sortAt": "2026-11-19T22:12:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y0mf8b/",
+      "date_published": "2026-11-19T22:12:19Z",
+      "external_url": "https://www.youtube.com/watch?v=LeFgd6gGTWk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/LeFgd6gGTWk/",
+      "image": "https://i.ytimg.com/vi/LeFgd6gGTWk/hqdefault.jpg",
+      "title": "School For Assassins (1982)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/LeFgd6gGTWk/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:BgMMnnFxjkg",
@@ -21069,88 +21151,6 @@
       "image": "https://i.ytimg.com/vi/A8J-Gu0C2m4/hqdefault.jpg",
       "title": "This one is odd, but earnest, and with some cool history (1972)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/A8J-Gu0C2m4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:qPwJ5198iYU",
-        "dateBasis": "publication",
-        "itemId": "qPwJ5198iYU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=qPwJ5198iYU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vx1w66/",
-            "id": "reddit-obscuremedia-1vx1w66",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vx1w66",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-24T12:49:26Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-24T12:49:26Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vx1w66/",
-      "date_published": "2026-08-24T12:49:26Z",
-      "external_url": "https://www.youtube.com/watch?v=qPwJ5198iYU",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/qPwJ5198iYU/",
-      "image": "https://i.ytimg.com/vi/qPwJ5198iYU/hqdefault.jpg",
-      "title": "Medieval Band plays Hot Butter - Popcorn (2006)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/qPwJ5198iYU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:cFGAAPbUFKQ",
-        "dateBasis": "publication",
-        "itemId": "cFGAAPbUFKQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=cFGAAPbUFKQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vwvk18/",
-            "id": "reddit-obscuremedia-1vwvk18",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vwvk18",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-24T07:10:26Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-24T07:10:26Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vwvk18/",
-      "date_published": "2026-08-24T07:10:26Z",
-      "external_url": "https://www.youtube.com/watch?v=cFGAAPbUFKQ",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cFGAAPbUFKQ/",
-      "image": "https://i.ytimg.com/vi/cFGAAPbUFKQ/hqdefault.jpg",
-      "title": "Featuring some of the earliest Silent Films from 1925 and more...The Werewolf of Bedburg: Demonology, Satan, and the Confessions of Peter...",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/cFGAAPbUFKQ/"
     }
   ],
   "title": "Obscure finds",
