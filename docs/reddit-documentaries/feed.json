@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 30,
+    "revision": 31,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:i0Fv0pNnan8",
+        "dateBasis": "publication",
+        "itemId": "i0Fv0pNnan8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=i0Fv0pNnan8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y1pxbg/",
+            "id": "reddit-documentaries-1y1pxbg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y1pxbg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T06:15:02Z"
+            }
+          }
+        ],
+        "revision": 31,
+        "sortAt": "2026-11-21T06:15:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y1pxbg/",
+      "date_published": "2026-11-21T06:15:02Z",
+      "external_url": "https://www.youtube.com/watch?v=i0Fv0pNnan8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/i0Fv0pNnan8/",
+      "image": "https://i.ytimg.com/vi/i0Fv0pNnan8/hqdefault.jpg",
+      "title": "1993",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/i0Fv0pNnan8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Li_5Iz7cTKc",
+        "dateBasis": "publication",
+        "itemId": "Li_5Iz7cTKc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Li_5Iz7cTKc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y1m50e/",
+            "id": "reddit-documentaries-1y1m50e",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y1m50e",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T02:47:19Z"
+            }
+          }
+        ],
+        "revision": 31,
+        "sortAt": "2026-11-21T02:47:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y1m50e/",
+      "date_published": "2026-11-21T02:47:19Z",
+      "external_url": "https://www.youtube.com/watch?v=Li_5Iz7cTKc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Li_5Iz7cTKc/",
+      "image": "https://i.ytimg.com/vi/Li_5Iz7cTKc/hqdefault.jpg",
+      "title": "Could AI Be an Extinction Event? The Real Skynet Scenario (2026) [19:27]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Li_5Iz7cTKc/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:ND8F6OkCTNE",
@@ -21693,88 +21775,6 @@
       "image": "https://i.ytimg.com/vi/lQ6lIsl-pHU/hqdefault.jpg",
       "title": "Sands of Sorrow (1950) - One of the earliest documentaries on Palestinian refugees following the 1948 war [00:28:32]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/lQ6lIsl-pHU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:47rZqFAOSUw",
-        "dateBasis": "publication",
-        "itemId": "47rZqFAOSUw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=47rZqFAOSUw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vuhgp7/",
-            "id": "reddit-documentaries-1vuhgp7",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vuhgp7",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-21T14:10:42Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-21T14:10:42Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vuhgp7/",
-      "date_published": "2026-08-21T14:10:42Z",
-      "external_url": "https://www.youtube.com/watch?v=47rZqFAOSUw",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/47rZqFAOSUw/",
-      "image": "https://i.ytimg.com/vi/47rZqFAOSUw/hqdefault.jpg",
-      "title": "The American Experiment: A Brief History of the U.S. | Documentary (2026) [2:06:08]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/47rZqFAOSUw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:1mQiDpzZJuw",
-        "dateBasis": "publication",
-        "itemId": "1mQiDpzZJuw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=1mQiDpzZJuw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vtxqqy/",
-            "id": "reddit-documentaries-1vtxqqy",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vtxqqy",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T22:11:38Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-20T22:11:38Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vtxqqy/",
-      "date_published": "2026-08-20T22:11:38Z",
-      "external_url": "https://www.youtube.com/watch?v=1mQiDpzZJuw",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/1mQiDpzZJuw/",
-      "image": "https://i.ytimg.com/vi/1mQiDpzZJuw/hqdefault.jpg",
-      "title": "The Palestinian (1977) — Vanessa Redgrave documentary on Palestinian life and displacement [2:20:43]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/1mQiDpzZJuw/"
     }
   ],
   "title": "Documentaries",

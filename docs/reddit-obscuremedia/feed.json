@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 33,
+    "revision": 34,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,382 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:AhtYeJXNNbU",
+        "dateBasis": "publication",
+        "itemId": "AhtYeJXNNbU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=AhtYeJXNNbU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1qy1b/",
+            "id": "reddit-obscuremedia-1y1qy1b",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1qy1b",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T07:16:20Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-21T07:16:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1qy1b/",
+      "date_published": "2026-11-21T07:16:20Z",
+      "external_url": "https://www.youtube.com/watch?v=AhtYeJXNNbU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/AhtYeJXNNbU/",
+      "image": "https://i.ytimg.com/vi/AhtYeJXNNbU/hqdefault.jpg",
+      "title": "Wire - Live at Rockpalast (1979) concert and interview",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/AhtYeJXNNbU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:x9aBscsabDA",
+        "dateBasis": "publication",
+        "itemId": "x9aBscsabDA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=x9aBscsabDA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1p03x/",
+            "id": "reddit-obscuremedia-1y1p03x",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1p03x",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T05:22:36Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-21T05:22:36Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1p03x/",
+      "date_published": "2026-11-21T05:22:36Z",
+      "external_url": "https://www.youtube.com/watch?v=x9aBscsabDA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/x9aBscsabDA/",
+      "image": "https://i.ytimg.com/vi/x9aBscsabDA/hqdefault.jpg",
+      "title": "S.O.B - Leave Me Alone (1986)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/x9aBscsabDA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:iSQ8CyzX5Ak",
+        "dateBasis": "publication",
+        "itemId": "iSQ8CyzX5Ak",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=iSQ8CyzX5Ak"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1og5o/",
+            "id": "reddit-obscuremedia-1y1og5o",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1og5o",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T04:52:20Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-21T04:52:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1og5o/",
+      "date_published": "2026-11-21T04:52:20Z",
+      "external_url": "https://www.youtube.com/watch?v=iSQ8CyzX5Ak",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/iSQ8CyzX5Ak/",
+      "image": "https://i.ytimg.com/vi/iSQ8CyzX5Ak/hqdefault.jpg",
+      "title": "Piper (1996). An interactive computer game/musical starring Jason David Frank in a Wild West retelling of the Pied Piper fable.",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/iSQ8CyzX5Ak/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:lpI4FaL2ruw",
+        "dateBasis": "publication",
+        "itemId": "lpI4FaL2ruw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=lpI4FaL2ruw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1keu4/",
+            "id": "reddit-obscuremedia-1y1keu4",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1keu4",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T01:18:24Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-21T01:18:24Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1keu4/",
+      "date_published": "2026-11-21T01:18:24Z",
+      "external_url": "https://www.youtube.com/watch?v=lpI4FaL2ruw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/lpI4FaL2ruw/",
+      "image": "https://i.ytimg.com/vi/lpI4FaL2ruw/hqdefault.jpg",
+      "title": "GENERAL ELECTRIC'S ALL-STAR ANNIVERSARY 1978 - Albert Brooks re-writing ...",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/lpI4FaL2ruw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:o7AgnGM5Vks",
+        "dateBasis": "publication",
+        "itemId": "o7AgnGM5Vks",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=o7AgnGM5Vks"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1ixrm/",
+            "id": "reddit-obscuremedia-1y1ixrm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1ixrm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T00:06:35Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-21T00:06:35Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1ixrm/",
+      "date_published": "2026-11-21T00:06:35Z",
+      "external_url": "https://www.youtube.com/watch?v=o7AgnGM5Vks",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/o7AgnGM5Vks/",
+      "image": "https://i.ytimg.com/vi/o7AgnGM5Vks/hqdefault.jpg",
+      "title": "Parkland Junior High School Mixed Chorus - Freedom for the Stallion (1975)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/o7AgnGM5Vks/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:MaQA25_bAq0",
+        "dateBasis": "publication",
+        "itemId": "MaQA25_bAq0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=MaQA25_bAq0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1fwk3/",
+            "id": "reddit-obscuremedia-1y1fwk3",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1fwk3",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T21:51:32Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xx83km/",
+            "id": "reddit-obscuremedia-1xx83km",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xx83km",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T22:02:50Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xwpxgt/",
+            "id": "reddit-obscuremedia-1xwpxgt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xwpxgt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T08:00:56Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
+            "id": "reddit-obscuremedia-1xvxk1r",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1xvxk1r",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T08:41:53Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-20T21:51:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1fwk3/\nhttps://www.reddit.com/r/obscuremedia/comments/1xx83km/\nhttps://www.reddit.com/r/obscuremedia/comments/1xwpxgt/\nhttps://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
+      "date_published": "2026-11-20T21:51:32Z",
+      "external_url": "https://www.youtube.com/watch?v=MaQA25_bAq0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/",
+      "image": "https://i.ytimg.com/vi/MaQA25_bAq0/hqdefault.jpg",
+      "title": "Channel 3 aka CH3 Live in San Francisco (1982) SoCal punk",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:bWWfpvEBcRw",
+        "dateBasis": "publication",
+        "itemId": "bWWfpvEBcRw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=bWWfpvEBcRw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1eh8y/",
+            "id": "reddit-obscuremedia-1y1eh8y",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1eh8y",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T20:50:09Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-20T20:50:09Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1eh8y/",
+      "date_published": "2026-11-20T20:50:09Z",
+      "external_url": "https://www.youtube.com/watch?v=bWWfpvEBcRw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bWWfpvEBcRw/",
+      "image": "https://i.ytimg.com/vi/bWWfpvEBcRw/hqdefault.jpg",
+      "title": "Soviet Office Workouts (1990)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/bWWfpvEBcRw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:SM-FF0DEl50",
+        "dateBasis": "publication",
+        "itemId": "SM-FF0DEl50",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SM-FF0DEl50"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1edtg/",
+            "id": "reddit-obscuremedia-1y1edtg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1edtg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T20:45:56Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-20T20:45:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1edtg/",
+      "date_published": "2026-11-20T20:45:56Z",
+      "external_url": "https://www.youtube.com/watch?v=SM-FF0DEl50",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/SM-FF0DEl50/",
+      "image": "https://i.ytimg.com/vi/SM-FF0DEl50/hqdefault.jpg",
+      "title": "The Lost Culture of Personal Websites",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/SM-FF0DEl50/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:NVH83gxzyo4",
@@ -1134,79 +1510,6 @@
       "image": "https://i.ytimg.com/vi/6O8ujY3eTJ4/hqdefault.jpg",
       "title": "The Pursuit of Happiness - Pressing Lips (1993)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/6O8ujY3eTJ4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:MaQA25_bAq0",
-        "dateBasis": "publication",
-        "itemId": "MaQA25_bAq0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=MaQA25_bAq0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xx83km/",
-            "id": "reddit-obscuremedia-1xx83km",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1xx83km",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T22:02:50Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xwpxgt/",
-            "id": "reddit-obscuremedia-1xwpxgt",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1xwpxgt",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T08:00:56Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
-            "id": "reddit-obscuremedia-1xvxk1r",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1xvxk1r",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-14T08:41:53Z"
-            }
-          }
-        ],
-        "revision": 24,
-        "sortAt": "2026-11-15T22:02:50Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1xx83km/\nhttps://www.reddit.com/r/obscuremedia/comments/1xwpxgt/\nhttps://www.reddit.com/r/obscuremedia/comments/1xvxk1r/",
-      "date_published": "2026-11-15T22:02:50Z",
-      "external_url": "https://www.youtube.com/watch?v=MaQA25_bAq0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/",
-      "image": "https://i.ytimg.com/vi/MaQA25_bAq0/hqdefault.jpg",
-      "title": "Channel 3 aka CH3 Live in San Francisco (1982) SoCal punk",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/MaQA25_bAq0/"
     },
     {
       "_retoob": {
@@ -20832,309 +21135,6 @@
       "image": "https://i.ytimg.com/vi/XZZ39EcrXnQ/hqdefault.jpg",
       "title": "Alcatraz: The Final Sentence (1988) - A rare, digitised look at the chilling archival documentary exploring the secrets and history of the island prison.",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/XZZ39EcrXnQ/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:zGEqW1bWfFg",
-        "dateBasis": "publication",
-        "itemId": "zGEqW1bWfFg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=zGEqW1bWfFg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vynmgt/",
-            "id": "reddit-obscuremedia-1vynmgt",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vynmgt",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-26T05:10:42Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-26T05:10:42Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vynmgt/",
-      "date_published": "2026-08-26T05:10:42Z",
-      "external_url": "https://www.youtube.com/watch?v=zGEqW1bWfFg",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/zGEqW1bWfFg/",
-      "image": "https://i.ytimg.com/vi/zGEqW1bWfFg/hqdefault.jpg",
-      "title": "Mission of Burma - Bradford Hotel Ballroom Evening Set, Boston, MA 3/12 (1983)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/zGEqW1bWfFg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:7KNUnLaRekg",
-        "dateBasis": "publication",
-        "itemId": "7KNUnLaRekg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=7KNUnLaRekg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vyklff/",
-            "id": "reddit-obscuremedia-1vyklff",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vyklff",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-26T02:44:00Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-26T02:44:00Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vyklff/",
-      "date_published": "2026-08-26T02:44:00Z",
-      "external_url": "https://www.youtube.com/watch?v=7KNUnLaRekg",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/7KNUnLaRekg/",
-      "image": "https://i.ytimg.com/vi/7KNUnLaRekg/hqdefault.jpg",
-      "title": "Young Canadians - Hawaii on Soundproof (1980)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/7KNUnLaRekg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:W4_ODjf-VMs",
-        "dateBasis": "publication",
-        "itemId": "W4_ODjf-VMs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=W4_ODjf-VMs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vycui8/",
-            "id": "reddit-obscuremedia-1vycui8",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vycui8",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-25T21:16:24Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-25T21:16:24Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vycui8/",
-      "date_published": "2026-08-25T21:16:24Z",
-      "external_url": "https://www.youtube.com/watch?v=W4_ODjf-VMs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/W4_ODjf-VMs/",
-      "image": "https://i.ytimg.com/vi/W4_ODjf-VMs/hqdefault.jpg",
-      "title": "John Fahey - America (1971)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/W4_ODjf-VMs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:yo-dvzY97Es",
-        "dateBasis": "publication",
-        "itemId": "yo-dvzY97Es",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=yo-dvzY97Es"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vxwy61/",
-            "id": "reddit-obscuremedia-1vxwy61",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vxwy61",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-25T11:19:15Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-25T11:19:15Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vxwy61/",
-      "date_published": "2026-08-25T11:19:15Z",
-      "external_url": "https://www.youtube.com/watch?v=yo-dvzY97Es",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/yo-dvzY97Es/",
-      "image": "https://i.ytimg.com/vi/yo-dvzY97Es/hqdefault.jpg",
-      "title": "Live at Day On The Green June 5th (1976) - Super 8 Film with Journey, Tower of Power, Jeff Beck, Boz Scaggs, Santana",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/yo-dvzY97Es/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:9KZ8eEBqVCo",
-        "dateBasis": "publication",
-        "itemId": "9KZ8eEBqVCo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=9KZ8eEBqVCo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vxqit7/",
-            "id": "reddit-obscuremedia-1vxqit7",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vxqit7",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-25T05:13:12Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-25T05:13:12Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vxqit7/",
-      "date_published": "2026-08-25T05:13:12Z",
-      "external_url": "https://www.youtube.com/watch?v=9KZ8eEBqVCo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/9KZ8eEBqVCo/",
-      "image": "https://i.ytimg.com/vi/9KZ8eEBqVCo/hqdefault.jpg",
-      "title": "Early Atari tech demo & interview (1983)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/9KZ8eEBqVCo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:HU7-cGWEEf4",
-        "dateBasis": "publication",
-        "itemId": "HU7-cGWEEf4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=HU7-cGWEEf4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vxkbii/",
-            "id": "reddit-obscuremedia-1vxkbii",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vxkbii",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-25T00:18:43Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-25T00:18:43Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vxkbii/",
-      "date_published": "2026-08-25T00:18:43Z",
-      "external_url": "https://www.youtube.com/watch?v=HU7-cGWEEf4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/HU7-cGWEEf4/",
-      "image": "https://i.ytimg.com/vi/HU7-cGWEEf4/hqdefault.jpg",
-      "title": "The Legend of Zelda: Molblin's Magic Spear - Audiobook Accompaniment of the Picture Book of the Same Name; Featuring the Same Voice Actors for Link & Ganon from the 80s Zelda Animated Series (1990)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/HU7-cGWEEf4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:SU0PHrGmLK4",
-        "dateBasis": "publication",
-        "itemId": "SU0PHrGmLK4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=SU0PHrGmLK4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vxflwm/",
-            "id": "reddit-obscuremedia-1vxflwm",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vxflwm",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-24T21:09:24Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vxfir4/",
-            "id": "reddit-obscuremedia-1vxfir4",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vxfir4",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-24T21:06:12Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-24T21:09:24Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vxflwm/\nhttps://www.reddit.com/r/obscuremedia/comments/1vxfir4/",
-      "date_published": "2026-08-24T21:09:24Z",
-      "external_url": "https://www.youtube.com/watch?v=SU0PHrGmLK4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/SU0PHrGmLK4/",
-      "image": "https://i.ytimg.com/vi/SU0PHrGmLK4/hqdefault.jpg",
-      "title": "Harold Duncan - Unknown Demo Song (1970)’s. An acetate that I recorded that is literally disintegrating.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/SU0PHrGmLK4/"
     }
   ],
   "title": "Obscure finds",

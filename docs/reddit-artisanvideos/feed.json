@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 15,
+    "revision": 16,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,47 +12,6 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
-    {
-      "_retoob": {
-        "contentKey": "youtube:97jASJYj_NU",
-        "dateBasis": "publication",
-        "itemId": "97jASJYj_NU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=97jASJYj_NU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1y19blw/",
-            "id": "reddit-artisanvideos-1y19blw",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1y19blw",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-20T17:25:29Z"
-            }
-          }
-        ],
-        "revision": 15,
-        "sortAt": "2026-11-20T17:25:29Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1y19blw/",
-      "date_published": "2026-11-20T17:25:29Z",
-      "external_url": "https://www.youtube.com/watch?v=97jASJYj_NU",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/97jASJYj_NU/",
-      "image": "https://i.ytimg.com/vi/97jASJYj_NU/hqdefault.jpg",
-      "title": "Making a Switch Lite from Junk  [18:35]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/97jASJYj_NU/"
-    },
     {
       "_retoob": {
         "contentKey": "youtube:S_DjoWxdNJo",
@@ -21778,6 +21737,47 @@
       "image": "https://i.ytimg.com/vi/T1KWaBpYY4w/hqdefault.jpg",
       "title": "Exploring Prague’s Mystical Past Through Its Stunning Architecture 🌌✨",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/T1KWaBpYY4w/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:yO08Oa9u1g8",
+        "dateBasis": "publication",
+        "itemId": "yO08Oa9u1g8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=yO08Oa9u1g8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1g0kiqr/",
+            "id": "reddit-artisanvideos-1g0kiqr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1g0kiqr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2024-10-10T14:47:23Z"
+            }
+          }
+        ],
+        "revision": 16,
+        "sortAt": "2024-10-10T14:47:23Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1g0kiqr/",
+      "date_published": "2024-10-10T14:47:23Z",
+      "external_url": "https://www.youtube.com/watch?v=yO08Oa9u1g8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/yO08Oa9u1g8/",
+      "image": "https://i.ytimg.com/vi/yO08Oa9u1g8/hqdefault.jpg",
+      "title": "planning ahead and great memories",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/yO08Oa9u1g8/"
     }
   ],
   "title": "Craft & making",

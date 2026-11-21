@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 24,
+    "revision": 25,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,63 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:p6vjNCwZxP4",
+        "dateBasis": "publication",
+        "itemId": "p6vjNCwZxP4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=p6vjNCwZxP4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y1k3do/",
+            "id": "reddit-youtubehaiku-1y1k3do",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y1k3do",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T01:02:34Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y1jrte/",
+            "id": "reddit-youtubehaiku-1y1jrte",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y1jrte",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T00:46:55Z"
+            }
+          }
+        ],
+        "revision": 25,
+        "sortAt": "2026-11-21T01:02:34Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y1k3do/\nhttps://www.reddit.com/r/youtubehaiku/comments/1y1jrte/",
+      "date_published": "2026-11-21T01:02:34Z",
+      "external_url": "https://www.youtube.com/watch?v=p6vjNCwZxP4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/p6vjNCwZxP4/",
+      "image": "https://i.ytimg.com/vi/p6vjNCwZxP4/hqdefault.jpg",
+      "title": "[Meme] Male Fantasy (2026)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/p6vjNCwZxP4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:ZnADKyuOF28",
@@ -21030,47 +21087,6 @@
       "image": "https://i.ytimg.com/vi/jzMzugmg9BE/hqdefault.jpg",
       "title": "[haiku] Harry nooooo",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/jzMzugmg9BE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:2Gqr4cQ7NMI",
-        "dateBasis": "publication",
-        "itemId": "2Gqr4cQ7NMI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=2Gqr4cQ7NMI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rpy67n/",
-            "id": "reddit-youtubehaiku-1rpy67n",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rpy67n",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-10T14:18:31Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-10T14:18:31Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rpy67n/",
-      "date_published": "2026-03-10T14:18:31Z",
-      "external_url": "https://www.youtube.com/watch?v=2Gqr4cQ7NMI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/2Gqr4cQ7NMI/",
-      "image": "https://i.ytimg.com/vi/2Gqr4cQ7NMI/hqdefault.jpg",
-      "title": "[Poetry] Vandali",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/2Gqr4cQ7NMI/"
     }
   ],
   "title": "Quick clips",
