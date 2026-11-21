@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 34,
+    "revision": 35,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,63 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:SM-FF0DEl50",
+        "dateBasis": "publication",
+        "itemId": "SM-FF0DEl50",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SM-FF0DEl50"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1xl4g/",
+            "id": "reddit-obscuremedia-1y1xl4g",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1xl4g",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T13:53:40Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1edtg/",
+            "id": "reddit-obscuremedia-1y1edtg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y1edtg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-20T20:45:56Z"
+            }
+          }
+        ],
+        "revision": 35,
+        "sortAt": "2026-11-21T13:53:40Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1xl4g/\nhttps://www.reddit.com/r/obscuremedia/comments/1y1edtg/",
+      "date_published": "2026-11-21T13:53:40Z",
+      "external_url": "https://www.youtube.com/watch?v=SM-FF0DEl50",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/SM-FF0DEl50/",
+      "image": "https://i.ytimg.com/vi/SM-FF0DEl50/hqdefault.jpg",
+      "title": "The Lost Culture of Personal Websites (1990)s",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/SM-FF0DEl50/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:AhtYeJXNNbU",
@@ -349,47 +406,6 @@
     },
     {
       "_retoob": {
-        "contentKey": "youtube:SM-FF0DEl50",
-        "dateBasis": "publication",
-        "itemId": "SM-FF0DEl50",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=SM-FF0DEl50"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y1edtg/",
-            "id": "reddit-obscuremedia-1y1edtg",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1y1edtg",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-20T20:45:56Z"
-            }
-          }
-        ],
-        "revision": 34,
-        "sortAt": "2026-11-20T20:45:56Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y1edtg/",
-      "date_published": "2026-11-20T20:45:56Z",
-      "external_url": "https://www.youtube.com/watch?v=SM-FF0DEl50",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/SM-FF0DEl50/",
-      "image": "https://i.ytimg.com/vi/SM-FF0DEl50/hqdefault.jpg",
-      "title": "The Lost Culture of Personal Websites",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/SM-FF0DEl50/"
-    },
-    {
-      "_retoob": {
         "contentKey": "youtube:NVH83gxzyo4",
         "dateBasis": "publication",
         "itemId": "NVH83gxzyo4",
@@ -510,47 +526,6 @@
       "image": "https://i.ytimg.com/vi/A3jmz951MCs/hqdefault.jpg",
       "title": "When Carol Met Larry (2002) - A documentary hidden on the Ed Wood DVD. The studio intended to remove it from the DVD release, but only removed it from the menu. It could still be found in the VIDEO_TS folder.",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/A3jmz951MCs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:kTFeVdERDYM",
-        "dateBasis": "publication",
-        "itemId": "kTFeVdERDYM",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=kTFeVdERDYM"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y0zvhd/",
-            "id": "reddit-obscuremedia-1y0zvhd",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1y0zvhd",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-20T10:14:01Z"
-            }
-          }
-        ],
-        "revision": 33,
-        "sortAt": "2026-11-20T10:14:01Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y0zvhd/",
-      "date_published": "2026-11-20T10:14:01Z",
-      "external_url": "https://www.youtube.com/watch?v=kTFeVdERDYM",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/kTFeVdERDYM/",
-      "image": "https://i.ytimg.com/vi/kTFeVdERDYM/hqdefault.jpg",
-      "title": "Glitched youtube videos (2005) - (present)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/kTFeVdERDYM/"
     },
     {
       "_retoob": {
@@ -21135,6 +21110,47 @@
       "image": "https://i.ytimg.com/vi/XZZ39EcrXnQ/hqdefault.jpg",
       "title": "Alcatraz: The Final Sentence (1988) - A rare, digitised look at the chilling archival documentary exploring the secrets and history of the island prison.",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/XZZ39EcrXnQ/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:g1C1joY2rkQ",
+        "dateBasis": "publication",
+        "itemId": "g1C1joY2rkQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=g1C1joY2rkQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vkpio8/",
+            "id": "reddit-obscuremedia-1vkpio8",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1vkpio8",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-08-10T16:22:00Z"
+            }
+          }
+        ],
+        "revision": 35,
+        "sortAt": "2026-08-10T16:22:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vkpio8/",
+      "date_published": "2026-08-10T16:22:00Z",
+      "external_url": "https://www.youtube.com/watch?v=g1C1joY2rkQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/g1C1joY2rkQ/",
+      "image": "https://i.ytimg.com/vi/g1C1joY2rkQ/hqdefault.jpg",
+      "title": "A Clandestine Love Nest For A Controversial 1920s Seductress",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/g1C1joY2rkQ/"
     }
   ],
   "title": "Obscure finds",
