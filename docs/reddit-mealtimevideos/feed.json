@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-mealtimevideos",
     "publicationEpoch": "reddit-public-20261106-mealtimevideos",
-    "revision": 12,
+    "revision": 13,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:J32Sc2lJTTM",
+        "dateBasis": "publication",
+        "itemId": "J32Sc2lJTTM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=J32Sc2lJTTM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y2ikrv/",
+            "id": "reddit-mealtimevideos-1y2ikrv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1y2ikrv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T06:33:13Z"
+            }
+          }
+        ],
+        "revision": 13,
+        "sortAt": "2026-11-22T06:33:13Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y2ikrv/",
+      "date_published": "2026-11-22T06:33:13Z",
+      "external_url": "https://www.youtube.com/watch?v=J32Sc2lJTTM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/J32Sc2lJTTM/",
+      "image": "https://i.ytimg.com/vi/J32Sc2lJTTM/hqdefault.jpg",
+      "title": "Why Can't Governments Just Print More Money? Inflation Explained [06:05]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/J32Sc2lJTTM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:CJez_m8ctyE",
+        "dateBasis": "publication",
+        "itemId": "CJez_m8ctyE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=CJez_m8ctyE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y26ins/",
+            "id": "reddit-mealtimevideos-1y26ins",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1y26ins",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T20:20:32Z"
+            }
+          }
+        ],
+        "revision": 13,
+        "sortAt": "2026-11-21T20:20:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y26ins/",
+      "date_published": "2026-11-21T20:20:32Z",
+      "external_url": "https://www.youtube.com/watch?v=CJez_m8ctyE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/CJez_m8ctyE/",
+      "image": "https://i.ytimg.com/vi/CJez_m8ctyE/hqdefault.jpg",
+      "title": "Did Our Current Alphabet Come from Egyptian Symbols? [14:18]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/CJez_m8ctyE/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:2XiEri0DaKI",
@@ -20893,88 +20975,6 @@
       "image": "https://i.ytimg.com/vi/B5zAbTgyz_w/hqdefault.jpg",
       "title": "[9:32] What is Theater Core Music?",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/B5zAbTgyz_w/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:DP2m0zJL15I",
-        "dateBasis": "publication",
-        "itemId": "DP2m0zJL15I",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=DP2m0zJL15I"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1wcspro/",
-            "id": "reddit-mealtimevideos-1wcspro",
-            "kind": "community",
-            "publisher": {
-              "name": "r/mealtimevideos",
-              "url": "https://www.reddit.com/r/mealtimevideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
-            "upstreamItemId": "1wcspro",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-10T19:11:26Z"
-            }
-          }
-        ],
-        "revision": 12,
-        "sortAt": "2026-09-10T19:11:26Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1wcspro/",
-      "date_published": "2026-09-10T19:11:26Z",
-      "external_url": "https://www.youtube.com/watch?v=DP2m0zJL15I",
-      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/DP2m0zJL15I/",
-      "image": "https://i.ytimg.com/vi/DP2m0zJL15I/hqdefault.jpg",
-      "title": "The Last Texas Germans [48:22]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/DP2m0zJL15I/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:YNt4z_LY3go",
-        "dateBasis": "publication",
-        "itemId": "YNt4z_LY3go",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=YNt4z_LY3go"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1wclpj9/",
-            "id": "reddit-mealtimevideos-1wclpj9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/mealtimevideos",
-              "url": "https://www.reddit.com/r/mealtimevideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
-            "upstreamItemId": "1wclpj9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-10T15:02:07Z"
-            }
-          }
-        ],
-        "revision": 12,
-        "sortAt": "2026-09-10T15:02:07Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1wclpj9/",
-      "date_published": "2026-09-10T15:02:07Z",
-      "external_url": "https://www.youtube.com/watch?v=YNt4z_LY3go",
-      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/YNt4z_LY3go/",
-      "image": "https://i.ytimg.com/vi/YNt4z_LY3go/hqdefault.jpg",
-      "title": "Inside Oura’s IPO: The $16B Bet on a Tiny Ring [34:19]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/YNt4z_LY3go/"
     }
   ],
   "title": "Mealtime videos",
