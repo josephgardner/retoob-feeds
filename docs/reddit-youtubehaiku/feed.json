@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 25,
+    "revision": 26,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,63 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:nYr3fjvkZlw",
+        "dateBasis": "publication",
+        "itemId": "nYr3fjvkZlw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=nYr3fjvkZlw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y2vtql/",
+            "id": "reddit-youtubehaiku-1y2vtql",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y2vtql",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T18:12:36Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1tmdlmt/",
+            "id": "reddit-youtubehaiku-1tmdlmt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1tmdlmt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-05-24T14:24:17Z"
+            }
+          }
+        ],
+        "revision": 26,
+        "sortAt": "2026-11-22T18:12:36Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y2vtql/\nhttps://www.reddit.com/r/youtubehaiku/comments/1tmdlmt/",
+      "date_published": "2026-11-22T18:12:36Z",
+      "external_url": "https://www.youtube.com/watch?v=nYr3fjvkZlw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/nYr3fjvkZlw/",
+      "image": "https://i.ytimg.com/vi/nYr3fjvkZlw/hqdefault.jpg",
+      "title": "[haiku] My First Tattoo",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/nYr3fjvkZlw/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:p6vjNCwZxP4",
@@ -15604,47 +15661,6 @@
       "image": "https://i.ytimg.com/vi/C8x_ULZmqZY/hqdefault.jpg",
       "title": "[haiku] tell me, what do you see?",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/C8x_ULZmqZY/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:nYr3fjvkZlw",
-        "dateBasis": "publication",
-        "itemId": "nYr3fjvkZlw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=nYr3fjvkZlw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1tmdlmt/",
-            "id": "reddit-youtubehaiku-1tmdlmt",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1tmdlmt",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-05-24T14:24:17Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-05-24T14:24:17Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1tmdlmt/",
-      "date_published": "2026-05-24T14:24:17Z",
-      "external_url": "https://www.youtube.com/watch?v=nYr3fjvkZlw",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/nYr3fjvkZlw/",
-      "image": "https://i.ytimg.com/vi/nYr3fjvkZlw/hqdefault.jpg",
-      "title": "[haiku] My First Tattoo",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/nYr3fjvkZlw/"
     },
     {
       "_retoob": {

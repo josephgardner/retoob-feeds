@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 36,
+    "revision": 37,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,104 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:IHYIvK0-nas",
+        "dateBasis": "publication",
+        "itemId": "IHYIvK0-nas",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IHYIvK0-nas"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y2nn3b/",
+            "id": "reddit-obscuremedia-1y2nn3b",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y2nn3b",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T11:54:55Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y2njjf/",
+            "id": "reddit-obscuremedia-1y2njjf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y2njjf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T11:48:43Z"
+            }
+          }
+        ],
+        "revision": 37,
+        "sortAt": "2026-11-22T11:54:55Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y2nn3b/\nhttps://www.reddit.com/r/obscuremedia/comments/1y2njjf/",
+      "date_published": "2026-11-22T11:54:55Z",
+      "external_url": "https://www.youtube.com/watch?v=IHYIvK0-nas",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IHYIvK0-nas/",
+      "image": "https://i.ytimg.com/vi/IHYIvK0-nas/hqdefault.jpg",
+      "title": "Animal farm (1990)s",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IHYIvK0-nas/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:5XTSd0-X6JY",
+        "dateBasis": "publication",
+        "itemId": "5XTSd0-X6JY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=5XTSd0-X6JY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y2m8cq/",
+            "id": "reddit-obscuremedia-1y2m8cq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y2m8cq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T10:25:31Z"
+            }
+          }
+        ],
+        "revision": 37,
+        "sortAt": "2026-11-22T10:25:31Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y2m8cq/",
+      "date_published": "2026-11-22T10:25:31Z",
+      "external_url": "https://www.youtube.com/watch?v=5XTSd0-X6JY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/5XTSd0-X6JY/",
+      "image": "https://i.ytimg.com/vi/5XTSd0-X6JY/hqdefault.jpg",
+      "title": "Conspiracy (1994) a documentary about the 1978 Sydney Hilton Hotel bombing",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/5XTSd0-X6JY/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:ophaaEAmRMg",
@@ -21005,136 +21103,6 @@
       "image": "https://i.ytimg.com/vi/XPyt26KBmvg/hqdefault.jpg",
       "title": "Dolly Parton on Donahue (1993)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/XPyt26KBmvg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Mh2_GOPGKBs",
-        "dateBasis": "publication",
-        "itemId": "Mh2_GOPGKBs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Mh2_GOPGKBs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vz7q1p/",
-            "id": "reddit-obscuremedia-1vz7q1p",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vz7q1p",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-26T19:50:03Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-26T19:50:03Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vz7q1p/",
-      "date_published": "2026-08-26T19:50:03Z",
-      "external_url": "https://www.youtube.com/watch?v=Mh2_GOPGKBs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Mh2_GOPGKBs/",
-      "image": "https://i.ytimg.com/vi/Mh2_GOPGKBs/hqdefault.jpg",
-      "title": "De La Soul EPK (electronic press kit) Three Feet and Rising (1989)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/Mh2_GOPGKBs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:LwZMXm7JMYo",
-        "dateBasis": "publication",
-        "itemId": "LwZMXm7JMYo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=LwZMXm7JMYo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vz5yg9/",
-            "id": "reddit-obscuremedia-1vz5yg9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vz5yg9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-26T18:48:13Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vz5usq/",
-            "id": "reddit-obscuremedia-1vz5usq",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vz5usq",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-26T18:44:36Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vz5rva/",
-            "id": "reddit-obscuremedia-1vz5rva",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vz5rva",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-26T18:41:44Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1vz5pm9/",
-            "id": "reddit-obscuremedia-1vz5pm9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1vz5pm9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-26T18:39:35Z"
-            }
-          }
-        ],
-        "revision": 6,
-        "sortAt": "2026-08-26T18:48:13Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1vz5yg9/\nhttps://www.reddit.com/r/obscuremedia/comments/1vz5usq/\nhttps://www.reddit.com/r/obscuremedia/comments/1vz5rva/\nhttps://www.reddit.com/r/obscuremedia/comments/1vz5pm9/",
-      "date_published": "2026-08-26T18:48:13Z",
-      "external_url": "https://www.youtube.com/watch?v=LwZMXm7JMYo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/LwZMXm7JMYo/",
-      "image": "https://i.ytimg.com/vi/LwZMXm7JMYo/hqdefault.jpg",
-      "title": "S.O.S. (japanese musical) from the Family International cult, (1989)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/LwZMXm7JMYo/"
     }
   ],
   "title": "Obscure finds",

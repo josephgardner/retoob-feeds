@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 32,
+    "revision": 33,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:r-yNB0hqIhg",
+        "dateBasis": "publication",
+        "itemId": "r-yNB0hqIhg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=r-yNB0hqIhg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y2xyrn/",
+            "id": "reddit-documentaries-1y2xyrn",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y2xyrn",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T19:41:21Z"
+            }
+          }
+        ],
+        "revision": 33,
+        "sortAt": "2026-11-22T19:41:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y2xyrn/",
+      "date_published": "2026-11-22T19:41:21Z",
+      "external_url": "https://www.youtube.com/watch?v=r-yNB0hqIhg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/r-yNB0hqIhg/",
+      "image": "https://i.ytimg.com/vi/r-yNB0hqIhg/hqdefault.jpg",
+      "title": "Stalin Tried to Destroy Tito – The Man Who Said No (2026) [00:27:19]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/r-yNB0hqIhg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:GDOGr1KD1kE",
+        "dateBasis": "publication",
+        "itemId": "GDOGr1KD1kE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=GDOGr1KD1kE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y2vzsp/",
+            "id": "reddit-documentaries-1y2vzsp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y2vzsp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T18:19:45Z"
+            }
+          }
+        ],
+        "revision": 33,
+        "sortAt": "2026-11-22T18:19:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y2vzsp/",
+      "date_published": "2026-11-22T18:19:45Z",
+      "external_url": "https://www.youtube.com/watch?v=GDOGr1KD1kE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/GDOGr1KD1kE/",
+      "image": "https://i.ytimg.com/vi/GDOGr1KD1kE/hqdefault.jpg",
+      "title": "How China Uses TikTok to Shape Your Life (2026) [00:10:46]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/GDOGr1KD1kE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:gqcnau280PQ",
+        "dateBasis": "publication",
+        "itemId": "gqcnau280PQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gqcnau280PQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y2nkps/",
+            "id": "reddit-documentaries-1y2nkps",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y2nkps",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T11:50:48Z"
+            }
+          }
+        ],
+        "revision": 33,
+        "sortAt": "2026-11-22T11:50:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y2nkps/",
+      "date_published": "2026-11-22T11:50:48Z",
+      "external_url": "https://www.youtube.com/watch?v=gqcnau280PQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/gqcnau280PQ/",
+      "image": "https://i.ytimg.com/vi/gqcnau280PQ/hqdefault.jpg",
+      "title": "The Beast Of Bladenboro: North Carolina's 1954 Nightmare. (2026) [04:51] mini documentary. Not ai",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/gqcnau280PQ/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:fAkyjACadIM",
@@ -21668,145 +21791,6 @@
       "image": "https://i.ytimg.com/vi/87k2EEhe1HM/hqdefault.jpg",
       "title": "A Tower Climber Never Came Home (2026) [32:26]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/87k2EEhe1HM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:IDvDesCPlJw",
-        "dateBasis": "publication",
-        "itemId": "IDvDesCPlJw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=IDvDesCPlJw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vw1mbb/",
-            "id": "reddit-documentaries-1vw1mbb",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vw1mbb",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-23T08:30:46Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vtgvdc/",
-            "id": "reddit-documentaries-1vtgvdc",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vtgvdc",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-20T11:30:18Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-08-23T08:30:46Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vw1mbb/\nhttps://www.reddit.com/r/documentaries/comments/1vtgvdc/",
-      "date_published": "2026-08-23T08:30:46Z",
-      "external_url": "https://www.youtube.com/watch?v=IDvDesCPlJw",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/IDvDesCPlJw/",
-      "image": "https://i.ytimg.com/vi/IDvDesCPlJw/hqdefault.jpg",
-      "title": "Conbody vs Everybody (2026) [1:34]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/IDvDesCPlJw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:TGO0xaWXYm0",
-        "dateBasis": "publication",
-        "itemId": "TGO0xaWXYm0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=TGO0xaWXYm0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vvudhg/",
-            "id": "reddit-documentaries-1vvudhg",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vvudhg",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-23T01:56:36Z"
-            }
-          }
-        ],
-        "revision": 13,
-        "sortAt": "2026-08-23T01:56:36Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vvudhg/",
-      "date_published": "2026-08-23T01:56:36Z",
-      "external_url": "https://www.youtube.com/watch?v=TGO0xaWXYm0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/TGO0xaWXYm0/",
-      "image": "https://i.ytimg.com/vi/TGO0xaWXYm0/hqdefault.jpg",
-      "title": "American Doctor (2026) [01:33.00] follows three U.S. physicians from distinct cultural and religious backgrounds who volunteer to provide emergency trauma care in the Gaza Strip during the ongoing conflict",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/TGO0xaWXYm0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:jDdhgtZPzkA",
-        "dateBasis": "publication",
-        "itemId": "jDdhgtZPzkA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=jDdhgtZPzkA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vvr4is/",
-            "id": "reddit-documentaries-1vvr4is",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vvr4is",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-22T23:24:04Z"
-            }
-          }
-        ],
-        "revision": 13,
-        "sortAt": "2026-08-22T23:24:04Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vvr4is/",
-      "date_published": "2026-08-22T23:24:04Z",
-      "external_url": "https://www.youtube.com/watch?v=jDdhgtZPzkA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/jDdhgtZPzkA/",
-      "image": "https://i.ytimg.com/vi/jDdhgtZPzkA/hqdefault.jpg",
-      "title": "Though the Earth be Moved (1964) the Great Alaska Earthquake [00:45:42]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/jDdhgtZPzkA/"
     }
   ],
   "title": "Documentaries",

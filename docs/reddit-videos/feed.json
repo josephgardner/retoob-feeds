@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-videos",
     "publicationEpoch": "reddit-public-20261106-videos",
-    "revision": 26,
+    "revision": 27,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -10135,19 +10135,461 @@
               "precision": "exact",
               "value": "2026-11-15T03:02:00Z"
             }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwkp7l/",
+            "id": "reddit-videos-1xwkp7l",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwkp7l",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T03:00:58Z"
+            }
           }
         ],
-        "revision": 26,
+        "revision": 27,
         "sortAt": "2026-11-15T03:02:00Z",
         "version": 1
       },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwkpzz/",
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwkpzz/\nhttps://www.reddit.com/r/videos/comments/1xwkp7l/",
       "date_published": "2026-11-15T03:02:00Z",
       "external_url": "https://www.youtube.com/watch?v=UVvXtc51FI0",
       "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/UVvXtc51FI0/",
       "image": "https://i.ytimg.com/vi/UVvXtc51FI0/hqdefault.jpg",
       "title": "Please F*ck Me (Short Film)",
       "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/UVvXtc51FI0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Rs2z7OA3XKI",
+        "dateBasis": "publication",
+        "itemId": "Rs2z7OA3XKI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Rs2z7OA3XKI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwkoqg/",
+            "id": "reddit-videos-1xwkoqg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwkoqg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T03:00:25Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-15T03:00:25Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwkoqg/",
+      "date_published": "2026-11-15T03:00:25Z",
+      "external_url": "https://www.youtube.com/watch?v=Rs2z7OA3XKI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/Rs2z7OA3XKI/",
+      "image": "https://i.ytimg.com/vi/Rs2z7OA3XKI/hqdefault.jpg",
+      "title": "Cadbury’s Gorilla Playing Drums Advert",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/Rs2z7OA3XKI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:xax4LunF8bU",
+        "dateBasis": "publication",
+        "itemId": "xax4LunF8bU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=xax4LunF8bU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwk2cr/",
+            "id": "reddit-videos-1xwk2cr",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwk2cr",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T02:28:05Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-15T02:28:05Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwk2cr/",
+      "date_published": "2026-11-15T02:28:05Z",
+      "external_url": "https://www.youtube.com/watch?v=xax4LunF8bU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/xax4LunF8bU/",
+      "image": "https://i.ytimg.com/vi/xax4LunF8bU/hqdefault.jpg",
+      "title": "The Muslim Brotherhood’s Plan for the West EXPOSED: Egyptian Geopolitics expert Dalia Ziada Reveals How They Use the Palestinian Cause and Hatred of Jews (Antisemitism) to Weaken Western Society From Within",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/xax4LunF8bU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:tYrhDmUXgq8",
+        "dateBasis": "publication",
+        "itemId": "tYrhDmUXgq8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=tYrhDmUXgq8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwjt81/",
+            "id": "reddit-videos-1xwjt81",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwjt81",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T02:14:46Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-15T02:14:46Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwjt81/",
+      "date_published": "2026-11-15T02:14:46Z",
+      "external_url": "https://www.youtube.com/watch?v=tYrhDmUXgq8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/tYrhDmUXgq8/",
+      "image": "https://i.ytimg.com/vi/tYrhDmUXgq8/hqdefault.jpg",
+      "title": "F6F-3N Hellcat Walkaround",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/tYrhDmUXgq8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:_i0xK1INZrI",
+        "dateBasis": "publication",
+        "itemId": "_i0xK1INZrI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=_i0xK1INZrI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwj8n6/",
+            "id": "reddit-videos-1xwj8n6",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwj8n6",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T01:45:00Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-15T01:45:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwj8n6/",
+      "date_published": "2026-11-15T01:45:00Z",
+      "external_url": "https://www.youtube.com/watch?v=_i0xK1INZrI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/_i0xK1INZrI/",
+      "image": "https://i.ytimg.com/vi/_i0xK1INZrI/hqdefault.jpg",
+      "title": "Hungarian Investigators Dig Up Forest, Find Nearly $20 Million in Cash Linked to Ex-Orban Minister",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/_i0xK1INZrI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:_WvgGdivQzE",
+        "dateBasis": "publication",
+        "itemId": "_WvgGdivQzE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=_WvgGdivQzE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwj6dm/",
+            "id": "reddit-videos-1xwj6dm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwj6dm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T01:41:44Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-15T01:41:44Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwj6dm/",
+      "date_published": "2026-11-15T01:41:44Z",
+      "external_url": "https://www.youtube.com/watch?v=_WvgGdivQzE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/_WvgGdivQzE/",
+      "image": "https://i.ytimg.com/vi/_WvgGdivQzE/hqdefault.jpg",
+      "title": "Beastie Boys Perform \"Sabotage\" Letterman 1994",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/_WvgGdivQzE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:lHAAD6MeGtc",
+        "dateBasis": "publication",
+        "itemId": "lHAAD6MeGtc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=lHAAD6MeGtc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwhqcf/",
+            "id": "reddit-videos-1xwhqcf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwhqcf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-15T00:28:11Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-15T00:28:11Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwhqcf/",
+      "date_published": "2026-11-15T00:28:11Z",
+      "external_url": "https://www.youtube.com/watch?v=lHAAD6MeGtc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/lHAAD6MeGtc/",
+      "image": "https://i.ytimg.com/vi/lHAAD6MeGtc/hqdefault.jpg",
+      "title": "Waking Up At A Green Light Completely Boxed In By Police",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/lHAAD6MeGtc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1lUVL5sOZis",
+        "dateBasis": "publication",
+        "itemId": "1lUVL5sOZis",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1lUVL5sOZis"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwgnw1/",
+            "id": "reddit-videos-1xwgnw1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwgnw1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T23:38:16Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-14T23:38:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwgnw1/",
+      "date_published": "2026-11-14T23:38:16Z",
+      "external_url": "https://www.youtube.com/watch?v=1lUVL5sOZis",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/1lUVL5sOZis/",
+      "image": "https://i.ytimg.com/vi/1lUVL5sOZis/hqdefault.jpg",
+      "title": "The Most Painful Blender Tutorial",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/1lUVL5sOZis/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:L4DnSBPRemE",
+        "dateBasis": "publication",
+        "itemId": "L4DnSBPRemE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=L4DnSBPRemE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwgnbv/",
+            "id": "reddit-videos-1xwgnbv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwgnbv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T23:37:29Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwg9vs/",
+            "id": "reddit-videos-1xwg9vs",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwg9vs",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T23:20:09Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-14T23:37:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwgnbv/\nhttps://www.reddit.com/r/videos/comments/1xwg9vs/",
+      "date_published": "2026-11-14T23:37:29Z",
+      "external_url": "https://www.youtube.com/watch?v=L4DnSBPRemE",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/L4DnSBPRemE/",
+      "image": "https://i.ytimg.com/vi/L4DnSBPRemE/hqdefault.jpg",
+      "title": "Inside The Camgirl Criminal Empire | TMZ Studios",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/L4DnSBPRemE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:gsDUm2NJ3uA",
+        "dateBasis": "publication",
+        "itemId": "gsDUm2NJ3uA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=gsDUm2NJ3uA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwghzt/",
+            "id": "reddit-videos-1xwghzt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwghzt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T23:30:35Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-14T23:30:35Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwghzt/",
+      "date_published": "2026-11-14T23:30:35Z",
+      "external_url": "https://www.youtube.com/watch?v=gsDUm2NJ3uA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/gsDUm2NJ3uA/",
+      "image": "https://i.ytimg.com/vi/gsDUm2NJ3uA/hqdefault.jpg",
+      "title": "evidence",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/gsDUm2NJ3uA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Ob1oxxIPWzk",
+        "dateBasis": "publication",
+        "itemId": "Ob1oxxIPWzk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Ob1oxxIPWzk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xwg0nx/",
+            "id": "reddit-videos-1xwg0nx",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xwg0nx",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-14T23:08:30Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-14T23:08:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xwg0nx/",
+      "date_published": "2026-11-14T23:08:30Z",
+      "external_url": "https://www.youtube.com/watch?v=Ob1oxxIPWzk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/Ob1oxxIPWzk/",
+      "image": "https://i.ytimg.com/vi/Ob1oxxIPWzk/hqdefault.jpg",
+      "title": "Starship Flight 15 launch, ship catch & CNN's first reactions",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/Ob1oxxIPWzk/"
     },
     {
       "_retoob": {
@@ -20821,416 +21263,6 @@
       "image": "https://i.ytimg.com/vi/9mOL1Bgylpc/hqdefault.jpg",
       "title": "Bernie Sanders says he will not support Chuck Schumer for majority leader after Democrats won control in 2026 midterms: \"I have known Chuck Schumer for over 30 years, and I like Chuck. But in my view, time is now for change, and I will not be supporting Chuck to be re-elected as Democratic leader.\"",
       "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/9mOL1Bgylpc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:YsG5jKQmUlM",
-        "dateBasis": "publication",
-        "itemId": "YsG5jKQmUlM",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=YsG5jKQmUlM"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xt2u9k/",
-            "id": "reddit-videos-1xt2u9k",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xt2u9k",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-11T00:00:10Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-11T00:00:10Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xt2u9k/",
-      "date_published": "2026-11-11T00:00:10Z",
-      "external_url": "https://www.youtube.com/watch?v=YsG5jKQmUlM",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/YsG5jKQmUlM/",
-      "image": "https://i.ytimg.com/vi/YsG5jKQmUlM/hqdefault.jpg",
-      "title": "The Rise of the Rockstar Chef, Marco Pierre White",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/YsG5jKQmUlM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Gtf83Qrp6Tc",
-        "dateBasis": "publication",
-        "itemId": "Gtf83Qrp6Tc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Gtf83Qrp6Tc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xt21qj/",
-            "id": "reddit-videos-1xt21qj",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xt21qj",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T23:25:26Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T23:25:26Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xt21qj/",
-      "date_published": "2026-11-10T23:25:26Z",
-      "external_url": "https://www.youtube.com/watch?v=Gtf83Qrp6Tc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/Gtf83Qrp6Tc/",
-      "image": "https://i.ytimg.com/vi/Gtf83Qrp6Tc/hqdefault.jpg",
-      "title": "I'm getting the word...",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/Gtf83Qrp6Tc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:-joIjh9Arxw",
-        "dateBasis": "publication",
-        "itemId": "-joIjh9Arxw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=-joIjh9Arxw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xt1sw9/",
-            "id": "reddit-videos-1xt1sw9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xt1sw9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T23:14:41Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T23:14:41Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xt1sw9/",
-      "date_published": "2026-11-10T23:14:41Z",
-      "external_url": "https://www.youtube.com/watch?v=-joIjh9Arxw",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/-joIjh9Arxw/",
-      "image": "https://i.ytimg.com/vi/-joIjh9Arxw/hqdefault.jpg",
-      "title": "LOW STAKES | OFFICIAL TRAILER | 2026",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/-joIjh9Arxw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:w50NkSqUdoM",
-        "dateBasis": "publication",
-        "itemId": "w50NkSqUdoM",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=w50NkSqUdoM"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xt1m58/",
-            "id": "reddit-videos-1xt1m58",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xt1m58",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T23:06:38Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T23:06:38Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xt1m58/",
-      "date_published": "2026-11-10T23:06:38Z",
-      "external_url": "https://www.youtube.com/watch?v=w50NkSqUdoM",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/w50NkSqUdoM/",
-      "image": "https://i.ytimg.com/vi/w50NkSqUdoM/hqdefault.jpg",
-      "title": "Who are you calling a LOSER? #spiderman #marvel",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/w50NkSqUdoM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:rS4VMlwf2qM",
-        "dateBasis": "publication",
-        "itemId": "rS4VMlwf2qM",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=rS4VMlwf2qM"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xt18tj/",
-            "id": "reddit-videos-1xt18tj",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xt18tj",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T22:50:39Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T22:50:39Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xt18tj/",
-      "date_published": "2026-11-10T22:50:39Z",
-      "external_url": "https://www.youtube.com/watch?v=rS4VMlwf2qM",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/rS4VMlwf2qM/",
-      "image": "https://i.ytimg.com/vi/rS4VMlwf2qM/hqdefault.jpg",
-      "title": "I took over Bricks and Minifigs",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/rS4VMlwf2qM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:LYLnEQONtGE",
-        "dateBasis": "publication",
-        "itemId": "LYLnEQONtGE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=LYLnEQONtGE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xt15o5/",
-            "id": "reddit-videos-1xt15o5",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xt15o5",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T22:46:50Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T22:46:50Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xt15o5/",
-      "date_published": "2026-11-10T22:46:50Z",
-      "external_url": "https://www.youtube.com/watch?v=LYLnEQONtGE",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/LYLnEQONtGE/",
-      "image": "https://i.ytimg.com/vi/LYLnEQONtGE/hqdefault.jpg",
-      "title": "Incoming Democratic congressman Don Leonard (D-OH) claims party bosses are threatening to sink his career if he opposes them.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/LYLnEQONtGE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:3jMM2KBkOS8",
-        "dateBasis": "publication",
-        "itemId": "3jMM2KBkOS8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=3jMM2KBkOS8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xt13jx/",
-            "id": "reddit-videos-1xt13jx",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xt13jx",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T22:44:16Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T22:44:16Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xt13jx/",
-      "date_published": "2026-11-10T22:44:16Z",
-      "external_url": "https://www.youtube.com/watch?v=3jMM2KBkOS8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/3jMM2KBkOS8/",
-      "image": "https://i.ytimg.com/vi/3jMM2KBkOS8/hqdefault.jpg",
-      "title": "You Can't Control Politics, But You Can Control This | Stacey Abrams",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/3jMM2KBkOS8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Cy4O98LvVXI",
-        "dateBasis": "publication",
-        "itemId": "Cy4O98LvVXI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Cy4O98LvVXI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xt0tiq/",
-            "id": "reddit-videos-1xt0tiq",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xt0tiq",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T22:32:36Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T22:32:36Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xt0tiq/",
-      "date_published": "2026-11-10T22:32:36Z",
-      "external_url": "https://www.youtube.com/watch?v=Cy4O98LvVXI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/Cy4O98LvVXI/",
-      "image": "https://i.ytimg.com/vi/Cy4O98LvVXI/hqdefault.jpg",
-      "title": "What Happened at Aleister Crowley’s Boleskine House? | #WITCHYAF",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/Cy4O98LvVXI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:MD8TFPw5Gk4",
-        "dateBasis": "publication",
-        "itemId": "MD8TFPw5Gk4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=MD8TFPw5Gk4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xszw7t/",
-            "id": "reddit-videos-1xszw7t",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xszw7t",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T21:54:02Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T21:54:02Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xszw7t/",
-      "date_published": "2026-11-10T21:54:02Z",
-      "external_url": "https://www.youtube.com/watch?v=MD8TFPw5Gk4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/MD8TFPw5Gk4/",
-      "image": "https://i.ytimg.com/vi/MD8TFPw5Gk4/hqdefault.jpg",
-      "title": "TRAILER for original comedy pilot, \"IMAGINARY PROBLEMS\" [1:18]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/MD8TFPw5Gk4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:eXOMng3IMto",
-        "dateBasis": "publication",
-        "itemId": "eXOMng3IMto",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=eXOMng3IMto"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xszqpn/",
-            "id": "reddit-videos-1xszqpn",
-            "kind": "community",
-            "publisher": {
-              "name": "r/videos",
-              "url": "https://www.reddit.com/r/videos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/videos/",
-            "upstreamItemId": "1xszqpn",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T21:47:42Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-10T21:47:42Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xszqpn/",
-      "date_published": "2026-11-10T21:47:42Z",
-      "external_url": "https://www.youtube.com/watch?v=eXOMng3IMto",
-      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/eXOMng3IMto/",
-      "image": "https://i.ytimg.com/vi/eXOMng3IMto/hqdefault.jpg",
-      "title": "Al Jazeera investigation finds Israeli soldiers posing as settlers during attacks on Palestinians",
-      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/eXOMng3IMto/"
     }
   ],
   "title": "Reddit picks",
