@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-mealtimevideos",
     "publicationEpoch": "reddit-public-20261106-mealtimevideos",
-    "revision": 14,
+    "revision": 15,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:FJ-3qVz6FAk",
+        "dateBasis": "publication",
+        "itemId": "FJ-3qVz6FAk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=FJ-3qVz6FAk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y37s4d/",
+            "id": "reddit-mealtimevideos-1y37s4d",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1y37s4d",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-23T03:21:00Z"
+            }
+          }
+        ],
+        "revision": 15,
+        "sortAt": "2026-11-23T03:21:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y37s4d/",
+      "date_published": "2026-11-23T03:21:00Z",
+      "external_url": "https://www.youtube.com/watch?v=FJ-3qVz6FAk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/FJ-3qVz6FAk/",
+      "image": "https://i.ytimg.com/vi/FJ-3qVz6FAk/hqdefault.jpg",
+      "title": "The Eras of YouTube Explained [35:13]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/FJ-3qVz6FAk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:otJlDr-gZlw",
+        "dateBasis": "publication",
+        "itemId": "otJlDr-gZlw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=otJlDr-gZlw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y2zqm1/",
+            "id": "reddit-mealtimevideos-1y2zqm1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1y2zqm1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T20:57:17Z"
+            }
+          }
+        ],
+        "revision": 15,
+        "sortAt": "2026-11-22T20:57:17Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y2zqm1/",
+      "date_published": "2026-11-22T20:57:17Z",
+      "external_url": "https://www.youtube.com/watch?v=otJlDr-gZlw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/otJlDr-gZlw/",
+      "image": "https://i.ytimg.com/vi/otJlDr-gZlw/hqdefault.jpg",
+      "title": "Leave the Lab [6:46]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/otJlDr-gZlw/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:GDOGr1KD1kE",
@@ -134,47 +216,6 @@
       "image": "https://i.ytimg.com/vi/5FPuIT0zRYI/hqdefault.jpg",
       "title": "Somewhere Warm - A Quiet Café on a Norwegian Fjord [60:00]",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/5FPuIT0zRYI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:ziHem8AzqDY",
-        "dateBasis": "publication",
-        "itemId": "ziHem8AzqDY",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=ziHem8AzqDY"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y2pcas/",
-            "id": "reddit-mealtimevideos-1y2pcas",
-            "kind": "community",
-            "publisher": {
-              "name": "r/mealtimevideos",
-              "url": "https://www.reddit.com/r/mealtimevideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
-            "upstreamItemId": "1y2pcas",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-22T13:28:33Z"
-            }
-          }
-        ],
-        "revision": 14,
-        "sortAt": "2026-11-22T13:28:33Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y2pcas/",
-      "date_published": "2026-11-22T13:28:33Z",
-      "external_url": "https://www.youtube.com/watch?v=ziHem8AzqDY",
-      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/ziHem8AzqDY/",
-      "image": "https://i.ytimg.com/vi/ziHem8AzqDY/hqdefault.jpg",
-      "title": "How They Used A Bomb To Put Out A Fire [05:07]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/ziHem8AzqDY/"
     },
     {
       "_retoob": {
@@ -20902,47 +20943,6 @@
       "image": "https://i.ytimg.com/vi/So2tNhuiuB0/hqdefault.jpg",
       "title": "Analog TV was smarter than you think [19:00]",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/So2tNhuiuB0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:BXLGV0Sj0n8",
-        "dateBasis": "publication",
-        "itemId": "BXLGV0Sj0n8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=BXLGV0Sj0n8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1wdxwmw/",
-            "id": "reddit-mealtimevideos-1wdxwmw",
-            "kind": "community",
-            "publisher": {
-              "name": "r/mealtimevideos",
-              "url": "https://www.reddit.com/r/mealtimevideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
-            "upstreamItemId": "1wdxwmw",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-12T00:41:24Z"
-            }
-          }
-        ],
-        "revision": 12,
-        "sortAt": "2026-09-12T00:41:24Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1wdxwmw/",
-      "date_published": "2026-09-12T00:41:24Z",
-      "external_url": "https://www.youtube.com/watch?v=BXLGV0Sj0n8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/BXLGV0Sj0n8/",
-      "image": "https://i.ytimg.com/vi/BXLGV0Sj0n8/hqdefault.jpg",
-      "title": "How China dominates the market for rare earths and magnets [27:25]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/BXLGV0Sj0n8/"
     }
   ],
   "title": "Mealtime videos",

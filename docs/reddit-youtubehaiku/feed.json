@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 26,
+    "revision": 27,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,63 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:SsTVWvDpHhQ",
+        "dateBasis": "publication",
+        "itemId": "SsTVWvDpHhQ",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=SsTVWvDpHhQ"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y33ap0/",
+            "id": "reddit-youtubehaiku-1y33ap0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y33ap0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T23:38:30Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y339qm/",
+            "id": "reddit-youtubehaiku-1y339qm",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y339qm",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-22T23:37:17Z"
+            }
+          }
+        ],
+        "revision": 27,
+        "sortAt": "2026-11-22T23:38:30Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y33ap0/\nhttps://www.reddit.com/r/youtubehaiku/comments/1y339qm/",
+      "date_published": "2026-11-22T23:38:30Z",
+      "external_url": "https://www.youtube.com/watch?v=SsTVWvDpHhQ",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/SsTVWvDpHhQ/",
+      "image": "https://i.ytimg.com/vi/SsTVWvDpHhQ/hqdefault.jpg",
+      "title": "[haiku] i will open this jar",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/SsTVWvDpHhQ/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:nYr3fjvkZlw",
@@ -21062,47 +21119,6 @@
       "image": "https://i.ytimg.com/vi/a2VQWfz0Q90/hqdefault.jpg",
       "title": "[Poetry] Feeding frenzy paper stop-motion",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/a2VQWfz0Q90/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:jzMzugmg9BE",
-        "dateBasis": "publication",
-        "itemId": "jzMzugmg9BE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=jzMzugmg9BE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rs48y8/",
-            "id": "reddit-youtubehaiku-1rs48y8",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rs48y8",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-12T21:43:00Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-12T21:43:00Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rs48y8/",
-      "date_published": "2026-03-12T21:43:00Z",
-      "external_url": "https://www.youtube.com/watch?v=jzMzugmg9BE",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/jzMzugmg9BE/",
-      "image": "https://i.ytimg.com/vi/jzMzugmg9BE/hqdefault.jpg",
-      "title": "[haiku] Harry nooooo",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/jzMzugmg9BE/"
     }
   ],
   "title": "Quick clips",
