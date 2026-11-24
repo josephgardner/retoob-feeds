@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 64,
+    "itemCount": 65,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 15,
+    "revision": 16,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:ZYPm4uN1rXw",
+        "dateBasis": "publication",
+        "itemId": "ZYPm4uN1rXw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ZYPm4uN1rXw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050023-the-100-year-plan-to-rest",
+            "id": "rss-b304329c4cf50b2d2b6fa7350b4a78dd",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-24:50023",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T14:43:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-24T14:43:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050023-the-100-year-plan-to-rest. Not a verified endorsement.",
+      "date_published": "2026-11-24T14:43:00Z",
+      "external_url": "https://www.youtube.com/watch?v=ZYPm4uN1rXw",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/ZYPm4uN1rXw/",
+      "image": "https://i.ytimg.com/vi/ZYPm4uN1rXw/hqdefault.jpg",
+      "title": "Planet Wild on the 100-year plan to restore the Scottish...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/ZYPm4uN1rXw/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:doaQC-S8de8",
