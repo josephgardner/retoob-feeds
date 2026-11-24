@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 35,
+    "revision": 36,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:d3Be6YyurgU",
+        "dateBasis": "publication",
+        "itemId": "d3Be6YyurgU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=d3Be6YyurgU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y468fu/",
+            "id": "reddit-documentaries-1y468fu",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y468fu",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T06:38:07Z"
+            }
+          }
+        ],
+        "revision": 36,
+        "sortAt": "2026-11-24T06:38:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y468fu/",
+      "date_published": "2026-11-24T06:38:07Z",
+      "external_url": "https://www.youtube.com/watch?v=d3Be6YyurgU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/d3Be6YyurgU/",
+      "image": "https://i.ytimg.com/vi/d3Be6YyurgU/hqdefault.jpg",
+      "title": "TIL whales still have the muscles that cause goosebumps even though they haven't had fur in millions of years",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/d3Be6YyurgU/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:5c-7Ka4hgjg",
@@ -21766,47 +21807,6 @@
       "image": "https://i.ytimg.com/vi/9NtKkgM4i_8/hqdefault.jpg",
       "title": "Seeking Asylum Part 1 (2023) [00:19:27]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/9NtKkgM4i_8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:FdNFbt9owMI",
-        "dateBasis": "publication",
-        "itemId": "FdNFbt9owMI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=FdNFbt9owMI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1vxas3n/",
-            "id": "reddit-documentaries-1vxas3n",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1vxas3n",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-24T18:17:44Z"
-            }
-          }
-        ],
-        "revision": 13,
-        "sortAt": "2026-08-24T18:17:44Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1vxas3n/",
-      "date_published": "2026-08-24T18:17:44Z",
-      "external_url": "https://www.youtube.com/watch?v=FdNFbt9owMI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/FdNFbt9owMI/",
-      "image": "https://i.ytimg.com/vi/FdNFbt9owMI/hqdefault.jpg",
-      "title": "Orange Sunshine (2016)[01:31:57]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/FdNFbt9owMI/"
     }
   ],
   "title": "Documentaries",

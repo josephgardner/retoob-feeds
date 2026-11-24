@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-musicvideos",
     "publicationEpoch": "reddit-public-20261106-musicvideos",
-    "revision": 31,
+    "revision": 32,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,186 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:QrOe2h9RtWI",
+        "dateBasis": "publication",
+        "itemId": "QrOe2h9RtWI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=QrOe2h9RtWI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y48vpt/",
+            "id": "reddit-musicvideos-1y48vpt",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y48vpt",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T09:23:57Z"
+            }
+          }
+        ],
+        "revision": 32,
+        "sortAt": "2026-11-24T09:23:57Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y48vpt/",
+      "date_published": "2026-11-24T09:23:57Z",
+      "external_url": "https://www.youtube.com/watch?v=QrOe2h9RtWI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/QrOe2h9RtWI/",
+      "image": "https://i.ytimg.com/vi/QrOe2h9RtWI/hqdefault.jpg",
+      "title": "Beyoncé - beautiful liar [latin Pop]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/QrOe2h9RtWI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:IZNK-0_PNuk",
+        "dateBasis": "publication",
+        "itemId": "IZNK-0_PNuk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IZNK-0_PNuk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y470jk/",
+            "id": "reddit-musicvideos-1y470jk",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y470jk",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T07:25:00Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y20m7t/",
+            "id": "reddit-musicvideos-1y20m7t",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y20m7t",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-21T16:10:12Z"
+            }
+          }
+        ],
+        "revision": 32,
+        "sortAt": "2026-11-24T07:25:00Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y470jk/\nhttps://www.reddit.com/r/musicvideos/comments/1y20m7t/",
+      "date_published": "2026-11-24T07:25:00Z",
+      "external_url": "https://www.youtube.com/watch?v=IZNK-0_PNuk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/IZNK-0_PNuk/",
+      "image": "https://i.ytimg.com/vi/IZNK-0_PNuk/hqdefault.jpg",
+      "title": "Taylor John Williams - Consequence [Pop]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/IZNK-0_PNuk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:eW2qlKa6oHw",
+        "dateBasis": "publication",
+        "itemId": "eW2qlKa6oHw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=eW2qlKa6oHw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y45dpf/",
+            "id": "reddit-musicvideos-1y45dpf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y45dpf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T05:48:54Z"
+            }
+          }
+        ],
+        "revision": 32,
+        "sortAt": "2026-11-24T05:48:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y45dpf/",
+      "date_published": "2026-11-24T05:48:54Z",
+      "external_url": "https://www.youtube.com/watch?v=eW2qlKa6oHw",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/eW2qlKa6oHw/",
+      "image": "https://i.ytimg.com/vi/eW2qlKa6oHw/hqdefault.jpg",
+      "title": "Lenny Kravitz - again [rock]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/eW2qlKa6oHw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:BuqkKjdlk0U",
+        "dateBasis": "publication",
+        "itemId": "BuqkKjdlk0U",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BuqkKjdlk0U"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y41zwg/",
+            "id": "reddit-musicvideos-1y41zwg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y41zwg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T02:51:56Z"
+            }
+          }
+        ],
+        "revision": 32,
+        "sortAt": "2026-11-24T02:51:56Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y41zwg/",
+      "date_published": "2026-11-24T02:51:56Z",
+      "external_url": "https://www.youtube.com/watch?v=BuqkKjdlk0U",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/BuqkKjdlk0U/",
+      "image": "https://i.ytimg.com/vi/BuqkKjdlk0U/hqdefault.jpg",
+      "title": "Trill Miles - Internet Hero’s [rap.hip-hop]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/BuqkKjdlk0U/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:iAeYPfrXwk4",
@@ -1462,47 +1642,6 @@
       "image": "https://i.ytimg.com/vi/7oUJKZmEOhw/hqdefault.jpg",
       "title": "The Magpye’s Grave - Flower [Garage] (2026)",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/7oUJKZmEOhw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:IZNK-0_PNuk",
-        "dateBasis": "publication",
-        "itemId": "IZNK-0_PNuk",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=IZNK-0_PNuk"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y20m7t/",
-            "id": "reddit-musicvideos-1y20m7t",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1y20m7t",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-21T16:10:12Z"
-            }
-          }
-        ],
-        "revision": 27,
-        "sortAt": "2026-11-21T16:10:12Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y20m7t/",
-      "date_published": "2026-11-21T16:10:12Z",
-      "external_url": "https://www.youtube.com/watch?v=IZNK-0_PNuk",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/IZNK-0_PNuk/",
-      "image": "https://i.ytimg.com/vi/IZNK-0_PNuk/hqdefault.jpg",
-      "title": "Taylor John Williams - Consequences [indie][2026】",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/IZNK-0_PNuk/"
     },
     {
       "_retoob": {
@@ -20755,129 +20894,6 @@
       "image": "https://i.ytimg.com/vi/GYRFLSqy8fo/hqdefault.jpg",
       "title": "VIRGIN BIRTH - the dead end [Industrial/Punk] (2026)",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/GYRFLSqy8fo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:HQbwv90liUE",
-        "dateBasis": "publication",
-        "itemId": "HQbwv90liUE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=HQbwv90liUE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1x8ae40/",
-            "id": "reddit-musicvideos-1x8ae40",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1x8ae40",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-17T13:34:04Z"
-            }
-          }
-        ],
-        "revision": 2,
-        "sortAt": "2026-10-17T13:34:04Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1x8ae40/",
-      "date_published": "2026-10-17T13:34:04Z",
-      "external_url": "https://www.youtube.com/watch?v=HQbwv90liUE",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/HQbwv90liUE/",
-      "image": "https://i.ytimg.com/vi/HQbwv90liUE/hqdefault.jpg",
-      "title": "Leopard Monks - Reaper Madness [alt rock] [2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/HQbwv90liUE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:EUs1y8RWSk0",
-        "dateBasis": "publication",
-        "itemId": "EUs1y8RWSk0",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=EUs1y8RWSk0"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1x86dv3/",
-            "id": "reddit-musicvideos-1x86dv3",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1x86dv3",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-17T09:56:35Z"
-            }
-          }
-        ],
-        "revision": 2,
-        "sortAt": "2026-10-17T09:56:35Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1x86dv3/",
-      "date_published": "2026-10-17T09:56:35Z",
-      "external_url": "https://www.youtube.com/watch?v=EUs1y8RWSk0",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/EUs1y8RWSk0/",
-      "image": "https://i.ytimg.com/vi/EUs1y8RWSk0/hqdefault.jpg",
-      "title": "Lillian Vandaam - Devil Town's Soap Company [Folk] [2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/EUs1y8RWSk0/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:kH4vOdpc1Hw",
-        "dateBasis": "publication",
-        "itemId": "kH4vOdpc1Hw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=kH4vOdpc1Hw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1x82j5a/",
-            "id": "reddit-musicvideos-1x82j5a",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1x82j5a",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-17T05:56:58Z"
-            }
-          }
-        ],
-        "revision": 2,
-        "sortAt": "2026-10-17T05:56:58Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1x82j5a/",
-      "date_published": "2026-10-17T05:56:58Z",
-      "external_url": "https://www.youtube.com/watch?v=kH4vOdpc1Hw",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/kH4vOdpc1Hw/",
-      "image": "https://i.ytimg.com/vi/kH4vOdpc1Hw/hqdefault.jpg",
-      "title": "FlawKo - TwistEd (Official Music Video) [Rap - Hip-Hop]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/kH4vOdpc1Hw/"
     }
   ],
   "title": "Music videos",
