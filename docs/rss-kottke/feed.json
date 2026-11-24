@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 61,
+    "itemCount": 64,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 14,
+    "revision": 15,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,132 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:doaQC-S8de8",
+        "dateBasis": "publication",
+        "itemId": "doaQC-S8de8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=doaQC-S8de8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/the-directing-genius-of-akira-kurosawa-explained",
+            "id": "rss-2b904119c18373516203e3aa6d5dcc8a",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-23:50053",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-23T20:41:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-23T20:41:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/the-directing-genius-of-akira-kurosawa-explained. Not a verified endorsement.",
+      "date_published": "2026-11-23T20:41:00Z",
+      "external_url": "https://www.youtube.com/watch?v=doaQC-S8de8",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/doaQC-S8de8/",
+      "image": "https://i.ytimg.com/vi/doaQC-S8de8/hqdefault.jpg",
+      "title": "The Directing Genius of Akira Kurosawa Explained",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/doaQC-S8de8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Q6AMRZoXGvA",
+        "dateBasis": "publication",
+        "itemId": "Q6AMRZoXGvA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Q6AMRZoXGvA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/the-directing-genius-of-akira-kurosawa-explained",
+            "id": "rss-0c3c3190b7e1e3815674010690975f27",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-23:50053",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-23T20:41:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-23T20:41:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/the-directing-genius-of-akira-kurosawa-explained. Not a verified endorsement.",
+      "date_published": "2026-11-23T20:41:00Z",
+      "external_url": "https://www.youtube.com/watch?v=Q6AMRZoXGvA",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/Q6AMRZoXGvA/",
+      "image": "https://i.ytimg.com/vi/Q6AMRZoXGvA/hqdefault.jpg",
+      "title": "The Directing Genius of Akira Kurosawa Explained",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/Q6AMRZoXGvA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:IIHeWcGS4iA",
+        "dateBasis": "publication",
+        "itemId": "IIHeWcGS4iA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IIHeWcGS4iA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/the-directing-genius-of-akira-kurosawa-explained",
+            "id": "rss-5010d955b1483986c80db8b23f013428",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-23:50053",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-23T20:41:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-23T20:41:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/the-directing-genius-of-akira-kurosawa-explained. Not a verified endorsement.",
+      "date_published": "2026-11-23T20:41:00Z",
+      "external_url": "https://www.youtube.com/watch?v=IIHeWcGS4iA",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/IIHeWcGS4iA/",
+      "image": "https://i.ytimg.com/vi/IIHeWcGS4iA/hqdefault.jpg",
+      "title": "The Directing Genius of Akira Kurosawa Explained",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/IIHeWcGS4iA/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:XuBdq0CbYYE",
