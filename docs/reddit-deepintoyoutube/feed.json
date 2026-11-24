@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-deepintoyoutube",
     "publicationEpoch": "reddit-public-20261106-deepintoyoutube",
-    "revision": 37,
+    "revision": 38,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:XyqCsEVBVxU",
+        "dateBasis": "publication",
+        "itemId": "XyqCsEVBVxU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=XyqCsEVBVxU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y4r0lo/",
+            "id": "reddit-deepintoyoutube-1y4r0lo",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y4r0lo",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T22:36:21Z"
+            }
+          }
+        ],
+        "revision": 38,
+        "sortAt": "2026-11-24T22:36:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y4r0lo/",
+      "date_published": "2026-11-24T22:36:21Z",
+      "external_url": "https://www.youtube.com/watch?v=XyqCsEVBVxU",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/XyqCsEVBVxU/",
+      "image": "https://i.ytimg.com/vi/XyqCsEVBVxU/hqdefault.jpg",
+      "title": "Zombie College Musical - Episode 1",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/XyqCsEVBVxU/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:su9flTKfiJA",
@@ -20710,47 +20751,6 @@
       "image": "https://i.ytimg.com/vi/_8hdBw4f9Ro/hqdefault.jpg",
       "title": "Untitled design 2",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/_8hdBw4f9Ro/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:WK5G-oWAPYc",
-        "dateBasis": "publication",
-        "itemId": "WK5G-oWAPYc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=WK5G-oWAPYc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wwaqxl/",
-            "id": "reddit-deepintoyoutube-1wwaqxl",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wwaqxl",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-03T01:26:07Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-03T01:26:07Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wwaqxl/",
-      "date_published": "2026-10-03T01:26:07Z",
-      "external_url": "https://www.youtube.com/watch?v=WK5G-oWAPYc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/WK5G-oWAPYc/",
-      "image": "https://i.ytimg.com/vi/WK5G-oWAPYc/hqdefault.jpg",
-      "title": "Guy putting fart noises over Russian metal music",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/WK5G-oWAPYc/"
     }
   ],
   "title": "Deep cuts",

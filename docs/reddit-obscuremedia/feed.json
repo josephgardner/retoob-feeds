@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-obscuremedia",
     "publicationEpoch": "reddit-public-20261106-obscuremedia",
-    "revision": 40,
+    "revision": 41,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:IeKvq9qZp1o",
+        "dateBasis": "publication",
+        "itemId": "IeKvq9qZp1o",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=IeKvq9qZp1o"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y4qdqi/",
+            "id": "reddit-obscuremedia-1y4qdqi",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y4qdqi",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T22:09:32Z"
+            }
+          }
+        ],
+        "revision": 41,
+        "sortAt": "2026-11-24T22:09:32Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y4qdqi/",
+      "date_published": "2026-11-24T22:09:32Z",
+      "external_url": "https://www.youtube.com/watch?v=IeKvq9qZp1o",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IeKvq9qZp1o/",
+      "image": "https://i.ytimg.com/vi/IeKvq9qZp1o/hqdefault.jpg",
+      "title": "Curious George Goes to the Zoo (1984)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IeKvq9qZp1o/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:4AwIGgywfSg",
+        "dateBasis": "publication",
+        "itemId": "4AwIGgywfSg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=4AwIGgywfSg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y4ohpi/",
+            "id": "reddit-obscuremedia-1y4ohpi",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y4ohpi",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T20:52:43Z"
+            }
+          }
+        ],
+        "revision": 41,
+        "sortAt": "2026-11-24T20:52:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y4ohpi/",
+      "date_published": "2026-11-24T20:52:43Z",
+      "external_url": "https://www.youtube.com/watch?v=4AwIGgywfSg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/4AwIGgywfSg/",
+      "image": "https://i.ytimg.com/vi/4AwIGgywfSg/hqdefault.jpg",
+      "title": "It's Dental Flossophy, Charlie Brown (1980) — This is a Peanuts educational short film about the importance of flossing",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/4AwIGgywfSg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:2N9RCQjPqh4",
+        "dateBasis": "publication",
+        "itemId": "2N9RCQjPqh4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2N9RCQjPqh4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1y4mxfe/",
+            "id": "reddit-obscuremedia-1y4mxfe",
+            "kind": "community",
+            "publisher": {
+              "name": "r/obscuremedia",
+              "url": "https://www.reddit.com/r/obscuremedia/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
+            "upstreamItemId": "1y4mxfe",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T19:51:16Z"
+            }
+          }
+        ],
+        "revision": 41,
+        "sortAt": "2026-11-24T19:51:16Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1y4mxfe/",
+      "date_published": "2026-11-24T19:51:16Z",
+      "external_url": "https://www.youtube.com/watch?v=2N9RCQjPqh4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/2N9RCQjPqh4/",
+      "image": "https://i.ytimg.com/vi/2N9RCQjPqh4/hqdefault.jpg",
+      "title": "A Step Saving Kitchen (1949)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/2N9RCQjPqh4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:698bRJTYhCQ",
@@ -20964,129 +21087,6 @@
       "image": "https://i.ytimg.com/vi/wwaP2WjUiOU/hqdefault.jpg",
       "title": "POiSON GiRL FRiEND - Hardly Ever Smile live (1992)",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/wwaP2WjUiOU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:IYl4FgmAQF8",
-        "dateBasis": "publication",
-        "itemId": "IYl4FgmAQF8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=IYl4FgmAQF8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1w1r4qf/",
-            "id": "reddit-obscuremedia-1w1r4qf",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1w1r4qf",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-29T16:33:31Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-08-29T16:33:31Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1w1r4qf/",
-      "date_published": "2026-08-29T16:33:31Z",
-      "external_url": "https://www.youtube.com/watch?v=IYl4FgmAQF8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IYl4FgmAQF8/",
-      "image": "https://i.ytimg.com/vi/IYl4FgmAQF8/hqdefault.jpg",
-      "title": "Coil - Tainted Love (1985)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/IYl4FgmAQF8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:h4bbX5I0ZVE",
-        "dateBasis": "publication",
-        "itemId": "h4bbX5I0ZVE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=h4bbX5I0ZVE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1w1h7l8/",
-            "id": "reddit-obscuremedia-1w1h7l8",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1w1h7l8",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-29T08:44:29Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-08-29T08:44:29Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1w1h7l8/",
-      "date_published": "2026-08-29T08:44:29Z",
-      "external_url": "https://www.youtube.com/watch?v=h4bbX5I0ZVE",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/h4bbX5I0ZVE/",
-      "image": "https://i.ytimg.com/vi/h4bbX5I0ZVE/hqdefault.jpg",
-      "title": "SoundStage - \"Brubeck and Sons\" - WTTW Channel 11 (Complete Episode, 3/9 (1978)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/h4bbX5I0ZVE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:eLi8gpRfdZs",
-        "dateBasis": "publication",
-        "itemId": "eLi8gpRfdZs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=eLi8gpRfdZs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/obscuremedia/comments/1w1h1s5/",
-            "id": "reddit-obscuremedia-1w1h1s5",
-            "kind": "community",
-            "publisher": {
-              "name": "r/obscuremedia",
-              "url": "https://www.reddit.com/r/obscuremedia/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/obscuremedia/",
-            "upstreamItemId": "1w1h1s5",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-08-29T08:34:45Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-08-29T08:34:45Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/obscuremedia/comments/1w1h1s5/",
-      "date_published": "2026-08-29T08:34:45Z",
-      "external_url": "https://www.youtube.com/watch?v=eLi8gpRfdZs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/eLi8gpRfdZs/",
-      "image": "https://i.ytimg.com/vi/eLi8gpRfdZs/hqdefault.jpg",
-      "title": "CBS-Three for the Road - \"Trail of Bigfoot\" Complete Broadcast, 11/9 (1975) with Dean Stockwell and Leif Garrett.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/items/eLi8gpRfdZs/"
     }
   ],
   "title": "Obscure finds",
