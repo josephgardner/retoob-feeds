@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 9,
+    "itemCount": 8,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 44,
+    "revision": 45,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,216 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:PjGlt3y-Nco",
+        "dateBasis": "publication",
+        "itemId": "PjGlt3y-Nco",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=PjGlt3y-Nco"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50626006",
+            "id": "hn-50626006",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50626006",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T09:55:34Z"
+            }
+          }
+        ],
+        "revision": 2,
+        "sortAt": "2026-11-24T09:55:34Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50626006. Not a verified endorsement.",
+      "date_published": "2026-11-24T09:55:34Z",
+      "external_url": "https://www.youtube.com/watch?v=PjGlt3y-Nco",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/PjGlt3y-Nco/",
+      "image": "https://i.ytimg.com/vi/PjGlt3y-Nco/hqdefault.jpg",
+      "title": "How the Riemann Hypothesis was cracked [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/PjGlt3y-Nco/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:pxJaWZg56d0",
+        "dateBasis": "publication",
+        "itemId": "pxJaWZg56d0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pxJaWZg56d0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50625605",
+            "id": "hn-50625605",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50625605",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T08:59:33Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-24T08:59:33Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50625605. Not a verified endorsement.",
+      "date_published": "2026-11-24T08:59:33Z",
+      "external_url": "https://www.youtube.com/watch?v=pxJaWZg56d0",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pxJaWZg56d0/",
+      "image": "https://i.ytimg.com/vi/pxJaWZg56d0/hqdefault.jpg",
+      "title": "Do You Still Need a WordPress Translation Plugin? (Claude Code Tested) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pxJaWZg56d0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:JNexz3Tbiu8",
+        "dateBasis": "publication",
+        "itemId": "JNexz3Tbiu8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=JNexz3Tbiu8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50624983",
+            "id": "hn-50624983",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50624983",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T07:44:41Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-24T07:44:41Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50624983. Not a verified endorsement.",
+      "date_published": "2026-11-24T07:44:41Z",
+      "external_url": "https://www.youtube.com/watch?v=JNexz3Tbiu8",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JNexz3Tbiu8/",
+      "image": "https://i.ytimg.com/vi/JNexz3Tbiu8/hqdefault.jpg",
+      "title": "Build the Workshop Before the Software Factory — Armin Ronacher [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/JNexz3Tbiu8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:i9t1p6Um450",
+        "dateBasis": "publication",
+        "itemId": "i9t1p6Um450",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=i9t1p6Um450"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50623519",
+            "id": "hn-50623519",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50623519",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T04:01:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-24T04:01:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50623519. Not a verified endorsement.",
+      "date_published": "2026-11-24T04:01:00Z",
+      "external_url": "https://www.youtube.com/watch?v=i9t1p6Um450",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i9t1p6Um450/",
+      "image": "https://i.ytimg.com/vi/i9t1p6Um450/hqdefault.jpg",
+      "title": "He Quit a $103K/Year Job to Sell Comic Books [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/i9t1p6Um450/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:37Jdl9c9wps",
+        "dateBasis": "publication",
+        "itemId": "37Jdl9c9wps",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=37Jdl9c9wps"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50621873",
+            "id": "hn-50621873",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50621873",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T00:43:25Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-24T00:43:25Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50621873. Not a verified endorsement.",
+      "date_published": "2026-11-24T00:43:25Z",
+      "external_url": "https://www.youtube.com/watch?v=37Jdl9c9wps",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/37Jdl9c9wps/",
+      "image": "https://i.ytimg.com/vi/37Jdl9c9wps/hqdefault.jpg",
+      "title": "Why the Library of Congress Destroys Rare Books | Adam Savage's Tested",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/37Jdl9c9wps/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:4v2xA_NJHt0",
@@ -137,258 +347,6 @@
       "image": "https://i.ytimg.com/vi/HQPgvxNU94M/hqdefault.jpg",
       "title": "You Can't Focus in an Open Office [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/HQPgvxNU94M/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:sVIkB7OR6fE",
-        "dateBasis": "publication",
-        "itemId": "sVIkB7OR6fE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=sVIkB7OR6fE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50617410",
-            "id": "hn-50617410",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50617410",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-23T19:13:01Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-23T19:13:01Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50617410. Not a verified endorsement.",
-      "date_published": "2026-11-23T19:13:01Z",
-      "external_url": "https://www.youtube.com/watch?v=sVIkB7OR6fE",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/sVIkB7OR6fE/",
-      "image": "https://i.ytimg.com/vi/sVIkB7OR6fE/hqdefault.jpg",
-      "title": "AI Fire Detection System Mistakes Image for Blaze [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/sVIkB7OR6fE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:RaDAoaHBmos",
-        "dateBasis": "publication",
-        "itemId": "RaDAoaHBmos",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=RaDAoaHBmos"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50617187",
-            "id": "hn-50617187",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50617187",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-23T19:00:00Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-23T19:00:00Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50617187. Not a verified endorsement.",
-      "date_published": "2026-11-23T19:00:00Z",
-      "external_url": "https://www.youtube.com/watch?v=RaDAoaHBmos",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/RaDAoaHBmos/",
-      "image": "https://i.ytimg.com/vi/RaDAoaHBmos/hqdefault.jpg",
-      "title": "I Don't Write Like ChatGPT. ChatGPT Writes Like Me",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/RaDAoaHBmos/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:PjGlt3y-Nco",
-        "dateBasis": "publication",
-        "itemId": "PjGlt3y-Nco",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=PjGlt3y-Nco"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50617059",
-            "id": "hn-50617059",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50617059",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-23T18:53:37Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-23T18:53:37Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50617059. Not a verified endorsement.",
-      "date_published": "2026-11-23T18:53:37Z",
-      "external_url": "https://www.youtube.com/watch?v=PjGlt3y-Nco",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/PjGlt3y-Nco/",
-      "image": "https://i.ytimg.com/vi/PjGlt3y-Nco/hqdefault.jpg",
-      "title": "How did they crack the Riemann Hypothesis? [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/PjGlt3y-Nco/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:GR9i8o4FwGw",
-        "dateBasis": "publication",
-        "itemId": "GR9i8o4FwGw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=GR9i8o4FwGw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50616174",
-            "id": "hn-50616174",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50616174",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-23T17:59:10Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-23T17:59:10Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50616174. Not a verified endorsement.",
-      "date_published": "2026-11-23T17:59:10Z",
-      "external_url": "https://www.youtube.com/watch?v=GR9i8o4FwGw",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/GR9i8o4FwGw/",
-      "image": "https://i.ytimg.com/vi/GR9i8o4FwGw/hqdefault.jpg",
-      "title": "An Interview of Alan Kay: He Talks about Steve Jobs, Xerox PARC and Marijuana",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/GR9i8o4FwGw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Ljzj9Msli5o",
-        "dateBasis": "publication",
-        "itemId": "Ljzj9Msli5o",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Ljzj9Msli5o"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50615260",
-            "id": "hn-50615260",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50615260",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-23T17:04:59Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-23T17:04:59Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50615260. Not a verified endorsement.",
-      "date_published": "2026-11-23T17:04:59Z",
-      "external_url": "https://www.youtube.com/watch?v=Ljzj9Msli5o",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Ljzj9Msli5o/",
-      "image": "https://i.ytimg.com/vi/Ljzj9Msli5o/hqdefault.jpg",
-      "title": "Normalisation of Deviance – IAFF [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/Ljzj9Msli5o/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:jRkKZS_evSM",
-        "dateBasis": "publication",
-        "itemId": "jRkKZS_evSM",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=jRkKZS_evSM"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50614798",
-            "id": "hn-50614798",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50614798",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-23T16:40:24Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-23T16:40:24Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50614798. Not a verified endorsement.",
-      "date_published": "2026-11-23T16:40:24Z",
-      "external_url": "https://www.youtube.com/watch?v=jRkKZS_evSM",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/jRkKZS_evSM/",
-      "image": "https://i.ytimg.com/vi/jRkKZS_evSM/hqdefault.jpg",
-      "title": "Ladybird Alpha Announcement [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/jRkKZS_evSM/"
     }
   ],
   "title": "New on HN",
