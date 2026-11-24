@@ -153,15 +153,15 @@
       "title": "Craft & making",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
-      "itemCount": 499,
-      "revision": 17
+      "itemCount": 500,
+      "revision": 18
     },
     {
       "title": "Be amazed",
       "url": "https://algoplay.com/retoob-feeds/reddit-beamazed/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-beamazed/",
-      "itemCount": 500,
-      "revision": 14
+      "itemCount": 499,
+      "revision": 15
     },
     {
       "title": "That's interesting",
@@ -175,14 +175,14 @@
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/",
       "itemCount": 500,
-      "revision": 35
+      "revision": 36
     },
     {
       "title": "Documentaries",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
       "itemCount": 500,
-      "revision": 34
+      "revision": 35
     },
     {
       "title": "Talks & lectures",
@@ -196,42 +196,42 @@
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/",
       "itemCount": 500,
-      "revision": 15
+      "revision": 16
     },
     {
       "title": "Music videos",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
       "itemCount": 500,
-      "revision": 30
+      "revision": 31
     },
     {
       "title": "Next level",
       "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/",
       "itemCount": 500,
-      "revision": 11
+      "revision": 12
     },
     {
       "title": "Obscure finds",
       "url": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-obscuremedia/",
       "itemCount": 500,
-      "revision": 38
+      "revision": 39
     },
     {
       "title": "Reddit picks",
       "url": "https://algoplay.com/retoob-feeds/reddit-videos/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-videos/",
-      "itemCount": 499,
-      "revision": 28
+      "itemCount": 500,
+      "revision": 29
     },
     {
       "title": "Quick clips",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
       "home": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
       "itemCount": 500,
-      "revision": 27
+      "revision": 28
     },
     {
       "title": "Kottke",
@@ -267,12 +267,12 @@
       "scheduledIntervalHours": 6
     },
     "reddit": {
-      "checkedAt": "2026-11-23T08:09:08Z",
+      "checkedAt": "2026-11-24T00:19:04Z",
       "configuredCommunities": 12,
       "provider": "https://arctic-shift.photon-reddit.com",
       "providerPauseUntil": null,
       "publicationEnabled": true,
-      "requestsThisRun": 24,
+      "requestsThisRun": 23,
       "scheduledIntervalHours": 6,
       "sources": [
         {
@@ -281,14 +281,14 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
-          "newestRetainedSubmissionAt": 1795121845,
-          "nextDueAt": 1795428548,
+          "lastSuccessAt": 1795479544,
+          "newestRetainedSubmissionAt": 1795479286,
+          "nextDueAt": 1795483144,
           "requestsThisRun": 2,
-          "retainedMedia": 499,
-          "retainedPosts": 546,
+          "retainedMedia": 500,
+          "retainedPosts": 541,
           "subreddit": "videos",
-          "supportedMedia": 499,
+          "supportedMedia": 500,
           "unavailableMedia": 0
         },
         {
@@ -297,12 +297,12 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
-          "newestRetainedSubmissionAt": 1795406446,
-          "nextDueAt": 1795424948,
+          "lastSuccessAt": 1795479544,
+          "newestRetainedSubmissionAt": 1795478371,
+          "nextDueAt": 1795483144,
           "requestsThisRun": 2,
           "retainedMedia": 500,
-          "retainedPosts": 579,
+          "retainedPosts": 581,
           "subreddit": "documentaries",
           "supportedMedia": 500,
           "unavailableMedia": 0
@@ -313,14 +313,14 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
+          "lastSuccessAt": 1795479544,
           "newestRetainedSubmissionAt": 1794792724,
-          "nextDueAt": 1795439348,
+          "nextDueAt": 1795483144,
           "requestsThisRun": 2,
-          "retainedMedia": 499,
-          "retainedPosts": 580,
+          "retainedMedia": 500,
+          "retainedPosts": 581,
           "subreddit": "artisanvideos",
-          "supportedMedia": 499,
+          "supportedMedia": 500,
           "unavailableMedia": 0
         },
         {
@@ -329,10 +329,10 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
+          "lastSuccessAt": 1795479544,
           "newestRetainedSubmissionAt": 1794426188,
-          "nextDueAt": 1795442948,
-          "requestsThisRun": 1,
+          "nextDueAt": 1795501144,
+          "requestsThisRun": 2,
           "retainedMedia": 500,
           "retainedPosts": 525,
           "subreddit": "lectures",
@@ -345,10 +345,10 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
-          "newestRetainedSubmissionAt": 1795410371,
-          "nextDueAt": 1795424948,
-          "requestsThisRun": 1,
+          "lastSuccessAt": 1795479544,
+          "newestRetainedSubmissionAt": 1795472994,
+          "nextDueAt": 1795483144,
+          "requestsThisRun": 2,
           "retainedMedia": 500,
           "retainedPosts": 515,
           "subreddit": "deepintoyoutube",
@@ -361,9 +361,9 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
-          "newestRetainedSubmissionAt": 1795418583,
-          "nextDueAt": 1795424948,
+          "lastSuccessAt": 1795479544,
+          "newestRetainedSubmissionAt": 1795469529,
+          "nextDueAt": 1795483144,
           "requestsThisRun": 2,
           "retainedMedia": 500,
           "retainedPosts": 537,
@@ -377,12 +377,12 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
-          "newestRetainedSubmissionAt": 1795413106,
-          "nextDueAt": 1795424948,
+          "lastSuccessAt": 1795479544,
+          "newestRetainedSubmissionAt": 1795470006,
+          "nextDueAt": 1795483144,
           "requestsThisRun": 2,
           "retainedMedia": 500,
-          "retainedPosts": 525,
+          "retainedPosts": 524,
           "subreddit": "musicvideos",
           "supportedMedia": 500,
           "unavailableMedia": 0
@@ -393,9 +393,9 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
-          "newestRetainedSubmissionAt": 1795390710,
-          "nextDueAt": 1795424948,
+          "lastSuccessAt": 1795479544,
+          "newestRetainedSubmissionAt": 1795455348,
+          "nextDueAt": 1795483144,
           "requestsThisRun": 2,
           "retainedMedia": 500,
           "retainedPosts": 538,
@@ -409,12 +409,12 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
-          "newestRetainedSubmissionAt": 1795377315,
-          "nextDueAt": 1795424948,
-          "requestsThisRun": 3,
+          "lastSuccessAt": 1795479544,
+          "newestRetainedSubmissionAt": 1795464527,
+          "nextDueAt": 1795483144,
+          "requestsThisRun": 2,
           "retainedMedia": 500,
-          "retainedPosts": 504,
+          "retainedPosts": 503,
           "subreddit": "nextfuckinglevel",
           "supportedMedia": 500,
           "unavailableMedia": 0
@@ -425,26 +425,31 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
+          "lastSuccessAt": 1795479544,
           "newestRetainedSubmissionAt": 1795374047,
-          "nextDueAt": 1795424948,
+          "nextDueAt": 1795483144,
           "requestsThisRun": 2,
-          "retainedMedia": 500,
+          "retainedMedia": 499,
           "retainedPosts": 504,
           "subreddit": "beamazed",
-          "supportedMedia": 500,
+          "supportedMedia": 499,
           "unavailableMedia": 0
         },
         {
           "attemptedThisRun": true,
           "backfillComplete": false,
-          "error": null,
-          "errorContext": null,
+          "error": "http_422",
+          "errorContext": {
+            "endpoint": "/api/posts/search",
+            "httpStatus": 422,
+            "message": "Timeout. Maybe slow down a bit",
+            "requestedRecords": 50
+          },
           "initialized": true,
           "lastSuccessAt": 1795421348,
           "newestRetainedSubmissionAt": 1795321169,
-          "nextDueAt": 1795424948,
-          "requestsThisRun": 3,
+          "nextDueAt": 1795486744,
+          "requestsThisRun": 1,
           "retainedMedia": 343,
           "retainedPosts": 343,
           "subreddit": "damnthatsinteresting",
@@ -457,19 +462,19 @@
           "error": null,
           "errorContext": null,
           "initialized": true,
-          "lastSuccessAt": 1795421348,
-          "newestRetainedSubmissionAt": 1795404060,
-          "nextDueAt": 1795424948,
+          "lastSuccessAt": 1795479544,
+          "newestRetainedSubmissionAt": 1795477482,
+          "nextDueAt": 1795483144,
           "requestsThisRun": 2,
           "retainedMedia": 500,
-          "retainedPosts": 527,
+          "retainedPosts": 528,
           "subreddit": "mealtimevideos",
           "supportedMedia": 500,
           "unavailableMedia": 0
         }
       ],
-      "successfulSourcesThisRun": 12,
-      "lastSuccessfulRefreshAt": "2026-11-23T08:09:43Z"
+      "successfulSourcesThisRun": 11,
+      "lastSuccessfulRefreshAt": "2026-11-24T00:19:39Z"
     },
     "rss": {
       "cards": 61,

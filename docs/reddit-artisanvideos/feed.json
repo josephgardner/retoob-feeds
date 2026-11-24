@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 499,
+    "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 17,
+    "revision": 18,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -21737,6 +21737,47 @@
       "image": "https://i.ytimg.com/vi/yO08Oa9u1g8/hqdefault.jpg",
       "title": "planning ahead and great memories",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/yO08Oa9u1g8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:m1ppk-fFZPA",
+        "dateBasis": "publication",
+        "itemId": "m1ppk-fFZPA",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=m1ppk-fFZPA"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1fjyq62/",
+            "id": "reddit-artisanvideos-1fjyq62",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1fjyq62",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2024-09-18T17:37:48Z"
+            }
+          }
+        ],
+        "revision": 18,
+        "sortAt": "2024-09-18T17:37:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1fjyq62/",
+      "date_published": "2024-09-18T17:37:48Z",
+      "external_url": "https://www.youtube.com/watch?v=m1ppk-fFZPA",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/m1ppk-fFZPA/",
+      "image": "https://i.ytimg.com/vi/m1ppk-fFZPA/hqdefault.jpg",
+      "title": "out and about exploring the Scottish countryside",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/m1ppk-fFZPA/"
     }
   ],
   "title": "Craft & making",

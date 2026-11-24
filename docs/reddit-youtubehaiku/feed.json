@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 27,
+    "revision": 28,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:1qixsitc9Zc",
+        "dateBasis": "publication",
+        "itemId": "1qixsitc9Zc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1qixsitc9Zc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y3ojze/",
+            "id": "reddit-youtubehaiku-1y3ojze",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y3ojze",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-23T17:35:48Z"
+            }
+          }
+        ],
+        "revision": 28,
+        "sortAt": "2026-11-23T17:35:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y3ojze/",
+      "date_published": "2026-11-23T17:35:48Z",
+      "external_url": "https://www.youtube.com/watch?v=1qixsitc9Zc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/1qixsitc9Zc/",
+      "image": "https://i.ytimg.com/vi/1qixsitc9Zc/hqdefault.jpg",
+      "title": "[Poetry] Everyone's  biggest fear",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/1qixsitc9Zc/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:SsTVWvDpHhQ",
@@ -21078,47 +21119,6 @@
       "image": "https://i.ytimg.com/vi/8eQw-HYZf6c/hqdefault.jpg",
       "title": "[Poetry] Caffeine is a drug",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/8eQw-HYZf6c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:a2VQWfz0Q90",
-        "dateBasis": "publication",
-        "itemId": "a2VQWfz0Q90",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=a2VQWfz0Q90"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rtmhj7/",
-            "id": "reddit-youtubehaiku-1rtmhj7",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rtmhj7",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-14T15:36:06Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-14T15:36:06Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rtmhj7/",
-      "date_published": "2026-03-14T15:36:06Z",
-      "external_url": "https://www.youtube.com/watch?v=a2VQWfz0Q90",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/a2VQWfz0Q90/",
-      "image": "https://i.ytimg.com/vi/a2VQWfz0Q90/hqdefault.jpg",
-      "title": "[Poetry] Feeding frenzy paper stop-motion",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/a2VQWfz0Q90/"
     }
   ],
   "title": "Quick clips",
