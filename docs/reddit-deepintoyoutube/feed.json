@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-deepintoyoutube",
     "publicationEpoch": "reddit-public-20261106-deepintoyoutube",
-    "revision": 38,
+    "revision": 39,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:UvfJlqKXYUY",
+        "dateBasis": "publication",
+        "itemId": "UvfJlqKXYUY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=UvfJlqKXYUY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y501w9/",
+            "id": "reddit-deepintoyoutube-1y501w9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y501w9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-25T06:13:22Z"
+            }
+          }
+        ],
+        "revision": 39,
+        "sortAt": "2026-11-25T06:13:22Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y501w9/",
+      "date_published": "2026-11-25T06:13:22Z",
+      "external_url": "https://www.youtube.com/watch?v=UvfJlqKXYUY",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/UvfJlqKXYUY/",
+      "image": "https://i.ytimg.com/vi/UvfJlqKXYUY/hqdefault.jpg",
+      "title": "Funky Forest The First Contact (13 years ago, 82k Views, english subtitles)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/UvfJlqKXYUY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:qQt-dj109Ss",
+        "dateBasis": "publication",
+        "itemId": "qQt-dj109Ss",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=qQt-dj109Ss"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y4slkz/",
+            "id": "reddit-deepintoyoutube-1y4slkz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y4slkz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T23:48:27Z"
+            }
+          }
+        ],
+        "revision": 39,
+        "sortAt": "2026-11-24T23:48:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y4slkz/",
+      "date_published": "2026-11-24T23:48:27Z",
+      "external_url": "https://www.youtube.com/watch?v=qQt-dj109Ss",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/qQt-dj109Ss/",
+      "image": "https://i.ytimg.com/vi/qQt-dj109Ss/hqdefault.jpg",
+      "title": "夢の中でゲームするときコントローラー使ってなくない？",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/qQt-dj109Ss/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:XyqCsEVBVxU",
@@ -20653,104 +20735,6 @@
       "image": "https://i.ytimg.com/vi/jKrZ-ERIYv4/hqdefault.jpg",
       "title": "Kodak EasyShare Dock (2001)",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/jKrZ-ERIYv4/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:OCuQxqmIkUs",
-        "dateBasis": "publication",
-        "itemId": "OCuQxqmIkUs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=OCuQxqmIkUs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wwbqgr/",
-            "id": "reddit-deepintoyoutube-1wwbqgr",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wwbqgr",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-03T02:18:56Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-03T02:18:56Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wwbqgr/",
-      "date_published": "2026-10-03T02:18:56Z",
-      "external_url": "https://www.youtube.com/watch?v=OCuQxqmIkUs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/OCuQxqmIkUs/",
-      "image": "https://i.ytimg.com/vi/OCuQxqmIkUs/hqdefault.jpg",
-      "title": "WARCRAFT 2016 MOVIE CLIPS!! #Shorts",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/OCuQxqmIkUs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:_8hdBw4f9Ro",
-        "dateBasis": "publication",
-        "itemId": "_8hdBw4f9Ro",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=_8hdBw4f9Ro"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wwbibl/",
-            "id": "reddit-deepintoyoutube-1wwbibl",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wwbibl",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-03T02:06:46Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1ww09xe/",
-            "id": "reddit-deepintoyoutube-1ww09xe",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1ww09xe",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-02T17:48:30Z"
-            }
-          }
-        ],
-        "revision": 4,
-        "sortAt": "2026-10-03T02:06:46Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wwbibl/\nhttps://www.reddit.com/r/deepintoyoutube/comments/1ww09xe/",
-      "date_published": "2026-10-03T02:06:46Z",
-      "external_url": "https://www.youtube.com/watch?v=_8hdBw4f9Ro",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/_8hdBw4f9Ro/",
-      "image": "https://i.ytimg.com/vi/_8hdBw4f9Ro/hqdefault.jpg",
-      "title": "Untitled design 2",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/_8hdBw4f9Ro/"
     }
   ],
   "title": "Deep cuts",

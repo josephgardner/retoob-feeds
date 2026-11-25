@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-mealtimevideos",
     "publicationEpoch": "reddit-public-20261106-mealtimevideos",
-    "revision": 18,
+    "revision": 19,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:KMEPttdyWww",
+        "dateBasis": "publication",
+        "itemId": "KMEPttdyWww",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=KMEPttdyWww"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y4t5s7/",
+            "id": "reddit-mealtimevideos-1y4t5s7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1y4t5s7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-25T00:12:58Z"
+            }
+          }
+        ],
+        "revision": 19,
+        "sortAt": "2026-11-25T00:12:58Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y4t5s7/",
+      "date_published": "2026-11-25T00:12:58Z",
+      "external_url": "https://www.youtube.com/watch?v=KMEPttdyWww",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/KMEPttdyWww/",
+      "image": "https://i.ytimg.com/vi/KMEPttdyWww/hqdefault.jpg",
+      "title": "The Biggest Lie Jobseekers Get Told [12:14]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/KMEPttdyWww/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:KqtZ5DZWxaA",
@@ -52,47 +93,6 @@
       "image": "https://i.ytimg.com/vi/KqtZ5DZWxaA/hqdefault.jpg",
       "title": "Has the GTA 6 backlash gone too far? [38:15]",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/KqtZ5DZWxaA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:MVK5AlCogRs",
-        "dateBasis": "publication",
-        "itemId": "MVK5AlCogRs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=MVK5AlCogRs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y4ivu3/",
-            "id": "reddit-mealtimevideos-1y4ivu3",
-            "kind": "community",
-            "publisher": {
-              "name": "r/mealtimevideos",
-              "url": "https://www.reddit.com/r/mealtimevideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
-            "upstreamItemId": "1y4ivu3",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-24T17:14:59Z"
-            }
-          }
-        ],
-        "revision": 18,
-        "sortAt": "2026-11-24T17:14:59Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y4ivu3/",
-      "date_published": "2026-11-24T17:14:59Z",
-      "external_url": "https://www.youtube.com/watch?v=MVK5AlCogRs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/MVK5AlCogRs/",
-      "image": "https://i.ytimg.com/vi/MVK5AlCogRs/hqdefault.jpg",
-      "title": "Japan's 9 Million Empty Homes [16:23]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/MVK5AlCogRs/"
     },
     {
       "_retoob": {
@@ -257,47 +257,6 @@
       "image": "https://i.ytimg.com/vi/jvDutx0oCq8/hqdefault.jpg",
       "title": "George Orwell's life as a policeman in Burma [20:02]",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/jvDutx0oCq8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:KWGCBvkQx0M",
-        "dateBasis": "publication",
-        "itemId": "KWGCBvkQx0M",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=KWGCBvkQx0M"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y47k3a/",
-            "id": "reddit-mealtimevideos-1y47k3a",
-            "kind": "community",
-            "publisher": {
-              "name": "r/mealtimevideos",
-              "url": "https://www.reddit.com/r/mealtimevideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
-            "upstreamItemId": "1y47k3a",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-24T07:59:59Z"
-            }
-          }
-        ],
-        "revision": 17,
-        "sortAt": "2026-11-24T07:59:59Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y47k3a/",
-      "date_published": "2026-11-24T07:59:59Z",
-      "external_url": "https://www.youtube.com/watch?v=KWGCBvkQx0M",
-      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/KWGCBvkQx0M/",
-      "image": "https://i.ytimg.com/vi/KWGCBvkQx0M/hqdefault.jpg",
-      "title": "Dr Mario worst rng/world record [17:31]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/KWGCBvkQx0M/"
     },
     {
       "_retoob": {
@@ -12825,13 +12784,29 @@
               "precision": "exact",
               "value": "2026-10-15T15:43:04Z"
             }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1w8wn1q/",
+            "id": "reddit-mealtimevideos-1w8wn1q",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1w8wn1q",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-06T13:46:01Z"
+            }
           }
         ],
-        "revision": 6,
+        "revision": 19,
         "sortAt": "2026-10-15T15:43:04Z",
         "version": 1
       },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x6p4ci/",
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1x6p4ci/\nhttps://www.reddit.com/r/mealtimevideos/comments/1w8wn1q/",
       "date_published": "2026-10-15T15:43:04Z",
       "external_url": "https://www.youtube.com/watch?v=bZ3gwXyyqfc",
       "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/bZ3gwXyyqfc/",
@@ -20943,6 +20918,47 @@
       "image": "https://i.ytimg.com/vi/Pq6XwAcjOUA/hqdefault.jpg",
       "title": "Why You Go Silent When You're Hurt (It's Not What You Think) [5:43]",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Pq6XwAcjOUA/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:rnxbpUIiqv0",
+        "dateBasis": "publication",
+        "itemId": "rnxbpUIiqv0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rnxbpUIiqv0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1wb94s0/",
+            "id": "reddit-mealtimevideos-1wb94s0",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1wb94s0",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-09-09T02:39:19Z"
+            }
+          }
+        ],
+        "revision": 19,
+        "sortAt": "2026-09-09T02:39:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1wb94s0/",
+      "date_published": "2026-09-09T02:39:19Z",
+      "external_url": "https://www.youtube.com/watch?v=rnxbpUIiqv0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/rnxbpUIiqv0/",
+      "image": "https://i.ytimg.com/vi/rnxbpUIiqv0/hqdefault.jpg",
+      "title": "Phillip DeFranco Show - \"The Other 9/11 Cover Up Files, Lindsay Clancy Trump Pardon Panic, Mayor Mamdani Updates, OBGYN Medical Corruption, Weird Elizabeth Holmes Doc\" [39:42]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/rnxbpUIiqv0/"
     }
   ],
   "title": "Mealtime videos",

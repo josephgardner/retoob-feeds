@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 500,
+    "itemCount": 498,
     "listId": "reddit-musicvideos",
     "publicationEpoch": "reddit-public-20261106-musicvideos",
-    "revision": 33,
+    "revision": 34,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,170 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:b45agijkbp3i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-b45agijkbp3i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/b45agijkbp3i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y5054c/",
+            "id": "reddit-musicvideos-1y5054c",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y5054c",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-25T06:18:52Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-25T06:18:52Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y5054c/",
+      "date_published": "2026-11-25T06:18:52Z",
+      "external_url": "https://v.redd.it/b45agijkbp3i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-b45agijkbp3i1/",
+      "image": "https://external-preview.redd.it/OXU0c2Fta2ticDNpMTTwrA7gHrKJv-0yS2s4SImCoev866Cq-Qe7HAF6tDZp.png?width=140&height=93&format=jpg&auto=webp&s=a66fa3312409b7467837d713aab95bb54c788968",
+      "title": "Erick Rodriguez - Dark [hard techno]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-b45agijkbp3i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:f1f51PGPrag",
+        "dateBasis": "publication",
+        "itemId": "f1f51PGPrag",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=f1f51PGPrag"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y4w2yg/",
+            "id": "reddit-musicvideos-1y4w2yg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y4w2yg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-25T02:37:09Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-25T02:37:09Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y4w2yg/",
+      "date_published": "2026-11-25T02:37:09Z",
+      "external_url": "https://www.youtube.com/watch?v=f1f51PGPrag",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/f1f51PGPrag/",
+      "image": "https://i.ytimg.com/vi/f1f51PGPrag/hqdefault.jpg",
+      "title": "Vasel Karnel - do honour the love [Psychedelic pop]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/f1f51PGPrag/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:16YnOUnbE6s",
+        "dateBasis": "publication",
+        "itemId": "16YnOUnbE6s",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=16YnOUnbE6s"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y4tmfz/",
+            "id": "reddit-musicvideos-1y4tmfz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y4tmfz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-25T00:35:02Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-25T00:35:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y4tmfz/",
+      "date_published": "2026-11-25T00:35:02Z",
+      "external_url": "https://www.youtube.com/watch?v=16YnOUnbE6s",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/16YnOUnbE6s/",
+      "image": "https://i.ytimg.com/vi/16YnOUnbE6s/hqdefault.jpg",
+      "title": "Arizona Zervas - Roxanne [pop rap]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/16YnOUnbE6s/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:vJRFaOLhL9Q",
+        "dateBasis": "publication",
+        "itemId": "vJRFaOLhL9Q",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=vJRFaOLhL9Q"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y4rxsv/",
+            "id": "reddit-musicvideos-1y4rxsv",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y4rxsv",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-24T23:17:20Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-24T23:17:20Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y4rxsv/",
+      "date_published": "2026-11-24T23:17:20Z",
+      "external_url": "https://www.youtube.com/watch?v=vJRFaOLhL9Q",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/vJRFaOLhL9Q/",
+      "image": "https://i.ytimg.com/vi/vJRFaOLhL9Q/hqdefault.jpg",
+      "title": "DC Maxwell - A Good Man [Alt-rock]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/vJRFaOLhL9Q/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:3M_5oYU-IsU",
@@ -5066,87 +5230,6 @@
       "image": "https://i.ytimg.com/vi/5anLPw0Efmo/hqdefault.jpg",
       "title": "Evanescence - My Immortal [alternative rock]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/5anLPw0Efmo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:PlLZQxrG8Vk",
-        "dateBasis": "publication",
-        "itemId": "PlLZQxrG8Vk",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=PlLZQxrG8Vk"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xx8oup/",
-            "id": "reddit-musicvideos-1xx8oup",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xx8oup",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T22:28:18Z"
-            }
-          }
-        ],
-        "revision": 18,
-        "sortAt": "2026-11-15T22:28:18Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xx8oup/",
-      "date_published": "2026-11-15T22:28:18Z",
-      "external_url": "https://www.youtube.com/watch?v=PlLZQxrG8Vk",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/PlLZQxrG8Vk/",
-      "image": "https://i.ytimg.com/vi/PlLZQxrG8Vk/hqdefault.jpg",
-      "title": "Pink Floyd - The Dark Side of the Moon [Prog Rock]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/PlLZQxrG8Vk/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:ho4dvw3b9u1i1",
-        "dateBasis": "publication",
-        "itemId": "reddit-ho4dvw3b9u1i1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/ho4dvw3b9u1i1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xx6l52/",
-            "id": "reddit-musicvideos-1xx6l52",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xx6l52",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-15T20:58:53Z"
-            }
-          }
-        ],
-        "revision": 18,
-        "sortAt": "2026-11-15T20:58:53Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xx6l52/",
-      "date_published": "2026-11-15T20:58:53Z",
-      "external_url": "https://v.redd.it/ho4dvw3b9u1i1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-ho4dvw3b9u1i1/",
-      "title": "VOA & RSAX - In the Dark, We Come Alive [Melodic Vocal Trance / Deep Progressive House] (2026) — Official Music Video",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-ho4dvw3b9u1i1/"
     },
     {
       "_retoob": {
@@ -20714,170 +20797,6 @@
       "image": "https://i.ytimg.com/vi/QLH2eWORLmg/hqdefault.jpg",
       "title": "Saliva - Rivers [Official Music Video](2026)[Hard Rock ]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/QLH2eWORLmg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:kEKpzLKeDvs",
-        "dateBasis": "publication",
-        "itemId": "kEKpzLKeDvs",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=kEKpzLKeDvs"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1x9iaep/",
-            "id": "reddit-musicvideos-1x9iaep",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1x9iaep",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-19T00:02:47Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-19T00:02:47Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1x9iaep/",
-      "date_published": "2026-10-19T00:02:47Z",
-      "external_url": "https://www.youtube.com/watch?v=kEKpzLKeDvs",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/kEKpzLKeDvs/",
-      "image": "https://i.ytimg.com/vi/kEKpzLKeDvs/hqdefault.jpg",
-      "title": "love you, please die - my baby's a murderer [Electropop/Darkwave] (2026)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/kEKpzLKeDvs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:-OXKAcqJFPA",
-        "dateBasis": "publication",
-        "itemId": "-OXKAcqJFPA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=-OXKAcqJFPA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1x9fwdg/",
-            "id": "reddit-musicvideos-1x9fwdg",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1x9fwdg",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-18T22:09:46Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-18T22:09:46Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1x9fwdg/",
-      "date_published": "2026-10-18T22:09:46Z",
-      "external_url": "https://www.youtube.com/watch?v=-OXKAcqJFPA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/-OXKAcqJFPA/",
-      "image": "https://i.ytimg.com/vi/-OXKAcqJFPA/hqdefault.jpg",
-      "title": "Spiral Drive & Lord Fascinator - Raum [Krautrock, Psychedelicrock] 2026",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/-OXKAcqJFPA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:kla5e3yzk9wh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-kla5e3yzk9wh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/kla5e3yzk9wh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1x99mf9/",
-            "id": "reddit-musicvideos-1x99mf9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1x99mf9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-18T17:54:26Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-18T17:54:26Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1x99mf9/",
-      "date_published": "2026-10-18T17:54:26Z",
-      "external_url": "https://v.redd.it/kla5e3yzk9wh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-kla5e3yzk9wh1/",
-      "image": "https://external-preview.redd.it/aHhveThyc3prOXdoMTyn-3qj4952DEdIA8Nlgkzfb1381Pw7hI7z_taO2jTv.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=cdb7960b8243342332d0b27a9334531e4251b0b4",
-      "title": "Jphunjan - Yung Blood [Hip-Hop] [2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-kla5e3yzk9wh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:rXj9k4Yq0FE",
-        "dateBasis": "publication",
-        "itemId": "rXj9k4Yq0FE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=rXj9k4Yq0FE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1x98kpk/",
-            "id": "reddit-musicvideos-1x98kpk",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1x98kpk",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-18T17:12:47Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-18T17:12:47Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1x98kpk/",
-      "date_published": "2026-10-18T17:12:47Z",
-      "external_url": "https://www.youtube.com/watch?v=rXj9k4Yq0FE",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/rXj9k4Yq0FE/",
-      "image": "https://i.ytimg.com/vi/rXj9k4Yq0FE/hqdefault.jpg",
-      "title": "Harvest Day - Outlaw Dayz [Country Rap/Hiphop]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/rXj9k4Yq0FE/"
     }
   ],
   "title": "Music videos",
