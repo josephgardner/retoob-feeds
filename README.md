@@ -8,6 +8,11 @@ Retoob is a video-feed viewer for **Android TV and Google TV**. Browse community
 
 > **Preview:** Retoob is currently distributed here as an Android TV APK for sideloading. This repository contains the public feeds, publishing tools, documentation, and TV releases; the Android app's source is maintained separately.
 
+**Pick your path:**
+
+- **Watch on your TV:** [install the app](#install-on-android-tv--google-tv), then [get started](#get-started).
+- **Publish feeds or build a reader:** read the [feed specification](https://algoplay.com/retoob-feeds/spec/), then the [developer reference](#developer-reference). You don't need the app to use the format.
+
 ## Screenshots
 
 Two real 1920×1080 captures from an Android TV emulator:
@@ -58,14 +63,16 @@ Retoob consumes standardized JSON feeds hosted over HTTP. You can hand-curate a 
 
 Want to look around? [Explore the public directory](https://algoplay.com/retoob-feeds/), including [Hacker News videos](https://algoplay.com/retoob-feeds/hn-new-videos/feed.json) and [HackerTube catalogue videos](https://algoplay.com/retoob-feeds/hackertube-software/feed.json).
 
-## Make your own feed
+## Developer reference
 
-This repository also hosts the **public feed-publishing companion** to Retoob TV. The protocol uses JSON Feed 1.1 with the Retoob profile-1 schema, alongside an optional directory schema.
+Retoob feeds are an open format: JSON Feed 1.1 with the Retoob profile 1 extension, plus an optional collection format for lists of feeds. Anyone can publish or read them without the app, a Retoob account or the feeds in this repository.
 
+- [Feed specification](https://algoplay.com/retoob-feeds/spec/) ([source](spec/README.md)): the rules for publishers and readers
 - [Feed schema](docs/schemas/retoob-feed-v1.schema.json) ([reference](https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.html))
-- [Directory schema](docs/schemas/retoob-directory-v1.schema.json) ([reference](https://algoplay.com/retoob-feeds/schemas/retoob-directory-v1.schema.html))
+- [Collection schema](docs/schemas/retoob-directory-v1.schema.json) ([reference](https://algoplay.com/retoob-feeds/schemas/retoob-directory-v1.schema.html))
+- [Conformance checker](scripts/check-protocol.py)
 - [Manual/static publisher example](examples/static-publisher/)
 - [Hacker News connector example](examples/hn-publisher/)
-- [Publishing and connector guide](PUBLISHING.md) — all the original technical README content, including source credits, state handling, deployment, and conformance notes
+- [Publishing and connector guide](PUBLISHING.md): how the feeds in this repository are built, credited and deployed
 
-**Repository scope:** `retoob-feeds` publishes public feed data, documentation, and Retoob TV APK releases. It is not the app source repository.
+**Repository layout:** `docs/` is the published site root, served at [algoplay.com/retoob-feeds](https://algoplay.com/retoob-feeds/), not documentation. It holds the feeds, collections, HTML viewer and canonical schemas. The publishing pipeline rewrites the feeds and the viewer files (`index.html`, `viewer.js`, `viewer.css`) on every refresh, so direct edits to them in `docs/` are overwritten. `spec/` holds the specification source, `examples/` the publishers, and `scripts/` the validation and site build tools. The site's specification and schema reference pages are generated during deployment. The Android app's source is maintained separately.
