@@ -35,10 +35,7 @@ jobs:
       - name: Render schema reference pages outside the Git tree
         run: |
           python -m pip install -r scripts/requirements-docs.txt
-          for schema in docs/schemas/*.schema.json; do
-            generate-schema-doc --config template_name=js_offline "$schema" \
-              "$RUNNER_TEMP/retoob-pages/schemas/$(basename "$schema" .json).html"
-          done
+          python scripts/render-schema-docs.py --source docs/schemas --output "$RUNNER_TEMP/retoob-pages/schemas"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v5
         with:
