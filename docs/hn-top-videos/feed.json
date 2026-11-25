@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 6,
+    "itemCount": 3,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 40,
+    "revision": 41,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -14,19 +14,19 @@
   "items": [
     {
       "_retoob": {
-        "contentKey": "youtube:MYyyhAhHgT8",
+        "contentKey": "youtube:guvFKt_Zjqw",
         "dateBasis": "publication",
-        "itemId": "MYyyhAhHgT8",
+        "itemId": "guvFKt_Zjqw",
         "playback": {
           "mode": "external",
           "provider": "youtube",
           "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=MYyyhAhHgT8"
+          "url": "https://www.youtube.com/watch?v=guvFKt_Zjqw"
         },
         "recommendations": [
           {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50635301",
-            "id": "hn-50635301",
+            "discussionUrl": "https://news.ycombinator.com/item?id=50637941",
+            "id": "hn-50637941",
             "kind": "community",
             "publisher": {
               "name": "Hacker News",
@@ -35,24 +35,24 @@
             "recommendationBasis": "mention",
             "sourceUrl": "https://news.ycombinator.com/",
             "startSeconds": 0,
-            "upstreamItemId": "50635301",
+            "upstreamItemId": "50637941",
             "upstreamPublishedAt": {
               "precision": "exact",
-              "value": "2026-11-24T21:53:27Z"
+              "value": "2026-11-25T03:10:51Z"
             }
           }
         ],
         "revision": 1,
-        "sortAt": "2026-11-24T21:53:27Z",
+        "sortAt": "2026-11-25T03:10:51Z",
         "version": 1
       },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50635301. Not a verified endorsement.",
-      "date_published": "2026-11-24T21:53:27Z",
-      "external_url": "https://www.youtube.com/watch?v=MYyyhAhHgT8",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/MYyyhAhHgT8/",
-      "image": "https://i.ytimg.com/vi/MYyyhAhHgT8/hqdefault.jpg",
-      "title": "Metro: The Documentary on Microsoft's Boldest Design",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/MYyyhAhHgT8/"
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50637941. Not a verified endorsement.",
+      "date_published": "2026-11-25T03:10:51Z",
+      "external_url": "https://www.youtube.com/watch?v=guvFKt_Zjqw",
+      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/guvFKt_Zjqw/",
+      "image": "https://i.ytimg.com/vi/guvFKt_Zjqw/hqdefault.jpg",
+      "title": "Interview with a Productivity Freak in 2026",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/guvFKt_Zjqw/"
     },
     {
       "_retoob": {
@@ -95,132 +95,6 @@
       "image": "https://i.ytimg.com/vi/GR9i8o4FwGw/hqdefault.jpg",
       "title": "Alan Kay: Steve Jobs, Xerox PARC, Marijuana [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/GR9i8o4FwGw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:TijB8oAiMcE",
-        "dateBasis": "publication",
-        "itemId": "TijB8oAiMcE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=TijB8oAiMcE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50612013",
-            "id": "hn-50612013",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50612013",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-23T14:22:30Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-23T14:22:30Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50612013. Not a verified endorsement.",
-      "date_published": "2026-11-23T14:22:30Z",
-      "external_url": "https://www.youtube.com/watch?v=TijB8oAiMcE",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/TijB8oAiMcE/",
-      "image": "https://i.ytimg.com/vi/TijB8oAiMcE/hqdefault.jpg",
-      "title": "Kilauea volcano Live: Eruption in Hawaii [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/TijB8oAiMcE/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Z4Ty0oqA_Bk",
-        "dateBasis": "publication",
-        "itemId": "Z4Ty0oqA_Bk",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Z4Ty0oqA_Bk"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50604059",
-            "id": "hn-50604059",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50604059",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-22T21:25:18Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-22T21:25:18Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50604059. Not a verified endorsement.",
-      "date_published": "2026-11-22T21:25:18Z",
-      "external_url": "https://www.youtube.com/watch?v=Z4Ty0oqA_Bk",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/Z4Ty0oqA_Bk/",
-      "image": "https://i.ytimg.com/vi/Z4Ty0oqA_Bk/hqdefault.jpg",
-      "title": "I Hacked Harley's $100M Motorcycle [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/Z4Ty0oqA_Bk/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:zqzk43bSdDI",
-        "dateBasis": "publication",
-        "itemId": "zqzk43bSdDI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50595812",
-            "id": "hn-50595812",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50595812",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-22T03:06:35Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-22T03:06:35Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50595812. Not a verified endorsement.",
-      "date_published": "2026-11-22T03:06:35Z",
-      "external_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/zqzk43bSdDI/",
-      "image": "https://i.ytimg.com/vi/zqzk43bSdDI/hqdefault.jpg",
-      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/zqzk43bSdDI/"
     },
     {
       "_retoob": {
