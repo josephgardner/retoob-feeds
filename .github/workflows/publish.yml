@@ -22,8 +22,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
       - name: Validate every committed public feed
@@ -36,7 +36,7 @@ jobs:
         run: |
           python -m pip install -r scripts/requirements-docs.txt
           python scripts/render-schema-docs.py --source docs/schemas --output "$RUNNER_TEMP/retoob-pages/schemas"
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:
           path: ${{ runner.temp }}/retoob-pages
