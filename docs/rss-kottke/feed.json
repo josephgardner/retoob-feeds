@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 65,
+    "itemCount": 66,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 16,
+    "revision": 17,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,48 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:lN96f4SwJyk",
+        "dateBasis": "publication",
+        "itemId": "lN96f4SwJyk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=lN96f4SwJyk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050061-patti-smiths-tiny-desk-co",
+            "id": "rss-a9a1d76ee68a3e6117a242b619ad09f5",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-25:50061",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-25T21:45:38Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-25T21:45:38Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050061-patti-smiths-tiny-desk-co. Not a verified endorsement.",
+      "date_published": "2026-11-25T21:45:38Z",
+      "external_url": "https://www.youtube.com/watch?v=lN96f4SwJyk",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/lN96f4SwJyk/",
+      "image": "https://i.ytimg.com/vi/lN96f4SwJyk/hqdefault.jpg",
+      "title": "Patti Smith’s Tiny Desk Concert.",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/lN96f4SwJyk/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:ZYPm4uN1rXw",
