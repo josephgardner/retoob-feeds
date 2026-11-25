@@ -62,8 +62,8 @@ Want to look around? [Explore the public directory](https://algoplay.com/retoob-
 
 This repository also hosts the **public feed-publishing companion** to Retoob TV. The protocol uses JSON Feed 1.1 with the Retoob profile-1 schema, alongside an optional directory schema.
 
-- [Feed schema](docs/schemas/retoob-feed-v1.schema.json)
-- [Directory schema](docs/schemas/retoob-directory-v1.schema.json)
+- [Feed schema](docs/schemas/retoob-feed-v1.schema.json) ([reference](https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.html))
+- [Directory schema](docs/schemas/retoob-directory-v1.schema.json) ([reference](https://algoplay.com/retoob-feeds/schemas/retoob-directory-v1.schema.html))
 - [Manual/static publisher example](examples/static-publisher/)
 - [Hacker News connector example](examples/hn-publisher/)
 - [Publishing and connector guide](PUBLISHING.md) — all the original technical README content, including source credits, state handling, deployment, and conformance notes
