@@ -18,7 +18,7 @@ def render(source, output):
             raise ValueError('Unexpected schema page layout')
         links = ('<p class="schema-links" style="display:flex;flex-wrap:wrap;gap:0 1.5rem"><a href="' +
                  html.escape(schema.name, quote=True) + '">Raw JSON Schema</a><a href="' + REPOSITORY +
-                 '">GitHub repository</a><a href="../">Feed directory</a></p>')
+                 '">GitHub repository</a><a href="../spec/">Specification</a><a href="../">Feed directory</a></p>')
         page.write_text(text.replace('<h1>', links + '<h1>'))
 
 

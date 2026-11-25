@@ -32,10 +32,11 @@ jobs:
           python scripts/check-protocol.py docs/*/feed.json
       - name: Build legacy HTML routes outside the Git tree
         run: python scripts/prepare-pages.py --source docs --output "$RUNNER_TEMP/retoob-pages"
-      - name: Render schema reference pages outside the Git tree
+      - name: Render the specification and schema reference outside the Git tree
         run: |
           python -m pip install -r scripts/requirements-docs.txt
           python scripts/render-schema-docs.py --source docs/schemas --output "$RUNNER_TEMP/retoob-pages/schemas"
+          python scripts/render-spec.py --source spec/README.md --output "$RUNNER_TEMP/retoob-pages/spec/index.html"
       - uses: actions/configure-pages@v6
       - uses: actions/upload-pages-artifact@v5
         with:
