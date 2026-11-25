@@ -40,10 +40,10 @@ jobs:
               "$RUNNER_TEMP/retoob-pages/schemas/$(basename "$schema" .json).html"
           done
       - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: ${{ runner.temp }}/retoob-pages
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
       - name: Verify served feed JSON after deployment
         run: python scripts/verify-public-feeds.py docs
