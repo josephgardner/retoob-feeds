@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 7,
+    "itemCount": 15,
     "listId": "hn-new-videos",
     "publicationEpoch": "hn-new-videos-20261105",
-    "revision": 48,
+    "revision": 49,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,468 @@
   "feed_url": "https://algoplay.com/retoob-feeds/hn-new-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-new-videos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:3SypMvnQT_s",
+        "dateBasis": "publication",
+        "itemId": "3SypMvnQT_s",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3SypMvnQT_s"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50652985",
+            "id": "hn-50652985",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50652985",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T08:33:24Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T08:33:24Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50652985. Not a verified endorsement.",
+      "date_published": "2026-11-26T08:33:24Z",
+      "external_url": "https://www.youtube.com/watch?v=3SypMvnQT_s",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/3SypMvnQT_s/",
+      "image": "https://i.ytimg.com/vi/3SypMvnQT_s/hqdefault.jpg",
+      "title": "Tesla Full Self Driving Explained by Andrej Karpathy (2021) [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/3SypMvnQT_s/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:pJ07iuMuXq4",
+        "dateBasis": "publication",
+        "itemId": "pJ07iuMuXq4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pJ07iuMuXq4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50652321",
+            "id": "hn-50652321",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50652321",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T06:55:47Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T06:55:47Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50652321. Not a verified endorsement.",
+      "date_published": "2026-11-26T06:55:47Z",
+      "external_url": "https://www.youtube.com/watch?v=pJ07iuMuXq4",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pJ07iuMuXq4/",
+      "image": "https://i.ytimg.com/vi/pJ07iuMuXq4/hqdefault.jpg",
+      "title": "Fortescue's 6MW Robotic EV Charger and Electric Haul Trucks [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/pJ07iuMuXq4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ghxoAM5io18",
+        "dateBasis": "publication",
+        "itemId": "ghxoAM5io18",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ghxoAM5io18"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50652280",
+            "id": "hn-50652280",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50652280",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T06:49:31Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T06:49:31Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50652280. Not a verified endorsement.",
+      "date_published": "2026-11-26T06:49:31Z",
+      "external_url": "https://www.youtube.com/watch?v=ghxoAM5io18",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ghxoAM5io18/",
+      "image": "https://i.ytimg.com/vi/ghxoAM5io18/hqdefault.jpg",
+      "title": "AI Keeps Asking If It's Conscious [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ghxoAM5io18/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:fnZiKAPpn-A",
+        "dateBasis": "publication",
+        "itemId": "fnZiKAPpn-A",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fnZiKAPpn-A"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50651146",
+            "id": "hn-50651146",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50651146",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T03:42:22Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T03:42:22Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50651146. Not a verified endorsement.",
+      "date_published": "2026-11-26T03:42:22Z",
+      "external_url": "https://www.youtube.com/watch?v=fnZiKAPpn-A",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/fnZiKAPpn-A/",
+      "image": "https://i.ytimg.com/vi/fnZiKAPpn-A/hqdefault.jpg",
+      "title": "HNSW Hit Memory and Filter Wall: Elasticsearch, OpenSearch Faiss, Qdrant, Milvus [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/fnZiKAPpn-A/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:DHNFtd0yfds",
+        "dateBasis": "publication",
+        "itemId": "DHNFtd0yfds",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=DHNFtd0yfds"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50650533",
+            "id": "hn-50650533",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50650533",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T02:10:02Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T02:10:02Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50650533. Not a verified endorsement.",
+      "date_published": "2026-11-26T02:10:02Z",
+      "external_url": "https://www.youtube.com/watch?v=DHNFtd0yfds",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/DHNFtd0yfds/",
+      "image": "https://i.ytimg.com/vi/DHNFtd0yfds/hqdefault.jpg",
+      "title": "Andrew Sutherland,mathematician Who Verified Claude’s Riemann Proof[video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/DHNFtd0yfds/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:TDV2ACy-oaU",
+        "dateBasis": "publication",
+        "itemId": "TDV2ACy-oaU",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=TDV2ACy-oaU"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50650379",
+            "id": "hn-50650379",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50650379",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T01:49:15Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T01:49:15Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50650379. Not a verified endorsement.",
+      "date_published": "2026-11-26T01:49:15Z",
+      "external_url": "https://www.youtube.com/watch?v=TDV2ACy-oaU",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/TDV2ACy-oaU/",
+      "image": "https://i.ytimg.com/vi/TDV2ACy-oaU/hqdefault.jpg",
+      "title": "You've been lied to about Perl [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/TDV2ACy-oaU/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:95VcefsgsfE",
+        "dateBasis": "publication",
+        "itemId": "95VcefsgsfE",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=95VcefsgsfE"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50650135",
+            "id": "hn-50650135",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50650135",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T01:16:33Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T01:16:33Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50650135. Not a verified endorsement.",
+      "date_published": "2026-11-26T01:16:33Z",
+      "external_url": "https://www.youtube.com/watch?v=95VcefsgsfE",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/95VcefsgsfE/",
+      "image": "https://i.ytimg.com/vi/95VcefsgsfE/hqdefault.jpg",
+      "title": "Wendell Berry interviewed by Bill Moyers [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/95VcefsgsfE/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:ENhHv_VCDL0",
+        "dateBasis": "publication",
+        "itemId": "ENhHv_VCDL0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=ENhHv_VCDL0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50650086",
+            "id": "hn-50650086",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50650086",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T01:12:13Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T01:12:13Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50650086. Not a verified endorsement.",
+      "date_published": "2026-11-26T01:12:13Z",
+      "external_url": "https://www.youtube.com/watch?v=ENhHv_VCDL0",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ENhHv_VCDL0/",
+      "image": "https://i.ytimg.com/vi/ENhHv_VCDL0/hqdefault.jpg",
+      "title": "Can AI break public key cryptography before Quantum Computers?",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/ENhHv_VCDL0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:O9XRIgwDbMw",
+        "dateBasis": "publication",
+        "itemId": "O9XRIgwDbMw",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=O9XRIgwDbMw"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50649884",
+            "id": "hn-50649884",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50649884",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T00:45:56Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-26T00:45:56Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50649884. Not a verified endorsement.",
+      "date_published": "2026-11-26T00:45:56Z",
+      "external_url": "https://www.youtube.com/watch?v=O9XRIgwDbMw",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/O9XRIgwDbMw/",
+      "image": "https://i.ytimg.com/vi/O9XRIgwDbMw/hqdefault.jpg",
+      "title": "Evan Czaplicki: Dragging SQL into the '90s [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/O9XRIgwDbMw/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:fJ3IQlHyg78",
+        "dateBasis": "publication",
+        "itemId": "fJ3IQlHyg78",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fJ3IQlHyg78"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50648512",
+            "id": "hn-50648512",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50648512",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-25T22:27:02Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-25T22:27:02Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50648512. Not a verified endorsement.",
+      "date_published": "2026-11-25T22:27:02Z",
+      "external_url": "https://www.youtube.com/watch?v=fJ3IQlHyg78",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/fJ3IQlHyg78/",
+      "image": "https://i.ytimg.com/vi/fJ3IQlHyg78/hqdefault.jpg",
+      "title": "CD PROJEKT RED Group Q3 2026 earnings conference – audio webcast [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/fJ3IQlHyg78/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:11EoBiBh5QY",
+        "dateBasis": "publication",
+        "itemId": "11EoBiBh5QY",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=11EoBiBh5QY"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://news.ycombinator.com/item?id=50648381",
+            "id": "hn-50648381",
+            "kind": "community",
+            "publisher": {
+              "name": "Hacker News",
+              "url": "https://news.ycombinator.com/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://news.ycombinator.com/",
+            "startSeconds": 0,
+            "upstreamItemId": "50648381",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-25T22:16:36Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-25T22:16:36Z",
+        "version": 1
+      },
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50648381. Not a verified endorsement.",
+      "date_published": "2026-11-25T22:16:36Z",
+      "external_url": "https://www.youtube.com/watch?v=11EoBiBh5QY",
+      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/11EoBiBh5QY/",
+      "image": "https://i.ytimg.com/vi/11EoBiBh5QY/hqdefault.jpg",
+      "title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
+      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/11EoBiBh5QY/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:qQGUeDkvOEI",
@@ -179,132 +641,6 @@
       "image": "https://i.ytimg.com/vi/F4ocuyiWmpM/hqdefault.jpg",
       "title": "Shape Display Powered by Air: 3D Printed Fluidics [video]",
       "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/F4ocuyiWmpM/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:GKq2xUY62II",
-        "dateBasis": "publication",
-        "itemId": "GKq2xUY62II",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=GKq2xUY62II"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50644414",
-            "id": "hn-50644414",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50644414",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-25T16:47:20Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-25T16:47:20Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50644414. Not a verified endorsement.",
-      "date_published": "2026-11-25T16:47:20Z",
-      "external_url": "https://www.youtube.com/watch?v=GKq2xUY62II",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/GKq2xUY62II/",
-      "image": "https://i.ytimg.com/vi/GKq2xUY62II/hqdefault.jpg",
-      "title": "Show HN: Wrkr – a phone with no apps, run by voice on your own ChatGPT plan",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/GKq2xUY62II/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:I_Yjr1LwkCo",
-        "dateBasis": "publication",
-        "itemId": "I_Yjr1LwkCo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=I_Yjr1LwkCo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50643557",
-            "id": "hn-50643557",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50643557",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-25T15:47:16Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-25T15:47:16Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50643557. Not a verified endorsement.",
-      "date_published": "2026-11-25T15:47:16Z",
-      "external_url": "https://www.youtube.com/watch?v=I_Yjr1LwkCo",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/I_Yjr1LwkCo/",
-      "image": "https://i.ytimg.com/vi/I_Yjr1LwkCo/hqdefault.jpg",
-      "title": "What's new in Proxmox VE 9.3 [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/I_Yjr1LwkCo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:DIernxr0JQQ",
-        "dateBasis": "publication",
-        "itemId": "DIernxr0JQQ",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=DIernxr0JQQ"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50643447",
-            "id": "hn-50643447",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50643447",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-25T15:39:53Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-25T15:39:53Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50643447. Not a verified endorsement.",
-      "date_published": "2026-11-25T15:39:53Z",
-      "external_url": "https://www.youtube.com/watch?v=DIernxr0JQQ",
-      "id": "https://algoplay.com/retoob-feeds/hn-new-videos/items/DIernxr0JQQ/",
-      "image": "https://i.ytimg.com/vi/DIernxr0JQQ/hqdefault.jpg",
-      "title": "Cleaning the house with LLMs (llm2real) [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-new-videos/items/DIernxr0JQQ/"
     }
   ],
   "title": "New on HN",
