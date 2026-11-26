@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 32,
+    "revision": 33,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:YH4xw3iSb6I",
+        "dateBasis": "publication",
+        "itemId": "YH4xw3iSb6I",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=YH4xw3iSb6I"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y5u7xs/",
+            "id": "reddit-youtubehaiku-1y5u7xs",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y5u7xs",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T06:38:22Z"
+            }
+          }
+        ],
+        "revision": 33,
+        "sortAt": "2026-11-26T06:38:22Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y5u7xs/",
+      "date_published": "2026-11-26T06:38:22Z",
+      "external_url": "https://www.youtube.com/watch?v=YH4xw3iSb6I",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/YH4xw3iSb6I/",
+      "image": "https://i.ytimg.com/vi/YH4xw3iSb6I/hqdefault.jpg",
+      "title": "[poetry] Is he really with the FBI?",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/YH4xw3iSb6I/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:joGqIaLEJPs",
@@ -21078,47 +21119,6 @@
       "image": "https://i.ytimg.com/vi/5GD17QhQPGI/hqdefault.jpg",
       "title": "[Poetry] Lucky clover seed being planted stop-motion",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/5GD17QhQPGI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:a2h84WcQOTE",
-        "dateBasis": "publication",
-        "itemId": "a2h84WcQOTE",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=a2h84WcQOTE"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rvsq5k/",
-            "id": "reddit-youtubehaiku-1rvsq5k",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rvsq5k",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-17T01:19:24Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-17T01:19:24Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rvsq5k/",
-      "date_published": "2026-03-17T01:19:24Z",
-      "external_url": "https://www.youtube.com/watch?v=a2h84WcQOTE",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/a2h84WcQOTE/",
-      "image": "https://i.ytimg.com/vi/a2h84WcQOTE/hqdefault.jpg",
-      "title": "[MEME] Titanic Realistic Ending",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/a2h84WcQOTE/"
     }
   ],
   "title": "Quick clips",
