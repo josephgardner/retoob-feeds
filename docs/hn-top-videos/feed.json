@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 3,
+    "itemCount": 0,
     "listId": "hn-top-videos",
     "publicationEpoch": "hn-top-videos-20261105",
-    "revision": 42,
+    "revision": 43,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -11,134 +11,7 @@
   "description": "YouTube links in the current HN top discovery window (up to 500 stories), ordered by submission date. Imported mentions, not curator endorsements. Refreshed every 6 hours; not a complete video archive.",
   "feed_url": "https://algoplay.com/retoob-feeds/hn-top-videos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/hn-top-videos/",
-  "items": [
-    {
-      "_retoob": {
-        "contentKey": "youtube:Kd9AbKawwhg",
-        "dateBasis": "publication",
-        "itemId": "Kd9AbKawwhg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Kd9AbKawwhg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50646128",
-            "id": "hn-50646128",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50646128",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-25T19:13:20Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-25T19:13:20Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50646128. Not a verified endorsement.",
-      "date_published": "2026-11-25T19:13:20Z",
-      "external_url": "https://www.youtube.com/watch?v=Kd9AbKawwhg",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/Kd9AbKawwhg/",
-      "image": "https://i.ytimg.com/vi/Kd9AbKawwhg/hqdefault.jpg",
-      "title": "A fractal approach to window management",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/Kd9AbKawwhg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:guvFKt_Zjqw",
-        "dateBasis": "publication",
-        "itemId": "guvFKt_Zjqw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=guvFKt_Zjqw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50637941",
-            "id": "hn-50637941",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50637941",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-25T03:10:51Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-25T03:10:51Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50637941. Not a verified endorsement.",
-      "date_published": "2026-11-25T03:10:51Z",
-      "external_url": "https://www.youtube.com/watch?v=guvFKt_Zjqw",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/guvFKt_Zjqw/",
-      "image": "https://i.ytimg.com/vi/guvFKt_Zjqw/hqdefault.jpg",
-      "title": "Interview with a Productivity Freak in 2026",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/guvFKt_Zjqw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:GR9i8o4FwGw",
-        "dateBasis": "publication",
-        "itemId": "GR9i8o4FwGw",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=GR9i8o4FwGw"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://news.ycombinator.com/item?id=50631614",
-            "id": "hn-50631614",
-            "kind": "community",
-            "publisher": {
-              "name": "Hacker News",
-              "url": "https://news.ycombinator.com/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://news.ycombinator.com/",
-            "startSeconds": 0,
-            "upstreamItemId": "50631614",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-24T17:40:22Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-11-24T17:40:22Z",
-        "version": 1
-      },
-      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50631614. Not a verified endorsement.",
-      "date_published": "2026-11-24T17:40:22Z",
-      "external_url": "https://www.youtube.com/watch?v=GR9i8o4FwGw",
-      "id": "https://algoplay.com/retoob-feeds/hn-top-videos/items/GR9i8o4FwGw/",
-      "image": "https://i.ytimg.com/vi/GR9i8o4FwGw/hqdefault.jpg",
-      "title": "Alan Kay: Steve Jobs, Xerox PARC, Marijuana [video]",
-      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/GR9i8o4FwGw/"
-    }
-  ],
+  "items": [],
   "title": "Top on HN",
   "version": "https://jsonfeed.org/version/1.1"
 }
