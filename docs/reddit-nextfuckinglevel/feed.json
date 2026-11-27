@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-nextfuckinglevel",
     "publicationEpoch": "reddit-public-20261106-nextfuckinglevel",
-    "revision": 17,
+    "revision": 18,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,128 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:a4l9trk1e34i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-a4l9trk1e34i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/a4l9trk1e34i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1y6ldny/",
+            "id": "reddit-nextfuckinglevel-1y6ldny",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1y6ldny",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T05:38:07Z"
+            }
+          }
+        ],
+        "revision": 18,
+        "sortAt": "2026-11-27T05:38:07Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1y6ldny/",
+      "date_published": "2026-11-27T05:38:07Z",
+      "external_url": "https://v.redd.it/a4l9trk1e34i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-a4l9trk1e34i1/",
+      "title": "Juggling a flaming chainsaw while I'm on fire",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-a4l9trk1e34i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:jgfinexn834i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-jgfinexn834i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/jgfinexn834i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1y6ku66/",
+            "id": "reddit-nextfuckinglevel-1y6ku66",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1y6ku66",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T05:07:31Z"
+            }
+          }
+        ],
+        "revision": 18,
+        "sortAt": "2026-11-27T05:07:31Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1y6ku66/",
+      "date_published": "2026-11-27T05:07:31Z",
+      "external_url": "https://v.redd.it/jgfinexn834i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-jgfinexn834i1/",
+      "image": "https://external-preview.redd.it/bHpkbnNvdm44MzRpMUTcPcoVcbEsNXxbNdpuJ2AEsPy-SDtW8uhtTi5ibqZg.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=d13269fe94b3e13c784c351b20d557d6a40a2a0f",
+      "title": "Amazing Advice from a 7 Yr Old on How to Handle Bullies",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-jgfinexn834i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:im4h1obqm24i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-im4h1obqm24i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/im4h1obqm24i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1y6io03/",
+            "id": "reddit-nextfuckinglevel-1y6io03",
+            "kind": "community",
+            "publisher": {
+              "name": "r/nextfuckinglevel",
+              "url": "https://www.reddit.com/r/nextfuckinglevel/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
+            "upstreamItemId": "1y6io03",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T03:05:17Z"
+            }
+          }
+        ],
+        "revision": 18,
+        "sortAt": "2026-11-27T03:05:17Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1y6io03/",
+      "date_published": "2026-11-27T03:05:17Z",
+      "external_url": "https://v.redd.it/im4h1obqm24i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-im4h1obqm24i1/",
+      "image": "https://external-preview.redd.it/ZWtyNng3Y3FtMjRpMWwrNIegQI7aZEsEM4d62ys2hR64Ug4YcFw4uYidL0Z1.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=0fc0306ea216b6d885796413ab9fc4df4215ea1d",
+      "title": "The 300 Point Turn",
+      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-im4h1obqm24i1/"
+    },
     {
       "_retoob": {
         "contentKey": "reddit:0nm4558n114i1",
@@ -20358,128 +20480,6 @@
       "image": "https://external-preview.redd.it/dHRrN3Q4ZmR3bnpoMYpLAzruLW3JWcvUDQDcIauRqCrqDTTomwnIMwRhRqPt.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=13ef485c86aa216d88b7573191c915cf4d64e74a",
       "title": "Ma Shuyue upcoming musician",
       "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-mijb1hidwnzh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:ru0bg6q5pnzh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-ru0bg6q5pnzh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/ru0bg6q5pnzh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xnz78n/",
-            "id": "reddit-nextfuckinglevel-1xnz78n",
-            "kind": "community",
-            "publisher": {
-              "name": "r/nextfuckinglevel",
-              "url": "https://www.reddit.com/r/nextfuckinglevel/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
-            "upstreamItemId": "1xnz78n",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-04T20:38:15Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-11-04T20:38:15Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xnz78n/",
-      "date_published": "2026-11-04T20:38:15Z",
-      "external_url": "https://v.redd.it/ru0bg6q5pnzh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ru0bg6q5pnzh1/",
-      "image": "https://external-preview.redd.it/MTltOG5iczVwbnpoMcy5duomr-QvcpSOf-YJbyi3eA0iIMajYPxVAypECJ42.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=187be650138d1c3bd54876df67e87fcb19b1a995",
-      "title": "TrackCycling at its absolute best during 2014 UCI World Finals!",
-      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-ru0bg6q5pnzh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:g0jpa3xamnzh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-g0jpa3xamnzh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/g0jpa3xamnzh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xnyq7i/",
-            "id": "reddit-nextfuckinglevel-1xnyq7i",
-            "kind": "community",
-            "publisher": {
-              "name": "r/nextfuckinglevel",
-              "url": "https://www.reddit.com/r/nextfuckinglevel/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
-            "upstreamItemId": "1xnyq7i",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-04T20:19:23Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-11-04T20:19:23Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xnyq7i/",
-      "date_published": "2026-11-04T20:19:23Z",
-      "external_url": "https://v.redd.it/g0jpa3xamnzh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-g0jpa3xamnzh1/",
-      "title": "floating ghost",
-      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-g0jpa3xamnzh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:53b6na51bnzh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-53b6na51bnzh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/53b6na51bnzh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/nextfuckinglevel/comments/1xnx2o9/",
-            "id": "reddit-nextfuckinglevel-1xnx2o9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/nextfuckinglevel",
-              "url": "https://www.reddit.com/r/nextfuckinglevel/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/nextfuckinglevel/",
-            "upstreamItemId": "1xnx2o9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-04T19:15:33Z"
-            }
-          }
-        ],
-        "revision": 7,
-        "sortAt": "2026-11-04T19:15:33Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/nextfuckinglevel/comments/1xnx2o9/",
-      "date_published": "2026-11-04T19:15:33Z",
-      "external_url": "https://v.redd.it/53b6na51bnzh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-53b6na51bnzh1/",
-      "image": "https://external-preview.redd.it/ZG9weTNwdjBibnpoMeutduiXt1L3EemHwy60Y41H3Dv53YV5Nk34EsFuhJg-.png?width=140&height=78&format=jpg&auto=webp&s=a6d302ee0daf6b845f8e783b71e331267e1eb0bc",
-      "title": "These guys tested this form configured of physics blindly. if you launch yourself backward at the same speed at which the vehicle is moving, your speed relative to the ground becomes zero.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-nextfuckinglevel/items/reddit-53b6na51bnzh1/"
     }
   ],
   "title": "Next level",

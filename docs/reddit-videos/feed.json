@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 499,
+    "itemCount": 500,
     "listId": "reddit-videos",
     "publicationEpoch": "reddit-public-20261106-videos",
-    "revision": 34,
+    "revision": 35,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -21094,6 +21094,47 @@
       "image": "https://i.ytimg.com/vi/I_FXm1-VsFY/hqdefault.jpg",
       "title": "Van Hollen on Running for Senate Majority Leader",
       "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/I_FXm1-VsFY/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:aoBaKIEXYG8",
+        "dateBasis": "publication",
+        "itemId": "aoBaKIEXYG8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=aoBaKIEXYG8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/videos/comments/1xj35id/",
+            "id": "reddit-videos-1xj35id",
+            "kind": "community",
+            "publisher": {
+              "name": "r/videos",
+              "url": "https://www.reddit.com/r/videos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/videos/",
+            "upstreamItemId": "1xj35id",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-10-30T02:07:08Z"
+            }
+          }
+        ],
+        "revision": 35,
+        "sortAt": "2026-10-30T02:07:08Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/videos/comments/1xj35id/",
+      "date_published": "2026-10-30T02:07:08Z",
+      "external_url": "https://www.youtube.com/watch?v=aoBaKIEXYG8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-videos/items/aoBaKIEXYG8/",
+      "image": "https://i.ytimg.com/vi/aoBaKIEXYG8/hqdefault.jpg",
+      "title": "We Went to Nebraska: The Red-State Revolt No One Saw Coming",
+      "url": "https://algoplay.com/retoob-feeds/reddit-videos/items/aoBaKIEXYG8/"
     }
   ],
   "title": "Reddit picks",

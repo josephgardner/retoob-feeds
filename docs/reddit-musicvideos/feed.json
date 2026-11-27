@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-musicvideos",
     "publicationEpoch": "reddit-public-20261106-musicvideos",
-    "revision": 37,
+    "revision": 38,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:9hGdmEwBwbg",
+        "dateBasis": "publication",
+        "itemId": "9hGdmEwBwbg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=9hGdmEwBwbg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y6hdkg/",
+            "id": "reddit-musicvideos-1y6hdkg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y6hdkg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T01:54:13Z"
+            }
+          }
+        ],
+        "revision": 38,
+        "sortAt": "2026-11-27T01:54:13Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y6hdkg/",
+      "date_published": "2026-11-27T01:54:13Z",
+      "external_url": "https://www.youtube.com/watch?v=9hGdmEwBwbg",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/9hGdmEwBwbg/",
+      "image": "https://i.ytimg.com/vi/9hGdmEwBwbg/hqdefault.jpg",
+      "title": "Jonas Brothers - X [latin pop]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/9hGdmEwBwbg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:3mgEEkyDtN4",
+        "dateBasis": "publication",
+        "itemId": "3mgEEkyDtN4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3mgEEkyDtN4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y6egx9/",
+            "id": "reddit-musicvideos-1y6egx9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y6egx9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T23:19:54Z"
+            }
+          }
+        ],
+        "revision": 38,
+        "sortAt": "2026-11-26T23:19:54Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y6egx9/",
+      "date_published": "2026-11-26T23:19:54Z",
+      "external_url": "https://www.youtube.com/watch?v=3mgEEkyDtN4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/3mgEEkyDtN4/",
+      "image": "https://i.ytimg.com/vi/3mgEEkyDtN4/hqdefault.jpg",
+      "title": "Smokie - Oh Carol [70is]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/3mgEEkyDtN4/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:dI3xkL7qUAc",
+        "dateBasis": "publication",
+        "itemId": "dI3xkL7qUAc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=dI3xkL7qUAc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y6dbc1/",
+            "id": "reddit-musicvideos-1y6dbc1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y6dbc1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T22:20:14Z"
+            }
+          }
+        ],
+        "revision": 38,
+        "sortAt": "2026-11-26T22:20:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y6dbc1/",
+      "date_published": "2026-11-26T22:20:14Z",
+      "external_url": "https://www.youtube.com/watch?v=dI3xkL7qUAc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/dI3xkL7qUAc/",
+      "image": "https://i.ytimg.com/vi/dI3xkL7qUAc/hqdefault.jpg",
+      "title": "Doja Cat - Need to know [trap]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/dI3xkL7qUAc/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:4sQkx8giymc",
@@ -20773,129 +20896,6 @@
       "image": "https://i.ytimg.com/vi/kitw359F6Mw/hqdefault.jpg",
       "title": "Shoestring Luxe - October [indie folk][2026]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/kitw359F6Mw/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:z9drOwgPQjg",
-        "dateBasis": "publication",
-        "itemId": "z9drOwgPQjg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=z9drOwgPQjg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xbi4xx/",
-            "id": "reddit-musicvideos-1xbi4xx",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xbi4xx",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-21T09:05:17Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-21T09:05:17Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xbi4xx/",
-      "date_published": "2026-10-21T09:05:17Z",
-      "external_url": "https://www.youtube.com/watch?v=z9drOwgPQjg",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/z9drOwgPQjg/",
-      "image": "https://i.ytimg.com/vi/z9drOwgPQjg/hqdefault.jpg",
-      "title": "Poppykokc - Voltage [Electrohouse][2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/z9drOwgPQjg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:gt951EyCAIc",
-        "dateBasis": "publication",
-        "itemId": "gt951EyCAIc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=gt951EyCAIc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xbhw9f/",
-            "id": "reddit-musicvideos-1xbhw9f",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xbhw9f",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-21T08:50:14Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-21T08:50:14Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xbhw9f/",
-      "date_published": "2026-10-21T08:50:14Z",
-      "external_url": "https://www.youtube.com/watch?v=gt951EyCAIc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/gt951EyCAIc/",
-      "image": "https://i.ytimg.com/vi/gt951EyCAIc/hqdefault.jpg",
-      "title": "Funkydrops - A walk in the park [lo-fi][2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/gt951EyCAIc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:V1EAH3N70gc",
-        "dateBasis": "publication",
-        "itemId": "V1EAH3N70gc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=V1EAH3N70gc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xbhuua/",
-            "id": "reddit-musicvideos-1xbhuua",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xbhuua",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-21T08:47:49Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-21T08:47:49Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xbhuua/",
-      "date_published": "2026-10-21T08:47:49Z",
-      "external_url": "https://www.youtube.com/watch?v=V1EAH3N70gc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/V1EAH3N70gc/",
-      "image": "https://i.ytimg.com/vi/V1EAH3N70gc/hqdefault.jpg",
-      "title": "Funkydrops - Breakfast at Work [lo-fi][2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/V1EAH3N70gc/"
     }
   ],
   "title": "Music videos",

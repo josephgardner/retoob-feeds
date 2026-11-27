@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-deepintoyoutube",
     "publicationEpoch": "reddit-public-20261106-deepintoyoutube",
-    "revision": 41,
+    "revision": 42,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,129 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:68g4ypc8bBM",
+        "dateBasis": "publication",
+        "itemId": "68g4ypc8bBM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=68g4ypc8bBM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y6ofep/",
+            "id": "reddit-deepintoyoutube-1y6ofep",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y6ofep",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T08:44:24Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-27T08:44:24Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y6ofep/",
+      "date_published": "2026-11-27T08:44:24Z",
+      "external_url": "https://www.youtube.com/watch?v=68g4ypc8bBM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/68g4ypc8bBM/",
+      "image": "https://i.ytimg.com/vi/68g4ypc8bBM/hqdefault.jpg",
+      "title": "- YouTube",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/68g4ypc8bBM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:1MTnsS2HiVk",
+        "dateBasis": "publication",
+        "itemId": "1MTnsS2HiVk",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=1MTnsS2HiVk"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y6mu9t/",
+            "id": "reddit-deepintoyoutube-1y6mu9t",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y6mu9t",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T07:03:27Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-27T07:03:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y6mu9t/",
+      "date_published": "2026-11-27T07:03:27Z",
+      "external_url": "https://www.youtube.com/watch?v=1MTnsS2HiVk",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/1MTnsS2HiVk/",
+      "image": "https://i.ytimg.com/vi/1MTnsS2HiVk/hqdefault.jpg",
+      "title": "What",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/1MTnsS2HiVk/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:VIIUetKjblo",
+        "dateBasis": "publication",
+        "itemId": "VIIUetKjblo",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=VIIUetKjblo"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y6evjf/",
+            "id": "reddit-deepintoyoutube-1y6evjf",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y6evjf",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-26T23:41:15Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-26T23:41:15Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y6evjf/",
+      "date_published": "2026-11-26T23:41:15Z",
+      "external_url": "https://www.youtube.com/watch?v=VIIUetKjblo",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/VIIUetKjblo/",
+      "image": "https://i.ytimg.com/vi/VIIUetKjblo/hqdefault.jpg",
+      "title": "TRUMP AND PUTIN , CLINTON STORY Part 2 by CHIEF KOOFFREH TOP USA MUSIC STAR /CHAIRMAN",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/VIIUetKjblo/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:ReWbDgHKIzA",
@@ -20612,129 +20735,6 @@
       "image": "https://i.ytimg.com/vi/itYznSlw68c/hqdefault.jpg",
       "title": "Buck 9 Quick Freestyle only 265 views",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/itYznSlw68c/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:7uvBp_AROMA",
-        "dateBasis": "publication",
-        "itemId": "7uvBp_AROMA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=7uvBp_AROMA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wx65yc/",
-            "id": "reddit-deepintoyoutube-1wx65yc",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wx65yc",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-04T04:01:53Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-04T04:01:53Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wx65yc/",
-      "date_published": "2026-10-04T04:01:53Z",
-      "external_url": "https://www.youtube.com/watch?v=7uvBp_AROMA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/7uvBp_AROMA/",
-      "image": "https://i.ytimg.com/vi/7uvBp_AROMA/hqdefault.jpg",
-      "title": "Brave: El Navegador que se atrevió a desafiar a Google #informatica #internet",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/7uvBp_AROMA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:AgfEaHYOrGc",
-        "dateBasis": "publication",
-        "itemId": "AgfEaHYOrGc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=AgfEaHYOrGc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wx0q3g/",
-            "id": "reddit-deepintoyoutube-1wx0q3g",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wx0q3g",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-03T23:13:32Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-03T23:13:32Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wx0q3g/",
-      "date_published": "2026-10-03T23:13:32Z",
-      "external_url": "https://www.youtube.com/watch?v=AgfEaHYOrGc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/AgfEaHYOrGc/",
-      "image": "https://i.ytimg.com/vi/AgfEaHYOrGc/hqdefault.jpg",
-      "title": "\"Gay Beatles - Episode 1\" (34,111 views, 15 years ago)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/AgfEaHYOrGc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:w6mesfGUyAk",
-        "dateBasis": "publication",
-        "itemId": "w6mesfGUyAk",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=w6mesfGUyAk"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wwxzay/",
-            "id": "reddit-deepintoyoutube-1wwxzay",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wwxzay",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-03T21:04:40Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-03T21:04:40Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wwxzay/",
-      "date_published": "2026-10-03T21:04:40Z",
-      "external_url": "https://www.youtube.com/watch?v=w6mesfGUyAk",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/w6mesfGUyAk/",
-      "image": "https://i.ytimg.com/vi/w6mesfGUyAk/hqdefault.jpg",
-      "title": "Some girl and her androgynous sibling react to gore. 17yrs ago.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/w6mesfGUyAk/"
     }
   ],
   "title": "Deep cuts",
