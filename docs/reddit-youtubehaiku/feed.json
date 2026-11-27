@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 33,
+    "revision": 34,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:BYgNi1e3Cf8",
+        "dateBasis": "publication",
+        "itemId": "BYgNi1e3Cf8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=BYgNi1e3Cf8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y719ai/",
+            "id": "reddit-youtubehaiku-1y719ai",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y719ai",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T19:05:03Z"
+            }
+          }
+        ],
+        "revision": 34,
+        "sortAt": "2026-11-27T19:05:03Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y719ai/",
+      "date_published": "2026-11-27T19:05:03Z",
+      "external_url": "https://www.youtube.com/watch?v=BYgNi1e3Cf8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/BYgNi1e3Cf8/",
+      "image": "https://i.ytimg.com/vi/BYgNi1e3Cf8/hqdefault.jpg",
+      "title": "[Haiku] An Average Scene from Salem's Lot",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/BYgNi1e3Cf8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:YH4xw3iSb6I",
@@ -21078,47 +21119,6 @@
       "image": "https://i.ytimg.com/vi/ujilmYgyUis/hqdefault.jpg",
       "title": "[Haiku] 100% Brain Power",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/ujilmYgyUis/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:5GD17QhQPGI",
-        "dateBasis": "publication",
-        "itemId": "5GD17QhQPGI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=5GD17QhQPGI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rw63hh/",
-            "id": "reddit-youtubehaiku-1rw63hh",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rw63hh",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-17T13:10:18Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-17T13:10:18Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rw63hh/",
-      "date_published": "2026-03-17T13:10:18Z",
-      "external_url": "https://www.youtube.com/watch?v=5GD17QhQPGI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/5GD17QhQPGI/",
-      "image": "https://i.ytimg.com/vi/5GD17QhQPGI/hqdefault.jpg",
-      "title": "[Poetry] Lucky clover seed being planted stop-motion",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/5GD17QhQPGI/"
     }
   ],
   "title": "Quick clips",
