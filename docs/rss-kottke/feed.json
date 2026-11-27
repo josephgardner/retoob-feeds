@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 66,
+    "itemCount": 68,
     "listId": "rss-kottke",
     "publicationEpoch": "rss-kottke-v1",
-    "revision": 17,
+    "revision": 18,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,90 @@
   "feed_url": "https://algoplay.com/retoob-feeds/rss-kottke/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/rss-kottke/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:-XToMWLJEIg",
+        "dateBasis": "publication",
+        "itemId": "-XToMWLJEIg",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=-XToMWLJEIg"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/watch-transformers-the-movie-1986-for-free-this-weekend",
+            "id": "rss-a975207d6ecfc83213b6be524b9d7435",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-27:50069",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T18:00:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-27T18:00:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/watch-transformers-the-movie-1986-for-free-this-weekend. Not a verified endorsement.",
+      "date_published": "2026-11-27T18:00:00Z",
+      "external_url": "https://www.youtube.com/watch?v=-XToMWLJEIg",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/-XToMWLJEIg/",
+      "image": "https://i.ytimg.com/vi/-XToMWLJEIg/hqdefault.jpg",
+      "title": "Watch Transformers: The Movie (1986) for Free This Weekend",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/-XToMWLJEIg/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Rs3xKiooLls",
+        "dateBasis": "publication",
+        "itemId": "Rs3xKiooLls",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Rs3xKiooLls"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://kottke.org/26/11/0050070-behind-the-scenes-teaser-",
+            "id": "rss-a1a968d3c08f8b93d8a3d959f725f301",
+            "kind": "feed",
+            "publisher": {
+              "name": "Kottke",
+              "url": "https://kottke.org/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://kottke.org/",
+            "startSeconds": 0,
+            "upstreamItemId": "tag:kottke.org,2026-11-27:50070",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T16:16:00Z"
+            }
+          }
+        ],
+        "revision": 1,
+        "sortAt": "2026-11-27T16:16:00Z",
+        "version": 1
+      },
+      "content_text": "Imported Kottke mention: https://kottke.org/26/11/0050070-behind-the-scenes-teaser-. Not a verified endorsement.",
+      "date_published": "2026-11-27T16:16:00Z",
+      "external_url": "https://www.youtube.com/watch?v=Rs3xKiooLls",
+      "id": "https://algoplay.com/retoob-feeds/rss-kottke/items/Rs3xKiooLls/",
+      "image": "https://i.ytimg.com/vi/Rs3xKiooLls/hqdefault.jpg",
+      "title": "Bit of a combo behind-the-scenes / teaser trailer for The...",
+      "url": "https://algoplay.com/retoob-feeds/rss-kottke/items/Rs3xKiooLls/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:lN96f4SwJyk",
