@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-damnthatsinteresting",
     "publicationEpoch": "reddit-public-20261106-damnthatsinteresting",
-    "revision": 20,
+    "revision": 21,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,293 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:f728jrcnh94i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-f728jrcnh94i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/f728jrcnh94i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y7aezq/",
+            "id": "reddit-damnthatsinteresting-1y7aezq",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1y7aezq",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T02:08:21Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-28T02:08:21Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y7aezq/",
+      "date_published": "2026-11-28T02:08:21Z",
+      "external_url": "https://v.redd.it/f728jrcnh94i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-f728jrcnh94i1/",
+      "image": "https://external-preview.redd.it/M243a2NlYm5oOTRpMZ1uDRIyepOZ_oQfZU6nyHEJh_354IlIJ3tZAwbqCxeG.jpeg?width=140&height=112&format=jpg&auto=webp&s=bfcc51a4d87c56ebf47215acd5a0a379c9c89094",
+      "title": "The amount of open math problems solved since 1880!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-f728jrcnh94i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:t3khv9r3e94i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-t3khv9r3e94i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/t3khv9r3e94i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y7a1ez/",
+            "id": "reddit-damnthatsinteresting-1y7a1ez",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1y7a1ez",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T01:48:27Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-28T01:48:27Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y7a1ez/",
+      "date_published": "2026-11-28T01:48:27Z",
+      "external_url": "https://v.redd.it/t3khv9r3e94i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-t3khv9r3e94i1/",
+      "image": "https://external-preview.redd.it/ZnMxZmV4cDNlOTRpMcRERXbRgPSE_yf7FAx7hM-PhepYRhbyduOYDZ_qBWLl.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=2e375105b2a39ac80ddf7de49c60141467112acd",
+      "title": "A Superior Mirage bends light in the atmosphere due to temperature differences. Here it makes a cargo vessel appear to float in the air off the coast of the UAE",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-t3khv9r3e94i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:jjf9iuq4794i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-jjf9iuq4794i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/jjf9iuq4794i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y79al9/",
+            "id": "reddit-damnthatsinteresting-1y79al9",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1y79al9",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T01:09:29Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-28T01:09:29Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y79al9/",
+      "date_published": "2026-11-28T01:09:29Z",
+      "external_url": "https://v.redd.it/jjf9iuq4794i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-jjf9iuq4794i1/",
+      "image": "https://external-preview.redd.it/bnZ0amt0azQ3OTRpMbkWKAvzQndJCmRPSOMAB2ALYY0QIf9k-MLY5OLj7LHP.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=0637ca842de4538db2369091f1642d975e407591",
+      "title": "Giant human spotted in the Philippines",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-jjf9iuq4794i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:njlw3inft84i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-njlw3inft84i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/njlw3inft84i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y77p9p/",
+            "id": "reddit-damnthatsinteresting-1y77p9p",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1y77p9p",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T23:53:01Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-27T23:53:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y77p9p/",
+      "date_published": "2026-11-27T23:53:01Z",
+      "external_url": "https://v.redd.it/njlw3inft84i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-njlw3inft84i1/",
+      "image": "https://external-preview.redd.it/NHB4bnZ5bmZ0ODRpMfDxboDjlIxAOMsa1k3fSzncH16uOtV10owToSYpN6zp.png?width=140&height=78&format=jpg&auto=webp&s=969e2aaf3775859a409e0e79f783096bb90ed7a3",
+      "title": "A house in Switzerland is being moved to make space for new buildings",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-njlw3inft84i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:lovefbwgs84i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-lovefbwgs84i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/lovefbwgs84i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y77lru/",
+            "id": "reddit-damnthatsinteresting-1y77lru",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1y77lru",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T23:48:02Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-27T23:48:02Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y77lru/",
+      "date_published": "2026-11-27T23:48:02Z",
+      "external_url": "https://v.redd.it/lovefbwgs84i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-lovefbwgs84i1/",
+      "image": "https://external-preview.redd.it/ZzhjZnRqb2xzODRpMQxWssGTopD6uZSfb9r2uHc80nfPkGzT9TcoHf_U6b2B.png?width=140&height=78&format=jpg&auto=webp&s=0019020365b2b7280f6ab0f95887bfd3a80d5f58",
+      "title": "Dolphins Swimming in Bioluminescence",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-lovefbwgs84i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:ekmojdjd484i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-ekmojdjd484i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/ekmojdjd484i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y74p2n/",
+            "id": "reddit-damnthatsinteresting-1y74p2n",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1y74p2n",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T21:32:49Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-27T21:32:49Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y74p2n/",
+      "date_published": "2026-11-27T21:32:49Z",
+      "external_url": "https://v.redd.it/ekmojdjd484i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-ekmojdjd484i1/",
+      "image": "https://external-preview.redd.it/cGplaWJ6NGQ0ODRpMfp0W8F6yGgbFLa1fWOi6y3jiYRPNYihWXT9czXJ_rdL.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=403ddda4ce29d7b77a46082d1d0b77a8a81a553c",
+      "title": "An Indonesian parkour athlete comes from behind to beat his opponent at the finish line",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-ekmojdjd484i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:s1t52mem184i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-s1t52mem184i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/s1t52mem184i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y74c2x/",
+            "id": "reddit-damnthatsinteresting-1y74c2x",
+            "kind": "community",
+            "publisher": {
+              "name": "r/damnthatsinteresting",
+              "url": "https://www.reddit.com/r/damnthatsinteresting/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
+            "upstreamItemId": "1y74c2x",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T21:16:53Z"
+            }
+          }
+        ],
+        "revision": 21,
+        "sortAt": "2026-11-27T21:16:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y74c2x/",
+      "date_published": "2026-11-27T21:16:53Z",
+      "external_url": "https://v.redd.it/s1t52mem184i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-s1t52mem184i1/",
+      "image": "https://external-preview.redd.it/eHJzNDR0OW0xODRpMe4EicFB2UPVAIC8cQF-Sk05wvYh7gNdg4qpBsOsAkrt.png?width=140&height=78&format=jpg&auto=webp&s=bdcc638c15000ff0c6e969eaf9e97217c3dc4966",
+      "title": "DEEP DISCOVERY🐡 : Scientists recently discovered 57 new marine species and five new genera lurking in the South Atlantic Ocean. Among the key findings was Loki the sea cucumber, a deep-sea echinoderm named for its horned appendages",
+      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-s1t52mem184i1/"
+    },
     {
       "_retoob": {
         "contentKey": "reddit:pmke0wisk74i1",
@@ -137,47 +424,6 @@
     },
     {
       "_retoob": {
-        "contentKey": "reddit:1pzs84n2574i1",
-        "dateBasis": "publication",
-        "itemId": "reddit-1pzs84n2574i1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/1pzs84n2574i1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y70138/",
-            "id": "reddit-damnthatsinteresting-1y70138",
-            "kind": "community",
-            "publisher": {
-              "name": "r/damnthatsinteresting",
-              "url": "https://www.reddit.com/r/damnthatsinteresting/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
-            "upstreamItemId": "1y70138",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-27T18:14:19Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-27T18:14:19Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y70138/",
-      "date_published": "2026-11-27T18:14:19Z",
-      "external_url": "https://v.redd.it/1pzs84n2574i1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-1pzs84n2574i1/",
-      "image": "https://external-preview.redd.it/ZTN2Y3RyZTI1NzRpMY0IVbOQU9HEB2mtm-N8YIJh-P6rRfuW8UK15_Mo-pL-.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=716d7a6e0937f08ff6ef280d493dadf87f05b4ff",
-      "title": "A tractor-trailer was left suspended across an Ohio overpass on Thanksgiving after its driver lost control and the truck jackknifed. No one was injured in the incident.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-1pzs84n2574i1/"
-    },
-    {
-      "_retoob": {
         "contentKey": "reddit:nxkpswql174i1",
         "dateBasis": "publication",
         "itemId": "reddit-nxkpswql174i1",
@@ -216,47 +462,6 @@
       "image": "https://external-preview.redd.it/aG95ZWJva2wxNzRpMbcJ4OkJRCmyxfFOxg-PeFwJCeO25UGfj7842g3Vi_zS.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=7bc02e7fda2e6b3a1b603a007a008be32c7cbce6",
       "title": "Bro get his goal",
       "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-nxkpswql174i1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:2339fremy64i1",
-        "dateBasis": "publication",
-        "itemId": "reddit-2339fremy64i1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/2339fremy64i1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1y6z5x3/",
-            "id": "reddit-damnthatsinteresting-1y6z5x3",
-            "kind": "community",
-            "publisher": {
-              "name": "r/damnthatsinteresting",
-              "url": "https://www.reddit.com/r/damnthatsinteresting/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
-            "upstreamItemId": "1y6z5x3",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-27T17:38:09Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-11-27T17:38:09Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1y6z5x3/",
-      "date_published": "2026-11-27T17:38:09Z",
-      "external_url": "https://v.redd.it/2339fremy64i1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-2339fremy64i1/",
-      "image": "https://external-preview.redd.it/anJ6eXg3OG15NjRpMdiolytRVrtxL6XXnd0nSaCU1_ot6mnTosF11hiA5jVI.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=bde9d4215b01d26415f11e8f5f43962cb670c0a8",
-      "title": "Cargo ship appearing to float above the water due to mirage",
-      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-2339fremy64i1/"
     },
     {
       "_retoob": {
@@ -20214,210 +20419,6 @@
       "image": "https://external-preview.redd.it/M3Q0NGtsMml5dXloMUyrWS_DDdkK9xPg2qd_0r6jqe1nvIrSp9X1Dn1SzEeV.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=c802e803937226bc3bd95b847f2ec01d663cb422",
       "title": "How a printer works",
       "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-wx5c5b2iyuyh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:0m9rpw151uyh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-0m9rpw151uyh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/0m9rpw151uyh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xkf3zx/",
-            "id": "reddit-damnthatsinteresting-1xkf3zx",
-            "kind": "community",
-            "publisher": {
-              "name": "r/damnthatsinteresting",
-              "url": "https://www.reddit.com/r/damnthatsinteresting/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
-            "upstreamItemId": "1xkf3zx",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-31T16:49:04Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-10-31T16:49:04Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xkf3zx/",
-      "date_published": "2026-10-31T16:49:04Z",
-      "external_url": "https://v.redd.it/0m9rpw151uyh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-0m9rpw151uyh1/",
-      "title": "Dutch startup Monumental has developed a team of robots that work together to automate bricklaying. From supplying bricks and mixing mortar to placing each brick. The technology is already being used in real projects in the Netherlands.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-0m9rpw151uyh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:ji13mqtretyh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-ji13mqtretyh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/ji13mqtretyh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xkc02m/",
-            "id": "reddit-damnthatsinteresting-1xkc02m",
-            "kind": "community",
-            "publisher": {
-              "name": "r/damnthatsinteresting",
-              "url": "https://www.reddit.com/r/damnthatsinteresting/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
-            "upstreamItemId": "1xkc02m",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-31T14:43:04Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-10-31T14:43:04Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xkc02m/",
-      "date_published": "2026-10-31T14:43:04Z",
-      "external_url": "https://v.redd.it/ji13mqtretyh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-ji13mqtretyh1/",
-      "image": "https://external-preview.redd.it/YmF1cmJkc3JldHloMb1B7rBsFDdcmJgK5B581QCJzS9qcUNgnZWfzQQNBz_9.jpeg?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=8cc22e9c6d9dcc5bb46f9c2d0d599e36d42de218",
-      "title": "Can Crusher",
-      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-ji13mqtretyh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:1b4s608w7tyh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-1b4s608w7tyh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/1b4s608w7tyh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xkb2yc/",
-            "id": "reddit-damnthatsinteresting-1xkb2yc",
-            "kind": "community",
-            "publisher": {
-              "name": "r/damnthatsinteresting",
-              "url": "https://www.reddit.com/r/damnthatsinteresting/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
-            "upstreamItemId": "1xkb2yc",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-31T14:04:29Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-10-31T14:04:29Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xkb2yc/",
-      "date_published": "2026-10-31T14:04:29Z",
-      "external_url": "https://v.redd.it/1b4s608w7tyh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-1b4s608w7tyh1/",
-      "image": "https://external-preview.redd.it/aTQ3cnlxM3c3dHloMSaPeKsPk817S7uwbYEgBYQMbLVasvKbwQFAsm3d6nFH.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=3cf16d7aafd80df38bbe98a58c8813fd5e092494",
-      "title": "A tie to the third decimal points",
-      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-1b4s608w7tyh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:9eyo4m8h2tyh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-9eyo4m8h2tyh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/9eyo4m8h2tyh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xkadho/",
-            "id": "reddit-damnthatsinteresting-1xkadho",
-            "kind": "community",
-            "publisher": {
-              "name": "r/damnthatsinteresting",
-              "url": "https://www.reddit.com/r/damnthatsinteresting/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
-            "upstreamItemId": "1xkadho",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-31T13:34:12Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-10-31T13:34:12Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xkadho/",
-      "date_published": "2026-10-31T13:34:12Z",
-      "external_url": "https://v.redd.it/9eyo4m8h2tyh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-9eyo4m8h2tyh1/",
-      "image": "https://external-preview.redd.it/OXJuMWhyOGgydHloMahllrg1wjdRogeWiijAI2VEwvr8Sst3eL4KjbEP5XDi.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=9a3f74c1e29962ca3c5f60b3054b3a4100fcee6d",
-      "title": "Not what you wished for while booking.",
-      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-9eyo4m8h2tyh1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "reddit:n7pxu6physyh1",
-        "dateBasis": "publication",
-        "itemId": "reddit-n7pxu6physyh1",
-        "playback": {
-          "mimeType": "application/dash+xml",
-          "mode": "direct",
-          "startSeconds": 0,
-          "url": "https://v.redd.it/n7pxu6physyh1/DASHPlaylist.mpd"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/damnthatsinteresting/comments/1xk9uzb/",
-            "id": "reddit-damnthatsinteresting-1xk9uzb",
-            "kind": "community",
-            "publisher": {
-              "name": "r/damnthatsinteresting",
-              "url": "https://www.reddit.com/r/damnthatsinteresting/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/damnthatsinteresting/",
-            "upstreamItemId": "1xk9uzb",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-31T13:11:50Z"
-            }
-          }
-        ],
-        "revision": 20,
-        "sortAt": "2026-10-31T13:11:50Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/damnthatsinteresting/comments/1xk9uzb/",
-      "date_published": "2026-10-31T13:11:50Z",
-      "external_url": "https://v.redd.it/n7pxu6physyh1",
-      "id": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-n7pxu6physyh1/",
-      "image": "https://external-preview.redd.it/aG4xeG1wbGh5c3loMYlfdRBvb6nqOnNQ8iE-5o7TOQq37M0dKtwuesHR6EUp.png?width=140&height=140&crop=1%3A1%2Csmart&format=jpg&auto=webp&s=7e008e6424b3fe65902a08cbb1eb6d081ec8c33a",
-      "title": "Pilot's POV of flying a stunt plane",
-      "url": "https://algoplay.com/retoob-feeds/reddit-damnthatsinteresting/items/reddit-n7pxu6physyh1/"
     }
   ],
   "title": "That's interesting",

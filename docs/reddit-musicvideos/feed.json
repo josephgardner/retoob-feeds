@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-musicvideos",
     "publicationEpoch": "reddit-public-20261106-musicvideos",
-    "revision": 39,
+    "revision": 40,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:zf8noTyZAXc",
+        "dateBasis": "publication",
+        "itemId": "zf8noTyZAXc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zf8noTyZAXc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y771v1/",
+            "id": "reddit-musicvideos-1y771v1",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y771v1",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T23:21:01Z"
+            }
+          }
+        ],
+        "revision": 40,
+        "sortAt": "2026-11-27T23:21:01Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y771v1/",
+      "date_published": "2026-11-27T23:21:01Z",
+      "external_url": "https://www.youtube.com/watch?v=zf8noTyZAXc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zf8noTyZAXc/",
+      "image": "https://i.ytimg.com/vi/zf8noTyZAXc/hqdefault.jpg",
+      "title": "Stranded Alien - 500 Years [synth]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zf8noTyZAXc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:OwP6U0LRzQM",
+        "dateBasis": "publication",
+        "itemId": "OwP6U0LRzQM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=OwP6U0LRzQM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y76eas/",
+            "id": "reddit-musicvideos-1y76eas",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y76eas",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-27T22:50:39Z"
+            }
+          }
+        ],
+        "revision": 40,
+        "sortAt": "2026-11-27T22:50:39Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y76eas/",
+      "date_published": "2026-11-27T22:50:39Z",
+      "external_url": "https://www.youtube.com/watch?v=OwP6U0LRzQM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/OwP6U0LRzQM/",
+      "image": "https://i.ytimg.com/vi/OwP6U0LRzQM/hqdefault.jpg",
+      "title": "Conor Maynard - turn around [synth pop]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/OwP6U0LRzQM/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:KcF_OBoG9q0",
@@ -134,47 +216,6 @@
       "image": "https://i.ytimg.com/vi/IAM1cN5RDec/hqdefault.jpg",
       "title": "JC Ann - Summer on the Moon [pop] (2026)",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/IAM1cN5RDec/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:E1QalKppMuo",
-        "dateBasis": "publication",
-        "itemId": "E1QalKppMuo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=E1QalKppMuo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y6xrg7/",
-            "id": "reddit-musicvideos-1y6xrg7",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1y6xrg7",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-27T16:41:51Z"
-            }
-          }
-        ],
-        "revision": 39,
-        "sortAt": "2026-11-27T16:41:51Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y6xrg7/",
-      "date_published": "2026-11-27T16:41:51Z",
-      "external_url": "https://www.youtube.com/watch?v=E1QalKppMuo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/E1QalKppMuo/",
-      "image": "https://i.ytimg.com/vi/E1QalKppMuo/hqdefault.jpg",
-      "title": "The Tensions - Surfin' The Coffin [garage-punk-rock]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/E1QalKppMuo/"
     },
     {
       "_retoob": {
@@ -20857,47 +20898,6 @@
       "image": "https://i.ytimg.com/vi/lishSY71qAA/hqdefault.jpg",
       "title": "fencah - Wiser and Older [Indie Pop] [2026]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/lishSY71qAA/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:xLF3IV9pWzI",
-        "dateBasis": "publication",
-        "itemId": "xLF3IV9pWzI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=xLF3IV9pWzI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xcyb4w/",
-            "id": "reddit-musicvideos-1xcyb4w",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xcyb4w",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-22T23:34:26Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-22T23:34:26Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xcyb4w/",
-      "date_published": "2026-10-22T23:34:26Z",
-      "external_url": "https://www.youtube.com/watch?v=xLF3IV9pWzI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/xLF3IV9pWzI/",
-      "image": "https://i.ytimg.com/vi/xLF3IV9pWzI/hqdefault.jpg",
-      "title": "Mr Pigeons - Mountain Moss [Indie Rap] (2026)",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/xLF3IV9pWzI/"
     }
   ],
   "title": "Music videos",

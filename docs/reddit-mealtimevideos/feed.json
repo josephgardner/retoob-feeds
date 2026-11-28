@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-mealtimevideos",
     "publicationEpoch": "reddit-public-20261106-mealtimevideos",
-    "revision": 23,
+    "revision": 24,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:3zeDMSd7mn8",
+        "dateBasis": "publication",
+        "itemId": "3zeDMSd7mn8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=3zeDMSd7mn8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1y78vze/",
+            "id": "reddit-mealtimevideos-1y78vze",
+            "kind": "community",
+            "publisher": {
+              "name": "r/mealtimevideos",
+              "url": "https://www.reddit.com/r/mealtimevideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
+            "upstreamItemId": "1y78vze",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T00:48:47Z"
+            }
+          }
+        ],
+        "revision": 24,
+        "sortAt": "2026-11-28T00:48:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1y78vze/",
+      "date_published": "2026-11-28T00:48:47Z",
+      "external_url": "https://www.youtube.com/watch?v=3zeDMSd7mn8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/3zeDMSd7mn8/",
+      "image": "https://i.ytimg.com/vi/3zeDMSd7mn8/hqdefault.jpg",
+      "title": "Everything obesity does to your body [9:09]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/3zeDMSd7mn8/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:s1sdlRQbG7Q",
@@ -20982,47 +21023,6 @@
       "image": "https://i.ytimg.com/vi/Zihx7GkWxNU/hqdefault.jpg",
       "title": "Are you a future pedophile? (Êtes-vous un futur pédophile ?) [9:39]",
       "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/Zihx7GkWxNU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:pauBYSQ1K_c",
-        "dateBasis": "publication",
-        "itemId": "pauBYSQ1K_c",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=pauBYSQ1K_c"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/mealtimevideos/comments/1wk2zqm/",
-            "id": "reddit-mealtimevideos-1wk2zqm",
-            "kind": "community",
-            "publisher": {
-              "name": "r/mealtimevideos",
-              "url": "https://www.reddit.com/r/mealtimevideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/mealtimevideos/",
-            "upstreamItemId": "1wk2zqm",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-18T21:27:14Z"
-            }
-          }
-        ],
-        "revision": 11,
-        "sortAt": "2026-09-18T21:27:14Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/mealtimevideos/comments/1wk2zqm/",
-      "date_published": "2026-09-18T21:27:14Z",
-      "external_url": "https://www.youtube.com/watch?v=pauBYSQ1K_c",
-      "id": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/pauBYSQ1K_c/",
-      "image": "https://i.ytimg.com/vi/pauBYSQ1K_c/hqdefault.jpg",
-      "title": "The problem with \"AI whistleblowers\" [13:22]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-mealtimevideos/items/pauBYSQ1K_c/"
     }
   ],
   "title": "Mealtime videos",

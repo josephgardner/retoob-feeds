@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 41,
+    "revision": 42,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:s35o3bscyYM",
+        "dateBasis": "publication",
+        "itemId": "s35o3bscyYM",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=s35o3bscyYM"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y79e4z/",
+            "id": "reddit-documentaries-1y79e4z",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y79e4z",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T01:14:43Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T01:14:43Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y79e4z/",
+      "date_published": "2026-11-28T01:14:43Z",
+      "external_url": "https://www.youtube.com/watch?v=s35o3bscyYM",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/s35o3bscyYM/",
+      "image": "https://i.ytimg.com/vi/s35o3bscyYM/hqdefault.jpg",
+      "title": "$15B Bitcoin Heist Nobody Reported  (2026) [0:12:02]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/s35o3bscyYM/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zFbHOH1wPA4",
+        "dateBasis": "publication",
+        "itemId": "zFbHOH1wPA4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zFbHOH1wPA4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y78zfp/",
+            "id": "reddit-documentaries-1y78zfp",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y78zfp",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T00:53:47Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T00:53:47Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y78zfp/",
+      "date_published": "2026-11-28T00:53:47Z",
+      "external_url": "https://www.youtube.com/watch?v=zFbHOH1wPA4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/zFbHOH1wPA4/",
+      "image": "https://i.ytimg.com/vi/zFbHOH1wPA4/hqdefault.jpg",
+      "title": "Kyiv Independent",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/zFbHOH1wPA4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:EwuU_MXXdBI",
@@ -21821,88 +21903,6 @@
       "image": "https://i.ytimg.com/vi/Fo12XC9xuWg/hqdefault.jpg",
       "title": "Aftermath (1967) - UNRWA documentary filmed in Jordan following the Six-Day War, documenting the displacement of Palestinians and the refugee camps established after the 1967 exodus [00:28:00]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Fo12XC9xuWg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:EBdXc0y09eU",
-        "dateBasis": "publication",
-        "itemId": "EBdXc0y09eU",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=EBdXc0y09eU"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w4j9nt/",
-            "id": "reddit-documentaries-1w4j9nt",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1w4j9nt",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-01T17:46:31Z"
-            }
-          }
-        ],
-        "revision": 10,
-        "sortAt": "2026-09-01T17:46:31Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w4j9nt/",
-      "date_published": "2026-09-01T17:46:31Z",
-      "external_url": "https://www.youtube.com/watch?v=EBdXc0y09eU",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/EBdXc0y09eU/",
-      "image": "https://i.ytimg.com/vi/EBdXc0y09eU/hqdefault.jpg",
-      "title": "Chronically Yours (2026) - A documentary about dating with Multiple Sclerosis [00:22:35]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/EBdXc0y09eU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:h9_AUgE9128",
-        "dateBasis": "publication",
-        "itemId": "h9_AUgE9128",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=h9_AUgE9128"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w4hsuz/",
-            "id": "reddit-documentaries-1w4hsuz",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1w4hsuz",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-01T16:56:17Z"
-            }
-          }
-        ],
-        "revision": 10,
-        "sortAt": "2026-09-01T16:56:17Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w4hsuz/",
-      "date_published": "2026-09-01T16:56:17Z",
-      "external_url": "https://www.youtube.com/watch?v=h9_AUgE9128",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/h9_AUgE9128/",
-      "image": "https://i.ytimg.com/vi/h9_AUgE9128/hqdefault.jpg",
-      "title": "The original film Nazi Concentration Camps 1945 filmed to show and proof the crimes of the NS-Regime(very brutal footage pls take care of yourself❤️)it was piece of evidence in the Nürnberger Process",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/h9_AUgE9128/"
     }
   ],
   "title": "Documentaries",
