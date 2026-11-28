@@ -1,4 +1,4 @@
-"""Profile B draft exporter and checks for the bounded Reddit pilot."""
+"""Profile B draft exporter and validation for published connector snapshots."""
 import copy
 from datetime import datetime
 from urllib.parse import urlsplit
@@ -6,11 +6,42 @@ from urllib.parse import urlsplit
 PROFILE = 'b-draft-1'
 
 
-def https_url(value):
+CARD_FIELDS = {
+    'creator': 'creator', 'sortAt': 'sort_at', 'dateBasis': 'date_basis',
+    'durationSeconds': 'duration_seconds', 'mediaPublishedAt': 'media_published_at',
+}
+RECOMMENDATION_FIELDS = {
+    'kind': 'kind', 'note': 'note', 'recommendedAt': 'published_at',
+    'createdAt': 'created_at', 'sourceUrl': 'source_url', 'discussionUrl': 'discussion_url',
+    'upstreamItemId': 'upstream_id', 'upstreamPublishedAt': 'source_date',
+    'dateUntrusted': 'date_untrusted', 'startSeconds': 'start_seconds',
+}
+
+
+def nonnegative_integer(value):
+    if type(value) is not int or not 0 <= value <= 2147483647:
+        raise ValueError('Expected a bounded nonnegative integer')
+
+
+def partial_date(value):
+    precision, raw = value['precision'], text(value['value'])
+    if precision == 'exact':
+        date(raw)
+    elif precision == 'day':
+        datetime.strptime(raw, '%Y-%m-%d')
+    elif precision == 'month':
+        datetime.strptime(raw, '%Y-%m')
+    elif precision == 'year':
+        datetime.strptime(raw, '%Y')
+    else:
+        raise ValueError('Unsupported source date precision')
+
+
+def https_url(value, allow_fragment=False):
     if not isinstance(value, str):
         raise ValueError('Expected an HTTPS URL')
     url = urlsplit(value)
-    if url.scheme != 'https' or not url.hostname or url.username or url.password or url.fragment:
+    if url.scheme != 'https' or not url.hostname or url.username or url.password or (url.fragment and not allow_fragment):
         raise ValueError('Expected an HTTPS URL without credentials or a fragment')
     return value
 
@@ -22,7 +53,6 @@ def text(value):
 
 
 def date(value):
-    datetime.fromisoformat(value.replace('Z', '+00:00')).utcoffset()
     if datetime.fromisoformat(value.replace('Z', '+00:00')).tzinfo is None:
         raise ValueError('Expected an RFC 3339 date with timezone')
 
@@ -52,16 +82,35 @@ def validate(feed):
                 date(item[field])
         if 'image' in item:
             https_url(item['image'])
+        if profile.get('creator') is not None:
+            text(profile['creator']['name'])
+            if 'url' in profile['creator']:
+                https_url(profile['creator']['url'])
+        for field in ('sort_at', 'media_published_at'):
+            if profile.get(field) is not None:
+                date(profile[field])
+        if 'date_basis' in profile:
+            if profile['date_basis'] not in ('publication', 'recommendation', 'import', 'unknown'):
+                raise ValueError('Unsupported date basis')
+            if (profile.get('sort_at') is None) != (profile['date_basis'] == 'unknown'):
+                raise ValueError('Date basis and listed date disagree')
+        if 'duration_seconds' in profile:
+            nonnegative_integer(profile['duration_seconds'])
         playback = profile['playback']
+        if 'start_seconds' in playback:
+            nonnegative_integer(playback['start_seconds'])
         if playback['mode'] == 'direct':
             attachments = item['attachments']
             if len(attachments) != 1 or attachments[0]['mime_type'] not in (
                     'video/mp4', 'application/dash+xml', 'application/vnd.apple.mpegurl', 'application/x-mpegurl'):
                 raise ValueError('Unsupported direct attachment')
             https_url(attachments[0]['url'])
-        elif playback['mode'] == 'external':
-            text(playback['provider'])
+        elif playback['mode'] in ('external', 'web'):
+            if playback['mode'] == 'external':
+                text(playback['provider'])
             https_url(item['external_url'])
+        elif playback['mode'] == 'unavailable':
+            text(playback.get('reason', 'Unavailable'))
         else:
             raise ValueError('Unsupported playback mode')
         occurrences = profile.get('recommendations', [])
@@ -70,56 +119,62 @@ def validate(feed):
         rec_ids = set()
         for rec in occurrences:
             rec_id = text(rec['id'])
-            if rec_id in rec_ids or rec['basis'] not in ('mention', 'explicit'):
+            if rec_id in rec_ids or rec['basis'] not in ('mention', 'explicit', 'inferred', 'unknown'):
                 raise ValueError('Invalid recommendation identity or basis')
             rec_ids.add(rec_id)
-            if 'source_url' in rec:
-                https_url(rec['source_url'])
-            if 'published_at' in rec:
-                date(rec['published_at'])
+            for field in ('source_url', 'discussion_url', 'attribution_url'):
+                if field in rec:
+                    https_url(rec[field], allow_fragment=True)
+            for field in ('published_at', 'created_at'):
+                if field in rec:
+                    date(rec[field])
+            if 'source_date' in rec:
+                partial_date(rec['source_date'])
+            if 'start_seconds' in rec:
+                nonnegative_integer(rec['start_seconds'])
+            if 'date_untrusted' in rec and type(rec['date_untrusted']) is not bool:
+                raise ValueError('Expected a boolean source-date trust marker')
             for field in ('note', 'attributed_to'):
                 if field in rec and not isinstance(rec[field], str):
                     raise ValueError('Expected descriptive text')
 
 
-def reddit_feed(source, feed_url):
-    """Adapt existing published Reddit data without collecting another upstream."""
-    if source['_retoob']['listId'] != 'reddit-videos':
-        raise ValueError('Pilot is limited to the r/videos source')
-    result = {key: copy.deepcopy(source[key]) for key in ('version', 'title', 'home_page_url', 'description')}
+def convert_feed(source, feed_url):
+    """Adapt an accepted publication without collecting another upstream."""
+    result = {key: copy.deepcopy(source[key]) for key in ('version', 'title', 'home_page_url', 'description') if key in source}
     result.update(feed_url=feed_url, _retoob={'profile': PROFILE}, items=[])
     for original in source['items']:
         old = original['_retoob']
         playback = old['playback']
-        if playback.get('startSeconds', 0) != 0:
-            raise ValueError('Draft does not represent playback offsets')
         item = {key: copy.deepcopy(original[key]) for key in
                 ('title', 'url', 'content_text', 'image', 'date_published', 'date_modified') if key in original}
         item['id'] = old['itemId']
         profile = {'media_id': old['contentKey'], 'playback': {'mode': playback['mode']}, 'recommendations': []}
         item['_retoob'] = profile
+        for old_name, new_name in CARD_FIELDS.items():
+            if old_name in old:
+                profile[new_name] = copy.deepcopy(old[old_name])
+        for old_name, new_name in (('startSeconds', 'start_seconds'), ('reason', 'reason')):
+            if old_name in playback:
+                profile['playback'][new_name] = playback[old_name]
         if playback['mode'] == 'direct':
             item['attachments'] = [{'url': playback['url'], 'mime_type': playback['mimeType']}]
         elif playback['mode'] == 'external':
             profile['playback']['provider'] = playback['provider']
             item['external_url'] = playback['url']
-        else:
+        elif playback['mode'] == 'web':
+            item['external_url'] = playback['url']
+        elif playback['mode'] != 'unavailable':
             raise ValueError('Cannot export an unsupported playback mode')
         for occurrence in old['recommendations']:
-            if occurrence.get('startSeconds', 0) != 0:
-                raise ValueError('Draft does not represent recommendation offsets')
             rec = {'id': occurrence['id'], 'basis': occurrence['recommendationBasis']}
-            for key, field in (('note', 'note'), ('recommendedAt', 'published_at')):
-                if key in occurrence:
-                    rec[field] = occurrence[key]
-            if occurrence.get('publisher', {}).get('name'):
+            for old_name, new_name in RECOMMENDATION_FIELDS.items():
+                if old_name in occurrence:
+                    rec[new_name] = copy.deepcopy(occurrence[old_name])
+            if occurrence.get('publisher'):
                 rec['attributed_to'] = occurrence['publisher']['name']
-            source_url = occurrence.get('discussionUrl') or occurrence.get('sourceUrl')
-            if source_url:
-                rec['source_url'] = source_url
-            upstream = occurrence.get('upstreamPublishedAt', {})
-            if 'published_at' not in rec and upstream.get('precision') == 'exact':
-                rec['published_at'] = upstream['value']
+                if occurrence['publisher'].get('url'):
+                    rec['attribution_url'] = occurrence['publisher']['url']
             profile['recommendations'].append(rec)
         result['items'].append(item)
     validate(result)

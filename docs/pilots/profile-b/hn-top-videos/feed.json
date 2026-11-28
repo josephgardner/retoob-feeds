@@ -1,0 +1,48 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Top on HN",
+  "home_page_url": "https://algoplay.com/retoob-feeds/hn-top-videos/",
+  "description": "YouTube links in the current HN top discovery window (up to 500 stories), ordered by submission date. Imported mentions, not curator endorsements. Refreshed every 6 hours; not a complete video archive.",
+  "feed_url": "https://algoplay.com/retoob-feeds/pilots/profile-b/hn-top-videos/feed.json",
+  "_retoob": {
+    "profile": "b-draft-1"
+  },
+  "items": [
+    {
+      "title": "Bill Hicks on Marketing",
+      "url": "https://algoplay.com/retoob-feeds/hn-top-videos/items/tHEOGrkhDp0/",
+      "content_text": "Imported Hacker News mention: https://news.ycombinator.com/item?id=50661639. Not a verified endorsement.",
+      "image": "https://i.ytimg.com/vi/tHEOGrkhDp0/hqdefault.jpg",
+      "date_published": "2026-11-27T01:12:40Z",
+      "id": "tHEOGrkhDp0",
+      "_retoob": {
+        "media_id": "youtube:tHEOGrkhDp0",
+        "playback": {
+          "mode": "external",
+          "start_seconds": 0,
+          "provider": "youtube"
+        },
+        "recommendations": [
+          {
+            "id": "hn-50661639",
+            "basis": "mention",
+            "kind": "community",
+            "source_url": "https://news.ycombinator.com/",
+            "discussion_url": "https://news.ycombinator.com/item?id=50661639",
+            "upstream_id": "50661639",
+            "source_date": {
+              "precision": "exact",
+              "value": "2026-11-27T01:12:40Z"
+            },
+            "start_seconds": 0,
+            "attributed_to": "Hacker News",
+            "attribution_url": "https://news.ycombinator.com/"
+          }
+        ],
+        "sort_at": "2026-11-27T01:12:40Z",
+        "date_basis": "publication"
+      },
+      "external_url": "https://www.youtube.com/watch?v=tHEOGrkhDp0"
+    }
+  ]
+}

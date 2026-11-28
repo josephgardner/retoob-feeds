@@ -4,24 +4,24 @@
   "feeds": [
     {
       "title": "Hallway: Game development",
-      "url": "https://algoplay.com/retoob-feeds/hallway-games/feed.json",
+      "url": "https://algoplay.com/retoob-feeds/pilots/profile-b/hallway-games/feed.json",
       "home": "https://algoplay.com/retoob-feeds/hallway-games/",
       "itemCount": 50,
-      "revision": 1
+      "replaces_url": "https://algoplay.com/retoob-feeds/hallway-games/feed.json"
     },
     {
       "title": "Hallway: Graphics & audio",
-      "url": "https://algoplay.com/retoob-feeds/hallway-graphics/feed.json",
+      "url": "https://algoplay.com/retoob-feeds/pilots/profile-b/hallway-graphics/feed.json",
       "home": "https://algoplay.com/retoob-feeds/hallway-graphics/",
       "itemCount": 50,
-      "revision": 1
+      "replaces_url": "https://algoplay.com/retoob-feeds/hallway-graphics/feed.json"
     },
     {
       "title": "Hallway: Hardware",
-      "url": "https://algoplay.com/retoob-feeds/hallway-hardware/feed.json",
+      "url": "https://algoplay.com/retoob-feeds/pilots/profile-b/hallway-hardware/feed.json",
       "home": "https://algoplay.com/retoob-feeds/hallway-hardware/",
       "itemCount": 50,
-      "revision": 1
+      "replaces_url": "https://algoplay.com/retoob-feeds/hallway-hardware/feed.json"
     }
   ]
 }

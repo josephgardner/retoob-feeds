@@ -12,7 +12,8 @@
       "items": {"oneOf": [
         {"$ref": "#/$defs/url"},
         {"type": "object", "required": ["url"], "properties": {
-          "url": {"$ref": "#/$defs/url"}, "title": {"type": "string", "maxLength": 512}
+          "url": {"$ref": "#/$defs/url"}, "title": {"type": "string", "maxLength": 512},
+          "replaces_url": {"$ref": "#/$defs/url"}
         }}
       ]}
     }
