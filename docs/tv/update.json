@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.algoplay.retoob",
-  "versionCode": 12,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.6.0-preview.1/retoob-tv-0.6.0-preview.1.apk",
+  "versionCode": 13,
+  "versionName": "0.6.1",
+  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.6.1-preview.1/retoob-tv-0.6.1-preview.1.apk",
   "size": 3011834,
-  "sha256": "43fe2be4def3cc88e59dc6e6552b7f63f7be337c30bcbc85d7d726bf04230f7c",
-  "notes": "Retoob TV 0.6.0 preview 1\n\nHome shows individual feed shelves. Choose the See all card at the end of a shelf to open its complete list. Home, Feeds and full lists share the same left navigation and video cards.\n\nHold OK on a video for sources and notes. Supported YouTube links can supply a thumbnail when the feed omits one. Other missing artwork uses a quiet video placeholder.\n\nManage feeds keeps focus while opening its list. Refresh feeds stays in Settings and shows progress. Update dialog actions stay outside the scrolling message.\n\nAdds the optional Profile B draft reader alongside existing feeds. Try the hosted Reddit pilot by adding this URL:\nhttps://algoplay.com/retoob-feeds/pilots/profile-b/reddit-videos/feed.json\n\nThe pilot follows the existing r/videos connector and is updated by its scheduled publisher. It is an experiment and can be subscribed separately.\n\nInstall over the existing signed Retoob preview."
+  "sha256": "6b274b4f003696bda3c01f1e2372ffc59e508adc3404e8fb656ee8ffb62b7cb2",
+  "notes": "Retoob TV 0.6.1 preview 1\n\nThe default Algoplay collection now uses Profile B for all connector feeds. The publishers retain each source's video order, playback URLs, creator metadata, notes and distinct source occurrences.\n\nThe reader preserves exact, partial and unknown source dates, separate recommendation dates, and playback offsets. Attribution links can retain fragments such as GitHub line references.\n\nCollection replacements carry hidden choices, saved card selection and direct subscription ownership to the B URLs. Already-followed replacements appear once. Hidden feeds remain individually restorable in Manage feeds.\n\nInstall over the existing signed preview. Existing direct feed URLs remain available."
 }
