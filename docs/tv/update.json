@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.algoplay.retoob",
-  "versionCode": 13,
-  "versionName": "0.6.1",
-  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.6.1-preview.1/retoob-tv-0.6.1-preview.1.apk",
+  "versionCode": 14,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.7.0-preview.1/retoob-tv-0.7.0-preview.1.apk",
   "size": 3011834,
-  "sha256": "6b274b4f003696bda3c01f1e2372ffc59e508adc3404e8fb656ee8ffb62b7cb2",
-  "notes": "Retoob TV 0.6.1 preview 1\n\nThe default Algoplay collection now uses Profile B for all connector feeds. The publishers retain each source's video order, playback URLs, creator metadata, notes and distinct source occurrences.\n\nThe reader preserves exact, partial and unknown source dates, separate recommendation dates, and playback offsets. Attribution links can retain fragments such as GitHub line references.\n\nCollection replacements carry hidden choices, saved card selection and direct subscription ownership to the B URLs. Already-followed replacements appear once. Hidden feeds remain individually restorable in Manage feeds.\n\nInstall over the existing signed preview. Existing direct feed URLs remain available."
+  "sha256": "75b0f9a2e9166704200a6d22b0a39a78f65994f1a66cb2bb2442a239e417f456",
+  "notes": "Retoob TV 0.7.0 preview 1\n\nThe Bauhaus redesign brings a geometric yellow e, orange RSS arc and blue dot to the Retoob wordmark, launcher and TV banner. TV screens use cream text on charcoal with clear yellow focus.\n\nHome shelves, See all cards, the feed selector, Settings, source notes, Family pairing and update screens share the refreshed presentation. Feed subscriptions, hidden choices, saved positions and playback behavior are preserved.\n\nInstall over the existing signed preview. This update includes the all-feed Profile B reader from 0.6.1."
 }
