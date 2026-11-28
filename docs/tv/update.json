@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.algoplay.retoob",
-  "versionCode": 11,
-  "versionName": "0.5.3",
-  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.5.3-preview.1/retoob-tv-0.5.3-preview.1.apk",
+  "versionCode": 12,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/josephgardner/retoob-feeds/releases/download/tv-v0.6.0-preview.1/retoob-tv-0.6.0-preview.1.apk",
   "size": 3011834,
-  "sha256": "446138ef4009bf66bd5480054d8ba09fc673ec7729c58b4452d3e3304bfa317e",
-  "notes": "Retoob TV 0.5.3 preview 1\n\nFix scrolling lag when holding Right on the Latest videos Home shelf. Home now reuses its shelf data during focus and preview saves instead of repeatedly rebuilding every shelf and rescanning feed dates.\n\nHome constructs only the newest 20 unique combined cards with a per-feed cursor merge. View all expands to the newest 500 only when opened, while retaining every selected video’s source mentions.\n\nCold-start previews, newly loaded feed content, hidden-feed changes and withdrawals still update the shelves correctly. Existing feed order, subscriptions, hidden choices, Family pairing and playback behavior are preserved.\n\nIsolated test builds are clearly labelled and cannot offer incompatible production updates. Use the regular Retoob app for the signed release channel.\n\nBoth build variants pass 148 unit tests and Android lint. A short physical-TV diagnostic showed shorter input-to-focus-draw times on Latest videos; broad device/performance verification remains ongoing.\n\nInstall over the existing signed preview without uninstalling."
+  "sha256": "43fe2be4def3cc88e59dc6e6552b7f63f7be337c30bcbc85d7d726bf04230f7c",
+  "notes": "Retoob TV 0.6.0 preview 1\n\nHome shows individual feed shelves. Choose the See all card at the end of a shelf to open its complete list. Home, Feeds and full lists share the same left navigation and video cards.\n\nHold OK on a video for sources and notes. Supported YouTube links can supply a thumbnail when the feed omits one. Other missing artwork uses a quiet video placeholder.\n\nManage feeds keeps focus while opening its list. Refresh feeds stays in Settings and shows progress. Update dialog actions stay outside the scrolling message.\n\nAdds the optional Profile B draft reader alongside existing feeds. Try the hosted Reddit pilot by adding this URL:\nhttps://algoplay.com/retoob-feeds/pilots/profile-b/reddit-videos/feed.json\n\nThe pilot follows the existing r/videos connector and is updated by its scheduled publisher. It is an experiment and can be subscribed separately.\n\nInstall over the existing signed Retoob preview."
 }
