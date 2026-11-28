@@ -7,7 +7,7 @@ import time
 import urllib.request
 
 root = pathlib.Path(sys.argv[1])
-pending = {path: json.loads(path.read_text()) for path in sorted(root.glob('*/feed.json'))}
+pending = {path: json.loads(path.read_text()) for path in sorted(root.rglob('feed.json'))}
 deadline = time.monotonic() + 300
 for attempt in range(10):
     for path, expected in list(pending.items()):
