@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-youtubehaiku",
     "publicationEpoch": "reddit-public-20261106-youtubehaiku",
-    "revision": 35,
+    "revision": 36,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:rBK_j07agP0",
+        "dateBasis": "publication",
+        "itemId": "rBK_j07agP0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=rBK_j07agP0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1y7scqz/",
+            "id": "reddit-youtubehaiku-1y7scqz",
+            "kind": "community",
+            "publisher": {
+              "name": "r/youtubehaiku",
+              "url": "https://www.reddit.com/r/youtubehaiku/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
+            "upstreamItemId": "1y7scqz",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T18:05:19Z"
+            }
+          }
+        ],
+        "revision": 36,
+        "sortAt": "2026-11-28T18:05:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1y7scqz/",
+      "date_published": "2026-11-28T18:05:19Z",
+      "external_url": "https://www.youtube.com/watch?v=rBK_j07agP0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/rBK_j07agP0/",
+      "image": "https://i.ytimg.com/vi/rBK_j07agP0/hqdefault.jpg",
+      "title": "[Poetry] Picking a Winner!",
+      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/rBK_j07agP0/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:Apeq0rkVKUk",
@@ -21078,47 +21119,6 @@
       "image": "https://i.ytimg.com/vi/0SMK3j0fxvc/hqdefault.jpg",
       "title": "[Haiku] After 4 years and >$77 billion spent, this will Metaverse's legacy",
       "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/0SMK3j0fxvc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:DWnPfR-u754",
-        "dateBasis": "publication",
-        "itemId": "DWnPfR-u754",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=DWnPfR-u754"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/youtubehaiku/comments/1rwgevl/",
-            "id": "reddit-youtubehaiku-1rwgevl",
-            "kind": "community",
-            "publisher": {
-              "name": "r/youtubehaiku",
-              "url": "https://www.reddit.com/r/youtubehaiku/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/youtubehaiku/",
-            "upstreamItemId": "1rwgevl",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-03-17T19:19:06Z"
-            }
-          }
-        ],
-        "revision": 5,
-        "sortAt": "2026-03-17T19:19:06Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/youtubehaiku/comments/1rwgevl/",
-      "date_published": "2026-03-17T19:19:06Z",
-      "external_url": "https://www.youtube.com/watch?v=DWnPfR-u754",
-      "id": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/DWnPfR-u754/",
-      "image": "https://i.ytimg.com/vi/DWnPfR-u754/hqdefault.jpg",
-      "title": "[Haiku] Everybody Get Up!",
-      "url": "https://algoplay.com/retoob-feeds/reddit-youtubehaiku/items/DWnPfR-u754/"
     }
   ],
   "title": "Quick clips",

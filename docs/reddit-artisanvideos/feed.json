@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-artisanvideos",
     "publicationEpoch": "reddit-public-20261106-artisanvideos",
-    "revision": 18,
+    "revision": 19,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,46 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:p2wsvv61ea4i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-p2wsvv61ea4i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/p2wsvv61ea4i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1y7dses/",
+            "id": "reddit-artisanvideos-1y7dses",
+            "kind": "community",
+            "publisher": {
+              "name": "r/artisanvideos",
+              "url": "https://www.reddit.com/r/artisanvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
+            "upstreamItemId": "1y7dses",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T05:10:24Z"
+            }
+          }
+        ],
+        "revision": 19,
+        "sortAt": "2026-11-28T05:10:24Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1y7dses/",
+      "date_published": "2026-11-28T05:10:24Z",
+      "external_url": "https://v.redd.it/p2wsvv61ea4i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-p2wsvv61ea4i1/",
+      "title": "How a block print is made: carving the block, then printing cotton by hand [0:55]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/reddit-p2wsvv61ea4i1/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:IDy3_rr2Nn4",
@@ -21737,47 +21777,6 @@
       "image": "https://i.ytimg.com/vi/yO08Oa9u1g8/hqdefault.jpg",
       "title": "planning ahead and great memories",
       "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/yO08Oa9u1g8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:m1ppk-fFZPA",
-        "dateBasis": "publication",
-        "itemId": "m1ppk-fFZPA",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=m1ppk-fFZPA"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/artisanvideos/comments/1fjyq62/",
-            "id": "reddit-artisanvideos-1fjyq62",
-            "kind": "community",
-            "publisher": {
-              "name": "r/artisanvideos",
-              "url": "https://www.reddit.com/r/artisanvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/artisanvideos/",
-            "upstreamItemId": "1fjyq62",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2024-09-18T17:37:48Z"
-            }
-          }
-        ],
-        "revision": 18,
-        "sortAt": "2024-09-18T17:37:48Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/artisanvideos/comments/1fjyq62/",
-      "date_published": "2024-09-18T17:37:48Z",
-      "external_url": "https://www.youtube.com/watch?v=m1ppk-fFZPA",
-      "id": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/m1ppk-fFZPA/",
-      "image": "https://i.ytimg.com/vi/m1ppk-fFZPA/hqdefault.jpg",
-      "title": "out and about exploring the Scottish countryside",
-      "url": "https://algoplay.com/retoob-feeds/reddit-artisanvideos/items/m1ppk-fFZPA/"
     }
   ],
   "title": "Craft & making",

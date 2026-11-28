@@ -1,9 +1,9 @@
 {
   "_retoob": {
-    "itemCount": 500,
+    "itemCount": 499,
     "listId": "reddit-musicvideos",
     "publicationEpoch": "reddit-public-20261106-musicvideos",
-    "revision": 41,
+    "revision": 42,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,366 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "reddit:6o7p3n0fid4i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-6o7p3n0fid4i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/6o7p3n0fid4i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7p1kg/",
+            "id": "reddit-musicvideos-1y7p1kg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7p1kg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T15:44:37Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T15:44:37Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y7p1kg/",
+      "date_published": "2026-11-28T15:44:37Z",
+      "external_url": "https://v.redd.it/6o7p3n0fid4i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-6o7p3n0fid4i1/",
+      "image": "https://external-preview.redd.it/p0OlHe0_LRLXWYXqviYuVtm6CoyX1PKSOognSU1VNKI.png?width=140&height=73&auto=webp&s=4930d16719dc9f400bb6887f9c505d2d5e993eff",
+      "title": "Rewind Therapy - Where's My Phone  [Indiepop]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-6o7p3n0fid4i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:GnRUZDe95ac",
+        "dateBasis": "publication",
+        "itemId": "GnRUZDe95ac",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=GnRUZDe95ac"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7mxio/",
+            "id": "reddit-musicvideos-1y7mxio",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7mxio",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T14:09:14Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T14:09:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y7mxio/",
+      "date_published": "2026-11-28T14:09:14Z",
+      "external_url": "https://www.youtube.com/watch?v=GnRUZDe95ac",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/GnRUZDe95ac/",
+      "image": "https://i.ytimg.com/vi/GnRUZDe95ac/hqdefault.jpg",
+      "title": "Radiohead - Motion Picture Soundtrack [exp. electronic]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/GnRUZDe95ac/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "reddit:d2ojnvt9a74i1",
+        "dateBasis": "publication",
+        "itemId": "reddit-d2ojnvt9a74i1",
+        "playback": {
+          "mimeType": "application/dash+xml",
+          "mode": "direct",
+          "startSeconds": 0,
+          "url": "https://v.redd.it/d2ojnvt9a74i1/DASHPlaylist.mpd"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7kt3b/",
+            "id": "reddit-musicvideos-1y7kt3b",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7kt3b",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T12:17:45Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T12:17:45Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y7kt3b/",
+      "date_published": "2026-11-28T12:17:45Z",
+      "external_url": "https://v.redd.it/d2ojnvt9a74i1",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-d2ojnvt9a74i1/",
+      "image": "https://external-preview.redd.it/cUI0fvB_Qcjqh8dKgV778baiRPQJf8CYNjSIvyJtv4E.png?width=140&height=73&auto=webp&s=23585ba3cc541ae533015e3cc3e0ddbbd63d0b36",
+      "title": "Cuneyt Ozturk - Ama Ara [indie]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-d2ojnvt9a74i1/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:Jne9t8sHpUc",
+        "dateBasis": "publication",
+        "itemId": "Jne9t8sHpUc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=Jne9t8sHpUc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7kr9y/",
+            "id": "reddit-musicvideos-1y7kr9y",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7kr9y",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T12:14:48Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T12:14:48Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y7kr9y/",
+      "date_published": "2026-11-28T12:14:48Z",
+      "external_url": "https://www.youtube.com/watch?v=Jne9t8sHpUc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/Jne9t8sHpUc/",
+      "image": "https://i.ytimg.com/vi/Jne9t8sHpUc/hqdefault.jpg",
+      "title": "Alanis Morissette - Ironic [alternative rock]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/Jne9t8sHpUc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:pPRmqsgsmcc",
+        "dateBasis": "publication",
+        "itemId": "pPRmqsgsmcc",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=pPRmqsgsmcc"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7k88t/",
+            "id": "reddit-musicvideos-1y7k88t",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7k88t",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T11:45:19Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T11:45:19Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y7k88t/",
+      "date_published": "2026-11-28T11:45:19Z",
+      "external_url": "https://www.youtube.com/watch?v=pPRmqsgsmcc",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/pPRmqsgsmcc/",
+      "image": "https://i.ytimg.com/vi/pPRmqsgsmcc/hqdefault.jpg",
+      "title": "Pakin and Jody Bigfoot - Kakurenbo [Grime]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/pPRmqsgsmcc/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:2IY8DGNjU-8",
+        "dateBasis": "publication",
+        "itemId": "2IY8DGNjU-8",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=2IY8DGNjU-8"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7i8uy/",
+            "id": "reddit-musicvideos-1y7i8uy",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7i8uy",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T09:39:14Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7i7xc/",
+            "id": "reddit-musicvideos-1y7i7xc",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7i7xc",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T09:37:31Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T09:39:14Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y7i8uy/\nhttps://www.reddit.com/r/musicvideos/comments/1y7i7xc/",
+      "date_published": "2026-11-28T09:39:14Z",
+      "external_url": "https://www.youtube.com/watch?v=2IY8DGNjU-8",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/2IY8DGNjU-8/",
+      "image": "https://i.ytimg.com/vi/2IY8DGNjU-8/hqdefault.jpg",
+      "title": "Jordin Sparks - No Air [R&B] [2008]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/2IY8DGNjU-8/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zNl00mOSnJI",
+        "dateBasis": "publication",
+        "itemId": "zNl00mOSnJI",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zNl00mOSnJI"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7i2b5/",
+            "id": "reddit-musicvideos-1y7i2b5",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7i2b5",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T09:27:06Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T09:27:06Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y7i2b5/",
+      "date_published": "2026-11-28T09:27:06Z",
+      "external_url": "https://www.youtube.com/watch?v=zNl00mOSnJI",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zNl00mOSnJI/",
+      "image": "https://i.ytimg.com/vi/zNl00mOSnJI/hqdefault.jpg",
+      "title": "DJ Snake - Loco Contigo [raggeton]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zNl00mOSnJI/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:zGo9MoE6ue4",
+        "dateBasis": "publication",
+        "itemId": "zGo9MoE6ue4",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=zGo9MoE6ue4"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y7i18g/",
+            "id": "reddit-musicvideos-1y7i18g",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1y7i18g",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T09:25:06Z"
+            }
+          },
+          {
+            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xs9svg/",
+            "id": "reddit-musicvideos-1xs9svg",
+            "kind": "community",
+            "publisher": {
+              "name": "r/musicvideos",
+              "url": "https://www.reddit.com/r/musicvideos/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
+            "upstreamItemId": "1xs9svg",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-10T01:18:28Z"
+            }
+          }
+        ],
+        "revision": 42,
+        "sortAt": "2026-11-28T09:25:06Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y7i18g/\nhttps://www.reddit.com/r/musicvideos/comments/1xs9svg/",
+      "date_published": "2026-11-28T09:25:06Z",
+      "external_url": "https://www.youtube.com/watch?v=zGo9MoE6ue4",
+      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zGo9MoE6ue4/",
+      "image": "https://i.ytimg.com/vi/zGo9MoE6ue4/hqdefault.jpg",
+      "title": "SMASH Nasty – Acid Disco Plastic & Techno[ Techno]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zGo9MoE6ue4/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:Ag3aKYTsZmA",
@@ -2010,47 +2370,6 @@
       "image": "https://external-preview.redd.it/OXU0c2Fta2ticDNpMTTwrA7gHrKJv-0yS2s4SImCoev866Cq-Qe7HAF6tDZp.png?width=140&height=93&format=jpg&auto=webp&s=a66fa3312409b7467837d713aab95bb54c788968",
       "title": "Erick Rodriguez - Dark [hard techno]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/reddit-b45agijkbp3i1/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:f1f51PGPrag",
-        "dateBasis": "publication",
-        "itemId": "f1f51PGPrag",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=f1f51PGPrag"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1y4w2yg/",
-            "id": "reddit-musicvideos-1y4w2yg",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1y4w2yg",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-25T02:37:09Z"
-            }
-          }
-        ],
-        "revision": 34,
-        "sortAt": "2026-11-25T02:37:09Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1y4w2yg/",
-      "date_published": "2026-11-25T02:37:09Z",
-      "external_url": "https://www.youtube.com/watch?v=f1f51PGPrag",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/f1f51PGPrag/",
-      "image": "https://i.ytimg.com/vi/f1f51PGPrag/hqdefault.jpg",
-      "title": "Vasel Karnel - do honour the love [Psychedelic pop]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/f1f51PGPrag/"
     },
     {
       "_retoob": {
@@ -10716,47 +11035,6 @@
       "image": "https://i.ytimg.com/vi/WTuvm8vHmEs/hqdefault.jpg",
       "title": "Lee Kyujin - aspire [Alternative R&B / 2000s R&B]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/WTuvm8vHmEs/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:zGo9MoE6ue4",
-        "dateBasis": "publication",
-        "itemId": "zGo9MoE6ue4",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=zGo9MoE6ue4"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xs9svg/",
-            "id": "reddit-musicvideos-1xs9svg",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xs9svg",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-11-10T01:18:28Z"
-            }
-          }
-        ],
-        "revision": 10,
-        "sortAt": "2026-11-10T01:18:28Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xs9svg/",
-      "date_published": "2026-11-10T01:18:28Z",
-      "external_url": "https://www.youtube.com/watch?v=zGo9MoE6ue4",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zGo9MoE6ue4/",
-      "image": "https://i.ytimg.com/vi/zGo9MoE6ue4/hqdefault.jpg",
-      "title": "SMASH Nasty - Acid Disco Plastic and Techno [Techno]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/zGo9MoE6ue4/"
     },
     {
       "_retoob": {
@@ -20611,293 +20889,6 @@
       "image": "https://i.ytimg.com/vi/Gx8Ed_VTMMk/hqdefault.jpg",
       "title": "CULT(URE) - $leepwalk [Alt rock / Shoegaze] [2026]",
       "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/Gx8Ed_VTMMk/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:0KE8KaK5eEo",
-        "dateBasis": "publication",
-        "itemId": "0KE8KaK5eEo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=0KE8KaK5eEo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xdo3sx/",
-            "id": "reddit-musicvideos-1xdo3sx",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xdo3sx",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-23T19:48:11Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-23T19:48:11Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xdo3sx/",
-      "date_published": "2026-10-23T19:48:11Z",
-      "external_url": "https://www.youtube.com/watch?v=0KE8KaK5eEo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/0KE8KaK5eEo/",
-      "image": "https://i.ytimg.com/vi/0KE8KaK5eEo/hqdefault.jpg",
-      "title": "Daphy Brown - Philosophy [RnB/Reggae] [2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/0KE8KaK5eEo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:wjUsnlYe6I8",
-        "dateBasis": "publication",
-        "itemId": "wjUsnlYe6I8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=wjUsnlYe6I8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xdmup2/",
-            "id": "reddit-musicvideos-1xdmup2",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xdmup2",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-23T19:00:39Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-23T19:00:39Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xdmup2/",
-      "date_published": "2026-10-23T19:00:39Z",
-      "external_url": "https://www.youtube.com/watch?v=wjUsnlYe6I8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/wjUsnlYe6I8/",
-      "image": "https://i.ytimg.com/vi/wjUsnlYe6I8/hqdefault.jpg",
-      "title": "i give my friends flowers - FEEL LIKE [indie soul/hyperpop]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/wjUsnlYe6I8/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:p5BpeGJE3Cc",
-        "dateBasis": "publication",
-        "itemId": "p5BpeGJE3Cc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=p5BpeGJE3Cc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xdl5yx/",
-            "id": "reddit-musicvideos-1xdl5yx",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xdl5yx",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-23T17:57:25Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-23T17:57:25Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xdl5yx/",
-      "date_published": "2026-10-23T17:57:25Z",
-      "external_url": "https://www.youtube.com/watch?v=p5BpeGJE3Cc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/p5BpeGJE3Cc/",
-      "image": "https://i.ytimg.com/vi/p5BpeGJE3Cc/hqdefault.jpg",
-      "title": "The Deadbeats - Tell Your Momma [Halloween Rock]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/p5BpeGJE3Cc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:SK7f_Nq4sxc",
-        "dateBasis": "publication",
-        "itemId": "SK7f_Nq4sxc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=SK7f_Nq4sxc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xdjuj9/",
-            "id": "reddit-musicvideos-1xdjuj9",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xdjuj9",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-23T17:07:17Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-23T17:07:17Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xdjuj9/",
-      "date_published": "2026-10-23T17:07:17Z",
-      "external_url": "https://www.youtube.com/watch?v=SK7f_Nq4sxc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/SK7f_Nq4sxc/",
-      "image": "https://i.ytimg.com/vi/SK7f_Nq4sxc/hqdefault.jpg",
-      "title": "Moonlight Desires - Take On Me (Aha Cover) [Rock] [2026]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/SK7f_Nq4sxc/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:RjD5P7LN7EI",
-        "dateBasis": "publication",
-        "itemId": "RjD5P7LN7EI",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=RjD5P7LN7EI"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xdg2gw/",
-            "id": "reddit-musicvideos-1xdg2gw",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xdg2gw",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-23T14:46:15Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-23T14:46:15Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xdg2gw/",
-      "date_published": "2026-10-23T14:46:15Z",
-      "external_url": "https://www.youtube.com/watch?v=RjD5P7LN7EI",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/RjD5P7LN7EI/",
-      "image": "https://i.ytimg.com/vi/RjD5P7LN7EI/hqdefault.jpg",
-      "title": "Love Ghost - Turpentine this house [indie pop]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/RjD5P7LN7EI/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:OqJXbM939wg",
-        "dateBasis": "publication",
-        "itemId": "OqJXbM939wg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=OqJXbM939wg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xdbl3p/",
-            "id": "reddit-musicvideos-1xdbl3p",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xdbl3p",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-23T11:36:35Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-23T11:36:35Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xdbl3p/",
-      "date_published": "2026-10-23T11:36:35Z",
-      "external_url": "https://www.youtube.com/watch?v=OqJXbM939wg",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/OqJXbM939wg/",
-      "image": "https://i.ytimg.com/vi/OqJXbM939wg/hqdefault.jpg",
-      "title": "Tobacco - The Black Album [Experimental Electronic] [2022]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/OqJXbM939wg/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:dVToFaLwBSc",
-        "dateBasis": "publication",
-        "itemId": "dVToFaLwBSc",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=dVToFaLwBSc"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/musicvideos/comments/1xd87rk/",
-            "id": "reddit-musicvideos-1xd87rk",
-            "kind": "community",
-            "publisher": {
-              "name": "r/musicvideos",
-              "url": "https://www.reddit.com/r/musicvideos/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/musicvideos/",
-            "upstreamItemId": "1xd87rk",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-23T08:18:29Z"
-            }
-          }
-        ],
-        "revision": 1,
-        "sortAt": "2026-10-23T08:18:29Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/musicvideos/comments/1xd87rk/",
-      "date_published": "2026-10-23T08:18:29Z",
-      "external_url": "https://www.youtube.com/watch?v=dVToFaLwBSc",
-      "id": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/dVToFaLwBSc/",
-      "image": "https://i.ytimg.com/vi/dVToFaLwBSc/hqdefault.jpg",
-      "title": "Heinz Kahler - I'm Here [Alternative] [2012]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-musicvideos/items/dVToFaLwBSc/"
     }
   ],
   "title": "Music videos",
