@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-documentaries",
     "publicationEpoch": "reddit-public-20261106-documentaries",
-    "revision": 42,
+    "revision": 43,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,47 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-documentaries/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:fkpGJ0yIQOs",
+        "dateBasis": "publication",
+        "itemId": "fkpGJ0yIQOs",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=fkpGJ0yIQOs"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1y7b9al/",
+            "id": "reddit-documentaries-1y7b9al",
+            "kind": "community",
+            "publisher": {
+              "name": "r/documentaries",
+              "url": "https://www.reddit.com/r/documentaries/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/documentaries/",
+            "upstreamItemId": "1y7b9al",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T02:52:53Z"
+            }
+          }
+        ],
+        "revision": 43,
+        "sortAt": "2026-11-28T02:52:53Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1y7b9al/",
+      "date_published": "2026-11-28T02:52:53Z",
+      "external_url": "https://www.youtube.com/watch?v=fkpGJ0yIQOs",
+      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/fkpGJ0yIQOs/",
+      "image": "https://i.ytimg.com/vi/fkpGJ0yIQOs/hqdefault.jpg",
+      "title": "Jensen Huang Was Forced Out. Then Trump Wanted Him Back. (2026) - The eleven days between the Nvidia CEO's resignation and his reinstatement (CC) [00:21:05]",
+      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/fkpGJ0yIQOs/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:s35o3bscyYM",
@@ -21862,47 +21903,6 @@
       "image": "https://i.ytimg.com/vi/XGyE8yNodAU/hqdefault.jpg",
       "title": "DISTURBED (2026) : The Joe Lowsac Deep Dive [0:06:45]",
       "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/XGyE8yNodAU/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:Fo12XC9xuWg",
-        "dateBasis": "publication",
-        "itemId": "Fo12XC9xuWg",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=Fo12XC9xuWg"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/documentaries/comments/1w4jaqa/",
-            "id": "reddit-documentaries-1w4jaqa",
-            "kind": "community",
-            "publisher": {
-              "name": "r/documentaries",
-              "url": "https://www.reddit.com/r/documentaries/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/documentaries/",
-            "upstreamItemId": "1w4jaqa",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-09-01T17:47:30Z"
-            }
-          }
-        ],
-        "revision": 10,
-        "sortAt": "2026-09-01T17:47:30Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/documentaries/comments/1w4jaqa/",
-      "date_published": "2026-09-01T17:47:30Z",
-      "external_url": "https://www.youtube.com/watch?v=Fo12XC9xuWg",
-      "id": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Fo12XC9xuWg/",
-      "image": "https://i.ytimg.com/vi/Fo12XC9xuWg/hqdefault.jpg",
-      "title": "Aftermath (1967) - UNRWA documentary filmed in Jordan following the Six-Day War, documenting the displacement of Palestinians and the refugee camps established after the 1967 exodus [00:28:00]",
-      "url": "https://algoplay.com/retoob-feeds/reddit-documentaries/items/Fo12XC9xuWg/"
     }
   ],
   "title": "Documentaries",

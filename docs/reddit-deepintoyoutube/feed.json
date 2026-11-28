@@ -3,7 +3,7 @@
     "itemCount": 500,
     "listId": "reddit-deepintoyoutube",
     "publicationEpoch": "reddit-public-20261106-deepintoyoutube",
-    "revision": 44,
+    "revision": 45,
     "schema": "https://algoplay.com/retoob-feeds/schemas/retoob-feed-v1.schema.json",
     "semantics": "snapshot",
     "version": 1
@@ -12,6 +12,88 @@
   "feed_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/feed.json",
   "home_page_url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/",
   "items": [
+    {
+      "_retoob": {
+        "contentKey": "youtube:LO_ijfydtH0",
+        "dateBasis": "publication",
+        "itemId": "LO_ijfydtH0",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=LO_ijfydtH0"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y7h215/",
+            "id": "reddit-deepintoyoutube-1y7h215",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y7h215",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T08:22:11Z"
+            }
+          }
+        ],
+        "revision": 45,
+        "sortAt": "2026-11-28T08:22:11Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y7h215/",
+      "date_published": "2026-11-28T08:22:11Z",
+      "external_url": "https://www.youtube.com/watch?v=LO_ijfydtH0",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/LO_ijfydtH0/",
+      "image": "https://i.ytimg.com/vi/LO_ijfydtH0/hqdefault.jpg",
+      "title": "New channel",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/LO_ijfydtH0/"
+    },
+    {
+      "_retoob": {
+        "contentKey": "youtube:X0f4v-8FV_Q",
+        "dateBasis": "publication",
+        "itemId": "X0f4v-8FV_Q",
+        "playback": {
+          "mode": "external",
+          "provider": "youtube",
+          "startSeconds": 0,
+          "url": "https://www.youtube.com/watch?v=X0f4v-8FV_Q"
+        },
+        "recommendations": [
+          {
+            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1y7dng7/",
+            "id": "reddit-deepintoyoutube-1y7dng7",
+            "kind": "community",
+            "publisher": {
+              "name": "r/deepintoyoutube",
+              "url": "https://www.reddit.com/r/deepintoyoutube/"
+            },
+            "recommendationBasis": "mention",
+            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
+            "upstreamItemId": "1y7dng7",
+            "upstreamPublishedAt": {
+              "precision": "exact",
+              "value": "2026-11-28T05:02:52Z"
+            }
+          }
+        ],
+        "revision": 45,
+        "sortAt": "2026-11-28T05:02:52Z",
+        "version": 1
+      },
+      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1y7dng7/",
+      "date_published": "2026-11-28T05:02:52Z",
+      "external_url": "https://www.youtube.com/watch?v=X0f4v-8FV_Q",
+      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/X0f4v-8FV_Q/",
+      "image": "https://i.ytimg.com/vi/X0f4v-8FV_Q/hqdefault.jpg",
+      "title": "\"wtf am I doing with my life? Living BADly\" (14 views, uploaded Mar 2023)",
+      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/X0f4v-8FV_Q/"
+    },
     {
       "_retoob": {
         "contentKey": "youtube:EyiB5CYSzAo",
@@ -20637,104 +20719,6 @@
       "image": "https://i.ytimg.com/vi/ZArTNXCS9Po/hqdefault.jpg",
       "title": "Weird channel with thousands of similar videos with apparently random shapes and numbers/letters being read out",
       "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/ZArTNXCS9Po/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:B8TBA4GvUJo",
-        "dateBasis": "publication",
-        "itemId": "B8TBA4GvUJo",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=B8TBA4GvUJo"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wxhqie/",
-            "id": "reddit-deepintoyoutube-1wxhqie",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wxhqie",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-04T14:59:44Z"
-            }
-          },
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wxhq9t/",
-            "id": "reddit-deepintoyoutube-1wxhq9t",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wxhq9t",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-04T14:59:27Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-04T14:59:44Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wxhqie/\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wxhq9t/",
-      "date_published": "2026-10-04T14:59:44Z",
-      "external_url": "https://www.youtube.com/watch?v=B8TBA4GvUJo",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/B8TBA4GvUJo/",
-      "image": "https://i.ytimg.com/vi/B8TBA4GvUJo/hqdefault.jpg",
-      "title": "Strange 13-year old channel posted the same video over and over",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/B8TBA4GvUJo/"
-    },
-    {
-      "_retoob": {
-        "contentKey": "youtube:0QLscM-G4b8",
-        "dateBasis": "publication",
-        "itemId": "0QLscM-G4b8",
-        "playback": {
-          "mode": "external",
-          "provider": "youtube",
-          "startSeconds": 0,
-          "url": "https://www.youtube.com/watch?v=0QLscM-G4b8"
-        },
-        "recommendations": [
-          {
-            "discussionUrl": "https://www.reddit.com/r/deepintoyoutube/comments/1wxfcay/",
-            "id": "reddit-deepintoyoutube-1wxfcay",
-            "kind": "community",
-            "publisher": {
-              "name": "r/deepintoyoutube",
-              "url": "https://www.reddit.com/r/deepintoyoutube/"
-            },
-            "recommendationBasis": "mention",
-            "sourceUrl": "https://www.reddit.com/r/deepintoyoutube/",
-            "upstreamItemId": "1wxfcay",
-            "upstreamPublishedAt": {
-              "precision": "exact",
-              "value": "2026-10-04T13:10:38Z"
-            }
-          }
-        ],
-        "revision": 3,
-        "sortAt": "2026-10-04T13:10:38Z",
-        "version": 1
-      },
-      "content_text": "Imported subreddit listing via Arctic Shift. Not a verified endorsement.\nhttps://www.reddit.com/r/deepintoyoutube/comments/1wxfcay/",
-      "date_published": "2026-10-04T13:10:38Z",
-      "external_url": "https://www.youtube.com/watch?v=0QLscM-G4b8",
-      "id": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/0QLscM-G4b8/",
-      "image": "https://i.ytimg.com/vi/0QLscM-G4b8/hqdefault.jpg",
-      "title": "GRANDMOTHER IS STILL KICKING!! #Shorts",
-      "url": "https://algoplay.com/retoob-feeds/reddit-deepintoyoutube/items/0QLscM-G4b8/"
     }
   ],
   "title": "Deep cuts",
